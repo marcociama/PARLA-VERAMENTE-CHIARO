@@ -1,0 +1,11 @@
+{
+  "participantId": "Identificatore del partecipante che ha effettuato la registrazione. Corrisponde al campo omonimo in participants/ e al nome della sottocartella in recordings/.",
+  "promptId": "Identificatore numerico della frase letta dal partecipante.",
+  "promptText": "Testo della frase che il partecipante ha letto.",
+  "promptCategory": "Categoria tematica della domanda.",
+  "recordingIndex": "Indice della registrazione all'interno della sessione del partecipante.",
+  "filename": "Nome del file audio corrispondente a questa registrazione.",
+  "size": "Dimensione del file audio in byte.",
+  "mimetype": "Tipo del file audio.",
+  "uploadedAt": "Timestamp di creazione della registrazione."
+}

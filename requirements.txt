@@ -1,0 +1,38 @@
+# PARLA CHIARO — dipendenze
+# Installa con: pip install -r requirements.txt
+
+# ASR
+whisperx>=3.1.1          # WhisperX con word-level confidence
+openai-whisper>=20231117  # Whisper base (dipendenza WhisperX)
+
+# LLM locale
+ollama>=0.1.8            # client Python per Ollama (llama3, mistral)
+
+# NLP / Uncertainty
+transformers>=4.40.0
+torch>=2.2.0
+datasets>=2.19.0
+huggingface_hub>=0.22.0
+
+# NLI model per clustering semantico (DeBERTa)
+# Scaricato automaticamente da HuggingFace al primo run:
+# cross-encoder/nli-deberta-v3-large
+
+# Italian NLP (OOV detection)
+# Musixmatch/umberto-commoncrawl-cased-v1  ← HuggingFace auto-download
+
+# Analisi statistica
+scipy>=1.13.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+pandas>=2.2.0
+
+# Storage
+pymongo>=4.7.0
+
+# Dashboard
+streamlit>=1.35.0
+
+# Utility
+python-dotenv>=1.0.0
+tqdm>=4.66.0

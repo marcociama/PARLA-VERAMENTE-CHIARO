@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-23_21-03-50_napoletano_M_60-69",
+  "promptId": "2240",
+  "promptText": "Oltre alla radiografia del torace, quali altri esami devo fare per la tosse?",
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "11",
+  "filename": "prompt-2240_rec-11.wav",
+  "size": 233598,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T21:15:25.306Z"
+}

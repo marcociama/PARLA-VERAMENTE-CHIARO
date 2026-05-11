@@ -1,0 +1,59 @@
+ Report non-tecnico: cosa abbiamo costruito e perché
+
+  Il problema in una riga
+
+  Quando parli in napoletano a un assistente vocale AI, lui ti "capisce" — ma sbaglia. E la
+  cosa pericolosa è che non lo sa.
+
+  Il percorso del tuo audio attraverso il sistema
+
+  Step 1 — WhisperX (il trascrittore)
+  Il tuo audio viene convertito in testo. Il problema: Whisper è addestrato sull'italiano
+  standard. Quando sente napoletano, non dice "non ho capito" — inventa qualcosa che suona
+  simile in italiano. Esempio reale dal nostro test:
+
+  - Hai detto: "ho il dolore" → Whisper scrive: "un olore"
+  - Hai detto: "improvvisamente" → Whisper scrive: "all'intrasato"
+
+  Whisper è silenziosamente sicuro di queste invenzioni. Non allerta nessuno.
+
+  Step 2 — UmBERTo/mDeBERTa (il detector dialettale)
+  Dopo la trascrizione, analizziamo parola per parola. Per ogni parola chiediamo: questa
+  parola esiste nell'italiano standard? Se una parola viene spezzettata in molti pezzi dal
+  modello italiano (es. "ttruvà" → 4 frammenti), è probabile che sia dialettale.
+
+  Il problema trovato nel test: Whisper è così bravo a "italianizzare" che le parole distorte
+   (intrasato, olore) sembrano italiane anche a mDeBERTa. Il detector da solo non basta.
+
+  Step 3 — LLM / Gemini (il modello che risponde)
+  La trascrizione sbagliata viene passata al LLM che genera una risposta. Nel nostro test,
+  Gemini ha ricevuto "battere all'intrasato a tre anni" e ha pensato che il paziente fosse un
+   bambino di 3 anni. Ha risposto con certezza assoluta su una premessa sbagliata.
+
+  Step 4 — Semantic Entropy (il misuratore di incertezza)
+  Qui sta il cuore del progetto. Invece di chiedere al LLM "sei sicuro?", gli facciamo la
+  stessa domanda 5 volte (con temperatura 0.5 per avere risposte leggermente diverse) e
+  misuriamo quanto variano le risposte.
+
+  Analogia: immagina di chiedere a 5 medici la stessa diagnosi. Se tutti e 5 dicono la stessa
+   cosa → alta confidenza. Se ognuno dice qualcosa di diverso → incertezza reale.
+
+  La Semantic Entropy è il numero che misura questa dispersione. Va da 0 (tutti dicono
+  identicamente la stessa cosa) a log(N) (ogni risposta è completamente diversa).
+
+  Step 4b — DeBERTa NLI (il giudice di equivalenza)
+  Il problema: "vai dal medico" e "è fondamentale che tu consulti un medico" sono frasi
+  diverse ma significano la stessa cosa. Se le contassimo come risposte diverse, l'entropia
+  sarebbe artificialmente alta.
+
+  DeBERTa (Natural Language Inference) legge le coppie di risposte e decide: queste due frasi
+   si implicano a vicenda? Se sì, le mette nello stesso cluster. La Semantic Entropy si
+  calcola sui cluster, non sulle singole frasi.
+
+  Step 5 — DAWS (il sistema di allerta)
+  Combina i segnali:
+  - Semantic Entropy alta → il LLM è incerto sul claim
+  - Token dialettali rilevati dall'ASR → l'input era probabilmente dialettale
+
+  Produce un semaforo per ogni affermazione della risposta: 🟢 verde, 🟡 giallo, 🔴 rosso. Se
+   rosso, genera una domanda di chiarimento in italiano standard.

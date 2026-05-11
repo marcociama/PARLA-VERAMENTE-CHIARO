@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-23_19-03-01_napoletano_M_50-59",
+  "promptId": "5724",
+  "promptText": "Mi hanno diagnosticato la tiroide che funziona poco due mesi fa e ho iniziato una medicina. Dopo quattro settimane i valori sono migliorati ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora al giorno. Quanto tempo ci vuole per adattarsi?",
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "0",
+  "filename": "prompt-5724_rec-0.wav",
+  "size": 1055038,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T19:04:24.164Z"
+}

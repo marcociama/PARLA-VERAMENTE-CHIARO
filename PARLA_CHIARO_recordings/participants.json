@@ -1,0 +1,11 @@
+{
+  "participantId": "Identificatore univoco del partecipante, nel formato {data}_{ora}_{dialetto}_{sesso}_{fascia_età}. Corrisponde al nome della sottocartella in recordings/.",
+  "gender": "Sesso del partecipante.",
+  "ageRange": "Fascia d'età dichiarata dal partecipante al momento della registrazione.",
+  "dialect": "Varietà dialettale/regionale dichiarata dal partecipante.",
+  "dialectOther": "Campo libero compilato dal partecipante quando 'dialect' è 'altro', per specificare la varietà regionale.",
+  "education": "Titolo di studio più alto conseguito dal partecipante.",
+  "livingContext": "Contesto abitativo del partecipante.",
+  "dialectFrequency": "Frequenza d'uso del dialetto nella vita quotidiana, dichiarata dal partecipante.",
+  "createdAt": "Timestamp di creazione del profilo partecipante."
+}
