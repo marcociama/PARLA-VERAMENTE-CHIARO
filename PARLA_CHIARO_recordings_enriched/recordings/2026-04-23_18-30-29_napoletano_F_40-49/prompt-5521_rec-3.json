@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_18-30-29_napoletano_F_40-49",
+  "promptId": "5521",
+  "promptText": ["Ho una ciste irregolare. Un'ecografia ha rilevato cisti multiple sulle ovaie. Sto cercando di concepire da due mesi senza successo. Cosa devo fare?",
+		 "Tengo una ciste irregolare. L'ecografia ha fatto vedere una ciste, insieme ad altre cisti nell'ovaia. Sto cercando di avere un figlio da due mesi, ma senza successo. Che posso fare?",
+		 "Ho una ciste irregolare. L'ecografia ha mostrato una ciste insieme ad altre nell'ovaia. Sto provando ad avere figli da due mesi, senza successo. Che posso fare?"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "3",
+  "filename": "prompt-5521_rec-3.wav",
+  "size": 483918,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T18:36:05.27Z"
+}

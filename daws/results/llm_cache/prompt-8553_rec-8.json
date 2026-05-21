@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sì, è così. Ha appena compiuto ottantanove anni. L'anno prossimo pensiamo di organizzare una grande festa per il suo compleanno.",
+    "Certo, ho appena fatto ottanove anni. L'anno che viene, penso che organizzo una grande festa per il compleanno.",
+    "Ovvio. Ho da poco compiuto ottantanove anni. L'anno che arriva, credo che preparerò una grande festa per il compleanno.",
+    "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+    "E' certa, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+    "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno."
+  ],
+  "responses": [
+    "Il tuo paziente ha ormai superato la soglia degli 89 anni. In questo caso, è importante mantenere un controllo attento sulla sua salute, in particolare del sistema cardiovascolare e delle funzioni cognitive.",
+    "La tua età è di 19 anni. È importante mantenere la salute durante le festività. Assicurati di mangiare correttamente, bere in moderazione e avere un buon riposo. Inoltre, non diment",
+    "Hai compiuto 89 anni? In generale, non ci sono particolari precauzioni mediche specifiche per la tua età, ma è importante mantenere un stile di vita sano e seguire le raccomandazioni del tuo med",
+    "La tua età avanzata non dovrebbe essere un impedimento a festeggiare il tuo compleanno. Tuttavia, è importante mantenere una dieta equilibrata e seguire le indicazioni del medico. Inoltre, consider",
+    "La tua età avanzata non dovrebbe essere un ostacolo per festeggiare il tuo compleanno. Tuttavia, è importante mantenere una dieta equilibrata e seguire le indicazioni del medico. Pensa anche",
+    "La tua età avanzata non dovrebbe essere un impedimento a festeggiare il tuo compleanno. Tuttavia, è importante mantenere una dieta equilibrata e seguire le indicazioni del medico. Inoltre, consider"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo entusiasmo è commovente! Tuttavia, a causa dell'età avanzata, è importante prendere precauzioni per la salute e la sicurezza durante la festa. Consiglio di organizzare un evento che sia agevole da gestire e che non richieda troppi sforzi fisici.",
+      "length_norm_logprob": -0.414092
+    },
+    "references": [
+      {
+        "text": "Assicurati di seguire le raccomandazioni sanitarie e consultare il medico prima di organizzare la grande festa, per assicurarti di essere in salute ottima.",
+        "length_norm_logprob": -0.566188
+      },
+      {
+        "text": "Sono entusiasta delle tue intenzioni! Tuttavia, è importante considerare la salute e le esigenze personali in questa occasione. Penso di consigliare un medico per una valutazione prima di organizzare la festa.",
+        "length_norm_logprob": -0.575181
+      },
+      {
+        "text": "Sono contento di sentire che tu stai bene e desidero augurarti un compleanno felice e salutare. Tuttavia, tenere in considerazione le tue condizioni di salute, è importante organizzare la festa in modo sicuro e senza rischi per la tua salute.",
+        "length_norm_logprob": -0.59691
+      },
+      {
+        "text": "Il tuo entusiasmo è commovente! Tuttavia, è importante considerare la salute e le esigenze personali prima di organizzare una grande festa. Consiglio un controllo medico preventivo prima del compleanno per assicurarti della tua salute.",
+        "length_norm_logprob": -0.523368
+      }
+    ],
+    "sd": 0.859852,
+    "u_llm": 0.140148,
+    "n_refs": 4,
+    "distances": [
+      0.031854,
+      0.006994,
+      0.033734,
+      0.469202
+    ]
+  }
+}

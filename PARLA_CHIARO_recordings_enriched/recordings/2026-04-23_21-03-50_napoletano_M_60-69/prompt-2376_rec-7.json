@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_21-03-50_napoletano_M_60-69",
+  "promptId": "2376",
+  "promptText": ["Ho l'idrocele da molti anni, ma non mi ha mai dato problemi. Adesso voglio operarmi. Esistono alternative alla chirurgia?",
+  "Tengo l'idrocele da molti anni, ma non mi ha mai dato problemi. Mo voglio operarmi. Esistono alternative alla chirurgia?",
+  "Ho l'idrocele da un sacco di anni, ma non mi ha mai dato problemi. Adesso voglio operarmi. Ci stanno alternative alla chirurgia?"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "7",
+  "filename": "prompt-2376_rec-7.wav",
+  "size": 485198,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T21:11:39.982Z"
+}

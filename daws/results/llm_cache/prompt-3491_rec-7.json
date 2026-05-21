@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho dei duri grumi nella zona pubica. Non sono irritazioni da rasoio. Non sono pieni di liquido. Non prudono, non fanno male. Come posso rimuoverli?",
+    "Ho dei grumi duri nella zona pubica. Non sono irritazioni da rasioio, non sono pieni di liquido. Non prudono e non fanno male. Come posso fare per toglierli?",
+    "Ho dei grumi duri nella zona pubica. Non sono irritazioni da rasoio. Non sono pieni di liquido. Non prudono e non fanno male. Come posso fare per toglierli?",
+    "Tengono i grumi duri in zona pubblica, non sono in ridazione di rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?",
+    "Tengono i grumi duri in zona pubblica, non sono in ridazione di un rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?",
+    "Tengono i grumi duri in zona pubblica. Non sono irritazioni di rasoio, non sono piene liquide, non prurano, non fanno male. Come faccio a togliere?"
+  ],
+  "responses": [
+    "I grumi che hai nella zona pubica possono essere peli o peli ingrown (peli che si ritornano all'interno della pelle). Puoi rimuoverli con una rasatura corretta e pulita, utilizzando una spugna",
+    "I grumi duri nella zona pubica possono essere causati da diversi fattori, tra cui la congestione linfatica o il blocco dei peli. Per rimuovere i grumi duri, puoi utilizzare un pett",
+    "I grumi duri nella zona pubica possono essere causati da diversi fattori, tra cui l'accumulo di detriti corporei o la formazione di noduli fibrosi. Non è possibile rimuovere i grumi",
+    "I grumi duri che si trovano nella zona pubblica possono essere causati da diversi fattori, tra cui l'infezione batterica o la presenza di peli non rasi. Per rimuovere i grumi duri, è consig",
+    "I grumi duri che si trovano nella zona pubblica possono essere causati da diversi fattori, tra cui l'infezione batterica o la presenza di peli ricurvi. Per rimuovere i grumi duri, è consig",
+    "I grumi duri che si presentano sulla pelle possono essere causati da diversi fattori, come l'acne o i peli terminali. Per rimuovere i grumi duri, puoi utilizzare una spugna di raso"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Tengono i grumi duri in zona pubblica, non sono in ridazione di rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?\n\nRisposta:",
+    "best": {
+      "text": "I grumi duri nella zona pubica possono essere causati da diversi fattori, tra cui l'acne o i peli ricurvi. Se non ci sono sintomi come prurito o dolore, è possibile rimuoverli con una spugna mozzatura o un pettine per la pelle. Tuttavia, è sempre meglio consultare un medico prima di provare qualunque trattamento a casa.",
+      "length_norm_logprob": -0.44974
+    },
+    "references": [
+      {
+        "text": "I grumi duri nella zona pubica possono essere causati da diversi fattori, tra cui l'accumulo di peli o una condizione chiamata folliculite. Nonostante il paziente non abbia segnalato dolore o prurito, è comunque consigliabile consultare un medico per una valutazione accurata e ottenere una prescrizione sicura per rimuovere i grumi duri in modo sicuro.",
+        "length_norm_logprob": -0.413013
+      },
+      {
+        "text": "I grumi duri nella zona pubica possono essere causati da diversi fattori, tra cui l'acne o i peli ricurvi. Se non sono pruriti e non fanno dolore, non c'è necessità di toglierli. Tuttavia, se si desidera rimuovere i grumi duri, è consigliabile usare una spugna o un panno morbido e umido per massaggiarli delicatamente. Non utilizzare strumenti tagl",
+        "length_norm_logprob": -0.500554
+      },
+      {
+        "text": "I grumi duri nella zona pubica possono essere causati da diversi motivi, tra cui il follicolo pilifero che si sta riempiendo di sostanza keratina o un ingresso di polvere o detriti. Nonostante non sembri essere una ridazione di rasoio, è comunque consigliabile evitare di toccarli o rimuoverli per evitare infezioni. Se i grumi duri persistono o causano dolori, è meglio",
+        "length_norm_logprob": -0.555611
+      },
+      {
+        "text": "I grumi duri nella zona pubica possono essere causati da diversi fattori, tra cui la crescita dell' pelo o un'infezione batterica. Nonostante non sembri che stia avendo problemi, è sempre meglio consulenziarsi con un medico prima di togliere qualunque cosa dalla pelle.",
+        "length_norm_logprob": -0.518556
+      }
+    ],
+    "sd": 0.977748,
+    "u_llm": 0.022252,
+    "n_refs": 4,
+    "distances": [
+      0.021361,
+      0.011888,
+      0.023863,
+      0.032244
+    ]
+  }
+}

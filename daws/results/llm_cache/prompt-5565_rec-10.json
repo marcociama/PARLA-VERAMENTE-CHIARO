@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Negli ultimi otto anni ho intorpidimento al dito del piede accanto all'alluce, che si è lentamente diffuso sopra il ginocchio e sopra la caviglia della gamba destra. Nessun dolore al nervo sciatico. Ho il diabete lieve da 10 anni. La risonanza magnetica di otto anni fa mostrava",
+    "Negli ultimi otto anni ho avuto intorpidimento al dito del piede vicino all'alluce, che si è lentamente diffuso sopra il ginocchio e sopra la caviglia della gamba destra. Nessun dolore al nervo sciatico. Tengo il diabete lieve da 10 anni. La risonanza magnetica di otto anni fa già lo mostrava",
+    "Negli ultimi otto anni ho avuto un intorpidimento sul dito del piede accanto all'alluce, che si è lentamente diffuso sopra il ginocchio e sopra la caviglia della gamba destra. Nessun dolore al nervo sciatico. Ho il diabete lieve da 10 anni. La risonanza magnetica di otto anni fa già lo mostrava",
+    "s'è intorpiduto un rito lupere vicino al gallo, che si è lentamente sparsa un coppo di urnucci e un coppo di caviglie della coscia destra. I suoi erano sdervisciati. Tengono il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.",
+    "Negli ultimi otto anni sono ripetuto ridere l'opera vicino a Ballos, che si è lentamente sparsa un po' per l'occhio e un po' per la caviglia della coscia destra. I suoi nervi sciagliano. Tengo il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.",
+    "Negli ultimi otto anni sono torpeduto un ritorno per vicino a Gallo, che si è lentamente spalzato, un po' per l'occhio e un po' per la via coscia destra. Mi sono riuscito a riuscire a riuscire a riuscire a riuscire a riuscire a riuscire a"
+  ],
+  "responses": [
+    "Il tuo problema sembra essere una neuropatia, probabilmente dovuta alla tua condizione di diabete. È importante che fai un controllo medico per verificare la gravità della patologia e valutare eventuali interventi",
+    "Il tuo problema sembra essere una neuropatia, probabilmente dovuta al diabete. È importante che fai un controllo medico per verificare la gravità della patologia e valutare se è necessario modificare il trattamento",
+    "Il tuo problema sembra essere un neuropatia, probabilmente dovuta alla tua condizione di diabete. È importante che fai seguire la tua malattia da un medico specializzato in diabetologia per valutare se è necess",
+    "Il sintomo che hai descritto potrebbe essere dovuto ad una artrite reumatoide o una forma di artrite infiammatoria cronica. A causa della tua storia personale (diabete e risonanza magnet",
+    "Il tuo problema sembra essere una neuropatia, probabilmente causata dal diabete di cui sei affetto da decenni. La neuropatia può colpire sia gli arti superiori che inferiori e può provocare dolori, sensazione di",
+    "Il tuo problema sembra essere una deformità del collo, che si è sviluppata negli ultimi otto anni e ha causato un lieve spostamento dell'occhio e della coscia destra. È importante consultare un medico per una val"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: s'è intorpiduto un rito lupere vicino al gallo, che si è lentamente sparsa un coppo di urnucci e un coppo di caviglie della coscia destra. I suoi erano sdervisciati. Tengono il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente ha segnalato un intorpidimento del ramo lupare vicino al femore destro, associato a una sensazione di urnucci e caviglie che si sono sparsi. È necessario eseguire un esame medico per valutare la gravità della condizione, tenendo conto della sua storia personale di diabete da dieci anni e della risonanza magnetica effettuata otto anni fa.",
+      "length_norm_logprob": -0.360942
+    },
+    "references": [
+      {
+        "text": "Il paziente ha segnalato un intorpidimento del ramo luparo vicino al bacino destro, associato a una sensazione di urnucchi e caviglie che si sono sparsi. L'esame di risonanza magnetica mostrava anomalie otto anni fa. Il paziente ha una storia di diabete da dieci anni. È consigliabile consultare un medico per valutare la necessità di un esame neurologico e possibili interventi terapeutici.",
+        "length_norm_logprob": -0.492397
+      },
+      {
+        "text": "Il paziente ha segnalato un intorpidimento del ramo lupare vicino al ginocchio destro, associato a una sensazione di urnucci e caviglie che si è diffusa gradualmente. È necessario eseguire un esame medico per valutare la gravità della condizione e potenzialmente organizzare un intervento chirurgico. Essendo il paziente diabetico da dieci anni, è importante tenere conto di questa patologia durante l'esame e il",
+        "length_norm_logprob": -0.493678
+      },
+      {
+        "text": "Il paziente ha segnalato un intorpidimento del retto vicino al ginocchio destro, accompagnato da una sensazione di urnucci e caviglie. È consigliabile consultare il medico per eseguire un esame fisico e determinare la causa e la possibile terapia. Inoltre, l'anamnesi mostra che il paziente ha un diabete da dieci anni ed è stato sottoposto a una Risonanza Magnetica otto anni fa.",
+        "length_norm_logprob": -0.469587
+      },
+      {
+        "text": "Il paziente ha avuto un ictus ischemico probabilmente nel territorio del tronco cerebrale sinistro, dato il quadro di paralisi del lato destro e la perdita di sensibilità. È necessaria una valutazione urgente con esami neurologici e eventualmente una risonanza magnetica per confermare il diagnoso e stabilire un trattamento adeguato. Il paziente ha una storia pregressa di diabete mellito da dieci anni e una risonanza magnet",
+        "length_norm_logprob": -0.532517
+      }
+    ],
+    "sd": 0.990145,
+    "u_llm": 0.009855,
+    "n_refs": 4,
+    "distances": [
+      0.009855,
+      0.009855,
+      0.009855,
+      0.009855
+    ]
+  }
+}

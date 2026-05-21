@@ -1,0 +1,103 @@
+{
+  "transcription": "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+  "words": [
+    {
+      "word": "Sto",
+      "start": 1.373,
+      "end": 1.553,
+      "confidence": 0.354
+    },
+    {
+      "word": "a",
+      "start": 1.593,
+      "end": 1.634,
+      "confidence": 0.451
+    },
+    {
+      "word": "dieta,",
+      "start": 1.714,
+      "end": 2.015,
+      "confidence": 0.607
+    },
+    {
+      "word": "mangio",
+      "start": 2.075,
+      "end": 2.376,
+      "confidence": 0.568
+    },
+    {
+      "word": "poco,",
+      "start": 2.457,
+      "end": 2.838,
+      "confidence": 0.864
+    },
+    {
+      "word": "ma",
+      "start": 3.159,
+      "end": 3.541,
+      "confidence": 0.953
+    },
+    {
+      "word": "sono",
+      "start": 3.661,
+      "end": 3.762,
+      "confidence": 0.494
+    },
+    {
+      "word": "stanca",
+      "start": 3.782,
+      "end": 4.123,
+      "confidence": 0.74
+    },
+    {
+      "word": "di",
+      "start": 4.143,
+      "end": 4.183,
+      "confidence": 0.117
+    },
+    {
+      "word": "tutta",
+      "start": 4.224,
+      "end": 4.404,
+      "confidence": 0.757
+    },
+    {
+      "word": "questa",
+      "start": 4.424,
+      "end": 4.705,
+      "confidence": 0.55
+    },
+    {
+      "word": "roba.",
+      "start": 4.806,
+      "end": 5.147,
+      "confidence": 0.763
+    },
+    {
+      "word": "Che",
+      "start": 6.031,
+      "end": 6.312,
+      "confidence": 0.781
+    },
+    {
+      "word": "posso",
+      "start": 6.392,
+      "end": 6.673,
+      "confidence": 0.732
+    },
+    {
+      "word": "provare?",
+      "start": 6.733,
+      "end": 6.974,
+      "confidence": 0.339
+    }
+  ],
+  "top3": [
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6046666666666666,
+  "u_asr": 0.3953333333333334
+}

@@ -1,0 +1,187 @@
+{
+  "transcription": "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.",
+  "words": [
+    {
+      "word": "Giuberto",
+      "start": 2.107,
+      "end": 2.708,
+      "confidence": 0.344
+    },
+    {
+      "word": "Sang,",
+      "start": 2.888,
+      "end": 3.448,
+      "confidence": 0.477
+    },
+    {
+      "word": "quando",
+      "start": 3.468,
+      "end": 3.769,
+      "confidence": 0.514
+    },
+    {
+      "word": "sono",
+      "start": 3.829,
+      "end": 4.089,
+      "confidence": 0.524
+    },
+    {
+      "word": "andato",
+      "start": 4.149,
+      "end": 4.309,
+      "confidence": 0.213
+    },
+    {
+      "word": "in",
+      "start": 4.349,
+      "end": 4.51,
+      "confidence": 0.695
+    },
+    {
+      "word": "bagno",
+      "start": 4.55,
+      "end": 5.05,
+      "confidence": 0.586
+    },
+    {
+      "word": "e",
+      "start": 5.831,
+      "end": 5.891,
+      "confidence": 0.787
+    },
+    {
+      "word": "aereo,",
+      "start": 5.991,
+      "end": 6.632,
+      "confidence": 0.634
+    },
+    {
+      "word": "c'eravamo",
+      "start": 8.374,
+      "end": 8.714,
+      "confidence": 0.367
+    },
+    {
+      "word": "ogni",
+      "start": 8.834,
+      "end": 9.055,
+      "confidence": 0.738
+    },
+    {
+      "word": "10",
+      "start": 9.155,
+      "end": 9.475,
+      "confidence": 0.778
+    },
+    {
+      "word": "minuti.",
+      "start": 9.555,
+      "end": 11.437,
+      "confidence": 0.74
+    },
+    {
+      "word": "Sono",
+      "start": 11.497,
+      "end": 11.697,
+      "confidence": 0.772
+    },
+    {
+      "word": "a",
+      "start": 11.798,
+      "end": 11.838,
+      "confidence": 0.753
+    },
+    {
+      "word": "Femme",
+      "start": 11.918,
+      "end": 12.238,
+      "confidence": 0.741
+    },
+    {
+      "word": "nei",
+      "start": 12.298,
+      "end": 12.418,
+      "confidence": 0.634
+    },
+    {
+      "word": "25",
+      "start": 12.478,
+      "end": 12.538,
+      "confidence": 0.553
+    },
+    {
+      "word": "anni,",
+      "start": 12.578,
+      "end": 13.219,
+      "confidence": 0.726
+    },
+    {
+      "word": "ho",
+      "start": 13.239,
+      "end": 13.279,
+      "confidence": 0.004
+    },
+    {
+      "word": "preso",
+      "start": 13.7,
+      "end": 13.94,
+      "confidence": 0.423
+    },
+    {
+      "word": "50",
+      "start": 14.02,
+      "end": 14.26,
+      "confidence": 0.785
+    },
+    {
+      "word": "cilindri",
+      "start": 14.4,
+      "end": 15.401,
+      "confidence": 0.664
+    },
+    {
+      "word": "e",
+      "start": 16.403,
+      "end": 16.463,
+      "confidence": 0.677
+    },
+    {
+      "word": "sono",
+      "start": 16.583,
+      "end": 16.823,
+      "confidence": 0.643
+    },
+    {
+      "word": "arrivato",
+      "start": 16.843,
+      "end": 17.304,
+      "confidence": 0.559
+    },
+    {
+      "word": "a",
+      "start": 17.624,
+      "end": 17.664,
+      "confidence": 0.434
+    },
+    {
+      "word": "1,57",
+      "start": 17.704,
+      "end": 17.864,
+      "confidence": 0.794
+    },
+    {
+      "word": "m.",
+      "start": 17.884,
+      "end": 17.964,
+      "confidence": 0.694
+    }
+  ],
+  "top3": [
+    "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.",
+    "Giuberto Sang, quando sono giù in bagna e aereo, ci vado ogni 10 minuti. Sono a Femme nei 25 anni, penso 55 giri e sono rapido, 1,57 m.",
+    "Giuberto Sang, quando sono giù in campagna e aereo, ci vado ogni 10 minuti. Sono a Femme nei 25 anni, penso 55 giri e sono rapido, 1,57 m."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5949310344827586,
+  "u_asr": 0.40506896551724136
+}

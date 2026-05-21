@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "C'è un modo per avere le palpebre a piega singola in modo naturale?",
+    "Esiste un modo per avere le palpebre a piega singola in maniera naturale?",
+    "C'è una maniera per avere delle palpebre a piega singola in modo naturale?",
+    "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+    "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+    "C'è un modo per avere i papi a chiacchiera singola, in modo naturale."
+  ],
+  "responses": [
+    "Le palpebre a piega singola sono una caratteristica genetica e non è possibile modificarle in modo naturale. Tuttavia, esistono interventi chirurgici cosmetici che possono cambiarne l'aspet",
+    "Sì, esiste un modo per ottenere una piega singola delle palpebre in modo naturale. Questo può essere dovuto a vari fattori genetici o causati da alterazioni della muscolatura olettaria che controlla il movimento",
+    "Le palpebre a piega singola sono un tratto genetico e non è possibile modificarle in modo naturale. Tuttavia, esistono interventi chirurgici cosmetici che possono cambiarne l'aspetto.",
+    "Non esiste un modo sicuro e consigliato per ottenere papille dorsali singole in modo naturale. Tuttavia, se si desidera modificare l'aspetto delle proprie papille dorsali, è possibile ricorr",
+    "Non esiste un modo sicuro e consigliato per ottenere papille dorsali singole in modo naturale. Tuttavia, se si desidera modificare l'aspetto delle proprie papille dorsali, è possibile ricorr",
+    "Non esiste un modo sicuro e consigliato per ottenere papille dorsali singole in modo naturale. Tuttavia, se si desidera modificare l'aspetto delle proprie papille dorsali, è possibile ricorr"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: C'è un modo per avere i papi a chiacchiera singola, in modo naturale.\n\nRisposta:",
+    "best": {
+      "text": "Sì, è possibile ottenere papille gengivali singole attraverso una procedura chirurgica nota come frettage o fissaggio di papille. Tuttavia, il risultato non è sempre naturale e può richiedere un tempo per adattarsi al tessuto orale.",
+      "length_norm_logprob": -0.496931
+    },
+    "references": [
+      {
+        "text": "Sì, è possibile avere i papassini a chiacchierare singolarmente; si può utilizzare una tecnica di allenamento nota come \"singling\", che consiste nel separare i papassini e farli suonare uno per volta. Tuttavia, ciò richiede pratica e pazienza.",
+        "length_norm_logprob": -0.545292
+      },
+      {
+        "text": "Sì, è possibile ottenere i papassi a chiacchiera singola con una terapia chirurgica nota come \"split-tooth\" o \"fissura linguale\". Tuttavia, prima di procedere, è necessario consultare un medico dentista per valutare se il trattamento sia adatto al vostro caso.",
+        "length_norm_logprob": -0.55031
+      },
+      {
+        "text": "Sì, è possibile ottenere papille gengivali che si muovono indipendentemente grazie ad una procedura chirurgica nota come frettage o strombolizzazione. Tuttavia, queste procedure richiedono un approccio personale e devono essere eseguite da un professionista del settore dentario.",
+        "length_norm_logprob": -0.550307
+      },
+      {
+        "text": "Sì, è possibile utilizzare protesi dentarie individuali, dette anche impianti di sostituzione singola, che sono progettate per somigliare e funzionare come i denti naturali. Tuttavia, il processo può essere costoso e richiede un buon stato di salute orale.",
+        "length_norm_logprob": -0.488703
+      }
+    ],
+    "sd": 0.968255,
+    "u_llm": 0.031745,
+    "n_refs": 4,
+    "distances": [
+      0.023256,
+      0.035866,
+      0.044897,
+      0.023526
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "transcription": "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+  "words": [
+    {
+      "word": "Io",
+      "start": 1.248,
+      "end": 1.288,
+      "confidence": 0.02
+    },
+    {
+      "word": "ho",
+      "start": 1.308,
+      "end": 1.369,
+      "confidence": 0.417
+    },
+    {
+      "word": "fatto",
+      "start": 1.409,
+      "end": 1.569,
+      "confidence": 0.739
+    },
+    {
+      "word": "la",
+      "start": 1.669,
+      "end": 1.709,
+      "confidence": 0.358
+    },
+    {
+      "word": "biopsia",
+      "start": 1.729,
+      "end": 3.313,
+      "confidence": 0.703
+    },
+    {
+      "word": "nel",
+      "start": 3.894,
+      "end": 4.436,
+      "confidence": 0.637
+    },
+    {
+      "word": "1989",
+      "start": 4.496,
+      "end": 5.218,
+      "confidence": 0.805
+    },
+    {
+      "word": "e",
+      "start": 5.699,
+      "end": 5.759,
+      "confidence": 0.301
+    },
+    {
+      "word": "ne",
+      "start": 5.779,
+      "end": 5.839,
+      "confidence": 0.403
+    },
+    {
+      "word": "conosco",
+      "start": 5.899,
+      "end": 6.26,
+      "confidence": 0.941
+    },
+    {
+      "word": "più",
+      "start": 6.34,
+      "end": 6.581,
+      "confidence": 0.511
+    },
+    {
+      "word": "dal",
+      "start": 6.601,
+      "end": 6.681,
+      "confidence": 0.632
+    },
+    {
+      "word": "2007.",
+      "start": 6.701,
+      "end": 6.801,
+      "confidence": 0.685
+    }
+  ],
+  "top3": [
+    "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+    "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+    "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5501538461538461,
+  "u_asr": 0.4498461538461539
+}

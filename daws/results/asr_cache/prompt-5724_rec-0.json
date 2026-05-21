@@ -1,0 +1,325 @@
+{
+  "transcription": "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?",
+  "words": [
+    {
+      "word": "Mi",
+      "start": 3.254,
+      "end": 3.394,
+      "confidence": 0.086
+    },
+    {
+      "word": "hanno",
+      "start": 3.534,
+      "end": 3.634,
+      "confidence": 0.217
+    },
+    {
+      "word": "diagnosticato",
+      "start": 3.654,
+      "end": 4.514,
+      "confidence": 0.153
+    },
+    {
+      "word": "la",
+      "start": 4.534,
+      "end": 5.075,
+      "confidence": 0.444
+    },
+    {
+      "word": "tiroide",
+      "start": 5.135,
+      "end": 5.675,
+      "confidence": 0.691
+    },
+    {
+      "word": "che",
+      "start": 5.715,
+      "end": 5.855,
+      "confidence": 0.114
+    },
+    {
+      "word": "funziona",
+      "start": 5.935,
+      "end": 6.395,
+      "confidence": 0.843
+    },
+    {
+      "word": "poco.",
+      "start": 6.455,
+      "end": 6.935,
+      "confidence": 0.968
+    },
+    {
+      "word": "Due",
+      "start": 7.595,
+      "end": 7.735,
+      "confidence": 0.911
+    },
+    {
+      "word": "mesi",
+      "start": 7.795,
+      "end": 8.036,
+      "confidence": 0.766
+    },
+    {
+      "word": "fa.",
+      "start": 8.136,
+      "end": 8.296,
+      "confidence": 0.914
+    },
+    {
+      "word": "E",
+      "start": 9.036,
+      "end": 9.196,
+      "confidence": 0.783
+    },
+    {
+      "word": "ho",
+      "start": 9.236,
+      "end": 9.316,
+      "confidence": 0.382
+    },
+    {
+      "word": "iniziato",
+      "start": 9.476,
+      "end": 10.056,
+      "confidence": 0.769
+    },
+    {
+      "word": "la",
+      "start": 10.096,
+      "end": 10.236,
+      "confidence": 0.492
+    },
+    {
+      "word": "medicina,",
+      "start": 10.296,
+      "end": 10.977,
+      "confidence": 0.866
+    },
+    {
+      "word": "la",
+      "start": 11.057,
+      "end": 11.157,
+      "confidence": 0.789
+    },
+    {
+      "word": "cura.",
+      "start": 11.217,
+      "end": 11.637,
+      "confidence": 0.961
+    },
+    {
+      "word": "Dopo",
+      "start": 12.397,
+      "end": 12.737,
+      "confidence": 0.883
+    },
+    {
+      "word": "quattro",
+      "start": 12.817,
+      "end": 13.177,
+      "confidence": 0.718
+    },
+    {
+      "word": "settimane",
+      "start": 13.257,
+      "end": 14.098,
+      "confidence": 0.963
+    },
+    {
+      "word": "i",
+      "start": 14.338,
+      "end": 14.378,
+      "confidence": 0.682
+    },
+    {
+      "word": "valori",
+      "start": 14.418,
+      "end": 14.818,
+      "confidence": 0.813
+    },
+    {
+      "word": "sono",
+      "start": 14.898,
+      "end": 15.058,
+      "confidence": 0.5
+    },
+    {
+      "word": "migliorati,",
+      "start": 15.118,
+      "end": 15.858,
+      "confidence": 0.827
+    },
+    {
+      "word": "ma",
+      "start": 15.938,
+      "end": 16.218,
+      "confidence": 0.982
+    },
+    {
+      "word": "ho",
+      "start": 16.238,
+      "end": 16.278,
+      "confidence": 0.004
+    },
+    {
+      "word": "avuto",
+      "start": 16.758,
+      "end": 17.339,
+      "confidence": 0.77
+    },
+    {
+      "word": "palpitazioni",
+      "start": 17.519,
+      "end": 18.519,
+      "confidence": 0.893
+    },
+    {
+      "word": "brevi",
+      "start": 18.679,
+      "end": 19.239,
+      "confidence": 0.647
+    },
+    {
+      "word": "ogni",
+      "start": 19.359,
+      "end": 19.599,
+      "confidence": 0.841
+    },
+    {
+      "word": "giorno.",
+      "start": 19.699,
+      "end": 20.26,
+      "confidence": 0.755
+    },
+    {
+      "word": "Ho",
+      "start": 20.98,
+      "end": 21.06,
+      "confidence": 0.762
+    },
+    {
+      "word": "cambiato",
+      "start": 21.18,
+      "end": 21.88,
+      "confidence": 0.879
+    },
+    {
+      "word": "con",
+      "start": 21.96,
+      "end": 22.1,
+      "confidence": 0.767
+    },
+    {
+      "word": "un'altra",
+      "start": 22.14,
+      "end": 22.6,
+      "confidence": 0.83
+    },
+    {
+      "word": "medicina",
+      "start": 22.68,
+      "end": 23.301,
+      "confidence": 0.922
+    },
+    {
+      "word": "per",
+      "start": 23.321,
+      "end": 23.381,
+      "confidence": 0.002
+    },
+    {
+      "word": "la",
+      "start": 23.421,
+      "end": 23.481,
+      "confidence": 0.735
+    },
+    {
+      "word": "tiroide",
+      "start": 23.601,
+      "end": 24.281,
+      "confidence": 0.834
+    },
+    {
+      "word": "e",
+      "start": 24.381,
+      "end": 24.421,
+      "confidence": 0.784
+    },
+    {
+      "word": "le",
+      "start": 24.441,
+      "end": 24.541,
+      "confidence": 0.426
+    },
+    {
+      "word": "palpitazioni",
+      "start": 24.621,
+      "end": 25.461,
+      "confidence": 0.907
+    },
+    {
+      "word": "durano",
+      "start": 25.561,
+      "end": 26.181,
+      "confidence": 0.737
+    },
+    {
+      "word": "circa",
+      "start": 26.321,
+      "end": 26.682,
+      "confidence": 0.855
+    },
+    {
+      "word": "un'ora.",
+      "start": 26.702,
+      "end": 27.742,
+      "confidence": 0.786
+    },
+    {
+      "word": "Quanto",
+      "start": 28.342,
+      "end": 28.662,
+      "confidence": 0.796
+    },
+    {
+      "word": "tempo",
+      "start": 28.722,
+      "end": 29.062,
+      "confidence": 0.944
+    },
+    {
+      "word": "ci",
+      "start": 29.162,
+      "end": 29.262,
+      "confidence": 0.804
+    },
+    {
+      "word": "vuole",
+      "start": 29.362,
+      "end": 29.663,
+      "confidence": 0.764
+    },
+    {
+      "word": "per",
+      "start": 29.703,
+      "end": 29.943,
+      "confidence": 0.688
+    },
+    {
+      "word": "adattarsi?",
+      "start": 30.103,
+      "end": 30.963,
+      "confidence": 0.611
+    }
+  ],
+  "top3": [
+    "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?",
+    "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?",
+    "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6973076923076924,
+  "u_asr": 0.3026923076923076
+}

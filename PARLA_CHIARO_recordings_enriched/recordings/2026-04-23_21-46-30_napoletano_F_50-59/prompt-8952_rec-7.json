@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_21-46-30_napoletano_F_50-59",
+  "promptId": "8952",
+  "promptText": ["È dieci su dieci.",
+  "È 10 su 10.",
+  "È perfetto."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "7",
+  "filename": "prompt-8952_rec-7.wav",
+  "size": 108798,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T21:50:28.738Z"
+}

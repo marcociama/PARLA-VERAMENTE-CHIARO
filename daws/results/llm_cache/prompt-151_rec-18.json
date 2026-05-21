@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Quali sono i momenti migliori del ciclo per cercare di rimanere incinta?",
+    "Quali sono i momenti meglio del ciclo per cercare di rimanere incinta?",
+    "Quali sono i momenti giusti del ciclo per cercare di rimanere incinta?",
+    "Quali sono i momenti migliori per cercare di rimanere incinta?",
+    "Quali sono i momenti migliori per cercare di rimanere incinta?",
+    "Quali sono i momenti migliori per cercare di rimanere incinta?"
+  ],
+  "responses": [
+    "Il momento migliore per tentare di rimanere incinta è durante la fase fertile, che si verifica intorno al mezzo ciclo. La fase fertile può essere determinata misurando il livello di ormoni nel corpo o con",
+    "Per aumentare le probabilità di rimanere incinta, è consigliabile avere rapporti sessuali durante il periodo fertile, che va dalla metà della prima fase (ovulazione) fino alla fine della seconda fase (mestruazione",
+    "Per aumentare le probabilità di rimanere incinta, è consigliabile avere rapporti sessuali durante il periodo fertile, che va dalla metà della mestruazione fino al primo giorno dopo l'ovulazione. Tuttavia, la",
+    "Per aumentare le probabilità di concepire, è consigliabile avere rapporti sessuali regolari durante il periodo fertile, che va dalla metà della menstruazione fino al giorno prima dell'inizio del successivo ciclo. T",
+    "Per aumentare le probabilità di concepire, è consigliabile avere rapporti sessuali regolari durante il periodo fertile, che va dalla metà della menstruazione fino al giorno prima dell'inizio del successivo ciclo. T",
+    "Per aumentare le probabilità di concepire, è consigliabile avere rapporti sessuali regolari durante il periodo fertile, che va dalla metà della menstruazione fino al giorno prima dell'inizio del successivo ciclo. T"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Quali sono i momenti migliori per cercare di rimanere incinta?\n\nRisposta:",
+    "best": {
+      "text": "I momenti migliori per tentare di rimanere incinta sono durante la fase fertile, che varia da una donna all'altra ma solitamente coincide con il periodo tra il 12 e il 16 del ciclo menstruale. Tuttavia, è importante consultare un medico per ottenere consigli personalizzati.",
+      "length_norm_logprob": -0.341434
+    },
+    "references": [
+      {
+        "text": "I momenti ideali per tentare di rimanere incinta sono quelli che seguono il periodo della fertilità del ciclo mestruale, ovvero intorno alle 14 giornate dal principio del ciclo. Tuttavia, è importante ricordarsi che ogni donna ha un ciclo mestruale diverso e quindi consigliare di consultare un medico per ottenere informazioni personalizzate.",
+        "length_norm_logprob": -0.463862
+      },
+      {
+        "text": "I momenti migliori per tentare di rimanere incinta sono quelli tra il tardo autunno e l'inizio dell'estate, ovvero dal mese di settembre al giugno successivo. Tuttavia, è importante ricordare che la fertilità può variare da donna a donna.",
+        "length_norm_logprob": -0.333447
+      },
+      {
+        "text": "I momenti ideali per tentare di rimanere incinta sono quelli con un ciclo mestruale regolare, ovvero tra la fine della menstruazione e l'inizio della nuova. Tuttavia, il momento esatto può variare a seconda delle condizioni personali del singolo paziente.",
+        "length_norm_logprob": -0.471425
+      },
+      {
+        "text": "I momenti migliori per cercare di rimanere incinta sono quelli tra il tardo autunno e l'inizio dell'estate, ovvero da novembre a luglio. Tuttavia, la fertilità può variare da persona a persona, quindi è importante consultare un medico o una ginecologa per ottenere consigli personalizzati.",
+        "length_norm_logprob": -0.383198
+      }
+    ],
+    "sd": 0.625131,
+    "u_llm": 0.374869,
+    "n_refs": 4,
+    "distances": [
+      0.42634,
+      0.240325,
+      0.434773,
+      0.413949
+    ]
+  }
+}

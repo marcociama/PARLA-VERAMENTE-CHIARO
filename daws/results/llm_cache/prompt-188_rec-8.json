@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Mia figlia piange dopo i pasti e a volte anche mentre mangia.",
+    "Mia figlia piange dopo che ha mangiato, e a volte anche mentre sta mangiando.",
+    "Mia figlia piange dopo che ha mangiato o a volte anche mentre sta magnando.",
+    "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+    "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+    "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando."
+  ],
+  "responses": [
+    "La dolore durante o dopo i pasti può essere dovuto a diversi fattori, come l'intolleranza alimentare, la gastroenterite o il reflusso gastroesofageo. È consigliabile consultare un medico per",
+    "La dolore durante o dopo l'alimentazione può essere dovuto a diversi fattori. Può essere causato da un problema gastrointestinale come la gastrite o il reflusso gastroesofageo, oppure potrebbe",
+    "La dolore potrebbe essere dovuto ad una reazione allergica alla qualcosa presente nel cibo. È consigliabile consultare un medico per una valutazione precisa e eventuali prescrizioni di trattamento. In attesa",
+    "La tua figlia potrebbe soffrire di melanocetus, una condizione che causa macchie scure sulla pelle. È importante consultare un medico per una diagnosi precisa e indicazioni terapeutiche appropriati. In attesa della visita",
+    "La tua figlia potrebbe soffrire di melanocetus, una condizione che causa macchie scure sulla pelle. È importante consultare un medico per una diagnosi precisa e indicazioni terapeutiche appropriati. In attesa della visita",
+    "La tua figlia potrebbe soffrire di melanocetus, una condizione che causa macchie scure sulla pelle. È importante consultare un medico per una diagnosi precisa e indicazioni terapeutiche appropriati. In attesa della visita"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.\n\nRisposta:",
+    "best": {
+      "text": "Il comportamento della tua figlia potrebbe essere dovuto ad una forma di disturbo alimentare. È consigliabile consultare un medico specializzato in psichiatria e nutrizione per ottenere un esame approfondito e una terapia adeguata.",
+      "length_norm_logprob": -0.368913
+    },
+    "references": [
+      {
+        "text": "Il comportamento della tua figlia potrebbe essere dovuto ad una forma di disturbo alimentare, come l'abulia o la bulimia nervosa. È consigliabile consultare un medico specializzato per una diagnosi precisa e trattamento adeguato.",
+        "length_norm_logprob": -0.461568
+      },
+      {
+        "text": "Il comportamento della tua figlia potrebbe essere dovuto ad una forma di disturbo alimentare. È necessario consultare un medico specializzato per una valutazione accurata e l'eventuale prescrizione di terapia.",
+        "length_norm_logprob": -0.42462
+      },
+      {
+        "text": "Il comportamento della tua figlia potrebbe essere dovuto alla presenza di una forma di disturbo alimentare. È importante consultare un medico per ottenere un esame e una diagnosi corretta.",
+        "length_norm_logprob": -0.521647
+      },
+      {
+        "text": "Il comportamento della tua figlia potrebbe essere dovuto alla presenza di un disturbo alimentare noto come acido bulimico. È consigliabile consultare un medico per una valutazione accurata e eventuale trattamento.",
+        "length_norm_logprob": -0.516362
+      }
+    ],
+    "sd": 0.789677,
+    "u_llm": 0.210323,
+    "n_refs": 4,
+    "distances": [
+      0.01079,
+      0.050386,
+      0.372072,
+      0.435502
+    ]
+  }
+}

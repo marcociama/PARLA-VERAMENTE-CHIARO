@@ -1,0 +1,109 @@
+{
+  "transcription": "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+  "words": [
+    {
+      "word": "Con",
+      "start": 0.855,
+      "end": 0.996,
+      "confidence": 0.743
+    },
+    {
+      "word": "i",
+      "start": 1.076,
+      "end": 1.116,
+      "confidence": 0.435
+    },
+    {
+      "word": "pavimenti,",
+      "start": 1.156,
+      "end": 1.857,
+      "confidence": 0.855
+    },
+    {
+      "word": "fatica",
+      "start": 2.578,
+      "end": 2.938,
+      "confidence": 0.649
+    },
+    {
+      "word": "per",
+      "start": 2.979,
+      "end": 3.159,
+      "confidence": 0.675
+    },
+    {
+      "word": "imprese",
+      "start": 3.199,
+      "end": 3.64,
+      "confidence": 0.824
+    },
+    {
+      "word": "e",
+      "start": 3.66,
+      "end": 3.68,
+      "confidence": 0.024
+    },
+    {
+      "word": "costruzione,",
+      "start": 3.78,
+      "end": 4.581,
+      "confidence": 0.917
+    },
+    {
+      "word": "il",
+      "start": 4.601,
+      "end": 4.921,
+      "confidence": 0.652
+    },
+    {
+      "word": "mio",
+      "start": 4.941,
+      "end": 5.082,
+      "confidence": 0.116
+    },
+    {
+      "word": "lavoro",
+      "start": 5.122,
+      "end": 5.422,
+      "confidence": 0.829
+    },
+    {
+      "word": "principale",
+      "start": 5.723,
+      "end": 7.305,
+      "confidence": 0.933
+    },
+    {
+      "word": "è",
+      "start": 7.325,
+      "end": 7.345,
+      "confidence": 0.051
+    },
+    {
+      "word": "stuccare",
+      "start": 7.485,
+      "end": 7.806,
+      "confidence": 0.62
+    },
+    {
+      "word": "i",
+      "start": 7.826,
+      "end": 7.846,
+      "confidence": 0.0
+    },
+    {
+      "word": "pavimenti.",
+      "start": 7.866,
+      "end": 8.447,
+      "confidence": 0.828
+    }
+  ],
+  "top3": [
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è sui pavimenti."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5719375,
+  "u_asr": 0.4280625
+}

@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Seguo una dieta, mangio poco, ma sono stanca di tutte queste sostituzioni. Cosa posso provare?",
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+    "Sto a dieta, mangio limitato, ma sono stanca di queste sostituzioni. Che posso testare?",
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?"
+  ],
+  "responses": [
+    "Puoi cercare di integrare alimenti naturali e nutrienti variati nella tua dieta. Ad esempio, consuma frutta e verdura crude, cereali integralici, pesce e carne bianca. Evita o riduci",
+    "Posso suggerirti una dieta equilibrata che sia nutriente e varia, per evitare la monotonia e la stanchezza. Puoi integrare alimenti ricchi di proteine, come pesce, carne bianca o legumi",
+    "Puoi provare ad integrare alimenti naturali e variati nella tua dieta, senza escludere completamente le sostituzioni. Potresti cercare di includere più frutta e verdura, proteine vegetali e carne, cere",
+    "Posso suggerirti una dieta equilibrata che sia nutriente e varia, per evitare la monotonia e la stanchezza. Puoi integrare alimenti ricchi di proteine, come pesce, carne bianca o legumi",
+    "Posso suggerirti una dieta equilibrata che sia nutriente e varia, per evitare la monotonia e la stanchezza. Puoi integrare alimenti ricchi di proteine, come pesce, carne bianca o legumi",
+    "Posso suggerirti una dieta equilibrata che sia nutriente e varia, per evitare la monotonia e la stanchezza. Puoi integrare alimenti ricchi di proteine, come pesce, carne bianca o legumi"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?\n\nRisposta:",
+    "best": {
+      "text": "Potresti provare una dieta equilibrata che include abbondanza di frutti e verdure, proteine vegetali o animali, cereali integrali e bevande in grado di soddisfare le tue esigenze nutrizionali. Inoltre, potrebbe essere utile cercare consigli da un professionista della nutrizione per una guida personalizzata.",
+      "length_norm_logprob": -0.46064
+    },
+    "references": [
+      {
+        "text": "Probabilmente ci sia una mancanza di varietà nella tua dieta. Potresti cercare di aggiungere nuovi alimenti e variare i tuoi pasti per migliorare la tua motivazione alimentare. Inoltre, potrebbe essere utile consultare un nutrizionista o un medico per ottenere consigli personalizzati sulla tua dieta.",
+        "length_norm_logprob": -0.440609
+      },
+      {
+        "text": "Continua la tua dieta e mantieni un equilibrio nutrizionale. Pensiamo di proporberti una terapia integrativa come acupuntura o yoga per migliorare il tuo benessere generale.",
+        "length_norm_logprob": -0.482761
+      },
+      {
+        "text": "Continua la tua dieta e consulta il tuo medico per eventuali modifiche o supplementi alimentari che potrebbero migliorare le tue condizioni, senza però abbandonare il consiglio del tuo medico.",
+        "length_norm_logprob": -0.514673
+      },
+      {
+        "text": "Potresti provare una dieta equilibrata e varia, che comprende alimenti nutritivi e ricchi di fibre per mantenere la salute. Se tuttavia si sente stanca o soffre di malesseri, è consigliabile consultare un medico.",
+        "length_norm_logprob": -0.689462
+      }
+    ],
+    "sd": 0.706453,
+    "u_llm": 0.293547,
+    "n_refs": 4,
+    "distances": [
+      0.433106,
+      0.47519,
+      0.164908,
+      0.044414
+    ]
+  }
+}

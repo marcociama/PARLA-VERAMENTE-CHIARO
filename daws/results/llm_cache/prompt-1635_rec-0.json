@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sono incinta di 19 settimane e sono molto depressa.",
+    "Sono incinta di diciannove settimane e mi sento parecchio depressa.",
+    "Sono incinta di 19 settimane è mi sento molto depressa.",
+    "Sono entro le 19 settimane e mi sento assai depresso.",
+    "Sono entro le 19 settimane e mi sento assai depresso.",
+    "Sono entro le 19 settimane e mi sento assai depresso."
+  ],
+  "responses": [
+    "Ho paura che stia affrontando una situazione difficile. La gravidanza può essere un periodo stressante per molte donne, ma è importante ricordare che ci sono molti professionisti che possono aiutarla a gestire il suo stato di",
+    "Ho paura che stia vivendo un momento difficile. La gravidanza può essere una fase emotivamente intensa per molte donne, ma è importante ricordare che non c'è niente da vergognarsi se si sente depressa o stressata.",
+    "Ho paura che stia attraversando un momento difficile. La gravidanza può essere una fase emotivamente intensa e la depressione è comune durante questo periodo. Puoi cercare aiuto da un medico o un terapeuta specializzato in gravid",
+    "Ho paura che stia avendo un episodio di depressione gravissimo. È importante chiedere aiuto immediatamente. Puoi contattare il tuo medico o un servizio di crisi, come il 113 in Italia. Non dimentic",
+    "Ho paura che stia avendo un episodio di depressione gravissimo. È importante chiedere aiuto immediatamente. Puoi contattare il tuo medico o un servizio di crisi, come il 113 in Italia. Non dimentic",
+    "Ho paura che stia avendo un episodio di depressione gravissimo. È importante chiedere aiuto immediatamente. Puoi contattare il tuo medico o un servizio di crisi, come il 113 in Italia. Non dimentic"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Sono entro le 19 settimane e mi sento assai depresso.\n\nRisposta:",
+    "best": {
+      "text": "Mi dispiace per quanto stai attraversando, ma è importante che ti consulti subito un medico per valutare la tua salute mentale. Non dimenticare di prendere cura di te stesso.",
+      "length_norm_logprob": -0.445672
+    },
+    "references": [
+      {
+        "text": "Mi dispiace per il tuo stato di salute mentale. È importante che prendi contatto con un medico o uno psicologo per una valutazione e eventuale terapia. Non dimentica anche di prendere cura di te stesso e di cercare supporto sociale.",
+        "length_norm_logprob": -0.511116
+      },
+      {
+        "text": "Mi dispiace per quanto stai attraversando, ma è importante che ti consulti subito un medico specializzato in psichiatria o un terapeuta per discutere della tua situazione e ottenere l'aiuto necessario. Non dimenticare di prendere cura di te stesso.",
+        "length_norm_logprob": -0.465513
+      },
+      {
+        "text": "Mi dispiace per quanto stai attraversando, ma è importante che ti consulti con un medico o un terapeuta per discutere della tua salute mentale. Non dimenticare che ci sono diverse opzioni di trattamento disponibili.",
+        "length_norm_logprob": -0.502151
+      },
+      {
+        "text": "Mi dispiace che stai avendo difficoltà, ma è importante ricordare che la gravidanza può causare cambiamenti emozionali. Pensiamo di fare un esame per verificare se ci sia qualcosa di più serio. Contatta il tuo medico subito.",
+        "length_norm_logprob": -0.564269
+      }
+    ],
+    "sd": 0.494707,
+    "u_llm": 0.505293,
+    "n_refs": 4,
+    "distances": [
+      0.491711,
+      0.529046,
+      0.475525,
+      0.525073
+    ]
+  }
+}

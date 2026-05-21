@@ -1,0 +1,61 @@
+{
+  "transcription": "Ha già fornito l'antidolorifico, ha già fatto muco.",
+  "words": [
+    {
+      "word": "Ha",
+      "start": 0.394,
+      "end": 0.474,
+      "confidence": 0.416
+    },
+    {
+      "word": "già",
+      "start": 0.636,
+      "end": 0.736,
+      "confidence": 0.415
+    },
+    {
+      "word": "fornito",
+      "start": 0.797,
+      "end": 1.18,
+      "confidence": 0.687
+    },
+    {
+      "word": "l'antidolorifico,",
+      "start": 1.24,
+      "end": 2.046,
+      "confidence": 0.538
+    },
+    {
+      "word": "ha",
+      "start": 2.127,
+      "end": 2.167,
+      "confidence": 0.207
+    },
+    {
+      "word": "già",
+      "start": 2.288,
+      "end": 2.369,
+      "confidence": 0.227
+    },
+    {
+      "word": "fatto",
+      "start": 2.449,
+      "end": 2.651,
+      "confidence": 0.364
+    },
+    {
+      "word": "muco.",
+      "start": 2.671,
+      "end": 2.812,
+      "confidence": 0.19
+    }
+  ],
+  "top3": [
+    "Ha già fornito l'antidolorifico, ha già fatto muco.",
+    "Ha già fornito l'antidolorifico, ha già fatto il muco.",
+    "ha già fornito l'antidolorifico, ha già fatto un"
+  ],
+  "language": "it",
+  "mean_confidence": 0.3805,
+  "u_asr": 0.6194999999999999
+}

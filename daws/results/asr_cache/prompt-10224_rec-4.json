@@ -1,0 +1,85 @@
+{
+  "transcription": "Ehi, ma non vuoi che ci si perla assai il tempo fuori?",
+  "words": [
+    {
+      "word": "Ehi,",
+      "start": 0.988,
+      "end": 1.189,
+      "confidence": 0.337
+    },
+    {
+      "word": "ma",
+      "start": 1.209,
+      "end": 1.329,
+      "confidence": 0.587
+    },
+    {
+      "word": "non",
+      "start": 1.39,
+      "end": 1.47,
+      "confidence": 0.256
+    },
+    {
+      "word": "vuoi",
+      "start": 1.53,
+      "end": 1.671,
+      "confidence": 0.324
+    },
+    {
+      "word": "che",
+      "start": 1.691,
+      "end": 1.791,
+      "confidence": 0.29
+    },
+    {
+      "word": "ci",
+      "start": 1.851,
+      "end": 1.932,
+      "confidence": 0.863
+    },
+    {
+      "word": "si",
+      "start": 2.032,
+      "end": 2.132,
+      "confidence": 0.748
+    },
+    {
+      "word": "perla",
+      "start": 2.193,
+      "end": 2.674,
+      "confidence": 0.899
+    },
+    {
+      "word": "assai",
+      "start": 3.216,
+      "end": 3.477,
+      "confidence": 0.669
+    },
+    {
+      "word": "il",
+      "start": 3.537,
+      "end": 3.618,
+      "confidence": 0.488
+    },
+    {
+      "word": "tempo",
+      "start": 3.658,
+      "end": 3.999,
+      "confidence": 0.759
+    },
+    {
+      "word": "fuori?",
+      "start": 4.059,
+      "end": 4.28,
+      "confidence": 0.323
+    }
+  ],
+  "top3": [
+    "Ehi, ma non vuoi che ci si perla assai il tempo fuori?",
+    "Ehi, ma non vado a Cissefella a stare il tempo fuori.",
+    "Ehi, ma non vuoi che ci si perla assai il tempo fuori?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.5452500000000001,
+  "u_asr": 0.4547499999999999
+}

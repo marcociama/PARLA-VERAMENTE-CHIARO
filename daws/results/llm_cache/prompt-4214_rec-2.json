@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho l'alopecia da quattro mesi e i capelli non crescono. Sto già prendendo vitamine. Può consigliarmi qualche medicinale?",
+    "Ho l'alopecia da 4 mesi ed i capelli non crescono più. Sto già prendendo delle vitamine. Puoi consigliarmi qualche medicinale?",
+    "Ho l'alopecia da 4 mesi non mi crescono più. Sto già prendendo le vitamine. Puoi consigliarmi qualche medicinale?",
+    "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?",
+    "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?",
+    "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?"
+  ],
+  "responses": [
+    "Non posso prescrivere farmaci senza un esame medico approfondito, ma potrebbe essere utile consultare un dermatologo per valutare la causa dell'alopecia e stabilire una terapia adeguata. In attesa",
+    "Non posso prescrivere farmaci senza un esame medico approfondito e una valutazione del tuo stato di salute generale. Tuttavia, posso suggerirti di consultare un dermatologo per una diagnosi precisa e",
+    "Non posso prescrivere farmaci senza un esame medico approfondito e una valutazione personale, ma potrei considerare di consultare un dermatologo per una diagnosi precisa e una terapia adeguata. Inoltre,",
+    "Non posso prescrivere farmaci senza un esame medico precedente, ma potrei considerare l'uso di minoxidil o finasteride per trattare l'alopecia. Tuttavia, è importante consultare il tuo medico prima di",
+    "Non posso prescrivere farmaci senza un esame medico precedente, ma potrei considerare l'uso di minoxidil o finasteride per trattare l'alopecia. Tuttavia, è importante consultare il tuo medico prima di",
+    "Non posso prescrivere farmaci senza un esame medico precedente, ma potrei considerare l'uso di minoxidil o finasteride per trattare l'alopecia. Tuttavia, è importante consultare il tuo medico prima di"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?\n\nRisposta:",
+    "best": {
+      "text": "Potrebbe essere utile consultare un dermatologo per valutare la causa dell'allopecia e prescrivere eventuali trattamenti specifici. Nonostante le vitamine, è importante ricordare che non esistono farmaci approvati in Italia per il trattamento dell'alopecia androgenetica nei maschi.",
+      "length_norm_logprob": -0.434441
+    },
+    "references": [
+      {
+        "text": "In base alle tue informazioni, sembra che tu abbia l'allopecia da quattro mesi e che i tuoi capelli non crescono più, anche se stai già prendendo le vitamine. Tuttavia, la maggior parte delle cause dell'allopecia non possono essere trattate con medicamenti o supplementi alimentari. È importante consultare un medico per una valutazione approfondita e eventualmente ricevere una terapia adeguata.",
+        "length_norm_logprob": -0.407946
+      },
+      {
+        "text": "Sono dispiaciuto per il tuo problema, ma l'allopecia può essere causata da molti fattori diversi. Non posso prescrivere farmaci senza un esame medico approfondito, tuttavia potrebbe essere utile consultare un dermatologo specializzato in alopecia per valutare le opzioni terapeutiche disponibili. Continua a prendere le vitamine e mantieni una buona dieta equilibrata.",
+        "length_norm_logprob": -0.404101
+      },
+      {
+        "text": "Potrebbe essere utile consultare un dermatologo per una valutazione accurata della tua condizione e per eventuali trattamenti specifici, come il minoxidil o finasteride. Continua a prendere le vitamine, ma non dimenticare di seguire le indicazioni del medico.",
+        "length_norm_logprob": -0.435696
+      },
+      {
+        "text": "Potrebbe essere utile consultare un medico specializzato in alopecia per valutare la causa e trattare il problema appropriatamente. Non tutti i farmaci contro l'alopecia sono disponibili senza ricetta, quindi è importante seguire le indicazioni del medico.",
+        "length_norm_logprob": -0.424141
+      }
+    ],
+    "sd": 0.902554,
+    "u_llm": 0.097446,
+    "n_refs": 4,
+    "distances": [
+      0.060252,
+      0.303523,
+      0.012342,
+      0.009124
+    ]
+  }
+}

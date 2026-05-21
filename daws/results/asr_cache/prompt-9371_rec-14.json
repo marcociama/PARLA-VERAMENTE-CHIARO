@@ -1,0 +1,319 @@
+{
+  "transcription": "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.",
+  "words": [
+    {
+      "word": "Pare",
+      "start": 1.868,
+      "end": 2.029,
+      "confidence": 0.678
+    },
+    {
+      "word": "che",
+      "start": 2.069,
+      "end": 2.169,
+      "confidence": 0.298
+    },
+    {
+      "word": "va",
+      "start": 2.209,
+      "end": 2.269,
+      "confidence": 0.694
+    },
+    {
+      "word": "sempre",
+      "start": 2.329,
+      "end": 2.57,
+      "confidence": 0.45
+    },
+    {
+      "word": "peggio,",
+      "start": 2.63,
+      "end": 3.031,
+      "confidence": 0.539
+    },
+    {
+      "word": "peggio",
+      "start": 3.071,
+      "end": 3.351,
+      "confidence": 0.524
+    },
+    {
+      "word": "che",
+      "start": 3.371,
+      "end": 3.432,
+      "confidence": 0.062
+    },
+    {
+      "word": "ha",
+      "start": 3.452,
+      "end": 3.532,
+      "confidence": 0.34
+    },
+    {
+      "word": "tosso,",
+      "start": 3.552,
+      "end": 4.013,
+      "confidence": 0.787
+    },
+    {
+      "word": "così",
+      "start": 4.053,
+      "end": 4.273,
+      "confidence": 0.846
+    },
+    {
+      "word": "mi",
+      "start": 4.353,
+      "end": 4.413,
+      "confidence": 0.83
+    },
+    {
+      "word": "sforzi,",
+      "start": 4.454,
+      "end": 5.035,
+      "confidence": 0.859
+    },
+    {
+      "word": "starnuto,",
+      "start": 5.115,
+      "end": 5.977,
+      "confidence": 0.686
+    },
+    {
+      "word": "pure",
+      "start": 6.458,
+      "end": 6.598,
+      "confidence": 0.502
+    },
+    {
+      "word": "quando",
+      "start": 6.658,
+      "end": 6.858,
+      "confidence": 0.684
+    },
+    {
+      "word": "cerco",
+      "start": 6.919,
+      "end": 7.139,
+      "confidence": 0.658
+    },
+    {
+      "word": "di",
+      "start": 7.159,
+      "end": 7.199,
+      "confidence": 0.0
+    },
+    {
+      "word": "essere",
+      "start": 7.219,
+      "end": 7.379,
+      "confidence": 0.232
+    },
+    {
+      "word": "allerta.",
+      "start": 7.42,
+      "end": 7.86,
+      "confidence": 0.679
+    },
+    {
+      "word": "Ho",
+      "start": 8.281,
+      "end": 8.361,
+      "confidence": 0.49
+    },
+    {
+      "word": "provato",
+      "start": 8.502,
+      "end": 8.822,
+      "confidence": 0.486
+    },
+    {
+      "word": "tutti",
+      "start": 8.882,
+      "end": 9.063,
+      "confidence": 0.949
+    },
+    {
+      "word": "i",
+      "start": 9.123,
+      "end": 9.143,
+      "confidence": 0.96
+    },
+    {
+      "word": "farmaci,",
+      "start": 9.183,
+      "end": 9.604,
+      "confidence": 0.818
+    },
+    {
+      "word": "ma",
+      "start": 9.684,
+      "end": 9.724,
+      "confidence": 0.928
+    },
+    {
+      "word": "niente,",
+      "start": 9.804,
+      "end": 10.225,
+      "confidence": 0.649
+    },
+    {
+      "word": "c'è",
+      "start": 10.866,
+      "end": 10.947,
+      "confidence": 0.484
+    },
+    {
+      "word": "stato",
+      "start": 11.007,
+      "end": 11.287,
+      "confidence": 0.607
+    },
+    {
+      "word": "l'imitrex",
+      "start": 11.347,
+      "end": 12.069,
+      "confidence": 0.816
+    },
+    {
+      "word": "e",
+      "start": 12.169,
+      "end": 12.229,
+      "confidence": 0.627
+    },
+    {
+      "word": "ho",
+      "start": 12.309,
+      "end": 12.61,
+      "confidence": 0.495
+    },
+    {
+      "word": "provato",
+      "start": 12.79,
+      "end": 13.071,
+      "confidence": 0.55
+    },
+    {
+      "word": "pure",
+      "start": 13.151,
+      "end": 13.331,
+      "confidence": 0.552
+    },
+    {
+      "word": "il",
+      "start": 13.371,
+      "end": 13.432,
+      "confidence": 0.832
+    },
+    {
+      "word": "motrin,",
+      "start": 13.492,
+      "end": 14.013,
+      "confidence": 0.636
+    },
+    {
+      "word": "800mg,",
+      "start": 14.073,
+      "end": 15.055,
+      "confidence": 0.787
+    },
+    {
+      "word": "devo",
+      "start": 15.135,
+      "end": 15.295,
+      "confidence": 0.636
+    },
+    {
+      "word": "due",
+      "start": 15.395,
+      "end": 15.456,
+      "confidence": 0.245
+    },
+    {
+      "word": "giorni,",
+      "start": 15.476,
+      "end": 15.836,
+      "confidence": 0.434
+    },
+    {
+      "word": "ma",
+      "start": 16.177,
+      "end": 16.257,
+      "confidence": 0.862
+    },
+    {
+      "word": "non",
+      "start": 16.919,
+      "end": 17.039,
+      "confidence": 0.382
+    },
+    {
+      "word": "fa",
+      "start": 17.119,
+      "end": 17.199,
+      "confidence": 0.928
+    },
+    {
+      "word": "niente.",
+      "start": 17.279,
+      "end": 17.66,
+      "confidence": 0.706
+    },
+    {
+      "word": "In",
+      "start": 18.141,
+      "end": 18.221,
+      "confidence": 0.602
+    },
+    {
+      "word": "realtà",
+      "start": 18.241,
+      "end": 18.983,
+      "confidence": 0.977
+    },
+    {
+      "word": "mi",
+      "start": 19.544,
+      "end": 19.624,
+      "confidence": 0.412
+    },
+    {
+      "word": "aiutano",
+      "start": 19.664,
+      "end": 20.025,
+      "confidence": 0.764
+    },
+    {
+      "word": "poco",
+      "start": 20.085,
+      "end": 20.285,
+      "confidence": 0.818
+    },
+    {
+      "word": "quando",
+      "start": 20.345,
+      "end": 20.646,
+      "confidence": 0.788
+    },
+    {
+      "word": "sono",
+      "start": 20.706,
+      "end": 20.967,
+      "confidence": 0.466
+    },
+    {
+      "word": "sdraiata.",
+      "start": 21.007,
+      "end": 21.548,
+      "confidence": 0.741
+    }
+  ],
+  "top3": [
+    "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.",
+    "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.",
+    "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6230392156862745,
+  "u_asr": 0.3769607843137255
+}

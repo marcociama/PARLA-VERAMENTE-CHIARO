@@ -1,0 +1,170 @@
+# inventropy
+
+A Python package for computing **inverse entropy** in language models. This metric helps evaluate the consistency and reliability of language model outputs.
+
+## Installation
+
+```bash
+pip install inventropy
+```
+
+## Quick Start
+
+### Basic Usage (OpenAI)
+
+```python
+import openai
+from inventropy import calculate_inv_entropy
+
+# Set your OpenAI API key
+openai.api_key = "your-api-key-here"
+
+# Calculate inverse entropy for a question
+question = "What is artificial intelligence?"
+mean_inv_entropy = calculate_inv_entropy(question)
+
+print(f"Inverse Entropy: {mean_inv_entropy:.4f}")
+```
+
+### Advanced Usage: Using Different Embedding Methods
+```python
+# Fast 
+result = calculate_inv_entropy(question, embedding_method="sbert-small")
+
+# Fast
+result = calculate_inv_entropy(question, embedding_method="sbert-large")
+
+# Highest quality (slower)
+result = calculate_inv_entropy(question, embedding_method="deberta")
+```
+
+### Advanced Usage: Custom LLM (e.g., Claude)
+
+You can use any paraphrasing method and language model by providing custom functions:
+
+```python
+import anthropic
+import re
+from inventropy import calculate_inv_entropy
+
+def claude_paraphrase(sentence, num_perturb=9, model="claude-sonnet-4-20250514", **kwargs):
+    """Custom paraphrase function using Claude"""
+    client = anthropic.Anthropic(api_key="your-anthropic-api-key")
+    message = client.messages.create(
+        model=model,
+        max_tokens=1024,
+        messages=[{
+            "role": "user",
+            "content": f"Provide {num_perturb} paraphrases for this sentence: {sentence}\n\nReturn ONLY the paraphrases, one per line."
+        }]
+    )
+    
+    text = message.content[0].text
+    lines = [line.strip() for line in text.split('\n') if line.strip()]
+    
+    # Clean: remove numbering
+    paraphrases = []
+    for line in lines:
+        if any(skip in line.lower() for skip in ['here are', 'paraphrase', ':']):
+            continue
+        cleaned = re.sub(r'^\d+[\.\)]\s*', '', line)
+        if cleaned:
+            paraphrases.append(cleaned)
+    
+    return paraphrases[:num_perturb]
+
+def claude_answer(question, num_replication=5, model="claude-sonnet-4-20250514", temperature=0.7, **kwargs):
+    """Custom answer function using Claude"""
+    client = anthropic.Anthropic(api_key="your-anthropic-api-key")
+    responses = []
+    for _ in range(num_replication):
+        message = client.messages.create(
+            model=model,
+            max_tokens=100,
+            temperature=temperature,
+            messages=[{
+                "role": "user",
+                "content": f"{question} Answer concisely."
+            }]
+        )
+        responses.append(message.content[0].text)
+    return responses
+
+# Use custom functions
+mean_inv_entropy = calculate_inv_entropy(
+    "What is machine learning?",
+    paraphrase_func=claude_paraphrase,
+    answer_func=claude_answer,
+    embedding_method="sbert-large"
+)
+```
+
+## Parameters
+
+- **original_question** (str): The question to analyze
+- **num_perturb** (int, default=9): Number of paraphrases to generate
+- **num_replication** (int, default=5): Number of answer samples per question
+- **num_bootstrap** (int, default=10): Number of bootstrap iterations
+- **model** (str, default="gpt-3.5-turbo"): LLM model name
+- **temperature** (float, default=0.7): Sampling temperature when responding answers
+- **embedding_method** (str, default="sbert-small"): Embedding method
+  - `"sbert-small"`: Fast, lightweight (paraphrase-MiniLM-L6-v2)
+  - `"sbert-large"`: Better quality (all-mpnet-base-v2)
+  - `"deberta"`: Highest quality, slower (DeBERTa-v2-xlarge-mnli)
+- **paraphrase_func** (callable, optional): Custom paraphrase function
+- **answer_func** (callable, optional): Custom answer function
+
+## What is Inv-Entropy?
+
+Inv-entropy measures the uncertainty of language model outputs. Please look at https://arxiv.org/abs/2506.09684
+
+## Requirements
+
+- Python ≥ 3.8
+- OpenAI API key (or custom LLM API)
+- CUDA-compatible GPU (optional, for faster processing)
+
+## Dependencies
+
+All dependencies are automatically installed:
+- openai==0.28.0
+- numpy
+- pandas
+- torch
+- sentence-transformers
+- transformers
+- scipy
+- sentencepiece
+
+## Parameter Sensitivity and Comparability
+
+Inv-entropy is scale-dependent on the sampling parameters `num_perturb` and `num_replication`. These parameters determine the dimensionality of the similarity matrices used in the computation, thereby affecting the absolute scale of the resulting Inv-entropy values.
+
+**For valid comparisons**: When evaluating and comparing Inv-entropy across multiple questions, ensure that `num_perturb` and `num_replication` remain constant across all measurements.
+
+## Citation
+
+If you use this package in your research, please cite:
+
+```bibtex
+@article{song2025inv,
+  title={Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models},
+  author={Song, Haoyi and Ji, Ruihan and Shi, Naichen and Lai, Fan and Kontar, Raed Al},
+  journal={arXiv preprint arXiv:2506.09684},
+  year={2025}
+}
+```
+
+## License
+
+MIT License - see LICENSE file for details
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Support
+
+For issues and questions:
+- GitHub Issues: https://github.com/UMDataScienceLab/Uncertainty-Quantification-for-LLMs
+- Email: haoyiso@umich.edu

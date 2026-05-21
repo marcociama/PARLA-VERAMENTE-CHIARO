@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_10-48-37_napoletano_F_30-39",
+  "promptId": "8553",
+  "promptText": ["Sì, è così. Ha appena compiuto ottantanove anni. L'anno prossimo pensiamo di organizzare una grande festa per il suo compleanno.",
+		 "Certo, ho appena fatto ottanove anni. L'anno che viene, penso che organizzo una grande festa per il compleanno.",
+		 "Ovvio. Ho da poco compiuto ottantanove anni. L'anno che arriva, credo che preparerò una grande festa per il compleanno."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "8",
+  "filename": "prompt-8553_rec-8.wav",
+  "size": 227438,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T10:51:39.249Z"
+}

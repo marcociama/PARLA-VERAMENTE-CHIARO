@@ -1,0 +1,19 @@
+{
+  "transcription": "soffimmano",
+  "words": [
+    {
+      "word": "soffimmano",
+      "start": 1.085,
+      "end": 1.718,
+      "confidence": 0.924
+    }
+  ],
+  "top3": [
+    "soffimmano",
+    "soffimmano",
+    "Soffimano."
+  ],
+  "language": "it",
+  "mean_confidence": 0.924,
+  "u_asr": 0.07599999999999996
+}

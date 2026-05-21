@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Il narghilè aromatizzato è dannoso per la salute? Può consigliarmi?",
+    "Dottore, dottore, ma il narghilè aromatizzato fa male? Può dirmelo?",
+    "Dottore, ma il narghilè aromatizzato fa male? Me lo può dire?",
+    "o un argillet aromatizzato. Fa male? Purisce!",
+    "o un argillet aromatizzato. Fa male? Purisce!",
+    "o un argillet aromatizzato. Fa male? Purisce!"
+  ],
+  "responses": [
+    "Il narghilè aromatizzato contiene sostanze chimiche nocive, come nicotina e diossine, che possono causare danni alla salute. Consiglio di evitare il suo uso. Al suo posto, potresti c",
+    "Il fumo di narghilè aromatizzato può causare problemi respiratori e cardiovascolari a lungo termine. È meglio evitarlo o ridurre la frequenza di utilizzo. Se si presentano sintomi come to",
+    "Il narghilè aromatizzato può causare problemi di salute a causa della presenza di sostanze chimiche nocive come nicotina e composti aromatici. Tuttavia, la gravità dei suoi effetti dipende da diversi fatt",
+    "Un argillet aromatizzato non è considerato un prodotto medicinale e pertanto non ha effetti terapeutici. Tuttavia, se il profumo di esso causa irritazione o allergia, è consigliabile rimuoverlo immediatamente dalla",
+    "Un argillet aromatizzato non è considerato un prodotto medicinale e pertanto non ha effetti terapeutici. Tuttavia, se il profumo di esso causa irritazione o allergia, è consigliabile rimuoverlo immediatamente dalla",
+    "Un argillet aromatizzato non è considerato un prodotto medicinale e pertanto non ha effetti terapeutici. Tuttavia, se il profumo di esso causa irritazione o allergia, è consigliabile rimuoverlo immediatamente dalla"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: o un argillet aromatizzato. Fa male? Purisce!\n\nRisposta:",
+    "best": {
+      "text": "L'argilla aromatizzata non ha effetti medicamentosi, ma può aiutare a purificare la pelle. Tuttavia, se provoca irritazione o allergia, dovrebbe essere sospesa l'uso.",
+      "length_norm_logprob": -0.342472
+    },
+    "references": [
+      {
+        "text": "L'argilla aromatizzata non ha effetti medicamentosi specifici, ma può aiutare a pulire la pelle e ridurre l'inflazione. Tuttavia, se il dolore persiste o si aggrava, è necessario consultare un medico.",
+        "length_norm_logprob": -0.39645
+      },
+      {
+        "text": "L'argilla aromatizzata non ha effetti terapeutici dimostrati, ma può aiutare a pulire la pelle. Tuttavia, se provoca irritazione o allergia, dovrebbe essere sospesa l'uso.",
+        "length_norm_logprob": -0.40247
+      },
+      {
+        "text": "L'argilla aromatizzata non ha effetti medicamentosi, ma può aiutare a purificare la pelle. Tuttavia, se provoca irritazione o allergia, interrompere l'uso immediatamente e consultare un medico.",
+        "length_norm_logprob": -0.374658
+      },
+      {
+        "text": "L'argilla aromatizzata non è considerata medicina, ma può avere proprietà purificanti per la pelle. Tuttavia, se provoca dolori o irritazione, cessare subito l'uso e consultare il medico.",
+        "length_norm_logprob": -0.499475
+      }
+    ],
+    "sd": 0.744849,
+    "u_llm": 0.255151,
+    "n_refs": 4,
+    "distances": [
+      0.499734,
+      0.021695,
+      0.463007,
+      0.005775
+    ]
+  }
+}

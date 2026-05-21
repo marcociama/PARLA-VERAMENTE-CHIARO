@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "No, non lo sono.",
+    "No, non ne ho idea.",
+    "No, io non lo so.",
+    "No, non lo so.",
+    "No, non lo so ciò.",
+    "No, non lo so ciò."
+  ],
+  "responses": [
+    "Non ho bisogno di informazioni mediche da te. Se avrai bisogno di aiuto in futuro, non esitare a contattarmi.",
+    "Non è un problema, sono qui per aiutarti. Potresti chiedermi qualcosa? Ad esempio, potrei fornirti informazioni su una malattia o suggerire come gestire alcuni sintomi.",
+    "Non ho informazioni su ciò che hai indicato. Potresti chiarire meglio il problema?",
+    "Non ho familiarità con ciò che hai specificato. Potresti fornire maggiori dettagli per poter aiutarti?",
+    "Il termine che hai citato non è chiaro. Potresti specificare il contesto o la domanda per ricevere una risposta appropriata. Se stai cercando informazioni mediche, potrei suggerire di consultare un medico o un",
+    "Il termine che hai citato non è chiaro. Potresti specificare il contesto o la domanda per ricevere una risposta appropriata. Se stai cercando informazioni mediche, potrei suggerire di consultare un medico o un"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: No, non lo so.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente non ha fornito informazioni su una specifica condizione medica. È necessario chiedere ulteriori dettagli per poter fornire un consiglio appropriato.",
+      "length_norm_logprob": -0.357834
+    },
+    "references": [
+      {
+        "text": "Non hai specificato una domanda o un sintomo. Per favore, fornisci informazioni per poter aiutarti.",
+        "length_norm_logprob": -0.615489
+      },
+      {
+        "text": "Il paziente non ha fornito informazioni su una specifica condizione medica. È necessario chiedere ulteriori dettagli per poter fornire assistenza appropriata.",
+        "length_norm_logprob": -0.374517
+      },
+      {
+        "text": "Il paziente non ha fornito informazioni su cosa non sa. Per poter aiutarti, è necessario che specifichi il tema a cui si riferisce.",
+        "length_norm_logprob": -0.402683
+      },
+      {
+        "text": "Il paziente non ha fornito informazioni su cosa non sappia. Potrebbe essere utile chiedere a lui qualcosa per capire come poterlo aiutare.",
+        "length_norm_logprob": -0.480488
+      }
+    ],
+    "sd": 0.747318,
+    "u_llm": 0.252682,
+    "n_refs": 4,
+    "distances": [
+      0.492651,
+      0.083519,
+      0.009898,
+      0.49352
+    ]
+  }
+}

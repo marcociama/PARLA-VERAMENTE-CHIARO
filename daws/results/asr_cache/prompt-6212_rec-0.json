@@ -1,0 +1,331 @@
+{
+  "transcription": "Tengo 31 anni, da circa un anno ho avuto un dolore e ho perso la parte sinistra del stomaco, sotto lo stato, sotto il costo. E' stata tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami.",
+  "words": [
+    {
+      "word": "Tengo",
+      "start": 2.802,
+      "end": 3.242,
+      "confidence": 0.559
+    },
+    {
+      "word": "31",
+      "start": 3.282,
+      "end": 3.422,
+      "confidence": 0.567
+    },
+    {
+      "word": "anni,",
+      "start": 3.503,
+      "end": 4.103,
+      "confidence": 0.736
+    },
+    {
+      "word": "da",
+      "start": 4.143,
+      "end": 4.243,
+      "confidence": 0.778
+    },
+    {
+      "word": "circa",
+      "start": 4.283,
+      "end": 4.663,
+      "confidence": 0.81
+    },
+    {
+      "word": "un",
+      "start": 5.183,
+      "end": 5.223,
+      "confidence": 0.43
+    },
+    {
+      "word": "anno",
+      "start": 5.244,
+      "end": 5.584,
+      "confidence": 0.676
+    },
+    {
+      "word": "ho",
+      "start": 6.344,
+      "end": 6.504,
+      "confidence": 0.64
+    },
+    {
+      "word": "avuto",
+      "start": 6.544,
+      "end": 6.664,
+      "confidence": 0.163
+    },
+    {
+      "word": "un",
+      "start": 6.704,
+      "end": 6.764,
+      "confidence": 0.686
+    },
+    {
+      "word": "dolore",
+      "start": 6.784,
+      "end": 7.225,
+      "confidence": 0.814
+    },
+    {
+      "word": "e",
+      "start": 7.685,
+      "end": 7.745,
+      "confidence": 0.69
+    },
+    {
+      "word": "ho",
+      "start": 7.825,
+      "end": 7.925,
+      "confidence": 0.532
+    },
+    {
+      "word": "perso",
+      "start": 7.945,
+      "end": 8.545,
+      "confidence": 0.752
+    },
+    {
+      "word": "la",
+      "start": 8.826,
+      "end": 8.906,
+      "confidence": 0.302
+    },
+    {
+      "word": "parte",
+      "start": 8.966,
+      "end": 9.346,
+      "confidence": 0.736
+    },
+    {
+      "word": "sinistra",
+      "start": 9.406,
+      "end": 9.826,
+      "confidence": 0.732
+    },
+    {
+      "word": "del",
+      "start": 9.846,
+      "end": 9.926,
+      "confidence": 0.145
+    },
+    {
+      "word": "stomaco,",
+      "start": 9.966,
+      "end": 10.446,
+      "confidence": 0.594
+    },
+    {
+      "word": "sotto",
+      "start": 10.667,
+      "end": 10.967,
+      "confidence": 0.938
+    },
+    {
+      "word": "lo",
+      "start": 11.107,
+      "end": 11.207,
+      "confidence": 0.605
+    },
+    {
+      "word": "stato,",
+      "start": 11.227,
+      "end": 11.687,
+      "confidence": 0.798
+    },
+    {
+      "word": "sotto",
+      "start": 11.727,
+      "end": 11.987,
+      "confidence": 0.695
+    },
+    {
+      "word": "il",
+      "start": 12.027,
+      "end": 12.087,
+      "confidence": 0.737
+    },
+    {
+      "word": "costo.",
+      "start": 12.147,
+      "end": 12.728,
+      "confidence": 0.733
+    },
+    {
+      "word": "E'",
+      "start": 13.668,
+      "end": 13.868,
+      "confidence": 0.715
+    },
+    {
+      "word": "stata",
+      "start": 13.948,
+      "end": 14.068,
+      "confidence": 0.36
+    },
+    {
+      "word": "tutta",
+      "start": 14.088,
+      "end": 14.449,
+      "confidence": 0.73
+    },
+    {
+      "word": "la",
+      "start": 14.549,
+      "end": 14.849,
+      "confidence": 0.726
+    },
+    {
+      "word": "giornata,",
+      "start": 14.929,
+      "end": 15.389,
+      "confidence": 0.414
+    },
+    {
+      "word": "24",
+      "start": 15.409,
+      "end": 15.469,
+      "confidence": 0.754
+    },
+    {
+      "word": "ore",
+      "start": 15.509,
+      "end": 15.609,
+      "confidence": 0.293
+    },
+    {
+      "word": "su",
+      "start": 15.649,
+      "end": 15.889,
+      "confidence": 0.58
+    },
+    {
+      "word": "24.",
+      "start": 15.97,
+      "end": 16.23,
+      "confidence": 0.735
+    },
+    {
+      "word": "C'è",
+      "start": 17.35,
+      "end": 17.43,
+      "confidence": 0.386
+    },
+    {
+      "word": "stato",
+      "start": 17.45,
+      "end": 17.57,
+      "confidence": 0.186
+    },
+    {
+      "word": "un",
+      "start": 17.59,
+      "end": 17.67,
+      "confidence": 0.46
+    },
+    {
+      "word": "po'",
+      "start": 17.711,
+      "end": 17.831,
+      "confidence": 0.62
+    },
+    {
+      "word": "di",
+      "start": 17.891,
+      "end": 18.071,
+      "confidence": 0.814
+    },
+    {
+      "word": "sopeggio",
+      "start": 19.131,
+      "end": 19.772,
+      "confidence": 0.677
+    },
+    {
+      "word": "dopo",
+      "start": 20.012,
+      "end": 20.212,
+      "confidence": 0.832
+    },
+    {
+      "word": "aver",
+      "start": 20.292,
+      "end": 20.512,
+      "confidence": 0.422
+    },
+    {
+      "word": "mangiato",
+      "start": 20.552,
+      "end": 20.912,
+      "confidence": 0.685
+    },
+    {
+      "word": "pesante,",
+      "start": 20.992,
+      "end": 21.753,
+      "confidence": 0.636
+    },
+    {
+      "word": "dopo",
+      "start": 21.813,
+      "end": 21.993,
+      "confidence": 0.844
+    },
+    {
+      "word": "qualche",
+      "start": 22.053,
+      "end": 22.353,
+      "confidence": 0.531
+    },
+    {
+      "word": "bicchiere",
+      "start": 22.433,
+      "end": 22.833,
+      "confidence": 0.804
+    },
+    {
+      "word": "d'alcolica,",
+      "start": 22.893,
+      "end": 23.494,
+      "confidence": 0.733
+    },
+    {
+      "word": "e",
+      "start": 24.374,
+      "end": 24.434,
+      "confidence": 0.45
+    },
+    {
+      "word": "ho",
+      "start": 24.494,
+      "end": 24.574,
+      "confidence": 0.42
+    },
+    {
+      "word": "fatto",
+      "start": 24.614,
+      "end": 24.875,
+      "confidence": 0.69
+    },
+    {
+      "word": "parecchi",
+      "start": 24.915,
+      "end": 25.275,
+      "confidence": 0.814
+    },
+    {
+      "word": "esami.",
+      "start": 25.295,
+      "end": 25.715,
+      "confidence": 0.501
+    }
+  ],
+  "top3": [
+    "Tengo 31 anni, da circa un anno ho avuto un dolore e ho perso la parte sinistra del stomaco, sotto lo stato, sotto il costo. E' stata tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami.",
+    "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte sinistra del stomaco, sotto il costo. E' stato tutta la giornata, 24 ore su 24. C'è stato un po' di stupeggio dopo aver mangiato pesante, dopo qualche bicchiere alcolica, e ho fatto parecchi esami.",
+    "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte sinistra del stomaco, sotto il costo. E' stato tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6162264150943395,
+  "u_asr": 0.3837735849056605
+}

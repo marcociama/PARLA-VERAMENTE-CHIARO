@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho un dolore pulsante sotto le costole sinistre, dall'ottava alla decima, che può variare da impercettibile fino a un livello molto alto.",
+    "Tengo un dolore pulsante sotto le costole a sinistra, dall'ottava alla decima, può variare dal non sentirlo proprio fino a farmi molto male.",
+    "Ho un dolore martellante sotto le costole a sinistra, dall'ottava alla decima, può variare dall'essere inavvertibile fino a far molto male.",
+    "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare da che non si sente proprio a che non fa molto male.",
+    "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare, che non si sente proprio, a che mi fa molto male.",
+    "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare, che non si sente proprio, a che mi fa molto male."
+  ],
+  "responses": [
+    "Il dolore pulsante sotto le costole potrebbe essere dovuto a una patologia chiamata pancreatite acuta o colica biliare. È necessario effettuare un esame medico per verificare la causa del dolore e stabilire",
+    "Il dolore pulsante sotto le costole potrebbe essere causato da una patologia chiamata pancreatite acuta o da un reflusso gastroesofageo. È necessario effettuare un esame medico per determinare la causa es",
+    "Il dolore martellante sotto le costole a sinistra potrebbe essere dovuto ad una patologia chiamata pancreatite acuta o colica biliare. È necessario un esame medico per confermare la diagnosi e stabilire il tr",
+    "Il dolore che stai sentendo sulla tua sinistra, dalla 8ª alla 10ª costola, potrebbe essere dovuto ad una condizione come la pleurite o il reflusso gastroesofageo. È importante consultare",
+    "Il dolore che stai sentendo potrebbe essere dovuto ad una lieve infiammazione o allo stretto delle costole. Tuttavia, è importante consultare un medico per una diagnosi precisa e ricevere terapia appropriata. Non d",
+    "Il dolore che stai sentendo potrebbe essere dovuto ad una lieve infiammazione o allo stretto delle costole. Tuttavia, è importante consultare un medico per una diagnosi precisa e ricevere terapia appropriata. Non d"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare da che non si sente proprio a che non fa molto male.\n\nRisposta:",
+    "best": {
+      "text": "Il dolore pulsante sotto e costa potrebbe essere dovuto a una patologia renale o gastrointestinale. È consigliabile consultare un medico per una valutazione precisa. Non si deve autodiriggere.",
+      "length_norm_logprob": -0.465561
+    },
+    "references": [
+      {
+        "text": "Il dolore costolari potrebbe essere causato da una condizione come la pleurite o l'infiammazione della parete toracica. È consigliabile consultare un medico per una diagnosi e trattamento appropriati. Nel frattempo, è importante riposarsi e evitare sforzi fisici che possono aumentare il dolore.",
+        "length_norm_logprob": -0.464908
+      },
+      {
+        "text": "Il dolore pulsante sotto e costa potrebbe essere dovuto a una patologia renale o ad un problema muscoloscheletrico. È consigliabile consultare un medico per una valutazione precisa.",
+        "length_norm_logprob": -0.469121
+      },
+      {
+        "text": "Il dolore costolari potrebbe essere causato da un problema come la torticolis o l'artrite costovertebrale. È consigliabile consultare un medico per una valutazione accurata e eventuali trattamenti.",
+        "length_norm_logprob": -0.410744
+      },
+      {
+        "text": "Il dolore pulsante che senti sulla costola sinistra, tra la 8ª e la 10ª vertebra toracica, può essere dovuto ad una condizione chiamata torsione o strappo muscolare. Se il dolore non migliora entro due settimane, è importante consultare un medico.",
+        "length_norm_logprob": -0.468613
+      }
+    ],
+    "sd": 0.9193,
+    "u_llm": 0.0807,
+    "n_refs": 4,
+    "distances": [
+      0.048136,
+      0.247967,
+      0.017046,
+      0.013649
+    ]
+  }
+}

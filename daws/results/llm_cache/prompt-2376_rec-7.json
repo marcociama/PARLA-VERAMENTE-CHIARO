@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho l'idrocele da molti anni, ma non mi ha mai dato problemi. Adesso voglio operarmi. Esistono alternative alla chirurgia?",
+    "Tengo l'idrocele da molti anni, ma non mi ha mai dato problemi. Mo voglio operarmi. Esistono alternative alla chirurgia?",
+    "Ho l'idrocele da un sacco di anni, ma non mi ha mai dato problemi. Adesso voglio operarmi. Ci stanno alternative alla chirurgia?",
+    "tende a ritroscire, ha un sacco di donne, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.",
+    "Tengo la ritrocera, non so che fare, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.",
+    "tende a ritroscire un sacco di anni, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia."
+  ],
+  "responses": [
+    "La chiusura dell'idrocele attraverso la chirurgia è il trattamento più comune e efficace per questo problema. Tuttavia, esistono alcune opzioni non chirurgiche come l'aspirazione del liquido con",
+    "La chiusura dell'idrocele attraverso la chirurgia è il trattamento più comune e efficace per questo problema. Tuttavia, esistono alcune opzioni non chirurgiche che possono essere considerate come alternative:",
+    "La chirurgia è spesso la soluzione più efficace per il trattamento dell'idrocele. Tuttavia, esistono anche altre opzioni non chirurgiche da considerare come l'aspirazione del liquido con un ago o",
+    "La tua condizione può essere dovuta a una prostatite cronica o a un'ipertrofia benigna della prostata (IBP). Nonostante non abbia mai dato problemi, è importante valutare la gravità del tuo",
+    "La ritrocera è una condizione patologica che può richiedere attenzione medica. Nonostante tu non abbia avuto problemi fino ad ora, è importante valutarla per evitare eventuali complicanze in futuro. Sono",
+    "La chirurgia è generalmente necessaria per molte condizioni mediche, tuttavia esistono anche altre opzioni di trattamento non chirurgiche. In base alla tua condizione specifica, potrebbe essere utile consultare un medico"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: tende a ritroscire, ha un sacco di donne, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente sembra desiderare una procedura chirurgica per rimuovere il polipo uterino (il \"sacco di donne\"). Esiste l'opzione della terapia non chirurgica, come la terapia medicamentosa o la terapia endometriale ripetuta. Consiglio un esame dettagliato e una discussione con il medico per determinare la migliore opzione di trattamento.",
+      "length_norm_logprob": -0.420377
+    },
+    "references": [
+      {
+        "text": "Il paziente descrive una prostatite simpatica, caratterizzata da flussi urinari intermittenti e sensazione di ritroscio. Esistono alternative non chirurgiche alla prostata, come la terapia medicamentosa o la terapia laser. Consiglio di consultare il medico per una valutazione approfondita.",
+        "length_norm_logprob": -0.509397
+      },
+      {
+        "text": "Il paziente sembra desiderare una procedura chirurgica per un problema che non gli è stato finora sintomatico, ma è noto il suo stato di prolasso. Esiste l'opzione della terapia non chirurgica, come ad esempio la gessatura transvaginale o la colpoerettrofissazione. Consiglio un esame medico per valutare meglio le opzioni disponibili.",
+        "length_norm_logprob": -0.629586
+      },
+      {
+        "text": "Il paziente ha meno movimento e una prostatica benigna. Esiste l'opzione della terapia non chirurgica come la terapia di frazionamento radiativo o la terapia con catetere interstiziale.",
+        "length_norm_logprob": -0.615088
+      },
+      {
+        "text": "Il paziente sembra presentare un prostate benigna iperplasica (PBI), tuttavia, è importante valutare la sua condizione e le sue possibili alternative altrimenti alla chirurgia, come la terapia medicamentosa. Consulte il tuo medico per una valutazione approfondita.",
+        "length_norm_logprob": -0.589772
+      }
+    ],
+    "sd": 0.975221,
+    "u_llm": 0.024779,
+    "n_refs": 4,
+    "distances": [
+      0.024012,
+      0.021639,
+      0.024018,
+      0.029368
+    ]
+  }
+}

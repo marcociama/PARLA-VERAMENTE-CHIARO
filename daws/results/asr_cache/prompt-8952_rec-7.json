@@ -1,0 +1,37 @@
+{
+  "transcription": "E 10 goppa 10.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.586,
+      "end": 1.666,
+      "confidence": 0.853
+    },
+    {
+      "word": "10",
+      "start": 1.828,
+      "end": 2.23,
+      "confidence": 0.72
+    },
+    {
+      "word": "goppa",
+      "start": 2.452,
+      "end": 2.694,
+      "confidence": 0.848
+    },
+    {
+      "word": "10.",
+      "start": 2.714,
+      "end": 2.794,
+      "confidence": 0.562
+    }
+  ],
+  "top3": [
+    "E 10 goppa 10.",
+    "E 10 goppa 10.",
+    "E 10 goppa 10."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7457499999999999,
+  "u_asr": 0.2542500000000001
+}

@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-8553_rec-8",
+  "gt_text": "Sì, è così. Ha appena compiuto ottantanove anni. L'anno prossimo pensiamo di organizzare una grande festa per il suo compleanno.",
+  "w1_text": "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+  "inputs": [
+    "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+    "E certo, già appena ho fatto 89 anni, l'anno che pensiamo di organizzare una grande festa per il suo compleanno.",
+    "Sì, è così. Ha appena compiuto ottantanove anni. L'anno prossimo viene penso che organizzi una grande festa per il compleanno.",
+    "Sì, è così. Ha appena compiuto ottantanove anni. L'anno prossimo pensiamo di organizzare una grande festa per il suo compleanno."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "La tua età avanzata non dovrebbe essere un impedimento a festeggiare il tuo compleanno. Tuttavia, è importante mantenere una dieta equilibrata e seguire le indicazioni del medico. Inoltre, consider",
+    "Il paziente ha 89 anni e sta pianificando una festa per il proprio compleanno. È importante assicurarsi che le misure di precauzione siano prese a causa dell'età avanzata del paziente.",
+    "Il tuo compleanno sarà presto e avrò la gioia di festeggiarlo con te, essendo ormai ottantanove anni. Ricordati di mantenere un buon stile di vita per rimanere sano e",
+    "Il tuo paziente ha ormai superato la soglia degli 89 anni. In questo caso, è importante mantenere un controllo attento sulla sua salute, in particolare del sistema cardiovascolare e delle funzioni cognitive."
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Il mio cuore inizia improvvisamente a battere molto velocemente da tre anni. Ho fatto un'ecografia al cuore e un controllo con gli elettrodi e sono sempre risultati normali. Ultimamente sento dolore al petto e un formicolio nel braccio destro. Anche la tiroide è normale. Non so cosa fare.",
+    "Il mio cuore comincia a battere all'improvviso molto velocemente da tre anni. Ho fatto una ecografia al cuore ed un controllo con elettrodi e sono sempre risultati normali. Adesso sento un dolore al petto ed un formicolio al braccio destro. La tiroide pure risulta normale, non so che devo fare",
+    "Il cuore mio comincia a battere improvvisamente in maniera molto veloce da tre anni. Ho fatto sia un’ecografia al cuore che un controllo con gli elettrodi e sono sempre risultati normali. Ultimamente sento dolore al petto e un formicolio al braccio destro. Anche la tiroide è normale, non so cosa fare.",
+    "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto.",
+    "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho già fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un pietto, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ho già fatto.",
+    "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto."
+  ],
+  "responses": [
+    "Il tuo problema potrebbe essere dovuto a una condizione cardiaca aritmica, come ad esempio l'aritmia atriale o ventricolare. Nonostante gli esami che hai fatto siano stati normali",
+    "Il tuo problema potrebbe essere dovuto a una condizione cardiaca aritmica, come ad esempio l'aritmia atriale o ventricolare. Nonostante i precedenti esami siano stati normali, è importante",
+    "Il tuo problema potrebbe essere dovuto a una condizione cardiaca aritmica, come ad esempio l'aritmia atriale o ventricolare. Nonostante i test precedenti siano stati normali, è importante che",
+    "Il battito cardiaco veloce potrebbe essere dovuto a una tachicardia congenita, una condizione che può verificarsi fin dall'infanzia. È importante consultare un medico per un esame completo e una valut",
+    "Il battito cardiaco veloce potrebbe essere dovuto a una tachicardia congenita, una condizione che può verificarsi fin dall'infanzia. È importante consultare un medico per un esame completo e una valut",
+    "Il battito cardiaco veloce potrebbe essere dovuto a una tachicardia congenita, una condizione che può verificarsi fin dall'infanzia. È importante consultare un medico per un esame completo e una valut"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto.\n\nRisposta:",
+    "best": {
+      "text": "Il cuore battendo velocemente a tre anni potrebbe essere un segno di aritmia cardiaca congenita. È importante consultare immediatamente un medico per una valutazione approfondita e eventuale trattamento. Gli sintomi attuali, come l'olore, il formicolio e la sensazione di piede o braccio, possono essere correlati a disturbi del sistema nervoso periferico o cardiovascolari e richiedono un esame medico",
+      "length_norm_logprob": -0.382798
+    },
+    "references": [
+      {
+        "text": "Il cuore battendo velocemente a tre anni potrebbe essere un segno di aritmia cardiaca, necessario controllo medico immediato. Gli sintomi attuali possono suggerire una forma di neuropatia o disturbi del sistema nervoso periferico; è importante consultare il medico.",
+        "length_norm_logprob": -0.530134
+      },
+      {
+        "text": "Il cuore battendo molto velocemente a tre anni potrebbe essere un segno di aritmia cardiaca o del disturbo della sindrome delle tasse cardiache congenite. È importante consultare immediatamente un medico per una valutazione accurata e eventuale terapia. Inoltre, il dolore nel braccio destro, olore, piede formicolio potrebbero essere segni di disturbi neurologici o vasculari, quindi è necessario un esame comple",
+        "length_norm_logprob": -0.507115
+      },
+      {
+        "text": "Il cuore battendo velocemente a tre anni potrebbe essere segno di aritmie cardiache, necessita di un esame più approfondito. I sintomi attuali possono indicare una patologia cardiovascolare o neurologica; è consigliabile consultare immediatamente il proprio medico.",
+        "length_norm_logprob": -0.489743
+      },
+      {
+        "text": "Il paziente ha descritto sintomi cardiovascolari e neurologici anomali a partire da tre anni di età. Nonostante i test precedenti, il cuore batte ancora troppo velocemente. A causa dei suoi simptomi, è importante consultare un medico per una valutazione approfondita e eventuali nuovi esami.",
+        "length_norm_logprob": -0.557723
+      }
+    ],
+    "sd": 0.994459,
+    "u_llm": 0.005541,
+    "n_refs": 4,
+    "distances": [
+      0.005541,
+      0.005541,
+      0.005541,
+      0.005541
+    ]
+  }
+}

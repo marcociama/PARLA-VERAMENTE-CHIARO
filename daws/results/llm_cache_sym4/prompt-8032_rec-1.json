@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-8032_rec-1",
+  "gt_text": "No, non lo sono.",
+  "w1_text": "No, non lo so.",
+  "inputs": [
+    "No, non lo so.",
+    "No, non lo sono.",
+    "No, non lo so.",
+    "No, non lo sono."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Non ho familiarità con ciò che hai specificato. Potresti fornire maggiori dettagli per poter aiutarti?",
+    "Non hai segni di malattia o sintomi? Se si, contatta il tuo medico subito.",
+    "Il paziente non ha fornito informazioni su una specifica condizione medica. È necessario chiedere ulteriori dettagli per poter fornire un consiglio appropriato.",
+    "Non ho bisogno di informazioni mediche da te. Se avrai bisogno di aiuto in futuro, non esitare a contattarmi."
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

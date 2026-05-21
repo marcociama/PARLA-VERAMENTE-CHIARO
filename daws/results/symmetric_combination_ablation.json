@@ -1,0 +1,142 @@
+[
+  {
+    "filename": "prompt-7057_rec-13",
+    "dialect": "napoletano",
+    "wer": 0.0,
+    "H_sym4": 1.3862943649291992,
+    "H_std6": 1.8218212127685547
+  },
+  {
+    "filename": "prompt-5724_rec-0",
+    "dialect": "napoletano",
+    "wer": 0.19230769230769232,
+    "H_sym4": 1.387229561805725,
+    "H_std6": 1.7934341430664062
+  },
+  {
+    "filename": "prompt-8032_rec-1",
+    "dialect": "salentino ",
+    "wer": 0.25,
+    "H_sym4": 1.4204871654510498,
+    "H_std6": 2.005542278289795
+  },
+  {
+    "filename": "prompt-2286_rec-1",
+    "dialect": "lucano ",
+    "wer": 0.38461538461538464,
+    "H_sym4": 1.4679118394851685,
+    "H_std6": 2.108539581298828
+  },
+  {
+    "filename": "prompt-1592_rec-2",
+    "dialect": "napoletano",
+    "wer": 0.4,
+    "H_sym4": 1.395420789718628,
+    "H_std6": 1.823514699935913
+  },
+  {
+    "filename": "prompt-8643_rec-1",
+    "dialect": "napoletano",
+    "wer": 0.5,
+    "H_sym4": 1.3949583768844604,
+    "H_std6": 1.8261668682098389
+  },
+  {
+    "filename": "prompt-6254_rec-9",
+    "dialect": "napoletano",
+    "wer": 0.525,
+    "H_sym4": 1.415708065032959,
+    "H_std6": 1.832574486732483
+  },
+  {
+    "filename": "prompt-9610_rec-8",
+    "dialect": "napoletano",
+    "wer": 0.5714285714285714,
+    "H_sym4": 1.453995704650879,
+    "H_std6": 2.107046604156494
+  },
+  {
+    "filename": "prompt-8481_rec-38",
+    "dialect": "parmigiano",
+    "wer": 0.6153846153846154,
+    "H_sym4": 1.4490896463394165,
+    "H_std6": 1.9827361106872559
+  },
+  {
+    "filename": "prompt-7121_rec-10",
+    "dialect": "napoletano",
+    "wer": 0.6470588235294118,
+    "H_sym4": 1.4193940162658691,
+    "H_std6": 1.8724981546401978
+  },
+  {
+    "filename": "prompt-6150_rec-4",
+    "dialect": "napoletano",
+    "wer": 0.6774193548387096,
+    "H_sym4": 1.4519447088241577,
+    "H_std6": 2.1211087703704834
+  },
+  {
+    "filename": "prompt-8553_rec-8",
+    "dialect": "napoletano",
+    "wer": 0.7,
+    "H_sym4": 1.4372210502624512,
+    "H_std6": 1.8959017992019653
+  },
+  {
+    "filename": "prompt-5565_rec-10",
+    "dialect": "napoletano",
+    "wer": 0.7446808510638298,
+    "H_sym4": 1.4505773782730103,
+    "H_std6": 2.1098358631134033
+  },
+  {
+    "filename": "prompt-4902_rec-0",
+    "dialect": "napoletano",
+    "wer": 0.8,
+    "H_sym4": 1.4571216106414795,
+    "H_std6": 1.8626010417938232
+  },
+  {
+    "filename": "prompt-56_rec-31",
+    "dialect": "napoletano",
+    "wer": 0.8181818181818182,
+    "H_sym4": 1.4384711980819702,
+    "H_std6": 1.8752679824829102
+  },
+  {
+    "filename": "prompt-3289_rec-5",
+    "dialect": "napoletano",
+    "wer": 0.8333333333333334,
+    "H_sym4": 1.4653236865997314,
+    "H_std6": 1.9755187034606934
+  },
+  {
+    "filename": "prompt-10304_rec-2",
+    "dialect": "napoletano",
+    "wer": 0.8333333333333334,
+    "H_sym4": 1.4671461582183838,
+    "H_std6": 2.036130666732788
+  },
+  {
+    "filename": "prompt-12429_rec-12",
+    "dialect": "napoletano",
+    "wer": 0.8888888888888888,
+    "H_sym4": 1.1301331520080566,
+    "H_std6": 2.1893420219421387
+  },
+  {
+    "filename": "prompt-1950_rec-24",
+    "dialect": "napoletano",
+    "wer": 0.9230769230769231,
+    "H_sym4": 1.376479148864746,
+    "H_std6": 2.0395889282226562
+  },
+  {
+    "filename": "prompt-5657_rec-11",
+    "dialect": "napoletano",
+    "wer": 1.0,
+    "H_sym4": 1.454534649848938,
+    "H_std6": 2.009319305419922
+  }
+]

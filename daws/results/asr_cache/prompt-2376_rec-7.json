@@ -1,0 +1,157 @@
+{
+  "transcription": "tende a ritroscire, ha un sacco di donne, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.",
+  "words": [
+    {
+      "word": "tende",
+      "start": 2.652,
+      "end": 2.852,
+      "confidence": 0.295
+    },
+    {
+      "word": "a",
+      "start": 3.012,
+      "end": 3.033,
+      "confidence": 0.062
+    },
+    {
+      "word": "ritroscire,",
+      "start": 3.053,
+      "end": 4.113,
+      "confidence": 0.691
+    },
+    {
+      "word": "ha",
+      "start": 4.874,
+      "end": 5.014,
+      "confidence": 0.66
+    },
+    {
+      "word": "un",
+      "start": 5.094,
+      "end": 5.174,
+      "confidence": 0.365
+    },
+    {
+      "word": "sacco",
+      "start": 5.214,
+      "end": 5.614,
+      "confidence": 0.791
+    },
+    {
+      "word": "di",
+      "start": 5.654,
+      "end": 5.854,
+      "confidence": 0.675
+    },
+    {
+      "word": "donne,",
+      "start": 5.874,
+      "end": 6.055,
+      "confidence": 0.212
+    },
+    {
+      "word": "ma",
+      "start": 6.815,
+      "end": 6.875,
+      "confidence": 0.8
+    },
+    {
+      "word": "non",
+      "start": 6.935,
+      "end": 7.015,
+      "confidence": 0.64
+    },
+    {
+      "word": "mi",
+      "start": 7.035,
+      "end": 7.075,
+      "confidence": 0.0
+    },
+    {
+      "word": "ha",
+      "start": 7.095,
+      "end": 7.155,
+      "confidence": 0.47
+    },
+    {
+      "word": "mai",
+      "start": 7.235,
+      "end": 7.335,
+      "confidence": 0.694
+    },
+    {
+      "word": "dato",
+      "start": 7.415,
+      "end": 7.596,
+      "confidence": 0.6
+    },
+    {
+      "word": "problema.",
+      "start": 7.656,
+      "end": 8.396,
+      "confidence": 0.913
+    },
+    {
+      "word": "Ora",
+      "start": 9.477,
+      "end": 9.597,
+      "confidence": 0.444
+    },
+    {
+      "word": "mi",
+      "start": 10.037,
+      "end": 10.157,
+      "confidence": 0.573
+    },
+    {
+      "word": "voglio",
+      "start": 10.197,
+      "end": 10.458,
+      "confidence": 0.51
+    },
+    {
+      "word": "operare,",
+      "start": 10.478,
+      "end": 12.039,
+      "confidence": 0.646
+    },
+    {
+      "word": "c'è",
+      "start": 12.099,
+      "end": 12.199,
+      "confidence": 0.528
+    },
+    {
+      "word": "stata",
+      "start": 12.279,
+      "end": 12.379,
+      "confidence": 0.265
+    },
+    {
+      "word": "un'alternativa",
+      "start": 12.459,
+      "end": 13.259,
+      "confidence": 0.637
+    },
+    {
+      "word": "a",
+      "start": 13.32,
+      "end": 13.34,
+      "confidence": 0.002
+    },
+    {
+      "word": "chirurgia.",
+      "start": 13.36,
+      "end": 13.98,
+      "confidence": 0.471
+    }
+  ],
+  "top3": [
+    "tende a ritroscire, ha un sacco di donne, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.",
+    "Tengo la ritrocera, non so che fare, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.",
+    "tende a ritroscire un sacco di anni, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia."
+  ],
+  "language": "it",
+  "mean_confidence": 0.49766666666666665,
+  "u_asr": 0.5023333333333333
+}

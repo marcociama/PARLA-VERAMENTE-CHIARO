@@ -1,0 +1,37 @@
+{
+  "transcription": "No ma proprio no.",
+  "words": [
+    {
+      "word": "No",
+      "start": 1.192,
+      "end": 1.495,
+      "confidence": 0.744
+    },
+    {
+      "word": "ma",
+      "start": 1.575,
+      "end": 2.161,
+      "confidence": 0.842
+    },
+    {
+      "word": "proprio",
+      "start": 2.686,
+      "end": 3.069,
+      "confidence": 0.572
+    },
+    {
+      "word": "no.",
+      "start": 3.11,
+      "end": 3.21,
+      "confidence": 0.392
+    }
+  ],
+  "top3": [
+    "No ma proprio no.",
+    "No ma proprio no.",
+    "No ma proprio no."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6375,
+  "u_asr": 0.36250000000000004
+}

@@ -1,0 +1,3352 @@
+[
+  {
+    "stem": "prompt-3566_rec-0",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "50-59",
+    "wer": 0.520833,
+    "pca_local": {
+      "pc1_variance_explained": 0.909925,
+      "pc2_variance_explained": 0.041716,
+      "delta_pc1": 0.40646,
+      "gt_centroid_pc1": 0.20323,
+      "gt_centroid_pc2": -0.003651,
+      "w_centroid_pc1": -0.20323,
+      "w_centroid_pc2": 0.003651,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Il mio cuore inizia improvvisamente a battere molto velocemente da tre anni. Ho ",
+          "pc1": 0.220685,
+          "pc2": 0.031077
+        },
+        {
+          "label": "GT2",
+          "text": "Il mio cuore comincia a battere all'improvviso molto velocemente da tre anni. Ho",
+          "pc1": 0.176112,
+          "pc2": -0.082859
+        },
+        {
+          "label": "GT3",
+          "text": "Il cuore mio comincia a battere improvvisamente in maniera molto veloce da tre a",
+          "pc1": 0.212892,
+          "pc2": 0.04083
+        },
+        {
+          "label": "W1",
+          "text": "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho",
+          "pc1": -0.215063,
+          "pc2": -0.014205
+        },
+        {
+          "label": "W2",
+          "text": "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho",
+          "pc1": -0.179564,
+          "pc2": 0.039362
+        },
+        {
+          "label": "W3",
+          "text": "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho",
+          "pc1": -0.215063,
+          "pc2": -0.014205
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.797725,
+      "H_k4": 1.869166
+    },
+    "texts": [
+      "Il mio cuore inizia improvvisamente a battere molto velocemente da tre anni. Ho fatto un'ecografia al cuore e un controllo con gli elettrodi e sono sempre risultati normali. Ultimamente sento dolore al petto e un formicolio nel braccio destro. Anche la tiroide è normale. Non so cosa fare.",
+      "Il mio cuore comincia a battere all'improvviso molto velocemente da tre anni. Ho fatto una ecografia al cuore ed un controllo con elettrodi e sono sempre risultati normali. Adesso sento un dolore al petto ed un formicolio al braccio destro. La tiroide pure risulta normale, non so che devo fare",
+      "Il cuore mio comincia a battere improvvisamente in maniera molto veloce da tre anni. Ho fatto sia un’ecografia al cuore che un controllo con gli elettrodi e sono sempre risultati normali. Ultimamente sento dolore al petto e un formicolio al braccio destro. Anche la tiroide è normale, non so cosa fare.",
+      "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto.",
+      "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho già fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un pietto, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ho già fatto.",
+      "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto."
+    ],
+    "h_spectral": 0.65706
+  },
+  {
+    "stem": "prompt-9452_rec-2",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 1.142857,
+    "pca_local": {
+      "pc1_variance_explained": 0.9645,
+      "pc2_variance_explained": 0.025579,
+      "delta_pc1": 0.556947,
+      "gt_centroid_pc1": 0.278474,
+      "gt_centroid_pc2": -0.0006,
+      "w_centroid_pc1": -0.278474,
+      "w_centroid_pc2": 0.0006,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho questo dolore al ginocchio destro, dottore.",
+          "pc1": 0.264653,
+          "pc2": -0.066475
+        },
+        {
+          "label": "GT2",
+          "text": "Dottore, sento dolore al ginocchio destro.",
+          "pc1": 0.282016,
+          "pc2": 0.086357
+        },
+        {
+          "label": "GT3",
+          "text": "Dottore, ho questo dolore al ginocchio destro.",
+          "pc1": 0.288752,
+          "pc2": -0.021681
+        },
+        {
+          "label": "W1",
+          "text": "Dottor, tengo su di loro il ginocchio destro.",
+          "pc1": -0.278474,
+          "pc2": 0.0006
+        },
+        {
+          "label": "W2",
+          "text": "Dottor, tengo su di loro il ginocchio destro.",
+          "pc1": -0.278474,
+          "pc2": 0.0006
+        },
+        {
+          "label": "W3",
+          "text": "Dottor, tengo su di loro il ginocchio destro.",
+          "pc1": -0.278474,
+          "pc2": 0.0006
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.807087,
+      "H_k4": 1.95523
+    },
+    "texts": [
+      "Ho questo dolore al ginocchio destro, dottore.",
+      "Dottore, sento dolore al ginocchio destro.",
+      "Dottore, ho questo dolore al ginocchio destro.",
+      "Dottor, tengo su di loro il ginocchio destro.",
+      "Dottor, tengo su di loro il ginocchio destro.",
+      "Dottor, tengo su di loro il ginocchio destro."
+    ],
+    "h_spectral": 0.627669
+  },
+  {
+    "stem": "prompt-8481_rec-38",
+    "dialect": "parmigiano",
+    "gender": "M",
+    "age_range": "60-69",
+    "wer": 0.615385,
+    "pca_local": {
+      "pc1_variance_explained": 0.879812,
+      "pc2_variance_explained": 0.090084,
+      "delta_pc1": 0.673399,
+      "gt_centroid_pc1": 0.3367,
+      "gt_centroid_pc2": 0.006043,
+      "w_centroid_pc1": -0.3367,
+      "w_centroid_pc2": -0.006043,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho fatto una biopsia al seno nel 1989 e una colonscopia nel 2007.",
+          "pc1": 0.375164,
+          "pc2": -0.207835
+        },
+        {
+          "label": "GT2",
+          "text": "Ho fatto una biopsia alle tette nell' 89 ed una colonscopia nel 2007.",
+          "pc1": 0.320351,
+          "pc2": 0.135781
+        },
+        {
+          "label": "GT3",
+          "text": "Ho fatto na biopsia alle tette nell 1989, e una colonscopia nel 2007.",
+          "pc1": 0.314584,
+          "pc2": 0.090183
+        },
+        {
+          "label": "W1",
+          "text": "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+          "pc1": -0.3367,
+          "pc2": -0.006043
+        },
+        {
+          "label": "W2",
+          "text": "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+          "pc1": -0.3367,
+          "pc2": -0.006043
+        },
+        {
+          "label": "W3",
+          "text": "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+          "pc1": -0.3367,
+          "pc2": -0.006043
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.808806,
+      "H_k4": 1.982736
+    },
+    "texts": [
+      "Ho fatto una biopsia al seno nel 1989 e una colonscopia nel 2007.",
+      "Ho fatto una biopsia alle tette nell' 89 ed una colonscopia nel 2007.",
+      "Ho fatto na biopsia alle tette nell 1989, e una colonscopia nel 2007.",
+      "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+      "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+      "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007."
+    ],
+    "h_spectral": 0.642366
+  },
+  {
+    "stem": "prompt-10189_rec-14",
+    "dialect": "parmigiano",
+    "gender": "F",
+    "age_range": "60-69",
+    "wer": 0.692308,
+    "pca_local": {
+      "pc1_variance_explained": 0.973028,
+      "pc2_variance_explained": 0.022642,
+      "delta_pc1": 1.030176,
+      "gt_centroid_pc1": 0.515088,
+      "gt_centroid_pc2": 0.000729,
+      "w_centroid_pc1": -0.515088,
+      "w_centroid_pc2": -0.000729,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Prendo il generico dell'Ultracet. A volte lo prendo anche quattro volte al giorn",
+          "pc1": 0.523658,
+          "pc2": -0.153371
+        },
+        {
+          "label": "GT2",
+          "text": "Assumo un generico dell'Ultracet, a volte lo assumo anche quattro volte al dì.",
+          "pc1": 0.515928,
+          "pc2": 0.051105
+        },
+        {
+          "label": "GT3",
+          "text": "Assumo il generico dell'Ultracet, a volte lo assumo anche quattro volte al dì.",
+          "pc1": 0.505677,
+          "pc2": 0.104455
+        },
+        {
+          "label": "W1",
+          "text": "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+          "pc1": -0.515088,
+          "pc2": -0.000729
+        },
+        {
+          "label": "W2",
+          "text": "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+          "pc1": -0.515088,
+          "pc2": -0.000729
+        },
+        {
+          "label": "W3",
+          "text": "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+          "pc1": -0.515088,
+          "pc2": -0.000729
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.809463,
+      "H_k4": 1.945295
+    },
+    "texts": [
+      "Prendo il generico dell'Ultracet. A volte lo prendo anche quattro volte al giorno.",
+      "Assumo un generico dell'Ultracet, a volte lo assumo anche quattro volte al dì.",
+      "Assumo il generico dell'Ultracet, a volte lo assumo anche quattro volte al dì.",
+      "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+      "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+      "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì."
+    ],
+    "h_spectral": 0.648822
+  },
+  {
+    "stem": "prompt-3289_rec-5",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "30-39",
+    "wer": 0.833333,
+    "pca_local": {
+      "pc1_variance_explained": 0.587236,
+      "pc2_variance_explained": 0.315435,
+      "delta_pc1": 0.220213,
+      "gt_centroid_pc1": 0.110106,
+      "gt_centroid_pc2": -0.183332,
+      "w_centroid_pc1": -0.110106,
+      "w_centroid_pc2": 0.183332,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sei anni fa ho avuto una micosi inguinale che è stata completamente curata ma ha",
+          "pc1": 0.611506,
+          "pc2": -0.021897
+        },
+        {
+          "label": "GT2",
+          "text": "Sei anni fa mi sono venuti i funghi all'inguine, mi sono messa una crema che per",
+          "pc1": -0.146573,
+          "pc2": -0.23518
+        },
+        {
+          "label": "GT3",
+          "text": "Sei anni fa mi son venuti i funghi all'inguine. Mi hanno consigliato una crema c",
+          "pc1": -0.134615,
+          "pc2": -0.29292
+        },
+        {
+          "label": "W1",
+          "text": "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema",
+          "pc1": -0.070473,
+          "pc2": 0.196992
+        },
+        {
+          "label": "W2",
+          "text": "Sei anni fa mi sono venuti i funghi in lingua, mi hanno messo una certa crema ch",
+          "pc1": -0.109311,
+          "pc2": 0.157914
+        },
+        {
+          "label": "W3",
+          "text": "Sei anni fa mi sono venuti i funghi nella lingua, mi hanno messo una certa crema",
+          "pc1": -0.150535,
+          "pc2": 0.195092
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.803948,
+      "H_k4": 1.975519
+    },
+    "texts": [
+      "Sei anni fa ho avuto una micosi inguinale che è stata completamente curata ma ha lasciato delle macchie scure. Un dermatologo mi ha consigliato una crema, che però non sembra funzionare. Mi consigli un unguento efficace.",
+      "Sei anni fa mi sono venuti i funghi all'inguine, mi sono messa una crema che però non ha funzionato bene, me ne puoi consigliare una migliore?",
+      "Sei anni fa mi son venuti i funghi all'inguine. Mi hanno consigliato una crema che però non si è rivelata efficace. Potresti consigliarmene un'altra migliore?",
+      "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema che però non è molto buona. Voglio una crema più sistemata.",
+      "Sei anni fa mi sono venuti i funghi in lingua, mi hanno messo una certa crema che però non è molto buona, potrei dare una crema più sistemata?",
+      "Sei anni fa mi sono venuti i funghi nella lingua, mi hanno messo una certa crema che però non è molto buona. Posso dare una crema più estimata?"
+    ],
+    "h_spectral": 0.657796
+  },
+  {
+    "stem": "prompt-1635_rec-0",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "50-59",
+    "wer": 0.666667,
+    "pca_local": {
+      "pc1_variance_explained": 0.959371,
+      "pc2_variance_explained": 0.029056,
+      "delta_pc1": 0.636655,
+      "gt_centroid_pc1": 0.318328,
+      "gt_centroid_pc2": -0.000579,
+      "w_centroid_pc1": -0.318328,
+      "w_centroid_pc2": 0.000579,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sono incinta di 19 settimane e sono molto depressa.",
+          "pc1": 0.32355,
+          "pc2": 0.107153
+        },
+        {
+          "label": "GT2",
+          "text": "Sono incinta di diciannove settimane e mi sento parecchio depressa.",
+          "pc1": 0.309871,
+          "pc2": -0.076872
+        },
+        {
+          "label": "GT3",
+          "text": "Sono incinta di 19 settimane è mi sento molto depressa.",
+          "pc1": 0.321561,
+          "pc2": -0.032018
+        },
+        {
+          "label": "W1",
+          "text": "Sono entro le 19 settimane e mi sento assai depresso.",
+          "pc1": -0.318328,
+          "pc2": 0.000579
+        },
+        {
+          "label": "W2",
+          "text": "Sono entro le 19 settimane e mi sento assai depresso.",
+          "pc1": -0.318328,
+          "pc2": 0.000579
+        },
+        {
+          "label": "W3",
+          "text": "Sono entro le 19 settimane e mi sento assai depresso.",
+          "pc1": -0.318328,
+          "pc2": 0.000579
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.817566,
+      "H_k4": 2.01612
+    },
+    "texts": [
+      "Sono incinta di 19 settimane e sono molto depressa.",
+      "Sono incinta di diciannove settimane e mi sento parecchio depressa.",
+      "Sono incinta di 19 settimane è mi sento molto depressa.",
+      "Sono entro le 19 settimane e mi sento assai depresso.",
+      "Sono entro le 19 settimane e mi sento assai depresso.",
+      "Sono entro le 19 settimane e mi sento assai depresso."
+    ],
+    "h_spectral": 0.641732
+  },
+  {
+    "stem": "prompt-9610_rec-8",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 0.571429,
+    "pca_local": {
+      "pc1_variance_explained": 0.989209,
+      "pc2_variance_explained": 0.006857,
+      "delta_pc1": 0.916315,
+      "gt_centroid_pc1": 0.458157,
+      "gt_centroid_pc2": 0.000195,
+      "w_centroid_pc1": -0.458157,
+      "w_centroid_pc2": -0.000195,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sì, ho ancora dolore nella coscia destra.",
+          "pc1": 0.456152,
+          "pc2": 0.043025
+        },
+        {
+          "label": "GT2",
+          "text": "Sì, ho ancora dolore alla coscia destra",
+          "pc1": 0.455439,
+          "pc2": 0.033456
+        },
+        {
+          "label": "GT3",
+          "text": "Sì, sento ancora dolore alla coscia destra.",
+          "pc1": 0.462881,
+          "pc2": -0.075896
+        },
+        {
+          "label": "W1",
+          "text": "Sì, aggiungo l'onorura alla coscia destra.",
+          "pc1": -0.458157,
+          "pc2": -0.000195
+        },
+        {
+          "label": "W2",
+          "text": "Sì, aggiungo l'onorura alla coscia destra.",
+          "pc1": -0.458157,
+          "pc2": -0.000195
+        },
+        {
+          "label": "W3",
+          "text": "Sì, aggiungo l'onorura alla coscia destra.",
+          "pc1": -0.458157,
+          "pc2": -0.000195
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.837705,
+      "H_k4": 2.107047
+    },
+    "texts": [
+      "Sì, ho ancora dolore nella coscia destra.",
+      "Sì, ho ancora dolore alla coscia destra",
+      "Sì, sento ancora dolore alla coscia destra.",
+      "Sì, aggiungo l'onorura alla coscia destra.",
+      "Sì, aggiungo l'onorura alla coscia destra.",
+      "Sì, aggiungo l'onorura alla coscia destra."
+    ],
+    "h_spectral": 0.643748
+  },
+  {
+    "stem": "prompt-6212_rec-0",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "80+",
+    "wer": 0.711111,
+    "pca_local": {
+      "pc1_variance_explained": 0.719148,
+      "pc2_variance_explained": 0.214645,
+      "delta_pc1": 0.442666,
+      "gt_centroid_pc1": 0.221333,
+      "gt_centroid_pc2": 0.004149,
+      "w_centroid_pc1": -0.221333,
+      "w_centroid_pc2": -0.004149,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho 31 anni e da circa un anno sento un fastidio e un dolore nella parte sinistra",
+          "pc1": 0.230188,
+          "pc2": 0.021657
+        },
+        {
+          "label": "GT2",
+          "text": "Ho 31 anni e da circa un anno sento un dolore e un fastidio alla parte sinistra ",
+          "pc1": 0.201136,
+          "pc2": -0.008857
+        },
+        {
+          "label": "GT3",
+          "text": "Ho 31 anni e da circa un anno sento dolore e fastidio alla parte sinistra dello ",
+          "pc1": 0.232674,
+          "pc2": -0.000353
+        },
+        {
+          "label": "W1",
+          "text": "Tengo 31 anni, da circa un anno ho avuto un dolore e ho perso la parte sinistra ",
+          "pc1": -0.205236,
+          "pc2": -0.24567
+        },
+        {
+          "label": "W2",
+          "text": "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte si",
+          "pc1": -0.240703,
+          "pc2": 0.118588
+        },
+        {
+          "label": "W3",
+          "text": "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte si",
+          "pc1": -0.218059,
+          "pc2": 0.114635
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.79469,
+      "H_k4": 1.839059
+    },
+    "texts": [
+      "Ho 31 anni e da circa un anno sento un fastidio e un dolore nella parte sinistra dello stomaco, sotto le costole. È presente 24 ore su 24. A volte peggiora dopo aver mangiato cibo pesante o dopo qualche bicchiere alcolico. Ho fatto diversi esami.",
+      "Ho 31 anni e da circa un anno sento un dolore e un fastidio alla parte sinistra dello stomaco, sotto le costole. Si presenta tutta la giornata, 24 ore su 24. Certe volte sto peggio dopo che ho mangiato pesante o dopo qualche bicchiere di alcol. Ho fatto diversi esami.",
+      "Ho 31 anni e da circa un anno sento dolore e fastidio alla parte sinistra dello stomaco, sotto le costole. Lo sento 24 ore su 24. Certe volte peggiora dopo che mangio pesante o che bevo qualche bicchiere di alcolici. Ho fatto diversi esami.",
+      "Tengo 31 anni, da circa un anno ho avuto un dolore e ho perso la parte sinistra del stomaco, sotto lo stato, sotto il costo. E' stata tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami.",
+      "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte sinistra del stomaco, sotto il costo. E' stato tutta la giornata, 24 ore su 24. C'è stato un po' di stupeggio dopo aver mangiato pesante, dopo qualche bicchiere alcolica, e ho fatto parecchi esami.",
+      "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte sinistra del stomaco, sotto il costo. E' stato tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami."
+    ],
+    "h_spectral": 0.56401
+  },
+  {
+    "stem": "prompt-4902_rec-0",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 0.8,
+    "pca_local": {
+      "pc1_variance_explained": 0.700357,
+      "pc2_variance_explained": 0.25696,
+      "delta_pc1": 0.417389,
+      "gt_centroid_pc1": 0.208694,
+      "gt_centroid_pc2": -0.052074,
+      "w_centroid_pc1": -0.208694,
+      "w_centroid_pc2": 0.052074,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Dopo aver mangiato, soprattutto se prendo latticini, mi si gonfia la pancia e se",
+          "pc1": 0.380259,
+          "pc2": 0.200898
+        },
+        {
+          "label": "GT2",
+          "text": "Dopo mangiato, soprattutto con latte o mozzarella, mi si gonfia la pancia e mi f",
+          "pc1": 0.106224,
+          "pc2": -0.181662
+        },
+        {
+          "label": "GT3",
+          "text": "Dopo mangiato, soprattutto se prendo latte o mozzarella, mi si gonfia la pancia ",
+          "pc1": 0.1396,
+          "pc2": -0.175458
+        },
+        {
+          "label": "W1",
+          "text": "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e",
+          "pc1": -0.208694,
+          "pc2": 0.052074
+        },
+        {
+          "label": "W2",
+          "text": "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e",
+          "pc1": -0.208694,
+          "pc2": 0.052074
+        },
+        {
+          "label": "W3",
+          "text": "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e",
+          "pc1": -0.208694,
+          "pc2": 0.052074
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.796088,
+      "H_k4": 1.862601
+    },
+    "texts": [
+      "Dopo aver mangiato, soprattutto se prendo latticini, mi si gonfia la pancia e sento dolore sotto il petto, più a sinistra. Fa male anche se tocco le costole e ho la sensazione di avere qualcosa di gonfio da tanto tempo.",
+      "Dopo mangiato, soprattutto con latte o mozzarella, mi si gonfia la pancia e mi fa male il petto, verso il cuore. Anche se mi tocco le costole sento dolore e mi sembra di sentire qualcosa di gonfio.",
+      "Dopo mangiato, soprattutto se prendo latte o mozzarella, mi si gonfia la pancia e sento dolore al petto, in direzione del cuore. Se mi tocco le costole, anche sento dolore e mi sembra di sentire qualcosa di gonfio.",
+      "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.",
+      "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.",
+      "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio."
+    ],
+    "h_spectral": 0.621979
+  },
+  {
+    "stem": "prompt-537_rec-1",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 0.555556,
+    "pca_local": {
+      "pc1_variance_explained": 0.993747,
+      "pc2_variance_explained": 0.006011,
+      "delta_pc1": 0.708776,
+      "gt_centroid_pc1": 0.354388,
+      "gt_centroid_pc2": -0.000843,
+      "w_centroid_pc1": -0.354388,
+      "w_centroid_pc2": 0.000843,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma ad",
+          "pc1": 0.364201,
+          "pc2": 0.02603
+        },
+        {
+          "label": "GT2",
+          "text": "Ho la gola infiammata da un batterio e mi hanno prescritto l'antibiotico. Adesso",
+          "pc1": 0.332716,
+          "pc2": -0.055962
+        },
+        {
+          "label": "GT3",
+          "text": "Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma or",
+          "pc1": 0.366246,
+          "pc2": 0.027402
+        },
+        {
+          "label": "W1",
+          "text": "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. ",
+          "pc1": -0.354388,
+          "pc2": 0.000843
+        },
+        {
+          "label": "W2",
+          "text": "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. ",
+          "pc1": -0.354388,
+          "pc2": 0.000843
+        },
+        {
+          "label": "W3",
+          "text": "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. ",
+          "pc1": -0.354388,
+          "pc2": 0.000843
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.800735,
+      "H_k4": 1.907009
+    },
+    "texts": [
+      "Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma adesso mi sento malissimo.",
+      "Ho la gola infiammata da un batterio e mi hanno prescritto l'antibiotico. Adesso mi sento malissimo.",
+      "Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma ora mi sento malissimo.",
+      "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.",
+      "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.",
+      "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo."
+    ],
+    "h_spectral": 0.664175
+  },
+  {
+    "stem": "prompt-4214_rec-2",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 0.388889,
+    "pca_local": {
+      "pc1_variance_explained": 0.818513,
+      "pc2_variance_explained": 0.16505,
+      "delta_pc1": 0.275963,
+      "gt_centroid_pc1": 0.137982,
+      "gt_centroid_pc2": -0.042659,
+      "w_centroid_pc1": -0.137982,
+      "w_centroid_pc2": 0.042659,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho l'alopecia da quattro mesi e i capelli non crescono. Sto già prendendo vitami",
+          "pc1": 0.03931,
+          "pc2": -0.098253
+        },
+        {
+          "label": "GT2",
+          "text": "Ho l'alopecia da 4 mesi ed i capelli non crescono più. Sto già prendendo delle v",
+          "pc1": 0.046283,
+          "pc2": -0.1109
+        },
+        {
+          "label": "GT3",
+          "text": "Ho l'alopecia da 4 mesi non mi crescono più. Sto già prendendo le vitamine. Puoi",
+          "pc1": 0.328352,
+          "pc2": 0.081175
+        },
+        {
+          "label": "W1",
+          "text": "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendend",
+          "pc1": -0.137982,
+          "pc2": 0.042659
+        },
+        {
+          "label": "W2",
+          "text": "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendend",
+          "pc1": -0.137982,
+          "pc2": 0.042659
+        },
+        {
+          "label": "W3",
+          "text": "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendend",
+          "pc1": -0.137982,
+          "pc2": 0.042659
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.793121,
+      "H_k4": 1.814459
+    },
+    "texts": [
+      "Ho l'alopecia da quattro mesi e i capelli non crescono. Sto già prendendo vitamine. Può consigliarmi qualche medicinale?",
+      "Ho l'alopecia da 4 mesi ed i capelli non crescono più. Sto già prendendo delle vitamine. Puoi consigliarmi qualche medicinale?",
+      "Ho l'alopecia da 4 mesi non mi crescono più. Sto già prendendo le vitamine. Puoi consigliarmi qualche medicinale?",
+      "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?",
+      "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?",
+      "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?"
+    ],
+    "h_spectral": 0.597373
+  },
+  {
+    "stem": "prompt-1314_rec-10",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "30-39",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.84689,
+      "pc2_variance_explained": 0.074254,
+      "delta_pc1": 0.923548,
+      "gt_centroid_pc1": 0.461774,
+      "gt_centroid_pc2": -0.00505,
+      "w_centroid_pc1": -0.461774,
+      "w_centroid_pc2": 0.00505,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho finito i farmaci antidolorifici. Cosa devo fare adesso?",
+          "pc1": 0.423712,
+          "pc2": -0.264799
+        },
+        {
+          "label": "GT2",
+          "text": "Ho finito gli antidolorifici, che devo fare ora?",
+          "pc1": 0.47769,
+          "pc2": 0.199001
+        },
+        {
+          "label": "GT3",
+          "text": "Mi sono finiti gli antidolorifici. Che devo fare adesso?",
+          "pc1": 0.483919,
+          "pc2": 0.050648
+        },
+        {
+          "label": "W1",
+          "text": "Ha già fornito l'antidolorifico, ha già fatto muco.",
+          "pc1": -0.470138,
+          "pc2": -0.002355
+        },
+        {
+          "label": "W2",
+          "text": "Ha già fornito l'antidolorifico, ha già fatto il muco.",
+          "pc1": -0.489249,
+          "pc2": 0.016153
+        },
+        {
+          "label": "W3",
+          "text": "ha già fornito l'antidolorifico, ha già fatto un",
+          "pc1": -0.425934,
+          "pc2": 0.001353
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.843826,
+      "H_k4": 2.128259
+    },
+    "texts": [
+      "Ho finito i farmaci antidolorifici. Cosa devo fare adesso?",
+      "Ho finito gli antidolorifici, che devo fare ora?",
+      "Mi sono finiti gli antidolorifici. Che devo fare adesso?",
+      "Ha già fornito l'antidolorifico, ha già fatto muco.",
+      "Ha già fornito l'antidolorifico, ha già fatto il muco.",
+      "ha già fornito l'antidolorifico, ha già fatto un"
+    ],
+    "h_spectral": 0.721481
+  },
+  {
+    "stem": "prompt-3491_rec-7",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "40-49",
+    "wer": 0.6,
+    "pca_local": {
+      "pc1_variance_explained": 0.928136,
+      "pc2_variance_explained": 0.043023,
+      "delta_pc1": 0.663697,
+      "gt_centroid_pc1": 0.331848,
+      "gt_centroid_pc2": -0.008382,
+      "w_centroid_pc1": -0.331848,
+      "w_centroid_pc2": 0.008382,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho dei duri grumi nella zona pubica. Non sono irritazioni da rasoio. Non sono pi",
+          "pc1": 0.33211,
+          "pc2": 0.037752
+        },
+        {
+          "label": "GT2",
+          "text": "Ho dei grumi duri nella zona pubica. Non sono irritazioni da rasioio, non sono p",
+          "pc1": 0.336828,
+          "pc2": -0.063771
+        },
+        {
+          "label": "GT3",
+          "text": "Ho dei grumi duri nella zona pubica. Non sono irritazioni da rasoio. Non sono pi",
+          "pc1": 0.326607,
+          "pc2": 0.000872
+        },
+        {
+          "label": "W1",
+          "text": "Tengono i grumi duri in zona pubblica, non sono in ridazione di rasoio, non sono",
+          "pc1": -0.374253,
+          "pc2": -0.045413
+        },
+        {
+          "label": "W2",
+          "text": "Tengono i grumi duri in zona pubblica, non sono in ridazione di un rasoio, non s",
+          "pc1": -0.376732,
+          "pc2": -0.067472
+        },
+        {
+          "label": "W3",
+          "text": "Tengono i grumi duri in zona pubblica. Non sono irritazioni di rasoio, non sono ",
+          "pc1": -0.244561,
+          "pc2": 0.138032
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.807466,
+      "H_k4": 1.967861
+    },
+    "texts": [
+      "Ho dei duri grumi nella zona pubica. Non sono irritazioni da rasoio. Non sono pieni di liquido. Non prudono, non fanno male. Come posso rimuoverli?",
+      "Ho dei grumi duri nella zona pubica. Non sono irritazioni da rasioio, non sono pieni di liquido. Non prudono e non fanno male. Come posso fare per toglierli?",
+      "Ho dei grumi duri nella zona pubica. Non sono irritazioni da rasoio. Non sono pieni di liquido. Non prudono e non fanno male. Come posso fare per toglierli?",
+      "Tengono i grumi duri in zona pubblica, non sono in ridazione di rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?",
+      "Tengono i grumi duri in zona pubblica, non sono in ridazione di un rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?",
+      "Tengono i grumi duri in zona pubblica. Non sono irritazioni di rasoio, non sono piene liquide, non prurano, non fanno male. Come faccio a togliere?"
+    ],
+    "h_spectral": 0.597445
+  },
+  {
+    "stem": "prompt-188_rec-8",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "40-49",
+    "wer": 0.833333,
+    "pca_local": {
+      "pc1_variance_explained": 0.957353,
+      "pc2_variance_explained": 0.031237,
+      "delta_pc1": 0.758083,
+      "gt_centroid_pc1": 0.379041,
+      "gt_centroid_pc2": -0.000639,
+      "w_centroid_pc1": -0.379041,
+      "w_centroid_pc2": 0.000639,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Mia figlia piange dopo i pasti e a volte anche mentre mangia.",
+          "pc1": 0.390415,
+          "pc2": 0.105885
+        },
+        {
+          "label": "GT2",
+          "text": "Mia figlia piange dopo che ha mangiato, e a volte anche mentre sta mangiando.",
+          "pc1": 0.370917,
+          "pc2": 0.02063
+        },
+        {
+          "label": "GT3",
+          "text": "Mia figlia piange dopo che ha mangiato o a volte anche mentre sta magnando.",
+          "pc1": 0.375792,
+          "pc2": -0.128433
+        },
+        {
+          "label": "W1",
+          "text": "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+          "pc1": -0.379041,
+          "pc2": 0.000639
+        },
+        {
+          "label": "W2",
+          "text": "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+          "pc1": -0.379041,
+          "pc2": 0.000639
+        },
+        {
+          "label": "W3",
+          "text": "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+          "pc1": -0.379041,
+          "pc2": 0.000639
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.849267,
+      "H_k4": 2.096195
+    },
+    "texts": [
+      "Mia figlia piange dopo i pasti e a volte anche mentre mangia.",
+      "Mia figlia piange dopo che ha mangiato, e a volte anche mentre sta mangiando.",
+      "Mia figlia piange dopo che ha mangiato o a volte anche mentre sta magnando.",
+      "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+      "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+      "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando."
+    ],
+    "h_spectral": 0.655124
+  },
+  {
+    "stem": "prompt-6254_rec-9",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "40-49",
+    "wer": 0.525,
+    "pca_local": {
+      "pc1_variance_explained": 0.429001,
+      "pc2_variance_explained": 0.289982,
+      "delta_pc1": 0.209831,
+      "gt_centroid_pc1": 0.104915,
+      "gt_centroid_pc2": 0.022473,
+      "w_centroid_pc1": -0.104915,
+      "w_centroid_pc2": -0.022473,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "A volte, se faccio un pisolino o chiudo gli occhi, vedo una specie di forma scur",
+          "pc1": 0.190023,
+          "pc2": -0.080684
+        },
+        {
+          "label": "GT2",
+          "text": "A volte, a volte, quando dormo o chiudo gli occhi, vedo una specie di forma nera",
+          "pc1": 0.006707,
+          "pc2": 0.122186
+        },
+        {
+          "label": "GT3",
+          "text": "A volte, a volte, quando dormo o chiudo gli occhi, vedo una specie di forma scur",
+          "pc1": 0.118017,
+          "pc2": 0.025916
+        },
+        {
+          "label": "W1",
+          "text": "A volte, quando dormo, chiudo gli occhi e vedo una specie di forma nera che gira",
+          "pc1": -0.116474,
+          "pc2": -0.093146
+        },
+        {
+          "label": "W2",
+          "text": "A volte, quando dormo, ho chiuso gli occhi, ho una specie di forma nera che gira",
+          "pc1": -0.085153,
+          "pc2": 0.12568
+        },
+        {
+          "label": "W3",
+          "text": "A volte, quando dormo o chiudo gli occhi, vedo una specie di forma nera che gira",
+          "pc1": -0.113119,
+          "pc2": -0.099953
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.79389,
+      "H_k4": 1.832574
+    },
+    "texts": [
+      "A volte, se faccio un pisolino o chiudo gli occhi, vedo una specie di forma scura che ruota davanti agli occhi per circa un minuto e poi scompare. È normale? Sono miope e l'anno scorso mi hanno controllato la retina.",
+      "A volte, a volte, quando dormo o chiudo gli occhi, vedo una specie di forma nera che gira davanti agli occhi. Per un minuto e poi... e poi se ne va. Non so: è normale? Sono miope e l'anno scorso mi hanno controllato la retina.",
+      "A volte, a volte, quando dormo o chiudo gli occhi, vedo una specie di forma scura che gira davanti agli occhi. Per un minuto e poi e poi se ne va. Non so se sia normale. Sono miope e l'anno passato mi hanno controllato la retina.",
+      "A volte, quando dormo, chiudo gli occhi e vedo una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina.",
+      "A volte, quando dormo, ho chiuso gli occhi, ho una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio, l'anno passato mi hanno controllato la retina.",
+      "A volte, quando dormo o chiudo gli occhi, vedo una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina."
+    ],
+    "h_spectral": 0.670614
+  },
+  {
+    "stem": "prompt-5657_rec-11",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "18-29",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.714391,
+      "pc2_variance_explained": 0.277117,
+      "delta_pc1": 0.639985,
+      "gt_centroid_pc1": 0.319992,
+      "gt_centroid_pc2": -0.053517,
+      "w_centroid_pc1": -0.319992,
+      "w_centroid_pc2": 0.053517,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Il narghilè aromatizzato è dannoso per la salute? Può consigliarmi?",
+          "pc1": 0.492438,
+          "pc2": 0.344534
+        },
+        {
+          "label": "GT2",
+          "text": "Dottore, dottore, ma il narghilè aromatizzato fa male? Può dirmelo?",
+          "pc1": 0.239116,
+          "pc2": -0.272457
+        },
+        {
+          "label": "GT3",
+          "text": "Dottore, ma il narghilè aromatizzato fa male? Me lo può dire?",
+          "pc1": 0.228422,
+          "pc2": -0.232628
+        },
+        {
+          "label": "W1",
+          "text": "o un argillet aromatizzato. Fa male? Purisce!",
+          "pc1": -0.319992,
+          "pc2": 0.053517
+        },
+        {
+          "label": "W2",
+          "text": "o un argillet aromatizzato. Fa male? Purisce!",
+          "pc1": -0.319992,
+          "pc2": 0.053517
+        },
+        {
+          "label": "W3",
+          "text": "o un argillet aromatizzato. Fa male? Purisce!",
+          "pc1": -0.319992,
+          "pc2": 0.053517
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.810085,
+      "H_k4": 2.009319
+    },
+    "texts": [
+      "Il narghilè aromatizzato è dannoso per la salute? Può consigliarmi?",
+      "Dottore, dottore, ma il narghilè aromatizzato fa male? Può dirmelo?",
+      "Dottore, ma il narghilè aromatizzato fa male? Me lo può dire?",
+      "o un argillet aromatizzato. Fa male? Purisce!",
+      "o un argillet aromatizzato. Fa male? Purisce!",
+      "o un argillet aromatizzato. Fa male? Purisce!"
+    ],
+    "h_spectral": 0.645072
+  },
+  {
+    "stem": "prompt-6805_rec-0",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "18-29",
+    "wer": 0.5,
+    "pca_local": {
+      "pc1_variance_explained": 0.76544,
+      "pc2_variance_explained": 0.143724,
+      "delta_pc1": 0.411052,
+      "gt_centroid_pc1": 0.205526,
+      "gt_centroid_pc2": 0.031329,
+      "w_centroid_pc1": -0.205526,
+      "w_centroid_pc2": -0.031329,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Non lo voglio, me la caverò.",
+          "pc1": 0.332874,
+          "pc2": -0.100485
+        },
+        {
+          "label": "GT2",
+          "text": "Non lo voglio, ce la posso fare",
+          "pc1": 0.077368,
+          "pc2": 0.201559
+        },
+        {
+          "label": "GT3",
+          "text": "Non lo voglio, me la posso cavare",
+          "pc1": 0.206337,
+          "pc2": -0.007087
+        },
+        {
+          "label": "W1",
+          "text": "Non lo voglio, già posso farlo.",
+          "pc1": -0.205526,
+          "pc2": -0.031329
+        },
+        {
+          "label": "W2",
+          "text": "Non lo voglio, già posso farlo.",
+          "pc1": -0.205526,
+          "pc2": -0.031329
+        },
+        {
+          "label": "W3",
+          "text": "Non lo voglio, già posso farlo.",
+          "pc1": -0.205526,
+          "pc2": -0.031329
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.79879,
+      "H_k4": 1.90268
+    },
+    "texts": [
+      "Non lo voglio, me la caverò.",
+      "Non lo voglio, ce la posso fare",
+      "Non lo voglio, me la posso cavare",
+      "Non lo voglio, già posso farlo.",
+      "Non lo voglio, già posso farlo.",
+      "Non lo voglio, già posso farlo."
+    ],
+    "h_spectral": 0.629751
+  },
+  {
+    "stem": "prompt-8504_rec-3",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "30-39",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.828181,
+      "pc2_variance_explained": 0.143775,
+      "delta_pc1": 0.073863,
+      "gt_centroid_pc1": 0.036931,
+      "gt_centroid_pc2": 0.08173,
+      "w_centroid_pc1": -0.036931,
+      "w_centroid_pc2": -0.08173,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "No, assolutamente no.",
+          "pc1": 0.513379,
+          "pc2": 0.069975
+        },
+        {
+          "label": "GT2",
+          "text": "No, ma proprio no",
+          "pc1": -0.153944,
+          "pc2": -0.014926
+        },
+        {
+          "label": "GT3",
+          "text": "No, ma veramente no",
+          "pc1": -0.248641,
+          "pc2": 0.19014
+        },
+        {
+          "label": "W1",
+          "text": "No ma proprio no.",
+          "pc1": -0.036931,
+          "pc2": -0.08173
+        },
+        {
+          "label": "W2",
+          "text": "No ma proprio no.",
+          "pc1": -0.036931,
+          "pc2": -0.08173
+        },
+        {
+          "label": "W3",
+          "text": "No ma proprio no.",
+          "pc1": -0.036931,
+          "pc2": -0.08173
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.800801,
+      "H_k4": 1.888282
+    },
+    "texts": [
+      "No, assolutamente no.",
+      "No, ma proprio no",
+      "No, ma veramente no",
+      "No ma proprio no.",
+      "No ma proprio no.",
+      "No ma proprio no."
+    ],
+    "h_spectral": 0.605268
+  },
+  {
+    "stem": "prompt-9358_rec-7",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "30-39",
+    "wer": 0.823529,
+    "pca_local": {
+      "pc1_variance_explained": 0.521854,
+      "pc2_variance_explained": 0.380181,
+      "delta_pc1": 0.12214,
+      "gt_centroid_pc1": 0.06107,
+      "gt_centroid_pc2": -0.140346,
+      "w_centroid_pc1": -0.06107,
+      "w_centroid_pc2": 0.140346,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Riesco ad addormentarmi con quella, ma di solito mi strappo la maschera perché m",
+          "pc1": 0.421913,
+          "pc2": -0.065678
+        },
+        {
+          "label": "GT2",
+          "text": "Riesco a dormire con questa, però solitamente, mentre mi giro e mi rigiro, si st",
+          "pc1": -0.077496,
+          "pc2": -0.046152
+        },
+        {
+          "label": "GT3",
+          "text": "Ce la faccio a dormire con questa, però solitamente, quando mi giro e mi rigiro,",
+          "pc1": -0.161207,
+          "pc2": -0.309207
+        },
+        {
+          "label": "W1",
+          "text": "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa se",
+          "pc1": -0.06107,
+          "pc2": 0.140346
+        },
+        {
+          "label": "W2",
+          "text": "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa se",
+          "pc1": -0.06107,
+          "pc2": 0.140346
+        },
+        {
+          "label": "W3",
+          "text": "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa se",
+          "pc1": -0.06107,
+          "pc2": 0.140346
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.799797,
+      "H_k4": 1.929242
+    },
+    "texts": [
+      "Riesco ad addormentarmi con quella, ma di solito mi strappo la maschera perché mi giro e rigiro.",
+      "Riesco a dormire con questa, però solitamente, mentre mi giro e mi rigiro, si strappa sempre.",
+      "Ce la faccio a dormire con questa, però solitamente, quando mi giro e mi rigiro, si rompe sempre",
+      "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre",
+      "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre",
+      "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre"
+    ],
+    "h_spectral": 0.584679
+  },
+  {
+    "stem": "prompt-8553_rec-8",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "30-39",
+    "wer": 0.7,
+    "pca_local": {
+      "pc1_variance_explained": 0.590392,
+      "pc2_variance_explained": 0.334161,
+      "delta_pc1": 0.212496,
+      "gt_centroid_pc1": 0.106248,
+      "gt_centroid_pc2": 0.139362,
+      "w_centroid_pc1": -0.106248,
+      "w_centroid_pc2": -0.139362,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sì, è così. Ha appena compiuto ottantanove anni. L'anno prossimo pensiamo di org",
+          "pc1": 0.485867,
+          "pc2": -0.020957
+        },
+        {
+          "label": "GT2",
+          "text": "Certo, ho appena fatto ottanove anni. L'anno che viene, penso che organizzo una ",
+          "pc1": -0.06126,
+          "pc2": 0.275509
+        },
+        {
+          "label": "GT3",
+          "text": "Ovvio. Ho da poco compiuto ottantanove anni. L'anno che arriva, credo che prepar",
+          "pc1": -0.105863,
+          "pc2": 0.163533
+        },
+        {
+          "label": "W1",
+          "text": "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una g",
+          "pc1": -0.11208,
+          "pc2": -0.137981
+        },
+        {
+          "label": "W2",
+          "text": "E' certa, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una ",
+          "pc1": -0.094584,
+          "pc2": -0.142123
+        },
+        {
+          "label": "W3",
+          "text": "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una g",
+          "pc1": -0.11208,
+          "pc2": -0.137981
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.797464,
+      "H_k4": 1.895902
+    },
+    "texts": [
+      "Sì, è così. Ha appena compiuto ottantanove anni. L'anno prossimo pensiamo di organizzare una grande festa per il suo compleanno.",
+      "Certo, ho appena fatto ottanove anni. L'anno che viene, penso che organizzo una grande festa per il compleanno.",
+      "Ovvio. Ho da poco compiuto ottantanove anni. L'anno che arriva, credo che preparerò una grande festa per il compleanno.",
+      "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+      "E' certa, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+      "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno."
+    ],
+    "h_spectral": 0.646056
+  },
+  {
+    "stem": "prompt-8691_rec-11",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "30-39",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.878343,
+      "pc2_variance_explained": 0.055757,
+      "delta_pc1": 1.194663,
+      "gt_centroid_pc1": 0.597331,
+      "gt_centroid_pc2": 0.007736,
+      "w_centroid_pc1": -0.597331,
+      "w_centroid_pc2": -0.007736,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Mi identifico come donna.",
+          "pc1": 0.639597,
+          "pc2": -0.228738
+        },
+        {
+          "label": "GT2",
+          "text": "Sono femmina",
+          "pc1": 0.544973,
+          "pc2": 0.267445
+        },
+        {
+          "label": "GT3",
+          "text": "Sono una donna",
+          "pc1": 0.607424,
+          "pc2": -0.015501
+        },
+        {
+          "label": "W1",
+          "text": "soffimmano",
+          "pc1": -0.611852,
+          "pc2": 0.036998
+        },
+        {
+          "label": "W2",
+          "text": "soffimmano",
+          "pc1": -0.611851,
+          "pc2": 0.036998
+        },
+        {
+          "label": "W3",
+          "text": "Soffimano.",
+          "pc1": -0.568291,
+          "pc2": -0.097202
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.962984,
+      "H_k4": 2.198105
+    },
+    "texts": [
+      "Mi identifico come donna.",
+      "Sono femmina",
+      "Sono una donna",
+      "soffimmano",
+      "soffimmano",
+      "Soffimano."
+    ],
+    "h_spectral": 0.812229
+  },
+  {
+    "stem": "prompt-9371_rec-14",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "30-39",
+    "wer": 0.642857,
+    "pca_local": {
+      "pc1_variance_explained": 0.729802,
+      "pc2_variance_explained": 0.204003,
+      "delta_pc1": 0.323128,
+      "gt_centroid_pc1": 0.161564,
+      "gt_centroid_pc2": 0.008876,
+      "w_centroid_pc1": -0.161564,
+      "w_centroid_pc2": -0.008876,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sembra che tutto li peggiori. Peggiorano con la tosse, lo sforzo, gli starnuti, ",
+          "pc1": 0.194486,
+          "pc2": -0.161218
+        },
+        {
+          "label": "GT2",
+          "text": "Sembra che va sempre peggio. Va peggio con la tosse, lo sforzo, gli starnuti, pu",
+          "pc1": 0.152375,
+          "pc2": 0.079897
+        },
+        {
+          "label": "GT3",
+          "text": "Pare che va sempre peggio. Peggio con la tosse, l'affaticamento, gli starnuti, p",
+          "pc1": 0.137831,
+          "pc2": 0.107948
+        },
+        {
+          "label": "W1",
+          "text": "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure q",
+          "pc1": -0.161564,
+          "pc2": -0.008876
+        },
+        {
+          "label": "W2",
+          "text": "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure q",
+          "pc1": -0.161564,
+          "pc2": -0.008876
+        },
+        {
+          "label": "W3",
+          "text": "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure q",
+          "pc1": -0.161564,
+          "pc2": -0.008876
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.793509,
+      "H_k4": 1.824915
+    },
+    "texts": [
+      "Sembra che tutto li peggiori. Peggiorano con la tosse, lo sforzo, gli starnuti, anche quando cerco di stare in piedi. Ho provato tutti i farmaci, ma niente ha aiutato. C'era l'Imitrex e ho anche provato il Motrin ottocento milligrammi due volte al giorno, ma niente sembra efficace. In realtà mi aiuta un po' quando mi sdraio.",
+      "Sembra che va sempre peggio. Va peggio con la tosse, lo sforzo, gli starnuti, pure quando cerco di stare in piedi. Ho provato tutti i farmaci, ma niente. C'è l'Imitrex, e ho provato pure il Motrin, ottocento milligrammi, due volte al giorno, ma non fa niente. In realtà, mi aiuta quando sono un po' sdraiata.",
+      "Pare che va sempre peggio. Peggio con la tosse, l'affaticamento, gli starnuti, pure quando cerco di stare in piedi. Ho provato tutti i farmaci, ma nulla. Ci sta l'Imitrex e ho provato pure il Motrin ottocento milligrammi per due volte al giorno, ma non fa nulla. In realtà, mi aiuta un po' quando mi sdraio.",
+      "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.",
+      "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.",
+      "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata."
+    ],
+    "h_spectral": 0.588841
+  },
+  {
+    "stem": "prompt-5521_rec-3",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "40-49",
+    "wer": 1.043478,
+    "pca_local": {
+      "pc1_variance_explained": 0.8997,
+      "pc2_variance_explained": 0.090379,
+      "delta_pc1": 0.996592,
+      "gt_centroid_pc1": 0.498296,
+      "gt_centroid_pc2": -0.003612,
+      "w_centroid_pc1": -0.498296,
+      "w_centroid_pc2": 0.003612,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho una ciste irregolare. Un'ecografia ha rilevato cisti multiple sulle ovaie. St",
+          "pc1": 0.519927,
+          "pc2": 0.308165
+        },
+        {
+          "label": "GT2",
+          "text": "Tengo una ciste irregolare. L'ecografia ha fatto vedere una ciste, insieme ad al",
+          "pc1": 0.479701,
+          "pc2": -0.203399
+        },
+        {
+          "label": "GT3",
+          "text": "Ho una ciste irregolare. L'ecografia ha mostrato una ciste insieme ad altre nell",
+          "pc1": 0.49526,
+          "pc2": -0.115602
+        },
+        {
+          "label": "W1",
+          "text": "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narc",
+          "pc1": -0.498296,
+          "pc2": 0.003612
+        },
+        {
+          "label": "W2",
+          "text": "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narc",
+          "pc1": -0.498296,
+          "pc2": 0.003612
+        },
+        {
+          "label": "W3",
+          "text": "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narc",
+          "pc1": -0.498296,
+          "pc2": 0.003612
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.853729,
+      "H_k4": 2.141348
+    },
+    "texts": [
+      "Ho una ciste irregolare. Un'ecografia ha rilevato cisti multiple sulle ovaie. Sto cercando di concepire da due mesi senza successo. Cosa devo fare?",
+      "Tengo una ciste irregolare. L'ecografia ha fatto vedere una ciste, insieme ad altre cisti nell'ovaia. Sto cercando di avere un figlio da due mesi, ma senza successo. Che posso fare?",
+      "Ho una ciste irregolare. L'ecografia ha mostrato una ciste insieme ad altre nell'ovaia. Sto provando ad avere figli da due mesi, senza successo. Che posso fare?",
+      "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?",
+      "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?",
+      "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?"
+    ],
+    "h_spectral": 0.654824
+  },
+  {
+    "stem": "prompt-2064_rec-10",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "40-49",
+    "wer": 0.866667,
+    "pca_local": {
+      "pc1_variance_explained": 0.680712,
+      "pc2_variance_explained": 0.135351,
+      "delta_pc1": 0.782046,
+      "gt_centroid_pc1": 0.391023,
+      "gt_centroid_pc2": -0.096284,
+      "w_centroid_pc1": -0.391023,
+      "w_centroid_pc2": 0.096284,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Mia madre ha avuto un ictus con sanguinamento cerebrale ed è in coma. Può ripren",
+          "pc1": 0.42833,
+          "pc2": -0.076238
+        },
+        {
+          "label": "GT2",
+          "text": "Mia mamma ha avuto un ictus con il sanguinamento celebrale. Mo è in coma. Si può",
+          "pc1": 0.359786,
+          "pc2": -0.06703
+        },
+        {
+          "label": "GT3",
+          "text": "Mia madre ha avuto un ictus con sanguinamento celebrale. Adesso è in coma. Si ri",
+          "pc1": 0.384952,
+          "pc2": -0.145585
+        },
+        {
+          "label": "W1",
+          "text": "Mamma, ho avuto un incontro con il sangue di mente celebrato. Ma è ancora? Si pu",
+          "pc1": -0.61373,
+          "pc2": -0.082013
+        },
+        {
+          "label": "W2",
+          "text": "Mamma, ho avuto un piccolo sanguinamento cerebrale, ma è ancora, si può riprende",
+          "pc1": 0.043524,
+          "pc2": 0.442557
+        },
+        {
+          "label": "W3",
+          "text": "Mamma, non ho mai avuto il mio sangue di mente celebrato. Ora è ancora. Ci vogli",
+          "pc1": -0.602863,
+          "pc2": -0.07169
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.869588,
+      "H_k4": 2.103601
+    },
+    "texts": [
+      "Mia madre ha avuto un ictus con sanguinamento cerebrale ed è in coma. Può riprendersi?",
+      "Mia mamma ha avuto un ictus con il sanguinamento celebrale. Mo è in coma. Si può riprendere?",
+      "Mia madre ha avuto un ictus con sanguinamento celebrale. Adesso è in coma. Si riprenderà?",
+      "Mamma, ho avuto un incontro con il sangue di mente celebrato. Ma è ancora? Si può arrabbiare?",
+      "Mamma, ho avuto un piccolo sanguinamento cerebrale, ma è ancora, si può riprendere?",
+      "Mamma, non ho mai avuto il mio sangue di mente celebrato. Ora è ancora. Ci vogliamo prendere?"
+    ],
+    "h_spectral": 0.767603
+  },
+  {
+    "stem": "prompt-1061_rec-16",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "40-49",
+    "wer": 0.75,
+    "pca_local": {
+      "pc1_variance_explained": 0.851593,
+      "pc2_variance_explained": 0.099995,
+      "delta_pc1": 0.500167,
+      "gt_centroid_pc1": 0.250084,
+      "gt_centroid_pc2": 0.007609,
+      "w_centroid_pc1": -0.250084,
+      "w_centroid_pc2": -0.007609,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sento un dolore forte ai lati dell'addome, in zona ovarica. Potrebbe essere un'i",
+          "pc1": 0.300137,
+          "pc2": -0.163344
+        },
+        {
+          "label": "GT2",
+          "text": "Sento un dolore forte, ma proprio a fianco all'addome, la zona delle ovaie. Non ",
+          "pc1": 0.231314,
+          "pc2": 0.099838
+        },
+        {
+          "label": "GT3",
+          "text": "Sento un dolore forte, ma proprio vicino all'addome, la zona delle ovaie. Non è ",
+          "pc1": 0.218801,
+          "pc2": 0.086333
+        },
+        {
+          "label": "W1",
+          "text": "Sento un orrore forte proprio a fianco all'addome, dalla zona dell'ovaio. Non è ",
+          "pc1": -0.29489,
+          "pc2": -0.02745
+        },
+        {
+          "label": "W2",
+          "text": "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che ",
+          "pc1": -0.227681,
+          "pc2": 0.002312
+        },
+        {
+          "label": "W3",
+          "text": "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che ",
+          "pc1": -0.227681,
+          "pc2": 0.002312
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.794997,
+      "H_k4": 1.843784
+    },
+    "texts": [
+      "Sento un dolore forte ai lati dell'addome, in zona ovarica. Potrebbe essere un'infezione alla vescica o una gravidanza fuori dall'utero?",
+      "Sento un dolore forte, ma proprio a fianco all'addome, la zona delle ovaie. Non è che è un'infezione alla vescica, o una gravidanza fuori all'utero?",
+      "Sento un dolore forte, ma proprio vicino all'addome, la zona delle ovaie. Non è che si tratta di un'infezione alla vescica o di una gravidanza fuori dall'utero?",
+      "Sento un orrore forte proprio a fianco all'addome, dalla zona dell'ovaio. Non è che l'invezione avvicina la gravidanza fuori dall'utero.",
+      "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che l'invezione avvicina la gravidanza fuori dall'utero.",
+      "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che l'invezione avvicina la gravidanza fuori dall'utero."
+    ],
+    "h_spectral": 0.591408
+  },
+  {
+    "stem": "prompt-151_rec-18",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "40-49",
+    "wer": 0.166667,
+    "pca_local": {
+      "pc1_variance_explained": 0.766776,
+      "pc2_variance_explained": 0.22718,
+      "delta_pc1": 0.288125,
+      "gt_centroid_pc1": 0.144063,
+      "gt_centroid_pc2": 0.008962,
+      "w_centroid_pc1": -0.144063,
+      "w_centroid_pc2": -0.008962,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Quali sono i momenti migliori del ciclo per cercare di rimanere incinta?",
+          "pc1": 0.126256,
+          "pc2": 0.083652
+        },
+        {
+          "label": "GT2",
+          "text": "Quali sono i momenti meglio del ciclo per cercare di rimanere incinta?",
+          "pc1": 0.128888,
+          "pc2": 0.09105
+        },
+        {
+          "label": "GT3",
+          "text": "Quali sono i momenti giusti del ciclo per cercare di rimanere incinta?",
+          "pc1": 0.177043,
+          "pc2": -0.147816
+        },
+        {
+          "label": "W1",
+          "text": "Quali sono i momenti migliori per cercare di rimanere incinta?",
+          "pc1": -0.144063,
+          "pc2": -0.008962
+        },
+        {
+          "label": "W2",
+          "text": "Quali sono i momenti migliori per cercare di rimanere incinta?",
+          "pc1": -0.144063,
+          "pc2": -0.008962
+        },
+        {
+          "label": "W3",
+          "text": "Quali sono i momenti migliori per cercare di rimanere incinta?",
+          "pc1": -0.144063,
+          "pc2": -0.008962
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.792479,
+      "H_k4": 1.80324
+    },
+    "texts": [
+      "Quali sono i momenti migliori del ciclo per cercare di rimanere incinta?",
+      "Quali sono i momenti meglio del ciclo per cercare di rimanere incinta?",
+      "Quali sono i momenti giusti del ciclo per cercare di rimanere incinta?",
+      "Quali sono i momenti migliori per cercare di rimanere incinta?",
+      "Quali sono i momenti migliori per cercare di rimanere incinta?",
+      "Quali sono i momenti migliori per cercare di rimanere incinta?"
+    ],
+    "h_spectral": 0.619823
+  },
+  {
+    "stem": "prompt-8089_rec-11",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "50-59",
+    "wer": 0.3,
+    "pca_local": {
+      "pc1_variance_explained": 0.763849,
+      "pc2_variance_explained": 0.234469,
+      "delta_pc1": 0.053132,
+      "gt_centroid_pc1": 0.026566,
+      "gt_centroid_pc2": -0.052837,
+      "w_centroid_pc1": -0.026566,
+      "w_centroid_pc2": 0.052837,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sa dottore, sono nato a Monaco di Baviera, in Germania.",
+          "pc1": 0.285261,
+          "pc2": -0.069002
+        },
+        {
+          "label": "GT2",
+          "text": "Sapete dottò, sono nata a Monaco di Baviera, in Germania.",
+          "pc1": -0.179082,
+          "pc2": -0.141049
+        },
+        {
+          "label": "GT3",
+          "text": "Sapete dottore, sono nata a Monaco di Baviera, in Germania.",
+          "pc1": -0.026481,
+          "pc2": 0.051541
+        },
+        {
+          "label": "W1",
+          "text": "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+          "pc1": -0.026566,
+          "pc2": 0.052837
+        },
+        {
+          "label": "W2",
+          "text": "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+          "pc1": -0.026566,
+          "pc2": 0.052837
+        },
+        {
+          "label": "W3",
+          "text": "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+          "pc1": -0.026566,
+          "pc2": 0.052837
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.793151,
+      "H_k4": 1.818784
+    },
+    "texts": [
+      "Sa dottore, sono nato a Monaco di Baviera, in Germania.",
+      "Sapete dottò, sono nata a Monaco di Baviera, in Germania.",
+      "Sapete dottore, sono nata a Monaco di Baviera, in Germania.",
+      "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+      "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+      "Sapete dottor, sono nata a Monaco di Baviera, in Germania."
+    ],
+    "h_spectral": 0.580577
+  },
+  {
+    "stem": "prompt-7057_rec-13",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "50-59",
+    "wer": 0.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.82456,
+      "pc2_variance_explained": 0.17544,
+      "delta_pc1": 0.157689,
+      "gt_centroid_pc1": 0.078845,
+      "gt_centroid_pc2": -0.013142,
+      "w_centroid_pc1": -0.078845,
+      "w_centroid_pc2": 0.013142,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sì, non è un problema.",
+          "pc1": -0.078845,
+          "pc2": 0.013142
+        },
+        {
+          "label": "GT2",
+          "text": "Si, non è nessun problema.",
+          "pc1": 0.087898,
+          "pc2": -0.115369
+        },
+        {
+          "label": "GT3",
+          "text": "Si, non c'è problema.",
+          "pc1": 0.22748,
+          "pc2": 0.062799
+        },
+        {
+          "label": "W1",
+          "text": "Sì, non è un problema.",
+          "pc1": -0.078845,
+          "pc2": 0.013142
+        },
+        {
+          "label": "W2",
+          "text": "Sì, non è un problema.",
+          "pc1": -0.078845,
+          "pc2": 0.013142
+        },
+        {
+          "label": "W3",
+          "text": "Sì, non è un problema.",
+          "pc1": -0.078845,
+          "pc2": 0.013142
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.793854,
+      "H_k4": 1.821821
+    },
+    "texts": [
+      "Sì, non è un problema.",
+      "Si, non è nessun problema.",
+      "Si, non c'è problema.",
+      "Sì, non è un problema.",
+      "Sì, non è un problema.",
+      "Sì, non è un problema."
+    ],
+    "h_spectral": 0.454246
+  },
+  {
+    "stem": "prompt-5724_rec-0",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 0.192308,
+    "pca_local": {
+      "pc1_variance_explained": 0.50587,
+      "pc2_variance_explained": 0.337821,
+      "delta_pc1": 0.066558,
+      "gt_centroid_pc1": 0.033279,
+      "gt_centroid_pc2": 0.029957,
+      "w_centroid_pc1": -0.033279,
+      "w_centroid_pc2": -0.029957,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Mi hanno diagnosticato la tiroide che funziona poco due mesi fa e ho iniziato un",
+          "pc1": 0.106685,
+          "pc2": -0.024643
+        },
+        {
+          "label": "GT2",
+          "text": "Mi hanno diagnosticato la tiroide che funziona poco, due mesi fa. Eh ho iniziato",
+          "pc1": 0.001888,
+          "pc2": 0.060113
+        },
+        {
+          "label": "GT3",
+          "text": "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. Ho iniziato un",
+          "pc1": -0.008736,
+          "pc2": 0.054402
+        },
+        {
+          "label": "W1",
+          "text": "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato ",
+          "pc1": -0.033279,
+          "pc2": -0.029957
+        },
+        {
+          "label": "W2",
+          "text": "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato ",
+          "pc1": -0.033279,
+          "pc2": -0.029957
+        },
+        {
+          "label": "W3",
+          "text": "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato ",
+          "pc1": -0.033279,
+          "pc2": -0.029957
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.791861,
+      "H_k4": 1.793434
+    },
+    "texts": [
+      "Mi hanno diagnosticato la tiroide che funziona poco due mesi fa e ho iniziato una medicina. Dopo quattro settimane i valori sono migliorati ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora al giorno. Quanto tempo ci vuole per adattarsi?",
+      "Mi hanno diagnosticato la tiroide che funziona poco, due mesi fa. Eh ho iniziato una medicina, una cura. Dopo quattro settimane, i valori sono migliorati, ma ho tenuto le palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide, e le palpitazioni durano circa un'ora al giorno. Quanto tempo ci vuole per adattarsi?",
+      "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. Ho iniziato una medicina, una cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto le palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide, e le palpitazioni durano circa un'ora al giorno? Quanto tempo ci vuole per adattarsi?",
+      "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?",
+      "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?",
+      "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?"
+    ],
+    "h_spectral": 0.43203
+  },
+  {
+    "stem": "prompt-5584_rec-1",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 0.242424,
+    "pca_local": {
+      "pc1_variance_explained": 0.918592,
+      "pc2_variance_explained": 0.070709,
+      "delta_pc1": 0.387292,
+      "gt_centroid_pc1": 0.193646,
+      "gt_centroid_pc2": -0.001094,
+      "w_centroid_pc1": -0.193646,
+      "w_centroid_pc2": 0.001094,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Mia moglie è incinta da 2 mesi e 5 giorni e da due settimane ha dolore sotto l'a",
+          "pc1": 0.183094,
+          "pc2": -0.107008
+        },
+        {
+          "label": "GT2",
+          "text": "Eh, mia moglie è incinta di due mesi e cinque giorni. Da due settimane tiene dol",
+          "pc1": 0.187307,
+          "pc2": 0.067785
+        },
+        {
+          "label": "GT3",
+          "text": "Eh, mia moglie è incinta di due mesi e cinque giorni. Da due settimane avverte d",
+          "pc1": 0.210537,
+          "pc2": 0.035942
+        },
+        {
+          "label": "W1",
+          "text": "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro so",
+          "pc1": -0.190145,
+          "pc2": -0.000605
+        },
+        {
+          "label": "W2",
+          "text": "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro so",
+          "pc1": -0.200648,
+          "pc2": 0.004492
+        },
+        {
+          "label": "W3",
+          "text": "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro so",
+          "pc1": -0.190145,
+          "pc2": -0.000605
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.793296,
+      "H_k4": 1.819656
+    },
+    "texts": [
+      "Mia moglie è incinta da 2 mesi e 5 giorni e da due settimane ha dolore sotto l'ascella destra, solo quando la tocca. C'è qualche problema? Sta prendendo un integratore per la gravidanza.",
+      "Eh, mia moglie è incinta di due mesi e cinque giorni. Da due settimane tiene dolore sotto l'ascella destra, solo quando la tocco. Ci sta qualche problema? Sta prendendo un integratore per la gravidanza.",
+      "Eh, mia moglie è incinta di due mesi e cinque giorni. Da due settimane avverte dolore sotto l'ascella destra, solo quando la tocco. C'è qualche problema? Sta prendendo un integratore per la gravidanza.",
+      "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.",
+      "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto la scella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.",
+      "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza."
+    ],
+    "h_spectral": 0.55121
+  },
+  {
+    "stem": "prompt-8643_rec-1",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "50-59",
+    "wer": 0.5,
+    "pca_local": {
+      "pc1_variance_explained": 0.694207,
+      "pc2_variance_explained": 0.243154,
+      "delta_pc1": 0.32548,
+      "gt_centroid_pc1": 0.16274,
+      "gt_centroid_pc2": -0.008074,
+      "w_centroid_pc1": -0.16274,
+      "w_centroid_pc2": 0.008074,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Mi fanno male le ginocchia. Sono andate peggiorando lentamente ogni anno. La vit",
+          "pc1": 0.156265,
+          "pc2": -0.102658
+        },
+        {
+          "label": "GT2",
+          "text": "Mi fanno le ginocchia. Sono andata a peggiorare, piano piano, ogni anno. La vita",
+          "pc1": 0.18993,
+          "pc2": 0.184601
+        },
+        {
+          "label": "GT3",
+          "text": "Mi fanno male le ginocchia. Sto peggiorando, piano piano, ogni anno. La vita è d",
+          "pc1": 0.142024,
+          "pc2": -0.106163
+        },
+        {
+          "label": "W1",
+          "text": "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tos",
+          "pc1": -0.16274,
+          "pc2": 0.008073
+        },
+        {
+          "label": "W2",
+          "text": "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tos",
+          "pc1": -0.16274,
+          "pc2": 0.008074
+        },
+        {
+          "label": "W3",
+          "text": "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tos",
+          "pc1": -0.16274,
+          "pc2": 0.008074
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.793909,
+      "H_k4": 1.826167
+    },
+    "texts": [
+      "Mi fanno male le ginocchia. Sono andate peggiorando lentamente ogni anno. La vita è dura a settantadue anni.",
+      "Mi fanno le ginocchia. Sono andata a peggiorare, piano piano, ogni anno. La vita è tosta a settantadue anni.",
+      "Mi fanno male le ginocchia. Sto peggiorando, piano piano, ogni anno. La vita è dura a settantadue anni.",
+      "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.",
+      "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.",
+      "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni."
+    ],
+    "h_spectral": 0.612636
+  },
+  {
+    "stem": "prompt-10304_rec-2",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 0.833333,
+    "pca_local": {
+      "pc1_variance_explained": 0.935957,
+      "pc2_variance_explained": 0.052106,
+      "delta_pc1": 0.771045,
+      "gt_centroid_pc1": 0.385522,
+      "gt_centroid_pc2": -0.00501,
+      "w_centroid_pc1": -0.385522,
+      "w_centroid_pc2": 0.00501,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sono stato in un incidente d'auto molto tempo fa e da allora ho sempre avuto dol",
+          "pc1": 0.428367,
+          "pc2": 0.176749
+        },
+        {
+          "label": "GT2",
+          "text": "Ho avuto un incidente d'auto un sacco di tempo fa, e da allora ho tanto dolore  ",
+          "pc1": 0.359608,
+          "pc2": -0.088668
+        },
+        {
+          "label": "GT3",
+          "text": "Ho auto un incidente automobilistico tanto tempo fa, e da allora ho tanto dolore",
+          "pc1": 0.368591,
+          "pc2": -0.103113
+        },
+        {
+          "label": "W1",
+          "text": "c'è un incidente di macchina un sacco di tempo fa e allora tengo assai dolore ne",
+          "pc1": -0.373764,
+          "pc2": 0.003503
+        },
+        {
+          "label": "W2",
+          "text": "C'è stato un incidente di macchina un sacco di tempo fa e allora tengo assai dol",
+          "pc1": -0.391402,
+          "pc2": 0.005764
+        },
+        {
+          "label": "W3",
+          "text": "C'è stato un incidente di macchina un sacco di tempo fa e allora tengo assai dol",
+          "pc1": -0.391402,
+          "pc2": 0.005764
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.81797,
+      "H_k4": 2.036131
+    },
+    "texts": [
+      "Sono stato in un incidente d'auto molto tempo fa e da allora ho sempre avuto dolori al collo.",
+      "Ho avuto un incidente d'auto un sacco di tempo fa, e da allora ho tanto dolore  nel collo.",
+      "Ho auto un incidente automobilistico tanto tempo fa, e da allora ho tanto dolore nel collo.",
+      "c'è un incidente di macchina un sacco di tempo fa e allora tengo assai dolore nel tuo cuore.",
+      "C'è stato un incidente di macchina un sacco di tempo fa e allora tengo assai dolore nel tuo cuore.",
+      "C'è stato un incidente di macchina un sacco di tempo fa e allora tengo assai dolore nel tuo cuore."
+    ],
+    "h_spectral": 0.639788
+  },
+  {
+    "stem": "prompt-10224_rec-4",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 1.333333,
+    "pca_local": {
+      "pc1_variance_explained": 0.767337,
+      "pc2_variance_explained": 0.210054,
+      "delta_pc1": 1.026526,
+      "gt_centroid_pc1": 0.513263,
+      "gt_centroid_pc2": 0.044016,
+      "w_centroid_pc1": -0.513263,
+      "w_centroid_pc2": -0.044016,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sì, mi hanno tolto la cistifellea alcuni anni fa.",
+          "pc1": 0.520052,
+          "pc2": 0.01413
+        },
+        {
+          "label": "GT2",
+          "text": "Si, mi hanno tolto la cistifellea molto tempo fa.",
+          "pc1": 0.517012,
+          "pc2": 0.057535
+        },
+        {
+          "label": "GT3",
+          "text": "Si, mi hanno tolto la cistifellea tanto tempo fa.",
+          "pc1": 0.502725,
+          "pc2": 0.060385
+        },
+        {
+          "label": "W1",
+          "text": "Ehi, ma non vuoi che ci si perla assai il tempo fuori?",
+          "pc1": -0.597318,
+          "pc2": 0.224116
+        },
+        {
+          "label": "W2",
+          "text": "Ehi, ma non vado a Cissefella a stare il tempo fuori.",
+          "pc1": -0.345153,
+          "pc2": -0.580282
+        },
+        {
+          "label": "W3",
+          "text": "Ehi, ma non vuoi che ci si perla assai il tempo fuori?",
+          "pc1": -0.597318,
+          "pc2": 0.224116
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.937619,
+      "H_k4": 2.169471
+    },
+    "texts": [
+      "Sì, mi hanno tolto la cistifellea alcuni anni fa.",
+      "Si, mi hanno tolto la cistifellea molto tempo fa.",
+      "Si, mi hanno tolto la cistifellea tanto tempo fa.",
+      "Ehi, ma non vuoi che ci si perla assai il tempo fuori?",
+      "Ehi, ma non vado a Cissefella a stare il tempo fuori.",
+      "Ehi, ma non vuoi che ci si perla assai il tempo fuori?"
+    ],
+    "h_spectral": 0.832715
+  },
+  {
+    "stem": "prompt-6150_rec-4",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "60-69",
+    "wer": 0.677419,
+    "pca_local": {
+      "pc1_variance_explained": 0.840681,
+      "pc2_variance_explained": 0.11212,
+      "delta_pc1": 0.882062,
+      "gt_centroid_pc1": 0.441031,
+      "gt_centroid_pc2": -0.022241,
+      "w_centroid_pc1": -0.441031,
+      "w_centroid_pc2": 0.022241,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho perso sangue quando sono andata in bagno e da ieri sera devo andarci ogni die",
+          "pc1": 0.445927,
+          "pc2": -0.01594
+        },
+        {
+          "label": "GT2",
+          "text": "Ho perso sangue quando sono andata in bagno e da ieri ci vado ogni dieci minuti.",
+          "pc1": 0.414907,
+          "pc2": -0.006537
+        },
+        {
+          "label": "GT3",
+          "text": "Ho perso sangue da quando sono andata in bagno e da ieri sera ci devo andare ogn",
+          "pc1": 0.46226,
+          "pc2": -0.044247
+        },
+        {
+          "label": "W1",
+          "text": "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. So",
+          "pc1": -0.332092,
+          "pc2": 0.333732
+        },
+        {
+          "label": "W2",
+          "text": "Giuberto Sang, quando sono giù in bagna e aereo, ci vado ogni 10 minuti. Sono a ",
+          "pc1": -0.433077,
+          "pc2": -0.063015
+        },
+        {
+          "label": "W3",
+          "text": "Giuberto Sang, quando sono giù in campagna e aereo, ci vado ogni 10 minuti. Sono",
+          "pc1": -0.557926,
+          "pc2": -0.203993
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.829414,
+      "H_k4": 2.121109
+    },
+    "texts": [
+      "Ho perso sangue quando sono andata in bagno e da ieri sera devo andarci ogni dieci minuti. Sono una donna di 25 anni, peso 55 kg e sono alta 157 cm.",
+      "Ho perso sangue quando sono andata in bagno e da ieri ci vado ogni dieci minuti. Sono una femmina di 25 anni, peso 55 kg e sono alta 157 cm.",
+      "Ho perso sangue da quando sono andata in bagno e da ieri sera ci devo andare ogni dieci minuti. Sono una donna di 25 anni, peso 55 kg e sono alta 157 cm.",
+      "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.",
+      "Giuberto Sang, quando sono giù in bagna e aereo, ci vado ogni 10 minuti. Sono a Femme nei 25 anni, penso 55 giri e sono rapido, 1,57 m.",
+      "Giuberto Sang, quando sono giù in campagna e aereo, ci vado ogni 10 minuti. Sono a Femme nei 25 anni, penso 55 giri e sono rapido, 1,57 m."
+    ],
+    "h_spectral": 0.774612
+  },
+  {
+    "stem": "prompt-2376_rec-7",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "60-69",
+    "wer": 0.894737,
+    "pca_local": {
+      "pc1_variance_explained": 0.670876,
+      "pc2_variance_explained": 0.181082,
+      "delta_pc1": 0.406214,
+      "gt_centroid_pc1": 0.203107,
+      "gt_centroid_pc2": -0.056766,
+      "w_centroid_pc1": -0.203107,
+      "w_centroid_pc2": 0.056766,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho l'idrocele da molti anni, ma non mi ha mai dato problemi. Adesso voglio opera",
+          "pc1": 0.212139,
+          "pc2": -0.054621
+        },
+        {
+          "label": "GT2",
+          "text": "Tengo l'idrocele da molti anni, ma non mi ha mai dato problemi. Mo voglio operar",
+          "pc1": 0.202012,
+          "pc2": -0.062462
+        },
+        {
+          "label": "GT3",
+          "text": "Ho l'idrocele da un sacco di anni, ma non mi ha mai dato problemi. Adesso voglio",
+          "pc1": 0.19517,
+          "pc2": -0.053214
+        },
+        {
+          "label": "W1",
+          "text": "tende a ritroscire, ha un sacco di donne, ma non mi ha mai dato problema. Ora mi",
+          "pc1": -0.452617,
+          "pc2": -0.147356
+        },
+        {
+          "label": "W2",
+          "text": "Tengo la ritrocera, non so che fare, ma non mi ha mai dato problema. Ora mi vogl",
+          "pc1": -0.03057,
+          "pc2": 0.083314
+        },
+        {
+          "label": "W3",
+          "text": "tende a ritroscire un sacco di anni, ma non mi ha mai dato problema. Ora mi vogl",
+          "pc1": -0.126133,
+          "pc2": 0.234339
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.806683,
+      "H_k4": 1.952379
+    },
+    "texts": [
+      "Ho l'idrocele da molti anni, ma non mi ha mai dato problemi. Adesso voglio operarmi. Esistono alternative alla chirurgia?",
+      "Tengo l'idrocele da molti anni, ma non mi ha mai dato problemi. Mo voglio operarmi. Esistono alternative alla chirurgia?",
+      "Ho l'idrocele da un sacco di anni, ma non mi ha mai dato problemi. Adesso voglio operarmi. Ci stanno alternative alla chirurgia?",
+      "tende a ritroscire, ha un sacco di donne, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.",
+      "Tengo la ritrocera, non so che fare, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia.",
+      "tende a ritroscire un sacco di anni, ma non mi ha mai dato problema. Ora mi voglio operare, c'è stata un'alternativa a chirurgia."
+    ],
+    "h_spectral": 0.51804
+  },
+  {
+    "stem": "prompt-5565_rec-10",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "60-69",
+    "wer": 0.744681,
+    "pca_local": {
+      "pc1_variance_explained": 0.51936,
+      "pc2_variance_explained": 0.254666,
+      "delta_pc1": 0.834463,
+      "gt_centroid_pc1": 0.417232,
+      "gt_centroid_pc2": -0.026201,
+      "w_centroid_pc1": -0.417232,
+      "w_centroid_pc2": 0.026201,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Negli ultimi otto anni ho intorpidimento al dito del piede accanto all'alluce, c",
+          "pc1": 0.419087,
+          "pc2": -0.032636
+        },
+        {
+          "label": "GT2",
+          "text": "Negli ultimi otto anni ho avuto intorpidimento al dito del piede vicino all'allu",
+          "pc1": 0.425146,
+          "pc2": -0.022671
+        },
+        {
+          "label": "GT3",
+          "text": "Negli ultimi otto anni ho avuto un intorpidimento sul dito del piede accanto all",
+          "pc1": 0.407461,
+          "pc2": -0.023295
+        },
+        {
+          "label": "W1",
+          "text": "s'è intorpiduto un rito lupere vicino al gallo, che si è lentamente sparsa un co",
+          "pc1": -0.363013,
+          "pc2": 0.404016
+        },
+        {
+          "label": "W2",
+          "text": "Negli ultimi otto anni sono ripetuto ridere l'opera vicino a Ballos, che si è le",
+          "pc1": -0.399174,
+          "pc2": 0.223367
+        },
+        {
+          "label": "W3",
+          "text": "Negli ultimi otto anni sono torpeduto un ritorno per vicino a Gallo, che si è le",
+          "pc1": -0.489508,
+          "pc2": -0.548781
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.821944,
+      "H_k4": 2.109836
+    },
+    "texts": [
+      "Negli ultimi otto anni ho intorpidimento al dito del piede accanto all'alluce, che si è lentamente diffuso sopra il ginocchio e sopra la caviglia della gamba destra. Nessun dolore al nervo sciatico. Ho il diabete lieve da 10 anni. La risonanza magnetica di otto anni fa mostrava",
+      "Negli ultimi otto anni ho avuto intorpidimento al dito del piede vicino all'alluce, che si è lentamente diffuso sopra il ginocchio e sopra la caviglia della gamba destra. Nessun dolore al nervo sciatico. Tengo il diabete lieve da 10 anni. La risonanza magnetica di otto anni fa già lo mostrava",
+      "Negli ultimi otto anni ho avuto un intorpidimento sul dito del piede accanto all'alluce, che si è lentamente diffuso sopra il ginocchio e sopra la caviglia della gamba destra. Nessun dolore al nervo sciatico. Ho il diabete lieve da 10 anni. La risonanza magnetica di otto anni fa già lo mostrava",
+      "s'è intorpiduto un rito lupere vicino al gallo, che si è lentamente sparsa un coppo di urnucci e un coppo di caviglie della coscia destra. I suoi erano sdervisciati. Tengono il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.",
+      "Negli ultimi otto anni sono ripetuto ridere l'opera vicino a Ballos, che si è lentamente sparsa un po' per l'occhio e un po' per la caviglia della coscia destra. I suoi nervi sciagliano. Tengo il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.",
+      "Negli ultimi otto anni sono torpeduto un ritorno per vicino a Gallo, che si è lentamente spalzato, un po' per l'occhio e un po' per la via coscia destra. Mi sono riuscito a riuscire a riuscire a riuscire a riuscire a riuscire a riuscire a"
+    ],
+    "h_spectral": 0.665876
+  },
+  {
+    "stem": "prompt-2240_rec-11",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "60-69",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.929602,
+      "pc2_variance_explained": 0.053726,
+      "delta_pc1": 1.184886,
+      "gt_centroid_pc1": 0.592443,
+      "gt_centroid_pc2": 0.00159,
+      "w_centroid_pc1": -0.592443,
+      "w_centroid_pc2": -0.00159,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Oltre alla radiografia del torace, quali altri esami devo fare per la tosse?",
+          "pc1": 0.589197,
+          "pc2": -0.001152
+        },
+        {
+          "label": "GT2",
+          "text": "Oltre alla radiografia al torace, quali altri esami posso fare per la tosse?",
+          "pc1": 0.597554,
+          "pc2": -0.005159
+        },
+        {
+          "label": "GT3",
+          "text": "Oltre alla radiografia del torace, che altri esami devo fare per la tosse?",
+          "pc1": 0.590579,
+          "pc2": 0.011081
+        },
+        {
+          "label": "W1",
+          "text": "Porto Radio Univio di Rangia. Quarant'esame di infamia del suo.",
+          "pc1": -0.579236,
+          "pc2": -0.15837
+        },
+        {
+          "label": "W2",
+          "text": "Porto Radio Univio Durange. Quarant'esame di infamato su.",
+          "pc1": -0.605129,
+          "pc2": 0.282596
+        },
+        {
+          "label": "W3",
+          "text": "Porto Radio Univio di Rangia. Quarant'esame di infamato.",
+          "pc1": -0.592965,
+          "pc2": -0.128997
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.911364,
+      "H_k4": 2.18263
+    },
+    "texts": [
+      "Oltre alla radiografia del torace, quali altri esami devo fare per la tosse?",
+      "Oltre alla radiografia al torace, quali altri esami posso fare per la tosse?",
+      "Oltre alla radiografia del torace, che altri esami devo fare per la tosse?",
+      "Porto Radio Univio di Rangia. Quarant'esame di infamia del suo.",
+      "Porto Radio Univio Durange. Quarant'esame di infamato su.",
+      "Porto Radio Univio di Rangia. Quarant'esame di infamato."
+    ],
+    "h_spectral": 0.720502
+  },
+  {
+    "stem": "prompt-1950_rec-24",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "60-69",
+    "wer": 0.923077,
+    "pca_local": {
+      "pc1_variance_explained": 0.750794,
+      "pc2_variance_explained": 0.230477,
+      "delta_pc1": 0.650316,
+      "gt_centroid_pc1": 0.325158,
+      "gt_centroid_pc2": 0.113866,
+      "w_centroid_pc1": -0.325158,
+      "w_centroid_pc2": -0.113866,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Va bene usare una medicina per l'interruzione di gravidanza dopo un taglio cesar",
+          "pc1": 0.334355,
+          "pc2": 0.126037
+        },
+        {
+          "label": "GT2",
+          "text": "Va bene usare una medicina per interrompere una gravidanza dopo un tagli cesareo",
+          "pc1": 0.312108,
+          "pc2": 0.079135
+        },
+        {
+          "label": "GT3",
+          "text": "Va bene utilizzare la medicina per l'interruzione di una gravidanza dopo un tagl",
+          "pc1": 0.329011,
+          "pc2": 0.136428
+        },
+        {
+          "label": "W1",
+          "text": "A voi non usate la medicina per interrompere la gravità?",
+          "pc1": -0.738395,
+          "pc2": 0.245572
+        },
+        {
+          "label": "W2",
+          "text": "A voi non usate la medicina per interrompere la gravidanza?",
+          "pc1": -0.118539,
+          "pc2": -0.293585
+        },
+        {
+          "label": "W3",
+          "text": "A voi non usate la medicina per interrompere la gravidanza?",
+          "pc1": -0.118539,
+          "pc2": -0.293585
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.819167,
+      "H_k4": 2.039589
+    },
+    "texts": [
+      "Va bene usare una medicina per l'interruzione di gravidanza dopo un taglio cesareo?",
+      "Va bene usare una medicina per interrompere una gravidanza dopo un tagli cesareo?",
+      "Va bene utilizzare la medicina per l'interruzione di una gravidanza dopo un taglio cesareo?",
+      "A voi non usate la medicina per interrompere la gravità?",
+      "A voi non usate la medicina per interrompere la gravidanza?",
+      "A voi non usate la medicina per interrompere la gravidanza?"
+    ],
+    "h_spectral": 0.845225
+  },
+  {
+    "stem": "prompt-8952_rec-7",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "50-59",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.762075,
+      "pc2_variance_explained": 0.213995,
+      "delta_pc1": 0.461287,
+      "gt_centroid_pc1": 0.230643,
+      "gt_centroid_pc2": 0.223468,
+      "w_centroid_pc1": -0.230644,
+      "w_centroid_pc2": -0.223468,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "È dieci su dieci.",
+          "pc1": -0.191445,
+          "pc2": 0.377279
+        },
+        {
+          "label": "GT2",
+          "text": "È 10 su 10.",
+          "pc1": -0.192918,
+          "pc2": 0.313491
+        },
+        {
+          "label": "GT3",
+          "text": "È perfetto.",
+          "pc1": 1.076294,
+          "pc2": -0.020365
+        },
+        {
+          "label": "W1",
+          "text": "E 10 goppa 10.",
+          "pc1": -0.230644,
+          "pc2": -0.223468
+        },
+        {
+          "label": "W2",
+          "text": "E 10 goppa 10.",
+          "pc1": -0.230644,
+          "pc2": -0.223468
+        },
+        {
+          "label": "W3",
+          "text": "E 10 goppa 10.",
+          "pc1": -0.230644,
+          "pc2": -0.223468
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.940962,
+      "H_k4": 1.758545
+    },
+    "texts": [
+      "È dieci su dieci.",
+      "È 10 su 10.",
+      "È perfetto.",
+      "E 10 goppa 10.",
+      "E 10 goppa 10.",
+      "E 10 goppa 10."
+    ],
+    "h_spectral": 0.641823
+  },
+  {
+    "stem": "prompt-8032_rec-1",
+    "dialect": "salentino ",
+    "gender": "M",
+    "age_range": "18-29",
+    "wer": 0.25,
+    "pca_local": {
+      "pc1_variance_explained": 0.75741,
+      "pc2_variance_explained": 0.133503,
+      "delta_pc1": 0.177155,
+      "gt_centroid_pc1": 0.088577,
+      "gt_centroid_pc2": -0.099266,
+      "w_centroid_pc1": -0.088577,
+      "w_centroid_pc2": 0.099266,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "No, non lo sono.",
+          "pc1": 0.675324,
+          "pc2": -0.068457
+        },
+        {
+          "label": "GT2",
+          "text": "No, non ne ho idea.",
+          "pc1": -0.308758,
+          "pc2": -0.258016
+        },
+        {
+          "label": "GT3",
+          "text": "No, io non lo so.",
+          "pc1": -0.100834,
+          "pc2": 0.028676
+        },
+        {
+          "label": "W1",
+          "text": "No, non lo so.",
+          "pc1": -0.022468,
+          "pc2": 0.057274
+        },
+        {
+          "label": "W2",
+          "text": "No, non lo so ciò.",
+          "pc1": -0.121632,
+          "pc2": 0.120262
+        },
+        {
+          "label": "W3",
+          "text": "No, non lo so ciò.",
+          "pc1": -0.121632,
+          "pc2": 0.120262
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.812719,
+      "H_k4": 2.005542
+    },
+    "texts": [
+      "No, non lo sono.",
+      "No, non ne ho idea.",
+      "No, io non lo so.",
+      "No, non lo so.",
+      "No, non lo so ciò.",
+      "No, non lo so ciò."
+    ],
+    "h_spectral": 0.654839
+  },
+  {
+    "stem": "prompt-2286_rec-1",
+    "dialect": "lucano ",
+    "gender": "F",
+    "age_range": "50-59",
+    "wer": 0.384615,
+    "pca_local": {
+      "pc1_variance_explained": 0.994983,
+      "pc2_variance_explained": 0.003804,
+      "delta_pc1": 1.159594,
+      "gt_centroid_pc1": 0.579797,
+      "gt_centroid_pc2": 0.000144,
+      "w_centroid_pc1": -0.579797,
+      "w_centroid_pc2": -0.000144,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "C'è un modo per avere le palpebre a piega singola in modo naturale?",
+          "pc1": 0.583143,
+          "pc2": -0.008883
+        },
+        {
+          "label": "GT2",
+          "text": "Esiste un modo per avere le palpebre a piega singola in maniera naturale?",
+          "pc1": 0.581816,
+          "pc2": -0.056946
+        },
+        {
+          "label": "GT3",
+          "text": "C'è una maniera per avere delle palpebre a piega singola in modo naturale?",
+          "pc1": 0.574431,
+          "pc2": 0.06626
+        },
+        {
+          "label": "W1",
+          "text": "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+          "pc1": -0.579797,
+          "pc2": -0.000144
+        },
+        {
+          "label": "W2",
+          "text": "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+          "pc1": -0.579797,
+          "pc2": -0.000144
+        },
+        {
+          "label": "W3",
+          "text": "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+          "pc1": -0.579797,
+          "pc2": -0.000144
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.855246,
+      "H_k4": 2.10854
+    },
+    "texts": [
+      "C'è un modo per avere le palpebre a piega singola in modo naturale?",
+      "Esiste un modo per avere le palpebre a piega singola in maniera naturale?",
+      "C'è una maniera per avere delle palpebre a piega singola in modo naturale?",
+      "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+      "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+      "C'è un modo per avere i papi a chiacchiera singola, in modo naturale."
+    ],
+    "h_spectral": 0.672122
+  },
+  {
+    "stem": "prompt-1862_rec-4",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "18-29",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.748478,
+      "pc2_variance_explained": 0.251522,
+      "delta_pc1": 0.052103,
+      "gt_centroid_pc1": 0.026052,
+      "gt_centroid_pc2": 0.033312,
+      "w_centroid_pc1": -0.026052,
+      "w_centroid_pc2": -0.033312,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Il leucoderma è curabile?",
+          "pc1": 0.192863,
+          "pc2": 0.029632
+        },
+        {
+          "label": "GT2",
+          "text": "Ma il leucoderma si può curare?",
+          "pc1": -0.026052,
+          "pc2": -0.033312
+        },
+        {
+          "label": "GT3",
+          "text": "Ma il leucoderma può essere curato?",
+          "pc1": -0.088657,
+          "pc2": 0.103616
+        },
+        {
+          "label": "W1",
+          "text": "Ma il leucoderma si può curare?",
+          "pc1": -0.026052,
+          "pc2": -0.033312
+        },
+        {
+          "label": "W2",
+          "text": "Ma il leucoderma si può curare?",
+          "pc1": -0.026052,
+          "pc2": -0.033312
+        },
+        {
+          "label": "W3",
+          "text": "Ma il leucoderma si può curare?",
+          "pc1": -0.026052,
+          "pc2": -0.033312
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.792075,
+      "H_k4": 1.797151
+    },
+    "texts": [
+      "Il leucoderma è curabile?",
+      "Ma il leucoderma si può curare?",
+      "Ma il leucoderma può essere curato?",
+      "Ma il leucoderma si può curare?",
+      "Ma il leucoderma si può curare?",
+      "Ma il leucoderma si può curare?"
+    ],
+    "h_spectral": 0.493401
+  },
+  {
+    "stem": "prompt-1247_rec-7",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "18-29",
+    "wer": 0.8,
+    "pca_local": {
+      "pc1_variance_explained": 0.566392,
+      "pc2_variance_explained": 0.317602,
+      "delta_pc1": 0.162152,
+      "gt_centroid_pc1": 0.081076,
+      "gt_centroid_pc2": 0.045539,
+      "w_centroid_pc1": -0.081076,
+      "w_centroid_pc2": -0.045539,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Credo di avere un disturbo alimentare legato al sonno, forse mangio di notte sen",
+          "pc1": 0.199015,
+          "pc2": -0.068227
+        },
+        {
+          "label": "GT2",
+          "text": "Io penso di avere un disturbo alimentare molto legato al sonno, perchè forse man",
+          "pc1": -0.005042,
+          "pc2": 0.139741
+        },
+        {
+          "label": "GT3",
+          "text": "Io credo di avere un disturbo alimentare tanto legato al sonno, io forse mangio ",
+          "pc1": 0.049254,
+          "pc2": 0.065102
+        },
+        {
+          "label": "W1",
+          "text": "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio",
+          "pc1": -0.081076,
+          "pc2": -0.045539
+        },
+        {
+          "label": "W2",
+          "text": "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio",
+          "pc1": -0.081076,
+          "pc2": -0.045539
+        },
+        {
+          "label": "W3",
+          "text": "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio",
+          "pc1": -0.081076,
+          "pc2": -0.045539
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.792162,
+      "H_k4": 1.798591
+    },
+    "texts": [
+      "Credo di avere un disturbo alimentare legato al sonno, forse mangio di notte senza accorgermene.",
+      "Io penso di avere un disturbo alimentare molto legato al sonno, perchè forse mangio di notte senza sapere. Non so come si deve fare.",
+      "Io credo di avere un disturbo alimentare tanto legato al sonno, io forse mangio di notte senza notarlo. Non so cosa si deve fare.",
+      "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.",
+      "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.",
+      "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare."
+    ],
+    "h_spectral": 0.543458
+  },
+  {
+    "stem": "prompt-9602_rec-9",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "18-29",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.958436,
+      "pc2_variance_explained": 0.02297,
+      "delta_pc1": 1.253685,
+      "gt_centroid_pc1": 0.626842,
+      "gt_centroid_pc2": -0.00087,
+      "w_centroid_pc1": -0.626843,
+      "w_centroid_pc2": 0.00087,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Una delle mie sorelle ha il cancro al seno.",
+          "pc1": 0.636522,
+          "pc2": -0.000996
+        },
+        {
+          "label": "GT2",
+          "text": "Una delle sorelle mie ha il tumore al seno.",
+          "pc1": 0.628743,
+          "pc2": -0.002653
+        },
+        {
+          "label": "GT3",
+          "text": "Una delle mie sorelle tiene il tumore al seno.",
+          "pc1": 0.615262,
+          "pc2": 0.001039
+        },
+        {
+          "label": "W1",
+          "text": "Buon ritorno ai miei denotumurasids.",
+          "pc1": -0.638173,
+          "pc2": -0.193213
+        },
+        {
+          "label": "W2",
+          "text": "Buon ritorno ai miei denotumorasi.",
+          "pc1": -0.621178,
+          "pc2": 0.097911
+        },
+        {
+          "label": "W3",
+          "text": "Buon ritorno ai miei denotumorasi.",
+          "pc1": -0.621178,
+          "pc2": 0.097911
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.940886,
+      "H_k4": 2.189495
+    },
+    "texts": [
+      "Una delle mie sorelle ha il cancro al seno.",
+      "Una delle sorelle mie ha il tumore al seno.",
+      "Una delle mie sorelle tiene il tumore al seno.",
+      "Buon ritorno ai miei denotumurasids.",
+      "Buon ritorno ai miei denotumorasi.",
+      "Buon ritorno ai miei denotumorasi."
+    ],
+    "h_spectral": 0.66214
+  },
+  {
+    "stem": "prompt-7121_rec-10",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "18-29",
+    "wer": 0.647059,
+    "pca_local": {
+      "pc1_variance_explained": 0.691282,
+      "pc2_variance_explained": 0.245795,
+      "delta_pc1": 0.340933,
+      "gt_centroid_pc1": 0.170466,
+      "gt_centroid_pc2": 0.000673,
+      "w_centroid_pc1": -0.170466,
+      "w_centroid_pc2": -0.000673,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Installo pavimenti. Lavoro per un'impresa di costruzioni e il mio lavoro princip",
+          "pc1": 0.199786,
+          "pc2": -0.084413
+        },
+        {
+          "label": "GT2",
+          "text": "Incollo i pavimenti. Lavoro per un'impresa di costruzioni e il lavoro mio princi",
+          "pc1": 0.127359,
+          "pc2": 0.104738
+        },
+        {
+          "label": "GT3",
+          "text": "Incollo i pavimenti. Lavoro presso un'impresa di costruzioni e il mio lavoro pri",
+          "pc1": 0.184255,
+          "pc2": -0.018306
+        },
+        {
+          "label": "W1",
+          "text": "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è st",
+          "pc1": -0.157844,
+          "pc2": 0.085868
+        },
+        {
+          "label": "W2",
+          "text": "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è st",
+          "pc1": -0.157844,
+          "pc2": 0.085868
+        },
+        {
+          "label": "W3",
+          "text": "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è su",
+          "pc1": -0.195712,
+          "pc2": -0.173753
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.79847,
+      "H_k4": 1.872498
+    },
+    "texts": [
+      "Installo pavimenti. Lavoro per un'impresa di costruzioni e il mio lavoro principale è la posa dei pavimenti.",
+      "Incollo i pavimenti. Lavoro per un'impresa di costruzioni e il lavoro mio principale è stuccare i pavimenti.",
+      "Incollo i pavimenti. Lavoro presso un'impresa di costruzioni e il mio lavoro principale è il posare i pavimenti.",
+      "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+      "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+      "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è sui pavimenti."
+    ],
+    "h_spectral": 0.733632
+  },
+  {
+    "stem": "prompt-12429_rec-12",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "18-29",
+    "wer": 0.888889,
+    "pca_local": {
+      "pc1_variance_explained": 0.847901,
+      "pc2_variance_explained": 0.129174,
+      "delta_pc1": 1.011071,
+      "gt_centroid_pc1": 0.505535,
+      "gt_centroid_pc2": 0.056324,
+      "w_centroid_pc1": -0.505535,
+      "w_centroid_pc2": -0.056324,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho avuto problemi alle dita dei piedi in passato.",
+          "pc1": 0.705647,
+          "pc2": -0.188209
+        },
+        {
+          "label": "GT2",
+          "text": "Ho tenuto dei problemi alle dita dei piedi, in passato.",
+          "pc1": 0.223952,
+          "pc2": 0.446982
+        },
+        {
+          "label": "GT3",
+          "text": "Avevo dei problemi alle dita dei piedi, tempo fa.",
+          "pc1": 0.587007,
+          "pc2": -0.089801
+        },
+        {
+          "label": "W1",
+          "text": "ha già tenuto il problema e ritornare in passato",
+          "pc1": -0.505535,
+          "pc2": -0.056324
+        },
+        {
+          "label": "W2",
+          "text": "ha già tenuto il problema e ritornare in passato",
+          "pc1": -0.505535,
+          "pc2": -0.056324
+        },
+        {
+          "label": "W3",
+          "text": "ha già tenuto il problema e ritornare in passato",
+          "pc1": -0.505535,
+          "pc2": -0.056324
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.887743,
+      "H_k4": 2.189342
+    },
+    "texts": [
+      "Ho avuto problemi alle dita dei piedi in passato.",
+      "Ho tenuto dei problemi alle dita dei piedi, in passato.",
+      "Avevo dei problemi alle dita dei piedi, tempo fa.",
+      "ha già tenuto il problema e ritornare in passato",
+      "ha già tenuto il problema e ritornare in passato",
+      "ha già tenuto il problema e ritornare in passato"
+    ],
+    "h_spectral": 0.668486
+  },
+  {
+    "stem": "prompt-1592_rec-2",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "18-29",
+    "wer": 0.4,
+    "pca_local": {
+      "pc1_variance_explained": 0.914724,
+      "pc2_variance_explained": 0.085276,
+      "delta_pc1": 0.279074,
+      "gt_centroid_pc1": 0.139537,
+      "gt_centroid_pc2": -0.011568,
+      "w_centroid_pc1": -0.139537,
+      "w_centroid_pc2": 0.011568,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Seguo una dieta, mangio poco, ma sono stanca di tutte queste sostituzioni. Cosa ",
+          "pc1": 0.186269,
+          "pc2": -0.127496
+        },
+        {
+          "label": "GT2",
+          "text": "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare",
+          "pc1": -0.139537,
+          "pc2": 0.011568
+        },
+        {
+          "label": "GT3",
+          "text": "Sto a dieta, mangio limitato, ma sono stanca di queste sostituzioni. Che posso t",
+          "pc1": 0.371879,
+          "pc2": 0.081224
+        },
+        {
+          "label": "W1",
+          "text": "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare",
+          "pc1": -0.139537,
+          "pc2": 0.011568
+        },
+        {
+          "label": "W2",
+          "text": "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare",
+          "pc1": -0.139537,
+          "pc2": 0.011568
+        },
+        {
+          "label": "W3",
+          "text": "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare",
+          "pc1": -0.139537,
+          "pc2": 0.011568
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.793718,
+      "H_k4": 1.823515
+    },
+    "texts": [
+      "Seguo una dieta, mangio poco, ma sono stanca di tutte queste sostituzioni. Cosa posso provare?",
+      "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+      "Sto a dieta, mangio limitato, ma sono stanca di queste sostituzioni. Che posso testare?",
+      "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+      "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+      "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?"
+    ],
+    "h_spectral": 0.551834
+  },
+  {
+    "stem": "prompt-9614_rec-23",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "18-29",
+    "wer": 1.0,
+    "pca_local": {
+      "pc1_variance_explained": 0.822308,
+      "pc2_variance_explained": 0.101157,
+      "delta_pc1": 0.447604,
+      "gt_centroid_pc1": 0.223802,
+      "gt_centroid_pc2": -0.009713,
+      "w_centroid_pc1": -0.223802,
+      "w_centroid_pc2": 0.009713,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Sì, è esatto.",
+          "pc1": 0.259133,
+          "pc2": -0.037985
+        },
+        {
+          "label": "GT2",
+          "text": "Sì, è così.",
+          "pc1": 0.152737,
+          "pc2": -0.129969
+        },
+        {
+          "label": "GT3",
+          "text": "Sì, è giusto.",
+          "pc1": 0.259535,
+          "pc2": 0.138815
+        },
+        {
+          "label": "W1",
+          "text": "Ecco sì.",
+          "pc1": -0.232787,
+          "pc2": 0.006216
+        },
+        {
+          "label": "W2",
+          "text": "Eh, ecco sì.",
+          "pc1": -0.205831,
+          "pc2": 0.016707
+        },
+        {
+          "label": "W3",
+          "text": "Ecco sì.",
+          "pc1": -0.232787,
+          "pc2": 0.006216
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.81235,
+      "H_k4": 1.944587
+    },
+    "texts": [
+      "Sì, è esatto.",
+      "Sì, è così.",
+      "Sì, è giusto.",
+      "Ecco sì.",
+      "Eh, ecco sì.",
+      "Ecco sì."
+    ],
+    "h_spectral": 0.684247
+  },
+  {
+    "stem": "prompt-56_rec-31",
+    "dialect": "napoletano",
+    "gender": "F",
+    "age_range": "18-29",
+    "wer": 0.818182,
+    "pca_local": {
+      "pc1_variance_explained": 0.750599,
+      "pc2_variance_explained": 0.106921,
+      "delta_pc1": 0.494665,
+      "gt_centroid_pc1": 0.247332,
+      "gt_centroid_pc2": -0.025434,
+      "w_centroid_pc1": -0.247332,
+      "w_centroid_pc2": 0.025434,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "Ho un dolore pulsante sotto le costole sinistre, dall'ottava alla decima, che pu",
+          "pc1": 0.308356,
+          "pc2": -0.011125
+        },
+        {
+          "label": "GT2",
+          "text": "Tengo un dolore pulsante sotto le costole a sinistra, dall'ottava alla decima, p",
+          "pc1": 0.183908,
+          "pc2": -0.034079
+        },
+        {
+          "label": "GT3",
+          "text": "Ho un dolore martellante sotto le costole a sinistra, dall'ottava alla decima, p",
+          "pc1": 0.249733,
+          "pc2": -0.031097
+        },
+        {
+          "label": "W1",
+          "text": "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può",
+          "pc1": -0.376494,
+          "pc2": -0.162112
+        },
+        {
+          "label": "W2",
+          "text": "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può",
+          "pc1": -0.182752,
+          "pc2": 0.119207
+        },
+        {
+          "label": "W3",
+          "text": "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può",
+          "pc1": -0.182752,
+          "pc2": 0.119207
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.797017,
+      "H_k4": 1.875268
+    },
+    "texts": [
+      "Ho un dolore pulsante sotto le costole sinistre, dall'ottava alla decima, che può variare da impercettibile fino a un livello molto alto.",
+      "Tengo un dolore pulsante sotto le costole a sinistra, dall'ottava alla decima, può variare dal non sentirlo proprio fino a farmi molto male.",
+      "Ho un dolore martellante sotto le costole a sinistra, dall'ottava alla decima, può variare dall'essere inavvertibile fino a far molto male.",
+      "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare da che non si sente proprio a che non fa molto male.",
+      "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare, che non si sente proprio, a che mi fa molto male.",
+      "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare, che non si sente proprio, a che mi fa molto male."
+    ],
+    "h_spectral": 0.71081
+  },
+  {
+    "stem": "prompt-11544_rec-0",
+    "dialect": "napoletano",
+    "gender": "M",
+    "age_range": "50-59",
+    "wer": 1.2,
+    "pca_local": {
+      "pc1_variance_explained": 0.648547,
+      "pc2_variance_explained": 0.23312,
+      "delta_pc1": 0.665681,
+      "gt_centroid_pc1": 0.332841,
+      "gt_centroid_pc2": -0.072782,
+      "w_centroid_pc1": -0.332841,
+      "w_centroid_pc2": 0.072782,
+      "points_pc1_pc2": [
+        {
+          "label": "GT1",
+          "text": "L'ho fatto. Ecco un elenco.",
+          "pc1": 0.372207,
+          "pc2": -0.050564
+        },
+        {
+          "label": "GT2",
+          "text": "L'ho completato. Ecco l'elenco.",
+          "pc1": 0.256577,
+          "pc2": -0.073472
+        },
+        {
+          "label": "GT3",
+          "text": "L'ho eseguito. Ecco una lista.",
+          "pc1": 0.369738,
+          "pc2": -0.09431
+        },
+        {
+          "label": "W1",
+          "text": "L'ha già fatta, oi Can l'elenco.",
+          "pc1": -0.091217,
+          "pc2": 0.473447
+        },
+        {
+          "label": "W2",
+          "text": "L'ha già fatta, ho il canno e le leggo.",
+          "pc1": -0.453652,
+          "pc2": -0.127551
+        },
+        {
+          "label": "W3",
+          "text": "L'ha già fatta, ho il canno e le leggo.",
+          "pc1": -0.453652,
+          "pc2": -0.127551
+        }
+      ]
+    },
+    "inv_entropy": {
+      "H_k1": 1.852029,
+      "H_k4": 2.17844
+    },
+    "texts": [
+      "L'ho fatto. Ecco un elenco.",
+      "L'ho completato. Ecco l'elenco.",
+      "L'ho eseguito. Ecco una lista.",
+      "L'ha già fatta, oi Can l'elenco.",
+      "L'ha già fatta, ho il canno e le leggo.",
+      "L'ha già fatta, ho il canno e le leggo."
+    ],
+    "h_spectral": 0.728042
+  }
+]

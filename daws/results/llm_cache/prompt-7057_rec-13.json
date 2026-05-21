@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sì, non è un problema.",
+    "Si, non è nessun problema.",
+    "Si, non c'è problema.",
+    "Sì, non è un problema.",
+    "Sì, non è un problema.",
+    "Sì, non è un problema."
+  ],
+  "responses": [
+    "Il tuo messaggio non contiene richieste mediche specifiche. Se hai domande o bisogni di salute, puoi chiedermelo direttamente. Ad esempio: \"Ho una forte dolore alla testa, cosa posso",
+    "La tua risposta è chiara. Se avessi bisogno di ulteriori informazioni o chiarimenti, non esiterei a contattarti nuovamente.",
+    "Non ho problemi. Se avessi domande o richieste mediche, non esitare a chiederle.",
+    "Il tuo messaggio non contiene richieste mediche specifiche. Se hai domande o bisogni di salute, puoi chiedermelo direttamente. Ad esempio: \"Ho una forte dolore alla testa, cosa posso",
+    "Il tuo messaggio non contiene richieste mediche specifiche. Se hai domande o bisogni di salute, puoi chiedermelo direttamente. Ad esempio: \"Ho una forte dolore alla testa, cosa posso",
+    "Il tuo messaggio non contiene richieste mediche specifiche. Se hai domande o bisogni di salute, puoi chiedermelo direttamente. Ad esempio: \"Ho una forte dolore alla testa, cosa posso"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Sì, non è un problema.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo atteggiamento è positivo. Continui a prendersi cura di te stesso e contattaci se qualcosa cambia o ti preoccupi.",
+      "length_norm_logprob": -0.536135
+    },
+    "references": [
+      {
+        "text": "Il tuo stato di salute sembra essere stabile. Se avessi bisogno di qualche consiglio o aiuto, non esitare a chiedermelo.",
+        "length_norm_logprob": -0.356685
+      },
+      {
+        "text": "Il tuo atteggiamento è positivo. Continui a prendersi cura di te stesso. Se ci sono cambiamenti o problemi, non esitare a contattarmi.",
+        "length_norm_logprob": -0.389665
+      },
+      {
+        "text": "Il tuo atteggiamento è positivo. Continui a prendersi cura di te stesso e contattaci se qualcosa cambia o ti diventa più grave.",
+        "length_norm_logprob": -0.581277
+      },
+      {
+        "text": "Il tuo atteggiamento sembra essere positivo. Continui a tenere questa mentalità e segui le istruzioni mediche fornite. Se ci sono cambiamenti o se ti senti male, non esitare a contattarci.",
+        "length_norm_logprob": -0.659123
+      }
+    ],
+    "sd": 0.831313,
+    "u_llm": 0.168687,
+    "n_refs": 4,
+    "distances": [
+      0.497008,
+      0.001371,
+      0.103916,
+      0.01349
+    ]
+  }
+}

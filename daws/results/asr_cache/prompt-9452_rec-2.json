@@ -1,0 +1,61 @@
+{
+  "transcription": "Dottor, tengo su di loro il ginocchio destro.",
+  "words": [
+    {
+      "word": "Dottor,",
+      "start": 1.164,
+      "end": 1.528,
+      "confidence": 0.72
+    },
+    {
+      "word": "tengo",
+      "start": 1.568,
+      "end": 1.831,
+      "confidence": 0.78
+    },
+    {
+      "word": "su",
+      "start": 1.932,
+      "end": 2.033,
+      "confidence": 0.956
+    },
+    {
+      "word": "di",
+      "start": 2.073,
+      "end": 2.134,
+      "confidence": 0.42
+    },
+    {
+      "word": "loro",
+      "start": 2.194,
+      "end": 2.416,
+      "confidence": 0.964
+    },
+    {
+      "word": "il",
+      "start": 2.437,
+      "end": 2.538,
+      "confidence": 0.239
+    },
+    {
+      "word": "ginocchio",
+      "start": 2.598,
+      "end": 2.982,
+      "confidence": 0.799
+    },
+    {
+      "word": "destro.",
+      "start": 3.022,
+      "end": 3.446,
+      "confidence": 0.771
+    }
+  ],
+  "top3": [
+    "Dottor, tengo su di loro il ginocchio destro.",
+    "Dottor, tengo su di loro il ginocchio destro.",
+    "Dottor, tengo su di loro il ginocchio destro."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7061249999999999,
+  "u_asr": 0.2938750000000001
+}

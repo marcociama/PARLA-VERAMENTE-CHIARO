@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-6150_rec-4",
+  "gt_text": "Ho perso sangue quando sono andata in bagno e da ieri sera devo andarci ogni dieci minuti. Sono una donna di 25 anni, peso 55 kg e sono alta 157 cm.",
+  "w1_text": "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.",
+  "inputs": [
+    "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.",
+    "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono dieci minuti. Sono una donna di 25 anni, peso 55 kg e sono alta 157 cm.",
+    "Ho perso sangue quando sono andata in bagno e da ieri sera devo andarci ogni a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.",
+    "Ho perso sangue quando sono andata in bagno e da ieri sera devo andarci ogni dieci minuti. Sono una donna di 25 anni, peso 55 kg e sono alta 157 cm."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Il tuo peso corporeo sembra essere in eccesso rispetto alle norme di salute. Per migliorare la tua condizione fisica, ti consiglio di seguire una dieta equilibrata e di aumentare l'att",
+    "Il tuo ritmo cardiaco sembra essere accelerato. È consigliabile consultare un medico immediatamente per una valutazione accurata.",
+    "Il perdere sangue potrebbe essere dovuto ad una lesione interna o esterna alla vagina. È importante consultare un medico per una valutazione accurata. Inoltre, la frequenza di urinare ogni due ore può essere dov",
+    "Potrebbe trattarsi di un sanguinamento uterino. È consigliabile consultare un medico per una valutazione accurata. Nel frattempo, evitare attività fisiche strenue e assicurarsi di avere sempre"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

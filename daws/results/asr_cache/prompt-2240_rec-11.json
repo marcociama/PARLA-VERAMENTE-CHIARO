@@ -1,0 +1,73 @@
+{
+  "transcription": "Porto Radio Univio di Rangia. Quarant'esame di infamia del suo.",
+  "words": [
+    {
+      "word": "Porto",
+      "start": 1.569,
+      "end": 2.031,
+      "confidence": 0.57
+    },
+    {
+      "word": "Radio",
+      "start": 2.412,
+      "end": 2.613,
+      "confidence": 0.609
+    },
+    {
+      "word": "Univio",
+      "start": 2.654,
+      "end": 3.076,
+      "confidence": 0.766
+    },
+    {
+      "word": "di",
+      "start": 3.096,
+      "end": 3.176,
+      "confidence": 0.441
+    },
+    {
+      "word": "Rangia.",
+      "start": 3.276,
+      "end": 3.678,
+      "confidence": 0.479
+    },
+    {
+      "word": "Quarant'esame",
+      "start": 4.1,
+      "end": 4.944,
+      "confidence": 0.506
+    },
+    {
+      "word": "di",
+      "start": 5.045,
+      "end": 5.165,
+      "confidence": 0.58
+    },
+    {
+      "word": "infamia",
+      "start": 5.185,
+      "end": 5.447,
+      "confidence": 0.466
+    },
+    {
+      "word": "del",
+      "start": 5.487,
+      "end": 5.668,
+      "confidence": 0.486
+    },
+    {
+      "word": "suo.",
+      "start": 5.688,
+      "end": 5.969,
+      "confidence": 0.623
+    }
+  ],
+  "top3": [
+    "Porto Radio Univio di Rangia. Quarant'esame di infamia del suo.",
+    "Porto Radio Univio Durange. Quarant'esame di infamato su.",
+    "Porto Radio Univio di Rangia. Quarant'esame di infamato."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5526,
+  "u_asr": 0.4474
+}

@@ -1,0 +1,175 @@
+{
+  "transcription": "Tengono i grumi duri in zona pubblica, non sono in ridazione di rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?",
+  "words": [
+    {
+      "word": "Tengono",
+      "start": 0.622,
+      "end": 0.762,
+      "confidence": 0.107
+    },
+    {
+      "word": "i",
+      "start": 0.902,
+      "end": 1.263,
+      "confidence": 0.552
+    },
+    {
+      "word": "grumi",
+      "start": 1.423,
+      "end": 1.883,
+      "confidence": 0.455
+    },
+    {
+      "word": "duri",
+      "start": 2.664,
+      "end": 3.105,
+      "confidence": 0.909
+    },
+    {
+      "word": "in",
+      "start": 3.686,
+      "end": 3.746,
+      "confidence": 0.982
+    },
+    {
+      "word": "zona",
+      "start": 4.066,
+      "end": 4.787,
+      "confidence": 0.666
+    },
+    {
+      "word": "pubblica,",
+      "start": 4.867,
+      "end": 5.408,
+      "confidence": 0.824
+    },
+    {
+      "word": "non",
+      "start": 6.529,
+      "end": 6.669,
+      "confidence": 0.691
+    },
+    {
+      "word": "sono",
+      "start": 6.729,
+      "end": 7.49,
+      "confidence": 0.666
+    },
+    {
+      "word": "in",
+      "start": 8.171,
+      "end": 8.231,
+      "confidence": 0.393
+    },
+    {
+      "word": "ridazione",
+      "start": 8.271,
+      "end": 8.792,
+      "confidence": 0.71
+    },
+    {
+      "word": "di",
+      "start": 8.832,
+      "end": 8.932,
+      "confidence": 0.438
+    },
+    {
+      "word": "rasoio,",
+      "start": 8.972,
+      "end": 9.853,
+      "confidence": 0.834
+    },
+    {
+      "word": "non",
+      "start": 10.634,
+      "end": 10.774,
+      "confidence": 0.644
+    },
+    {
+      "word": "sono",
+      "start": 10.834,
+      "end": 11.355,
+      "confidence": 0.633
+    },
+    {
+      "word": "pieni",
+      "start": 11.435,
+      "end": 11.695,
+      "confidence": 0.665
+    },
+    {
+      "word": "di",
+      "start": 11.715,
+      "end": 11.755,
+      "confidence": 0.072
+    },
+    {
+      "word": "liquido,",
+      "start": 11.795,
+      "end": 12.436,
+      "confidence": 0.703
+    },
+    {
+      "word": "non",
+      "start": 12.516,
+      "end": 12.876,
+      "confidence": 0.659
+    },
+    {
+      "word": "prurano,",
+      "start": 12.976,
+      "end": 13.697,
+      "confidence": 0.865
+    },
+    {
+      "word": "non",
+      "start": 13.757,
+      "end": 13.858,
+      "confidence": 0.905
+    },
+    {
+      "word": "fanno",
+      "start": 13.938,
+      "end": 14.158,
+      "confidence": 0.873
+    },
+    {
+      "word": "male.",
+      "start": 14.218,
+      "end": 14.618,
+      "confidence": 0.791
+    },
+    {
+      "word": "Come",
+      "start": 14.678,
+      "end": 14.779,
+      "confidence": 0.642
+    },
+    {
+      "word": "faccio",
+      "start": 14.799,
+      "end": 15.059,
+      "confidence": 0.501
+    },
+    {
+      "word": "a",
+      "start": 15.159,
+      "end": 15.479,
+      "confidence": 0.96
+    },
+    {
+      "word": "toglierli?",
+      "start": 15.78,
+      "end": 16.28,
+      "confidence": 0.749
+    }
+  ],
+  "top3": [
+    "Tengono i grumi duri in zona pubblica, non sono in ridazione di rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?",
+    "Tengono i grumi duri in zona pubblica, non sono in ridazione di un rasoio, non sono pieni di liquido, non prurano, non fanno male. Come faccio a toglierli?",
+    "Tengono i grumi duri in zona pubblica. Non sono irritazioni di rasoio, non sono piene liquide, non prurano, non fanno male. Come faccio a togliere?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6625555555555556,
+  "u_asr": 0.33744444444444444
+}

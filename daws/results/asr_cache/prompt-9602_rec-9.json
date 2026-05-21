@@ -1,0 +1,43 @@
+{
+  "transcription": "Buon ritorno ai miei denotumurasids.",
+  "words": [
+    {
+      "word": "Buon",
+      "start": 0.608,
+      "end": 0.851,
+      "confidence": 0.447
+    },
+    {
+      "word": "ritorno",
+      "start": 0.911,
+      "end": 1.133,
+      "confidence": 0.443
+    },
+    {
+      "word": "ai",
+      "start": 1.154,
+      "end": 1.275,
+      "confidence": 0.29
+    },
+    {
+      "word": "miei",
+      "start": 1.335,
+      "end": 1.456,
+      "confidence": 0.404
+    },
+    {
+      "word": "denotumurasids.",
+      "start": 1.497,
+      "end": 2.709,
+      "confidence": 0.669
+    }
+  ],
+  "top3": [
+    "Buon ritorno ai miei denotumurasids.",
+    "Buon ritorno ai miei denotumorasi.",
+    "Buon ritorno ai miei denotumorasi."
+  ],
+  "language": "it",
+  "mean_confidence": 0.4506,
+  "u_asr": 0.5494
+}

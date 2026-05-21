@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-25_12-44-14_napoletano_F_18-29",
+  "promptId": "1247",
+  "promptText": ["Credo di avere un disturbo alimentare legato al sonno, forse mangio di notte senza accorgermene.",
+  "Io penso di avere un disturbo alimentare molto legato al sonno, perchè forse mangio di notte senza sapere. Non so come si deve fare.",
+  "Io credo di avere un disturbo alimentare tanto legato al sonno, io forse mangio di notte senza notarlo. Non so cosa si deve fare."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "7",
+  "filename": "prompt-1247_rec-7.wav",
+  "size": 543438,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-25T12:51:15.729Z"
+}

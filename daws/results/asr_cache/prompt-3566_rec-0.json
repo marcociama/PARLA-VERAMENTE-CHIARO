@@ -1,0 +1,313 @@
+{
+  "transcription": "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto.",
+  "words": [
+    {
+      "word": "Il",
+      "start": 1.143,
+      "end": 1.223,
+      "confidence": 0.5
+    },
+    {
+      "word": "cuore",
+      "start": 1.243,
+      "end": 1.443,
+      "confidence": 0.47
+    },
+    {
+      "word": "mio",
+      "start": 1.523,
+      "end": 1.643,
+      "confidence": 0.635
+    },
+    {
+      "word": "comincia",
+      "start": 1.683,
+      "end": 2.284,
+      "confidence": 0.741
+    },
+    {
+      "word": "a",
+      "start": 2.304,
+      "end": 2.324,
+      "confidence": 0.152
+    },
+    {
+      "word": "battere",
+      "start": 2.464,
+      "end": 3.144,
+      "confidence": 0.924
+    },
+    {
+      "word": "all'intrasato,",
+      "start": 3.825,
+      "end": 4.866,
+      "confidence": 0.832
+    },
+    {
+      "word": "molto",
+      "start": 5.746,
+      "end": 6.086,
+      "confidence": 0.913
+    },
+    {
+      "word": "velocemente,",
+      "start": 6.147,
+      "end": 6.947,
+      "confidence": 0.895
+    },
+    {
+      "word": "a",
+      "start": 7.107,
+      "end": 7.147,
+      "confidence": 0.909
+    },
+    {
+      "word": "tre",
+      "start": 7.207,
+      "end": 7.367,
+      "confidence": 0.882
+    },
+    {
+      "word": "anni.",
+      "start": 7.447,
+      "end": 7.828,
+      "confidence": 0.968
+    },
+    {
+      "word": "Ho",
+      "start": 8.128,
+      "end": 8.188,
+      "confidence": 0.684
+    },
+    {
+      "word": "fatto",
+      "start": 8.368,
+      "end": 8.608,
+      "confidence": 0.81
+    },
+    {
+      "word": "un'icografia",
+      "start": 8.628,
+      "end": 9.349,
+      "confidence": 0.758
+    },
+    {
+      "word": "del",
+      "start": 9.369,
+      "end": 9.429,
+      "confidence": 0.02
+    },
+    {
+      "word": "cuore",
+      "start": 9.449,
+      "end": 9.969,
+      "confidence": 0.563
+    },
+    {
+      "word": "e",
+      "start": 10.049,
+      "end": 10.149,
+      "confidence": 0.222
+    },
+    {
+      "word": "un",
+      "start": 10.189,
+      "end": 10.249,
+      "confidence": 0.782
+    },
+    {
+      "word": "controllo",
+      "start": 10.309,
+      "end": 11.01,
+      "confidence": 0.863
+    },
+    {
+      "word": "con",
+      "start": 11.991,
+      "end": 12.451,
+      "confidence": 0.775
+    },
+    {
+      "word": "elettrodi",
+      "start": 13.151,
+      "end": 13.952,
+      "confidence": 0.848
+    },
+    {
+      "word": "e",
+      "start": 15.013,
+      "end": 15.053,
+      "confidence": 0.963
+    },
+    {
+      "word": "non",
+      "start": 15.173,
+      "end": 15.353,
+      "confidence": 0.885
+    },
+    {
+      "word": "sempre",
+      "start": 15.473,
+      "end": 15.853,
+      "confidence": 0.884
+    },
+    {
+      "word": "sul",
+      "start": 15.933,
+      "end": 16.113,
+      "confidence": 0.787
+    },
+    {
+      "word": "risultato",
+      "start": 16.173,
+      "end": 16.714,
+      "confidence": 0.938
+    },
+    {
+      "word": "normale.",
+      "start": 16.794,
+      "end": 17.374,
+      "confidence": 0.978
+    },
+    {
+      "word": "Ora",
+      "start": 19.055,
+      "end": 19.236,
+      "confidence": 0.485
+    },
+    {
+      "word": "sento",
+      "start": 19.636,
+      "end": 20.016,
+      "confidence": 0.816
+    },
+    {
+      "word": "un",
+      "start": 20.036,
+      "end": 20.096,
+      "confidence": 0.424
+    },
+    {
+      "word": "olore,",
+      "start": 20.196,
+      "end": 20.536,
+      "confidence": 0.748
+    },
+    {
+      "word": "un",
+      "start": 20.557,
+      "end": 20.597,
+      "confidence": 0.017
+    },
+    {
+      "word": "piede,",
+      "start": 20.697,
+      "end": 21.637,
+      "confidence": 0.79
+    },
+    {
+      "word": "un",
+      "start": 21.657,
+      "end": 21.737,
+      "confidence": 0.669
+    },
+    {
+      "word": "formicolio,",
+      "start": 21.797,
+      "end": 22.758,
+      "confidence": 0.921
+    },
+    {
+      "word": "un",
+      "start": 23.258,
+      "end": 23.338,
+      "confidence": 0.898
+    },
+    {
+      "word": "braccio",
+      "start": 23.378,
+      "end": 23.759,
+      "confidence": 0.738
+    },
+    {
+      "word": "destro.",
+      "start": 23.839,
+      "end": 24.359,
+      "confidence": 0.862
+    },
+    {
+      "word": "Pure",
+      "start": 25.06,
+      "end": 25.26,
+      "confidence": 0.647
+    },
+    {
+      "word": "la",
+      "start": 25.3,
+      "end": 25.38,
+      "confidence": 0.425
+    },
+    {
+      "word": "tiroide",
+      "start": 25.42,
+      "end": 26.12,
+      "confidence": 0.822
+    },
+    {
+      "word": "è",
+      "start": 26.321,
+      "end": 26.361,
+      "confidence": 0.377
+    },
+    {
+      "word": "normale,",
+      "start": 26.421,
+      "end": 26.941,
+      "confidence": 0.903
+    },
+    {
+      "word": "non",
+      "start": 27.041,
+      "end": 27.141,
+      "confidence": 0.616
+    },
+    {
+      "word": "so",
+      "start": 27.201,
+      "end": 27.341,
+      "confidence": 0.6
+    },
+    {
+      "word": "cosa",
+      "start": 27.421,
+      "end": 27.581,
+      "confidence": 0.278
+    },
+    {
+      "word": "ha",
+      "start": 27.601,
+      "end": 27.661,
+      "confidence": 0.546
+    },
+    {
+      "word": "già",
+      "start": 27.741,
+      "end": 27.862,
+      "confidence": 0.71
+    },
+    {
+      "word": "fatto.",
+      "start": 27.922,
+      "end": 28.222,
+      "confidence": 0.48
+    }
+  ],
+  "top3": [
+    "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto.",
+    "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho già fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un pietto, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ho già fatto.",
+    "Il cuore mio comincia a battere all'intrasato, molto velocemente, a tre anni. Ho fatto un'icografia del cuore e un controllo con elettrodi e non sempre sul risultato normale. Ora sento un olore, un piede, un formicolio, un braccio destro. Pure la tiroide è normale, non so cosa ha già fatto."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6870599999999999,
+  "u_asr": 0.3129400000000001
+}

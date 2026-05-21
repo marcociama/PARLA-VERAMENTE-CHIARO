@@ -1,0 +1,73 @@
+{
+  "transcription": "A voi non usate la medicina per interrompere la gravità?",
+  "words": [
+    {
+      "word": "A",
+      "start": 2.858,
+      "end": 2.898,
+      "confidence": 0.943
+    },
+    {
+      "word": "voi",
+      "start": 3.019,
+      "end": 3.24,
+      "confidence": 0.685
+    },
+    {
+      "word": "non",
+      "start": 3.26,
+      "end": 3.36,
+      "confidence": 0.403
+    },
+    {
+      "word": "usate",
+      "start": 3.461,
+      "end": 3.863,
+      "confidence": 0.772
+    },
+    {
+      "word": "la",
+      "start": 4.366,
+      "end": 4.446,
+      "confidence": 0.92
+    },
+    {
+      "word": "medicina",
+      "start": 4.506,
+      "end": 5.19,
+      "confidence": 0.701
+    },
+    {
+      "word": "per",
+      "start": 5.27,
+      "end": 5.451,
+      "confidence": 0.578
+    },
+    {
+      "word": "interrompere",
+      "start": 5.471,
+      "end": 6.296,
+      "confidence": 0.632
+    },
+    {
+      "word": "la",
+      "start": 6.497,
+      "end": 6.537,
+      "confidence": 0.082
+    },
+    {
+      "word": "gravità?",
+      "start": 6.557,
+      "end": 6.999,
+      "confidence": 0.681
+    }
+  ],
+  "top3": [
+    "A voi non usate la medicina per interrompere la gravità?",
+    "A voi non usate la medicina per interrompere la gravidanza?",
+    "A voi non usate la medicina per interrompere la gravidanza?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6397,
+  "u_asr": 0.36029999999999995
+}

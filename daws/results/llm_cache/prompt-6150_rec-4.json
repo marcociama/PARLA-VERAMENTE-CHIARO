@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho perso sangue quando sono andata in bagno e da ieri sera devo andarci ogni dieci minuti. Sono una donna di 25 anni, peso 55 kg e sono alta 157 cm.",
+    "Ho perso sangue quando sono andata in bagno e da ieri ci vado ogni dieci minuti. Sono una femmina di 25 anni, peso 55 kg e sono alta 157 cm.",
+    "Ho perso sangue da quando sono andata in bagno e da ieri sera ci devo andare ogni dieci minuti. Sono una donna di 25 anni, peso 55 kg e sono alta 157 cm.",
+    "Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.",
+    "Giuberto Sang, quando sono giù in bagna e aereo, ci vado ogni 10 minuti. Sono a Femme nei 25 anni, penso 55 giri e sono rapido, 1,57 m.",
+    "Giuberto Sang, quando sono giù in campagna e aereo, ci vado ogni 10 minuti. Sono a Femme nei 25 anni, penso 55 giri e sono rapido, 1,57 m."
+  ],
+  "responses": [
+    "Potrebbe trattarsi di un sanguinamento uterino. È consigliabile consultare un medico per una valutazione accurata. Nel frattempo, evitare attività fisiche strenue e assicurarsi di avere sempre",
+    "Potrebbe trattarsi di un'anemia. È consigliabile consultare un medico per eseguire un esame completo e determinare la causa del sangue perduto. Nel frattempo, evitare sforzi eccessivi e",
+    "Potrebbe trattarsi di un'emorragia vaginale. È consigliabile consultare un medico per una valutazione accurata. Nel frattempo, evitare sforzi fisici e assicurarsi di avere un buon ripos",
+    "Il tuo peso corporeo sembra essere in eccesso rispetto alle norme di salute. Per migliorare la tua condizione fisica, ti consiglio di seguire una dieta equilibrata e di aumentare l'att",
+    "Il sintomo che hai descritto potrebbe essere dovuto ad una forma di vertigine o malattia dell'orecchio interno. È importante consultare un medico per una valutazione accurata. In attesa della visita, evit",
+    "Il sintomo che hai descritto potrebbe essere dovuto ad una forma di malattia cardiovascolare o di disturbi del sistema nervoso centrale. È importante consultare un medico per eseguire un esame completo e determinare"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Giuberto Sang, quando sono andato in bagno e aereo, c'eravamo ogni 10 minuti. Sono a Femme nei 25 anni, ho preso 50 cilindri e sono arrivato a 1,57 m.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente ha segnalato frequenti urine (poliuria) e un aumento della pressione arteriosa (hipertensione arteriosa), che richiedono una valutazione medica immediata. Inoltre, il paziente ha 50 anni e misura 1,57 m, che corrisponde ad un indice di massa corporea elevato (IMC > 30). Consiglio di seguire una dieta equilibrata e di aumentare l'",
+      "length_norm_logprob": -0.375741
+    },
+    "references": [
+      {
+        "text": "Il paziente ha segnalato frequenti urine (poliuria) e una frequenza di emissione sessuale elevata (pollakispermia). Questi sindromi possono essere associati a disturbi endocrini o medicamentosi. Un esame completo e un consulto medico sono consigliati per una diagnosi precisa.",
+        "length_norm_logprob": -0.597165
+      },
+      {
+        "text": "Il paziente ha segnalato una frequenza di urinazione anormale, con frequenti escreti ogni dieci minuti. Inoltre, ha fornito dati personali come età (25 anni), altezza (1,57 m) e quantità di cilindri presi (50). Per accertarsi della causa di questi sintomi, è consigliabile consultare un medico.",
+        "length_norm_logprob": -0.466966
+      },
+      {
+        "text": "Il paziente ha segnalato frequenti urine (poliuria) e una pressione arteriosa alta (hipertensione arteriosa). È consigliabile un esame medico completo per verificare i valori di laboratorio e valutare la possibilità di trattamento.",
+        "length_norm_logprob": -0.496612
+      },
+      {
+        "text": "Il paziente ha raccontato di aver avuto frequenti urine da tempo (poliuria) e di aver preso 50 unità di ormoni del tiroide (T3). A causa della poliuria e dell'eccessivo uso di T3, è necessario un controllo medico per verificare il funzionamento del tiroide e la possibile ipertiroidismo.",
+        "length_norm_logprob": -0.600388
+      }
+    ],
+    "sd": 0.983172,
+    "u_llm": 0.016828,
+    "n_refs": 4,
+    "distances": [
+      0.013721,
+      0.043058,
+      0.003792,
+      0.004432
+    ]
+  }
+}

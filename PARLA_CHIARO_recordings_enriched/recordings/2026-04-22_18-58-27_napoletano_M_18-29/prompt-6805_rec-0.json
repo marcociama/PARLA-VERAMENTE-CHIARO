@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-22_18-58-27_napoletano_M_18-29",
+  "promptId": "6805",
+  "promptText": ["Non lo voglio, me la caverò.",
+		 "Non lo voglio, ce la posso fare",
+		 "Non lo voglio, me la posso cavare"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "0",
+  "filename": "prompt-6805_rec-0.wav",
+  "size": 86318,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-22T18:59:24.447Z"
+}

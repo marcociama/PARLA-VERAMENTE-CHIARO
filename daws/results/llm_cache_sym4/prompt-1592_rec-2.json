@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-1592_rec-2",
+  "gt_text": "Seguo una dieta, mangio poco, ma sono stanca di tutte queste sostituzioni. Cosa posso provare?",
+  "w1_text": "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+  "inputs": [
+    "Sto a dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+    "Sto a dieta, mangio poco, ma sono stanca di tutte queste sostituzioni. Cosa posso provare?",
+    "Seguo una dieta, mangio poco, ma sono stanca di tutta questa roba. Che posso provare?",
+    "Seguo una dieta, mangio poco, ma sono stanca di tutte queste sostituzioni. Cosa posso provare?"
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Posso suggerirti una dieta equilibrata che sia nutriente e varia, per evitare la monotonia e la stanchezza. Puoi integrare alimenti ricchi di proteine, come pesce, carne bianca o legumi",
+    "Puoi cercare di integrare alimenti naturali e variati nella tua dieta, evitando le sostituzioni. Potrebbe essere utile consultare un nutrizionista per ottenere consigli personalizzati sulla tua dieta equil",
+    "Potresti provare a seguire una dieta equilibrata e varia, senza escludere alcuni cibi, per garantire un approvvigionamento nutrizionale adeguato. Inoltre, è importante mantenere un buon",
+    "Puoi cercare di integrare alimenti naturali e nutrienti variati nella tua dieta. Ad esempio, consuma frutta e verdura crude, cereali integralici, pesce e carne bianca. Evita o riduci"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

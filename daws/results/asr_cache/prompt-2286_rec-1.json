@@ -1,0 +1,91 @@
+{
+  "transcription": "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+  "words": [
+    {
+      "word": "C'è",
+      "start": 1.751,
+      "end": 1.991,
+      "confidence": 0.35
+    },
+    {
+      "word": "un",
+      "start": 2.031,
+      "end": 2.092,
+      "confidence": 0.73
+    },
+    {
+      "word": "modo",
+      "start": 2.132,
+      "end": 2.412,
+      "confidence": 0.85
+    },
+    {
+      "word": "per",
+      "start": 2.472,
+      "end": 2.552,
+      "confidence": 0.224
+    },
+    {
+      "word": "avere",
+      "start": 2.592,
+      "end": 2.993,
+      "confidence": 0.675
+    },
+    {
+      "word": "i",
+      "start": 3.073,
+      "end": 3.113,
+      "confidence": 0.817
+    },
+    {
+      "word": "papi",
+      "start": 3.253,
+      "end": 3.593,
+      "confidence": 0.601
+    },
+    {
+      "word": "a",
+      "start": 3.613,
+      "end": 3.633,
+      "confidence": 0.0
+    },
+    {
+      "word": "chiacchiera",
+      "start": 3.653,
+      "end": 4.434,
+      "confidence": 0.555
+    },
+    {
+      "word": "singola,",
+      "start": 5.075,
+      "end": 5.696,
+      "confidence": 0.9
+    },
+    {
+      "word": "in",
+      "start": 6.397,
+      "end": 6.457,
+      "confidence": 0.776
+    },
+    {
+      "word": "modo",
+      "start": 6.497,
+      "end": 6.717,
+      "confidence": 0.889
+    },
+    {
+      "word": "naturale.",
+      "start": 6.797,
+      "end": 7.298,
+      "confidence": 0.71
+    }
+  ],
+  "top3": [
+    "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+    "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+    "C'è un modo per avere i papi a chiacchiera singola, in modo naturale."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6213076923076923,
+  "u_asr": 0.37869230769230766
+}

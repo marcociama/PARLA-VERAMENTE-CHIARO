@@ -1,0 +1,55 @@
+{
+  "transcription": "o un argillet aromatizzato. Fa male? Purisce!",
+  "words": [
+    {
+      "word": "o",
+      "start": 2.739,
+      "end": 2.76,
+      "confidence": 0.127
+    },
+    {
+      "word": "un",
+      "start": 2.96,
+      "end": 3.021,
+      "confidence": 0.182
+    },
+    {
+      "word": "argillet",
+      "start": 3.101,
+      "end": 3.603,
+      "confidence": 0.619
+    },
+    {
+      "word": "aromatizzato.",
+      "start": 4.105,
+      "end": 5.27,
+      "confidence": 0.703
+    },
+    {
+      "word": "Fa",
+      "start": 5.29,
+      "end": 5.35,
+      "confidence": 0.538
+    },
+    {
+      "word": "male?",
+      "start": 5.431,
+      "end": 6.696,
+      "confidence": 0.687
+    },
+    {
+      "word": "Purisce!",
+      "start": 6.716,
+      "end": 7.118,
+      "confidence": 0.418
+    }
+  ],
+  "top3": [
+    "o un argillet aromatizzato. Fa male? Purisce!",
+    "o un argillet aromatizzato. Fa male? Purisce!",
+    "o un argillet aromatizzato. Fa male? Purisce!"
+  ],
+  "language": "it",
+  "mean_confidence": 0.4677142857142857,
+  "u_asr": 0.5322857142857143
+}

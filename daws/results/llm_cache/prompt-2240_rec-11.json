@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Oltre alla radiografia del torace, quali altri esami devo fare per la tosse?",
+    "Oltre alla radiografia al torace, quali altri esami posso fare per la tosse?",
+    "Oltre alla radiografia del torace, che altri esami devo fare per la tosse?",
+    "Porto Radio Univio di Rangia. Quarant'esame di infamia del suo.",
+    "Porto Radio Univio Durange. Quarant'esame di infamato su.",
+    "Porto Radio Univio di Rangia. Quarant'esame di infamato."
+  ],
+  "responses": [
+    "Per la tosse, oltre alla radiografia del torace, è necessario effettuare anche un esame del sangue per valutare il numero di globuli bianchi e le proteine ematiche, nonché una sputata per esclud",
+    "Per la tosse, potrebbero essere richiesti altri esami come:\n\n1. Esame del sangue per valutare il numero di globuli bianchi e le proteine del fegato (esame completto di sangue).\n2.",
+    "Per la tosse, oltre alla radiografia del torace, è necessario effettuare anche un esame del sangue per valutare eventuali infezioni batteriche o infiammazioni sistemiche. Inoltre, potrebbe essere",
+    "Il porto radio univio è una prova di laboratorio che analizza il sangue per determinare la presenza di batteri o microrganismi patogeni. Il risultato del tuo esame di infamia è disponibile dal medico che",
+    "Il porto radio univio durange è una procedura radiologica utilizzata per esaminare l'apparato urinario. Per il quarantesimo esame di infamato, potresti essere richiesto di prepararti con una miscela",
+    "Il porto radio univio di Rangia è una procedura radiologica utilizzata per esaminare l'apparato biliare. Il quarantesimo esame di infamato è una prova che misura la quantità di colesterolo e trig"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Porto Radio Univio di Rangia. Quarant'esame di infamia del suo.\n\nRisposta:",
+    "best": {
+      "text": "Il porto radio univio è una prova di laboratorio utilizzata per valutare la funzione renale. Il quarantesimo esame di infamia fornisce informazioni sulla presenza e concentrazione delle proteine in siero, che possono essere alterate da patologie renali o non renali.",
+      "length_norm_logprob": -0.453187
+    },
+    "references": [
+      {
+        "text": "Il porto radio univio è una prova di laboratorio utilizzata per determinare la presenza di infezione batterica. Il quarantesimo esame di infamia fornisce informazioni sulla presenza di anticorpi contro patogeni specifici, come batteri o virus.",
+        "length_norm_logprob": -0.520419
+      },
+      {
+        "text": "Il porto radio univio è una prova di laboratorio utilizzata per valutare la presenza di batteri nel sangue. Il quarantesimo esame di infamia ti riferisce al controllo della trombocitopenia, o basso numero di trombociti (piastrine) nel tuo sangue.",
+        "length_norm_logprob": -0.384693
+      },
+      {
+        "text": "Il porto radio univio è un esame radiologico che visualizza la bocca e il tratto digestivo superiore. Il quarantesimo esame di infamia indaga sulla presenza di infezioni o patologie infettive.",
+        "length_norm_logprob": -0.479133
+      },
+      {
+        "text": "Il porto radio univio è un esame radiologico specifico per la valutazione delle vie urinarie superiori. Il quarantesimo esame di infamia ti riferisce all'analisi del campione prelevato dal vescico per verificare eventuali infezioni o batteriuria.",
+        "length_norm_logprob": -0.553893
+      }
+    ],
+    "sd": 0.789394,
+    "u_llm": 0.210606,
+    "n_refs": 4,
+    "distances": [
+      0.418453,
+      0.08058,
+      0.297001,
+      0.056581
+    ]
+  }
+}

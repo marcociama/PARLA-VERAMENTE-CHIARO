@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Mi hanno diagnosticato la tiroide che funziona poco due mesi fa e ho iniziato una medicina. Dopo quattro settimane i valori sono migliorati ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora al giorno. Quanto tempo ci vuole per adattarsi?",
+    "Mi hanno diagnosticato la tiroide che funziona poco, due mesi fa. Eh ho iniziato una medicina, una cura. Dopo quattro settimane, i valori sono migliorati, ma ho tenuto le palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide, e le palpitazioni durano circa un'ora al giorno. Quanto tempo ci vuole per adattarsi?",
+    "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. Ho iniziato una medicina, una cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto le palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide, e le palpitazioni durano circa un'ora al giorno? Quanto tempo ci vuole per adattarsi?",
+    "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?",
+    "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?",
+    "Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?"
+  ],
+  "responses": [
+    "La tiroide che funziona poco (ipotiroidismo) richiede trattamento a lungo termine con farmaci. Il tempo necessario per adattarsi alla nuova medicina può variare da persona a persona, ma solitamente va dal mese al",
+    "La tiroide che funziona poco (ipotiroidismo) richiede trattamento a lungo termine con farmaci per sostituire la tiroxina, una hormona prodotta dalla tiroide. Il tempo necessario per adattarsi alla ter",
+    "La tiroide che funziona poco (ipotiroidismo) richiede trattamento a lungo termine. Le palpitazioni brevi possono essere un effetto collaterale della terapia, ma durare circa un'ora al giorno potreb",
+    "La tiroide che funziona poco (ipotiroidismo) richiede trattamento a lungo termine. Il cambio di medicina può causare effetti collaterali, come le palpitazioni. Il tempo necessario per adattarsi alla nuova medic",
+    "La tiroide che funziona poco (ipotiroidismo) richiede trattamento a lungo termine. Il cambio di medicina può causare effetti collaterali, come le palpitazioni. Il tempo necessario per adattarsi alla nuova medic",
+    "La tiroide che funziona poco (ipotiroidismo) richiede trattamento a lungo termine. Il cambio di medicina può causare effetti collaterali, come le palpitazioni. Il tempo necessario per adattarsi alla nuova medic"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Mi hanno diagnosticato la tiroide che funziona poco. Due mesi fa. E ho iniziato la medicina, la cura. Dopo quattro settimane i valori sono migliorati, ma ho avuto palpitazioni brevi ogni giorno. Ho cambiato con un'altra medicina per la tiroide e le palpitazioni durano circa un'ora. Quanto tempo ci vuole per adattarsi?\n\nRisposta:",
+    "best": {
+      "text": "Il tempo di adattamento alla nuova terapia può variare da persona a persona, ma solitamente richiede diverse settimane. Continua a seguire le indicazioni del tuo medico e controlla i valori della tiroide regolarmente per monitorare il progresso della terapia.",
+      "length_norm_logprob": -0.393008
+    },
+    "references": [
+      {
+        "text": "Il tempo necessario per adattarsi alla nuova medicina può variare da persona a persona, ma solitamente richiede diversi mesi. Se le palpitazioni continuano o durano oltre un'ora, è importante consultare il medico per valutare se modifiche nella terapia sono necessarie.",
+        "length_norm_logprob": -0.44815
+      },
+      {
+        "text": "Il tempo di adattamento alla nuova medicina può variare da persona a persona, ma solitamente richiede diverse settimane. Riportare palpitazioni prolungate potrebbe indicare un problema di dosaggio o reazione avversa; è consigliabile consultare il medico per una valutazione precisa e eventuali modifiche della terapia.",
+        "length_norm_logprob": -0.432716
+      },
+      {
+        "text": "Il tempo di adattamento alla nuova terapia può variare da persona a persona, ma solitamente si richiede almeno 4-8 settimane per osservare i cambiamenti. Se le palpitazioni continuano, è importante contattare il proprio medico per una valutazione appropriata e eventuali modifiche della terapia.",
+        "length_norm_logprob": -0.430883
+      },
+      {
+        "text": "Il tempo di adattamento alla nuova medicina può variare da persona a persona, ma solitamente non è immediato. Continua a seguire il trattamento e consulta il tuo medico se le palpitazioni durano oltre un'ora.",
+        "length_norm_logprob": -0.365361
+      }
+    ],
+    "sd": 0.995039,
+    "u_llm": 0.004961,
+    "n_refs": 4,
+    "distances": [
+      0.004961,
+      0.004961,
+      0.004961,
+      0.004961
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "transcription": "Sì, non è un problema.",
+  "words": [
+    {
+      "word": "Sì,",
+      "start": 1.097,
+      "end": 1.4,
+      "confidence": 0.707
+    },
+    {
+      "word": "non",
+      "start": 1.461,
+      "end": 1.602,
+      "confidence": 0.653
+    },
+    {
+      "word": "è",
+      "start": 1.663,
+      "end": 1.703,
+      "confidence": 0.695
+    },
+    {
+      "word": "un",
+      "start": 1.784,
+      "end": 1.844,
+      "confidence": 0.653
+    },
+    {
+      "word": "problema.",
+      "start": 1.885,
+      "end": 2.329,
+      "confidence": 0.791
+    }
+  ],
+  "top3": [
+    "Sì, non è un problema.",
+    "Sì, non è un problema.",
+    "Sì, non è un problema."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6998,
+  "u_asr": 0.3002
+}

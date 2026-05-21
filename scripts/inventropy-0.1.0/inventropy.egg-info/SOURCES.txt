@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.py
+inventropy/__init__.py
+inventropy/core.py
+inventropy.egg-info/PKG-INFO
+inventropy.egg-info/SOURCES.txt
+inventropy.egg-info/dependency_links.txt
+inventropy.egg-info/requires.txt
+inventropy.egg-info/top_level.txt

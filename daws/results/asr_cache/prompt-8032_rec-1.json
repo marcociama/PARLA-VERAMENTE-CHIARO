@@ -1,0 +1,37 @@
+{
+  "transcription": "No, non lo so.",
+  "words": [
+    {
+      "word": "No,",
+      "start": 1.533,
+      "end": 1.614,
+      "confidence": 0.179
+    },
+    {
+      "word": "non",
+      "start": 1.634,
+      "end": 1.715,
+      "confidence": 0.671
+    },
+    {
+      "word": "lo",
+      "start": 1.735,
+      "end": 1.775,
+      "confidence": 0.003
+    },
+    {
+      "word": "so.",
+      "start": 1.795,
+      "end": 1.876,
+      "confidence": 0.329
+    }
+  ],
+  "top3": [
+    "No, non lo so.",
+    "No, non lo so ciò.",
+    "No, non lo so ciò."
+  ],
+  "language": "it",
+  "mean_confidence": 0.29550000000000004,
+  "u_asr": 0.7044999999999999
+}

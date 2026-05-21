@@ -1,0 +1,217 @@
+{
+  "transcription": "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.",
+  "words": [
+    {
+      "word": "Mia",
+      "start": 2.667,
+      "end": 2.827,
+      "confidence": 0.677
+    },
+    {
+      "word": "moglie",
+      "start": 2.867,
+      "end": 4.029,
+      "confidence": 0.823
+    },
+    {
+      "word": "è",
+      "start": 4.049,
+      "end": 4.069,
+      "confidence": 0.002
+    },
+    {
+      "word": "incinta",
+      "start": 4.109,
+      "end": 4.669,
+      "confidence": 0.815
+    },
+    {
+      "word": "a",
+      "start": 4.75,
+      "end": 4.79,
+      "confidence": 0.773
+    },
+    {
+      "word": "due",
+      "start": 4.85,
+      "end": 5.01,
+      "confidence": 0.597
+    },
+    {
+      "word": "mesi",
+      "start": 5.07,
+      "end": 5.39,
+      "confidence": 0.695
+    },
+    {
+      "word": "e",
+      "start": 5.41,
+      "end": 5.43,
+      "confidence": 0.169
+    },
+    {
+      "word": "cinque",
+      "start": 5.551,
+      "end": 5.851,
+      "confidence": 0.422
+    },
+    {
+      "word": "giorni",
+      "start": 5.871,
+      "end": 6.512,
+      "confidence": 0.703
+    },
+    {
+      "word": "e",
+      "start": 6.752,
+      "end": 6.912,
+      "confidence": 0.954
+    },
+    {
+      "word": "a",
+      "start": 7.092,
+      "end": 7.132,
+      "confidence": 0.973
+    },
+    {
+      "word": "due",
+      "start": 7.193,
+      "end": 7.413,
+      "confidence": 0.559
+    },
+    {
+      "word": "settimane",
+      "start": 7.473,
+      "end": 8.094,
+      "confidence": 0.912
+    },
+    {
+      "word": "tenero",
+      "start": 8.154,
+      "end": 8.574,
+      "confidence": 0.739
+    },
+    {
+      "word": "loro",
+      "start": 8.634,
+      "end": 9.115,
+      "confidence": 0.833
+    },
+    {
+      "word": "sotto",
+      "start": 9.195,
+      "end": 10.056,
+      "confidence": 0.841
+    },
+    {
+      "word": "l'ascella",
+      "start": 10.276,
+      "end": 10.817,
+      "confidence": 0.699
+    },
+    {
+      "word": "destra,",
+      "start": 10.877,
+      "end": 11.478,
+      "confidence": 0.875
+    },
+    {
+      "word": "solo",
+      "start": 11.758,
+      "end": 11.978,
+      "confidence": 0.79
+    },
+    {
+      "word": "quando",
+      "start": 12.038,
+      "end": 12.359,
+      "confidence": 0.549
+    },
+    {
+      "word": "la",
+      "start": 12.379,
+      "end": 12.439,
+      "confidence": 0.226
+    },
+    {
+      "word": "tocca.",
+      "start": 12.479,
+      "end": 13.0,
+      "confidence": 0.719
+    },
+    {
+      "word": "C'è",
+      "start": 13.62,
+      "end": 13.7,
+      "confidence": 0.637
+    },
+    {
+      "word": "stato",
+      "start": 13.78,
+      "end": 13.921,
+      "confidence": 0.35
+    },
+    {
+      "word": "qualche",
+      "start": 13.941,
+      "end": 14.221,
+      "confidence": 0.437
+    },
+    {
+      "word": "problema,",
+      "start": 14.341,
+      "end": 15.042,
+      "confidence": 0.925
+    },
+    {
+      "word": "sta",
+      "start": 16.043,
+      "end": 16.243,
+      "confidence": 0.935
+    },
+    {
+      "word": "prendendo",
+      "start": 16.263,
+      "end": 16.704,
+      "confidence": 0.361
+    },
+    {
+      "word": "un",
+      "start": 16.744,
+      "end": 16.844,
+      "confidence": 0.494
+    },
+    {
+      "word": "integratore",
+      "start": 16.864,
+      "end": 17.525,
+      "confidence": 0.768
+    },
+    {
+      "word": "per",
+      "start": 17.585,
+      "end": 17.645,
+      "confidence": 0.319
+    },
+    {
+      "word": "la",
+      "start": 17.665,
+      "end": 17.745,
+      "confidence": 0.332
+    },
+    {
+      "word": "gravidanza.",
+      "start": 17.785,
+      "end": 18.646,
+      "confidence": 0.85
+    }
+  ],
+  "top3": [
+    "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.",
+    "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto la scella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.",
+    "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza."
+  ],
+  "language": "it",
+  "mean_confidence": 0.639794117647059,
+  "u_asr": 0.36020588235294104
+}

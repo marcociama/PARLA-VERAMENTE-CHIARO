@@ -1,0 +1,271 @@
+{
+  "transcription": "s'è intorpiduto un rito lupere vicino al gallo, che si è lentamente sparsa un coppo di urnucci e un coppo di caviglie della coscia destra. I suoi erano sdervisciati. Tengono il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.",
+  "words": [
+    {
+      "word": "s'è",
+      "start": 4.688,
+      "end": 4.808,
+      "confidence": 0.172
+    },
+    {
+      "word": "intorpiduto",
+      "start": 4.908,
+      "end": 5.889,
+      "confidence": 0.421
+    },
+    {
+      "word": "un",
+      "start": 5.969,
+      "end": 6.049,
+      "confidence": 0.178
+    },
+    {
+      "word": "rito",
+      "start": 6.069,
+      "end": 6.469,
+      "confidence": 0.594
+    },
+    {
+      "word": "lupere",
+      "start": 6.649,
+      "end": 7.269,
+      "confidence": 0.794
+    },
+    {
+      "word": "vicino",
+      "start": 7.489,
+      "end": 7.83,
+      "confidence": 0.73
+    },
+    {
+      "word": "al",
+      "start": 7.85,
+      "end": 7.89,
+      "confidence": 0.212
+    },
+    {
+      "word": "gallo,",
+      "start": 7.95,
+      "end": 8.35,
+      "confidence": 0.616
+    },
+    {
+      "word": "che",
+      "start": 8.47,
+      "end": 8.57,
+      "confidence": 0.504
+    },
+    {
+      "word": "si",
+      "start": 8.67,
+      "end": 8.79,
+      "confidence": 0.58
+    },
+    {
+      "word": "è",
+      "start": 8.81,
+      "end": 8.83,
+      "confidence": 0.0
+    },
+    {
+      "word": "lentamente",
+      "start": 10.291,
+      "end": 12.272,
+      "confidence": 0.816
+    },
+    {
+      "word": "sparsa",
+      "start": 14.533,
+      "end": 15.313,
+      "confidence": 0.94
+    },
+    {
+      "word": "un",
+      "start": 15.333,
+      "end": 15.373,
+      "confidence": 0.0
+    },
+    {
+      "word": "coppo",
+      "start": 15.614,
+      "end": 15.974,
+      "confidence": 0.858
+    },
+    {
+      "word": "di",
+      "start": 15.994,
+      "end": 16.034,
+      "confidence": 0.001
+    },
+    {
+      "word": "urnucci",
+      "start": 16.054,
+      "end": 16.694,
+      "confidence": 0.586
+    },
+    {
+      "word": "e",
+      "start": 16.714,
+      "end": 16.734,
+      "confidence": 0.003
+    },
+    {
+      "word": "un",
+      "start": 17.254,
+      "end": 17.355,
+      "confidence": 0.521
+    },
+    {
+      "word": "coppo",
+      "start": 17.415,
+      "end": 17.755,
+      "confidence": 0.694
+    },
+    {
+      "word": "di",
+      "start": 17.895,
+      "end": 17.975,
+      "confidence": 0.266
+    },
+    {
+      "word": "caviglie",
+      "start": 17.995,
+      "end": 18.315,
+      "confidence": 0.513
+    },
+    {
+      "word": "della",
+      "start": 18.355,
+      "end": 18.575,
+      "confidence": 0.174
+    },
+    {
+      "word": "coscia",
+      "start": 18.655,
+      "end": 19.015,
+      "confidence": 0.687
+    },
+    {
+      "word": "destra.",
+      "start": 19.035,
+      "end": 19.596,
+      "confidence": 0.69
+    },
+    {
+      "word": "I",
+      "start": 20.396,
+      "end": 20.416,
+      "confidence": 0.828
+    },
+    {
+      "word": "suoi",
+      "start": 20.476,
+      "end": 20.956,
+      "confidence": 0.583
+    },
+    {
+      "word": "erano",
+      "start": 20.976,
+      "end": 21.477,
+      "confidence": 0.706
+    },
+    {
+      "word": "sdervisciati.",
+      "start": 21.637,
+      "end": 22.697,
+      "confidence": 0.792
+    },
+    {
+      "word": "Tengono",
+      "start": 23.378,
+      "end": 23.658,
+      "confidence": 0.236
+    },
+    {
+      "word": "il",
+      "start": 23.678,
+      "end": 23.758,
+      "confidence": 0.152
+    },
+    {
+      "word": "diabete",
+      "start": 23.798,
+      "end": 24.858,
+      "confidence": 0.864
+    },
+    {
+      "word": "a",
+      "start": 25.038,
+      "end": 25.098,
+      "confidence": 0.767
+    },
+    {
+      "word": "dieci",
+      "start": 25.159,
+      "end": 25.459,
+      "confidence": 0.541
+    },
+    {
+      "word": "anni.",
+      "start": 25.479,
+      "end": 25.839,
+      "confidence": 0.548
+    },
+    {
+      "word": "La",
+      "start": 26.659,
+      "end": 26.779,
+      "confidence": 0.659
+    },
+    {
+      "word": "risonanza",
+      "start": 26.859,
+      "end": 27.5,
+      "confidence": 0.841
+    },
+    {
+      "word": "magnetica,",
+      "start": 27.58,
+      "end": 28.14,
+      "confidence": 0.587
+    },
+    {
+      "word": "otto",
+      "start": 28.22,
+      "end": 28.42,
+      "confidence": 0.756
+    },
+    {
+      "word": "anni",
+      "start": 28.48,
+      "end": 28.68,
+      "confidence": 0.713
+    },
+    {
+      "word": "fa,",
+      "start": 28.76,
+      "end": 28.94,
+      "confidence": 0.921
+    },
+    {
+      "word": "già",
+      "start": 29.241,
+      "end": 29.361,
+      "confidence": 0.763
+    },
+    {
+      "word": "mostrata.",
+      "start": 29.481,
+      "end": 29.981,
+      "confidence": 0.62
+    }
+  ],
+  "top3": [
+    "s'è intorpiduto un rito lupere vicino al gallo, che si è lentamente sparsa un coppo di urnucci e un coppo di caviglie della coscia destra. I suoi erano sdervisciati. Tengono il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.",
+    "Negli ultimi otto anni sono ripetuto ridere l'opera vicino a Ballos, che si è lentamente sparsa un po' per l'occhio e un po' per la caviglia della coscia destra. I suoi nervi sciagliano. Tengo il diabete a dieci anni. La risonanza magnetica, otto anni fa, già mostrata.",
+    "Negli ultimi otto anni sono torpeduto un ritorno per vicino a Gallo, che si è lentamente spalzato, un po' per l'occhio e un po' per la via coscia destra. Mi sono riuscito a riuscire a riuscire a riuscire a riuscire a riuscire a riuscire a"
+  ],
+  "language": "it",
+  "mean_confidence": 0.5448139534883721,
+  "u_asr": 0.45518604651162786
+}

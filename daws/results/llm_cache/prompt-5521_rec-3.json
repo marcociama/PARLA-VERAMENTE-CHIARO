@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho una ciste irregolare. Un'ecografia ha rilevato cisti multiple sulle ovaie. Sto cercando di concepire da due mesi senza successo. Cosa devo fare?",
+    "Tengo una ciste irregolare. L'ecografia ha fatto vedere una ciste, insieme ad altre cisti nell'ovaia. Sto cercando di avere un figlio da due mesi, ma senza successo. Che posso fare?",
+    "Ho una ciste irregolare. L'ecografia ha mostrato una ciste insieme ad altre nell'ovaia. Sto provando ad avere figli da due mesi, senza successo. Che posso fare?",
+    "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?",
+    "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?",
+    "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?"
+  ],
+  "responses": [
+    "La tua condizione potrebbe essere dovuta a poliposi ovariche, ciste funzionali o patologie più gravi come il cancro ovarico. A causa della presenza di cisti multiple e del problema di concepire, è necess",
+    "La tua condizione potrebbe essere dovuta alla presenza di poliposi ovariche, una patologia comune che può causare la formazione di cisti nell'ovario. Tuttavia, per un esame preciso e una diagnosi corretta è",
+    "La tua condizione potrebbe essere dovuta alla presenza di cisti oligo-anovulare, che può causare problemi nella fertilità. Per una diagnosi precisa e un trattamento adeguato, è necessario consultare un g",
+    "Il narcismo irregolare non è una patologia medica riconosciuta. Tuttavia, se stai parlando di infertilità, esistono diverse cause che possono causare problemi nella concezione e nel mantenimento della gravidanza.",
+    "Il narcismo irregolare non è una patologia medica riconosciuta. Tuttavia, se stai parlando di infertilità, esistono diverse cause che possono causare problemi nella concezione e nel mantenimento della gravidanza.",
+    "Il narcismo irregolare non è una patologia medica riconosciuta. Tuttavia, se stai parlando di infertilità, esistono diverse cause che possono causare problemi nella concezione e nel mantenimento della gravidanza."
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?\n\nRisposta:",
+    "best": {
+      "text": "Il narcismo irregolare richiede un approccio specifico e multidisciplinare. Per avere figli, è consigliabile consultare un ginecologo o un urologo per indagini e terapie adeguate. Inoltre, potrebbe essere utile cercare supporto psicologico per affrontare il narcismo.",
+      "length_norm_logprob": -0.382952
+    },
+    "references": [
+      {
+        "text": "Il narcismo irregolare non può essere curato dal solo uso dell'ecografia. Per avere figli, ti suggeriamo di consultare un ginecologo per indagini e terapie appropriate.",
+        "length_norm_logprob": -0.445866
+      },
+      {
+        "text": "Il narcismo irregolare richiede un approccio specifico. Consulta un psichiatra specializzato per il trattamento della personalità disordinate. Per avere figli, considera l'adozione o la fecondazione in vitro con donatore.",
+        "length_norm_logprob": -0.401309
+      },
+      {
+        "text": "Il narcismo irregolare non può essere curato dal solo utilizzo dell'ecografia. Per avere figli, è consigliabile consultare un ginecologo o un urologista per indagini e trattamenti adeguati.",
+        "length_norm_logprob": -0.372557
+      },
+      {
+        "text": "Il narcismo irregolare richiede un approccio specifico e multidisciplinare. Per il desiderio di avere figli, potresti essere invitato ad eseguire test di fertilità e a consultare specialisti in riproduzione medica. Inoltre, per migliorare la tua salute mentale, è consigliabile consultare un terapeuta specializzato nella psicopatologia.",
+        "length_norm_logprob": -0.5282
+      }
+    ],
+    "sd": 0.911709,
+    "u_llm": 0.088291,
+    "n_refs": 4,
+    "distances": [
+      0.026655,
+      0.252095,
+      0.037892,
+      0.028135
+    ]
+  }
+}

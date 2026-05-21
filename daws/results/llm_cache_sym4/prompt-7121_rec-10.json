@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-7121_rec-10",
+  "gt_text": "Installo pavimenti. Lavoro per un'impresa di costruzioni e il mio lavoro principale è la posa dei pavimenti.",
+  "w1_text": "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+  "inputs": [
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è la posa dei pavimenti.",
+    "Installo pavimenti. Lavoro per un'impresa di costruzioni e il mio lavoro principale è stuccare i pavimenti.",
+    "Installo pavimenti. Lavoro per un'impresa di costruzioni e il mio lavoro principale è la posa dei pavimenti."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Il tuo lavoro può esporre a polveri minerali che possono causare problemi respiratori. È importante indossare mascherine antiparticolato e proteggersi con guanti, occhiali e abbigliamento protettivo",
+    "Il tuo lavoro consiste nella posa di pavimenti. Potrebbe essere necessario preoccuparti della sicurezza e della salute durante le imprese di costruzione.",
+    "Il tuo lavoro consiste nella realizzazione di pavimenti, in quanto lavori per una impresa di costruzioni. Non sembra che abbia un ruolo direttamente legato alla medicina.",
+    "La posa dei pavimenti non richiede competenze mediche. Se hai domande o problemi riguardanti l'occupazione, potresti contattare un agenzia di lavoro o un organismo professionale del settore della costruzione"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "L'ho fatto. Ecco un elenco.",
+    "L'ho completato. Ecco l'elenco.",
+    "L'ho eseguito. Ecco una lista.",
+    "L'ha già fatta, oi Can l'elenco.",
+    "L'ha già fatta, ho il canno e le leggo.",
+    "L'ha già fatta, ho il canno e le leggo."
+  ],
+  "responses": [
+    "Ho ricevuto l'elenco, ma non sono stato specificato il tipo di elenco o cosa contenga. Potresti fornirmi ulteriori informazioni per poter valutare la situazione? Ad esempio, se si tratta",
+    "Il tuo elenco è stato ricevuto. Per favore, controlla che tutti i valori siano corretti e completi. Se hai bisogno di aiuto per qualcosa, non esitare a chiedere.",
+    "La tua richiesta non è chiara. Se stai chiedendo se hai eseguito qualcosa specifico, potresti fornire maggiori dettagli per poter rispondere in modo appropriato. In caso di domande mediche",
+    "Il mio elenco di medicamenti è il seguente:\n1. Metformina 500 mg due volte al giorno\n2. Simvastatina 40 mg una volta al giorno\n3. Atenololo 25 mg",
+    "Il cannulo è stato inserito correttamente? Se si, controlla che non ci siano problemi con la posizione o l'integrità del cannulo. Se no, richiedi aiuto immediatamente.",
+    "Il cannulo è stato inserito correttamente? Se si, controlla che non ci siano problemi con la posizione o l'integrità del cannulo. Se no, richiedi aiuto immediatamente."
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: L'ha già fatta, oi Can l'elenco.\n\nRisposta:",
+    "best": {
+      "text": "Sì, ho il tuo elenco di medicamenti precedenti. Hai preso qualcosa?",
+      "length_norm_logprob": -0.523311
+    },
+    "references": [
+      {
+        "text": "Ho ricevuto la tua richiesta. Qui è il tuo elenco di medicamenti:",
+        "length_norm_logprob": -0.363349
+      },
+      {
+        "text": "Sì, ho il tuo elenco di medicamenti precedenti. Hai preso qualcosa già?",
+        "length_norm_logprob": -0.438828
+      },
+      {
+        "text": "Sì, ho il tuo elenco di medicamenti. Hai preso già tutto quello che mi è stato richiesto?",
+        "length_norm_logprob": -0.343805
+      },
+      {
+        "text": "Sì, ho elencato le tue prescrizioni. Se hai bisogno di ulteriori informazioni, contattami.",
+        "length_norm_logprob": -0.421967
+      }
+    ],
+    "sd": 0.628644,
+    "u_llm": 0.371356,
+    "n_refs": 4,
+    "distances": [
+      0.468224,
+      0.009862,
+      0.49858,
+      0.486521
+    ]
+  }
+}

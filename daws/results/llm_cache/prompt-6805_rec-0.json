@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Non lo voglio, me la caverò.",
+    "Non lo voglio, ce la posso fare",
+    "Non lo voglio, me la posso cavare",
+    "Non lo voglio, già posso farlo.",
+    "Non lo voglio, già posso farlo.",
+    "Non lo voglio, già posso farlo."
+  ],
+  "responses": [
+    "Non è consigliabile autolesionarsi. Se hai problemi o sentimi male, contattami subito per aiutarti a trovare una soluzione sicura e appropriata.",
+    "Non è consigliabile rifiutare trattamenti medici senza prima consultare il proprio medico. Se hai dubbi o preoccupazioni, puoi chiarire con lui/lei le tue ragioni e trovare una soluzione insieme",
+    "Non è consigliabile autolasciarsi un dente. Se hai dolori o problemi con il tuo dente, va bene che contatti il tuo dentista per una visita di controllo.",
+    "Non è necessario prendere ulteriori misure se non hai bisogno di consulenze o assistenza medica aggiuntiva. Se tuttavia cambia la situazione, non esitare a contattarmi nuovamente.",
+    "Non è necessario prendere ulteriori misure se non hai bisogno di consulenze o assistenza medica aggiuntiva. Se tuttavia cambia la situazione, non esitare a contattarmi nuovamente.",
+    "Non è necessario prendere ulteriori misure se non hai bisogno di consulenze o assistenza medica aggiuntiva. Se tuttavia cambia la situazione, non esitare a contattarmi nuovamente."
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Non lo voglio, già posso farlo.\n\nRisposta:",
+    "best": {
+      "text": "Sono molto rallegrato di aver potuto aiutarti. Se hai domande o bisogni di consulenza, non esitare a contattarmi.",
+      "length_norm_logprob": -0.45686
+    },
+    "references": [
+      {
+        "text": "Ho capito che il paziente non vuole accettare l'aiuto medico. Tuttavia, è importante ricordarsi che la salute è prioritaria e consiglio di valutare le ragioni della sua riluttanza per poter fornirgli il miglior supporto possibile.",
+        "length_norm_logprob": -0.59754
+      },
+      {
+        "text": "Il tuo atteggiamento è preoccupante. Tuttavia, se hai capito bene le istruzioni, non c'è bisogno di continuare il trattamento. Se qualcosa cambia, non esitare a contattarmi.",
+        "length_norm_logprob": -0.464731
+      },
+      {
+        "text": "Il tuo atteggiamento è preoccupante. Tuttavia, se sei sicuro di poter gestire la situazione, mi chiedi che cosa ti riguardi?",
+        "length_norm_logprob": -0.463943
+      },
+      {
+        "text": "Sono dispiaciuto di aver dovuto chiederti ciò, ma per la salvezza della tua salute è importante seguire le istruzioni del medico. Se hai qualsiasi domanda o dubbio, non esitare a fartene sapere più.",
+        "length_norm_logprob": -0.574497
+      }
+    ],
+    "sd": 0.503662,
+    "u_llm": 0.496338,
+    "n_refs": 4,
+    "distances": [
+      0.487456,
+      0.499051,
+      0.498817,
+      0.499222
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "transcription": "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.12,
+      "end": 1.161,
+      "confidence": 0.001
+    },
+    {
+      "word": "certo,",
+      "start": 1.261,
+      "end": 1.643,
+      "confidence": 0.831
+    },
+    {
+      "word": "già",
+      "start": 1.663,
+      "end": 1.724,
+      "confidence": 0.007
+    },
+    {
+      "word": "appena",
+      "start": 1.824,
+      "end": 2.126,
+      "confidence": 0.724
+    },
+    {
+      "word": "ho",
+      "start": 2.187,
+      "end": 2.408,
+      "confidence": 0.577
+    },
+    {
+      "word": "fatto",
+      "start": 2.569,
+      "end": 2.81,
+      "confidence": 0.624
+    },
+    {
+      "word": "89",
+      "start": 2.931,
+      "end": 3.031,
+      "confidence": 0.91
+    },
+    {
+      "word": "anni,",
+      "start": 3.051,
+      "end": 3.333,
+      "confidence": 0.616
+    },
+    {
+      "word": "l'anno",
+      "start": 3.655,
+      "end": 3.876,
+      "confidence": 0.858
+    },
+    {
+      "word": "che",
+      "start": 3.896,
+      "end": 3.997,
+      "confidence": 0.567
+    },
+    {
+      "word": "viene",
+      "start": 4.118,
+      "end": 4.48,
+      "confidence": 0.581
+    },
+    {
+      "word": "penso",
+      "start": 4.5,
+      "end": 4.882,
+      "confidence": 0.6
+    },
+    {
+      "word": "che",
+      "start": 4.902,
+      "end": 4.962,
+      "confidence": 0.188
+    },
+    {
+      "word": "organizzi",
+      "start": 4.983,
+      "end": 5.405,
+      "confidence": 0.765
+    },
+    {
+      "word": "una",
+      "start": 5.465,
+      "end": 5.546,
+      "confidence": 0.844
+    },
+    {
+      "word": "grande",
+      "start": 5.606,
+      "end": 5.868,
+      "confidence": 0.855
+    },
+    {
+      "word": "festa",
+      "start": 5.948,
+      "end": 6.23,
+      "confidence": 0.775
+    },
+    {
+      "word": "per",
+      "start": 6.27,
+      "end": 6.35,
+      "confidence": 0.306
+    },
+    {
+      "word": "il",
+      "start": 6.371,
+      "end": 6.411,
+      "confidence": 0.101
+    },
+    {
+      "word": "compleanno.",
+      "start": 6.431,
+      "end": 6.914,
+      "confidence": 0.594
+    }
+  ],
+  "top3": [
+    "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+    "E' certa, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno.",
+    "E certo, già appena ho fatto 89 anni, l'anno che viene penso che organizzi una grande festa per il compleanno."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5661999999999999,
+  "u_asr": 0.4338000000000001
+}

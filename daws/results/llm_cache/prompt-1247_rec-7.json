@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Credo di avere un disturbo alimentare legato al sonno, forse mangio di notte senza accorgermene.",
+    "Io penso di avere un disturbo alimentare molto legato al sonno, perchè forse mangio di notte senza sapere. Non so come si deve fare.",
+    "Io credo di avere un disturbo alimentare tanto legato al sonno, io forse mangio di notte senza notarlo. Non so cosa si deve fare.",
+    "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.",
+    "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.",
+    "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare."
+  ],
+  "responses": [
+    "Potrebbe trattarsi di una forma di disturbo del sonno associato alla sopraalimentazione notturna. È consigliabile consultare un medico per una valutazione accurata e eventuali terapie appropriati.",
+    "Potrebbe trattarsi di una forma di disturbo del sonno associato a comportamenti alimentari anomali (DSBD). Per ottenere un giudizio più preciso, è necessario effettuare un esame medico completo e un question",
+    "Potrebbe trattarsi di una forma di disturbo del sonno associato a comportamenti alimentari anomali (DSBD). È consigliabile consultare un medico specializzato in psichiatria o neurologia per una valutazione accurata e",
+    "Potrebbe trattarsi di una forma di disturbo del sonno associato a comportamenti alimentari anomali (DSBD). È consigliabile consultare un medico specializzato in psichiatria o neurologia per una valutazione accurata e",
+    "Potrebbe trattarsi di una forma di disturbo del sonno associato a comportamenti alimentari anomali (DSBD). È consigliabile consultare un medico specializzato in psichiatria o neurologia per una valutazione accurata e",
+    "Potrebbe trattarsi di una forma di disturbo del sonno associato a comportamenti alimentari anomali (DSBD). È consigliabile consultare un medico specializzato in psichiatria o neurologia per una valutazione accurata e"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo problema sembra essere una forma di disturbo alimentare associato al sonno, noto come \"notturnaglia\". Consiglio di consultare un medico specializzato per ricevere una diagnosi e terapia adeguata. Nel frattempo, evita di mangiare dopo il cibo serale e cerca di creare un buon equilibrio tra i pasti giornalieri.",
+      "length_norm_logprob": -0.504425
+    },
+    "references": [
+      {
+        "text": "Il tuo problema sembra essere una forma di disturbo alimentare associato alla sonnanza (noturno mangiare senza accorgersi). Pensiamo che sia opportuno consultare un medico specializzato in psichiatria o nutrizione per ottenere una diagnosi e una terapia adeguata.",
+        "length_norm_logprob": -0.538343
+      },
+      {
+        "text": "Il tuo problema sembra essere una forma di disturbo alimentare notturno, probabilmente noto come disturbo dell'assunzione notturna (BNS). Ti consiglio di consultarti con un medico specializzato in psichiatria o nutrizione per ottenere una diagnosi corretta e un trattamento adeguato.",
+        "length_norm_logprob": -0.455574
+      },
+      {
+        "text": "Il tuo problema sembra essere una forma di disturbo alimentare correlato al sonno, noto come ipnicagia. Ti consiglio di consultare un medico specializzato per ottenere una diagnosi precisa e ricevere una terapia adeguata. Inoltre, ti suggerisco di tenere un diario dei tuoi mangimi per meglio comprendere i tuoi comportamenti alimentari notturni.",
+        "length_norm_logprob": -0.435617
+      },
+      {
+        "text": "Il tuo problema potrebbe essere un disturbo alimentare notturno, come il disturbo del sonno associato al mangiare (Sleep-Related Eating Disorder - SRED). Considera di consultare un medico per una valutazione accurata e ricevere le giuste indicazioni.",
+        "length_norm_logprob": -0.444072
+      }
+    ],
+    "sd": 0.858505,
+    "u_llm": 0.141495,
+    "n_refs": 4,
+    "distances": [
+      0.115719,
+      0.306263,
+      0.139581,
+      0.003999
+    ]
+  }
+}

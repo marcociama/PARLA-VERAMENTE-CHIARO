@@ -1,0 +1,67 @@
+{
+  "transcription": "ha già tenuto il problema e ritornare in passato",
+  "words": [
+    {
+      "word": "ha",
+      "start": 1.15,
+      "end": 1.291,
+      "confidence": 0.298
+    },
+    {
+      "word": "già",
+      "start": 1.311,
+      "end": 1.371,
+      "confidence": 0.105
+    },
+    {
+      "word": "tenuto",
+      "start": 1.411,
+      "end": 1.711,
+      "confidence": 0.493
+    },
+    {
+      "word": "il",
+      "start": 1.752,
+      "end": 1.892,
+      "confidence": 0.484
+    },
+    {
+      "word": "problema",
+      "start": 1.932,
+      "end": 2.473,
+      "confidence": 0.566
+    },
+    {
+      "word": "e",
+      "start": 2.754,
+      "end": 2.814,
+      "confidence": 0.477
+    },
+    {
+      "word": "ritornare",
+      "start": 2.874,
+      "end": 3.235,
+      "confidence": 0.533
+    },
+    {
+      "word": "in",
+      "start": 3.275,
+      "end": 3.315,
+      "confidence": 0.263
+    },
+    {
+      "word": "passato",
+      "start": 3.375,
+      "end": 3.715,
+      "confidence": 0.427
+    }
+  ],
+  "top3": [
+    "ha già tenuto il problema e ritornare in passato",
+    "ha già tenuto il problema e ritornare in passato",
+    "ha già tenuto il problema e ritornare in passato"
+  ],
+  "language": "it",
+  "mean_confidence": 0.4051111111111111,
+  "u_asr": 0.5948888888888889
+}

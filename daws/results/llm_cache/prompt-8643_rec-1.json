@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Mi fanno male le ginocchia. Sono andate peggiorando lentamente ogni anno. La vita è dura a settantadue anni.",
+    "Mi fanno le ginocchia. Sono andata a peggiorare, piano piano, ogni anno. La vita è tosta a settantadue anni.",
+    "Mi fanno male le ginocchia. Sto peggiorando, piano piano, ogni anno. La vita è dura a settantadue anni.",
+    "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.",
+    "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.",
+    "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni."
+  ],
+  "responses": [
+    "Le tue ginocchia possono essere affette da artrite osteoartrosica, una condizione comune negli individui di età avanzata che può causare dolori e limiti alla mobilità.\n\nÈ consigliabile consult",
+    "Il dolore alle ginocchia può essere dovuto a varie cause, come artrite osteoartrosica, tendiniti o infezioni. È importante consultare un medico per una diagnosi precisa e trattamento adeguato.",
+    "Potrebbe trattarsi di artrite osteoartrosi delle ginocchia, una condizione comune in età avanzata che può causare dolori e limitazioni alla mobilità. È consigliabile consultare un medico per una valut",
+    "I tuoi ginocchi ti causano dolore e la condizione sembra peggiorare gradualmente ogni anno. A 72 anni è importante valutare la causa del dolore per poter trattarlo adeguatamente. Puoi cerc",
+    "I tuoi ginocchi ti causano dolore e la condizione sembra peggiorare gradualmente ogni anno. A 72 anni è importante valutare la causa del dolore per poter trattarlo adeguatamente. Puoi cerc",
+    "I tuoi ginocchi ti causano dolore e la condizione sembra peggiorare gradualmente ogni anno. A 72 anni è importante valutare la causa del dolore per poter trattarlo adeguatamente. Puoi cerc"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.\n\nRisposta:",
+    "best": {
+      "text": "Il dolore ai ginocchi che ti preoccupa può essere dovuto a varie cause, come artrite o infortuni passati. È importante consultare un medico per una diagnosi precisa e ricevere terapia adeguata. Non dimenticare di seguire le indicazioni del medico e mantenere una vita attiva e salutare.",
+      "length_norm_logprob": -0.448087
+    },
+    "references": [
+      {
+        "text": "Il dolore ai ginocchi che ti preoccupa può essere dovuto a una patologia articolare cronica che si aggrava lentamente. Ti consigliamo di consultare un medico specializzato per valutare la causa e fornirti una terapia adeguata.",
+        "length_norm_logprob": -0.517721
+      },
+      {
+        "text": "Il dolore ai ginocchi che ti preoccupa può essere dovuto a varie cause, come artrite o lesioni. È importante consultare un medico per una diagnosi precisa e ricevere terapia adeguata. Non dimenticare di seguire una dieta equilibrata e un regolare esercizio fisico per migliorare la salute generale.",
+        "length_norm_logprob": -0.412881
+      },
+      {
+        "text": "Il dolore ai ginocchi che ti preoccupa potrebbe essere dovuto ad artrite osteoartrosi. È importante consultare un medico per una diagnosi precisa e per ricevere eventuali trattamenti adeguati. Non dimenticare di seguire un stile di vita sano, come esercizi fisici moderati e una dieta equilibrata, per migliorare la salute generale.",
+        "length_norm_logprob": -0.479556
+      },
+      {
+        "text": "Il dolore ai ginocchi che si fa peggiore ogni anno potrebbe essere dovuto a una malattia articolare cronica. È consigliabile consultare un medico per una valutazione accurata e eventualmente una terapia adeguata.",
+        "length_norm_logprob": -0.422437
+      }
+    ],
+    "sd": 0.630629,
+    "u_llm": 0.369371,
+    "n_refs": 4,
+    "distances": [
+      0.483312,
+      0.108503,
+      0.438229,
+      0.464121
+    ]
+  }
+}

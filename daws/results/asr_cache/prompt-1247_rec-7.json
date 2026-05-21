@@ -1,0 +1,163 @@
+{
+  "transcription": "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.",
+  "words": [
+    {
+      "word": "Io",
+      "start": 2.072,
+      "end": 3.153,
+      "confidence": 0.816
+    },
+    {
+      "word": "penso",
+      "start": 3.613,
+      "end": 3.954,
+      "confidence": 0.981
+    },
+    {
+      "word": "di",
+      "start": 4.014,
+      "end": 4.074,
+      "confidence": 0.99
+    },
+    {
+      "word": "avere",
+      "start": 4.154,
+      "end": 4.614,
+      "confidence": 0.751
+    },
+    {
+      "word": "un",
+      "start": 4.694,
+      "end": 4.774,
+      "confidence": 0.984
+    },
+    {
+      "word": "disturbo",
+      "start": 4.814,
+      "end": 5.234,
+      "confidence": 0.847
+    },
+    {
+      "word": "alimentare",
+      "start": 5.275,
+      "end": 6.255,
+      "confidence": 0.777
+    },
+    {
+      "word": "molto",
+      "start": 6.355,
+      "end": 6.575,
+      "confidence": 0.912
+    },
+    {
+      "word": "legato",
+      "start": 6.635,
+      "end": 6.916,
+      "confidence": 0.86
+    },
+    {
+      "word": "al",
+      "start": 6.956,
+      "end": 7.036,
+      "confidence": 0.658
+    },
+    {
+      "word": "sonno,",
+      "start": 7.156,
+      "end": 7.616,
+      "confidence": 0.724
+    },
+    {
+      "word": "che",
+      "start": 7.756,
+      "end": 7.936,
+      "confidence": 0.818
+    },
+    {
+      "word": "forse",
+      "start": 9.057,
+      "end": 9.397,
+      "confidence": 0.85
+    },
+    {
+      "word": "mangio",
+      "start": 9.538,
+      "end": 9.858,
+      "confidence": 0.897
+    },
+    {
+      "word": "di",
+      "start": 9.898,
+      "end": 9.998,
+      "confidence": 0.797
+    },
+    {
+      "word": "notte",
+      "start": 10.058,
+      "end": 10.798,
+      "confidence": 0.932
+    },
+    {
+      "word": "senza",
+      "start": 11.299,
+      "end": 12.079,
+      "confidence": 0.975
+    },
+    {
+      "word": "saperlo,",
+      "start": 12.199,
+      "end": 12.96,
+      "confidence": 0.679
+    },
+    {
+      "word": "senza",
+      "start": 13.14,
+      "end": 13.36,
+      "confidence": 0.977
+    },
+    {
+      "word": "accorgermene,",
+      "start": 13.38,
+      "end": 14.221,
+      "confidence": 0.64
+    },
+    {
+      "word": "non",
+      "start": 14.421,
+      "end": 14.741,
+      "confidence": 0.306
+    },
+    {
+      "word": "so",
+      "start": 14.781,
+      "end": 15.142,
+      "confidence": 0.446
+    },
+    {
+      "word": "cosa",
+      "start": 15.182,
+      "end": 15.342,
+      "confidence": 0.491
+    },
+    {
+      "word": "da",
+      "start": 15.442,
+      "end": 15.502,
+      "confidence": 0.336
+    },
+    {
+      "word": "fare.",
+      "start": 15.602,
+      "end": 15.742,
+      "confidence": 0.137
+    }
+  ],
+  "top3": [
+    "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.",
+    "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare.",
+    "Io penso di avere un disturbo alimentare molto legato al sonno, che forse mangio di notte senza saperlo, senza accorgermene, non so cosa da fare."
+  ],
+  "language": "it",
+  "mean_confidence": 0.74324,
+  "u_asr": 0.25676
+}

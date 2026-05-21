@@ -1,0 +1,49 @@
+{
+  "transcription": "Ma il leucoderma si può curare?",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.663,
+      "end": 1.945,
+      "confidence": 0.889
+    },
+    {
+      "word": "il",
+      "start": 2.126,
+      "end": 2.367,
+      "confidence": 0.472
+    },
+    {
+      "word": "leucoderma",
+      "start": 2.468,
+      "end": 3.836,
+      "confidence": 0.894
+    },
+    {
+      "word": "si",
+      "start": 3.917,
+      "end": 3.977,
+      "confidence": 0.449
+    },
+    {
+      "word": "può",
+      "start": 4.017,
+      "end": 4.138,
+      "confidence": 0.558
+    },
+    {
+      "word": "curare?",
+      "start": 4.239,
+      "end": 4.581,
+      "confidence": 0.561
+    }
+  ],
+  "top3": [
+    "Ma il leucoderma si può curare?",
+    "Ma il leucoderma si può curare?",
+    "Ma il leucoderma si può curare?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6371666666666665,
+  "u_asr": 0.36283333333333345
+}

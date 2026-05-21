@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-9610_rec-8",
+  "gt_text": "Sì, ho ancora dolore nella coscia destra.",
+  "w1_text": "Sì, aggiungo l'onorura alla coscia destra.",
+  "inputs": [
+    "Sì, aggiungo l'onorura alla coscia destra.",
+    "Sì, aggiungo l'onorura dolore nella coscia destra.",
+    "Sì, ho ancora alla coscia destra.",
+    "Sì, ho ancora dolore nella coscia destra."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "La tua domanda non è chiara. Ho bisogno di ulteriori informazioni per poter fornirti una risposta medica appropriata. Puoi descrivere meglio il dolore o la condizione che stai affrontando nella cos",
+    "Il dolore nella coscia destra potrebbe essere dovuto a varie cause. È consigliabile consultare un medico per una diagnosi precisa e ricevere terapia adeguata.",
+    "Il dolore alla coscia destra continua a persistere. È necessario un controllo medico per valutare la gravità e eventuali trattamenti adeguati.",
+    "Il dolore nella coscia destra può essere dovuto a varie cause, come lesioni muscolari o articolari, o problemi di vasi sanguigni. È consigliabile consultare un medico per una valutazione accurata e eventual"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

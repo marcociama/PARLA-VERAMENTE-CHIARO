@@ -1,0 +1,49 @@
+{
+  "transcription": "L'ha già fatta, oi Can l'elenco.",
+  "words": [
+    {
+      "word": "L'ha",
+      "start": 0.968,
+      "end": 1.069,
+      "confidence": 0.502
+    },
+    {
+      "word": "già",
+      "start": 1.129,
+      "end": 1.25,
+      "confidence": 0.746
+    },
+    {
+      "word": "fatta,",
+      "start": 1.29,
+      "end": 1.753,
+      "confidence": 0.818
+    },
+    {
+      "word": "oi",
+      "start": 1.955,
+      "end": 2.075,
+      "confidence": 0.71
+    },
+    {
+      "word": "Can",
+      "start": 2.156,
+      "end": 2.418,
+      "confidence": 0.769
+    },
+    {
+      "word": "l'elenco.",
+      "start": 2.438,
+      "end": 3.021,
+      "confidence": 0.683
+    }
+  ],
+  "top3": [
+    "L'ha già fatta, oi Can l'elenco.",
+    "L'ha già fatta, ho il canno e le leggo.",
+    "L'ha già fatta, ho il canno e le leggo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7046666666666667,
+  "u_asr": 0.29533333333333334
+}

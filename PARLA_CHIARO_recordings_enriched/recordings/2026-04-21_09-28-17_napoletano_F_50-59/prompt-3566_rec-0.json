@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-21_09-28-17_napoletano_F_50-59",
+  "promptId": "3566",
+  "promptText": ["Il mio cuore inizia improvvisamente a battere molto velocemente da tre anni. Ho fatto un'ecografia al cuore e un controllo con gli elettrodi e sono sempre risultati normali. Ultimamente sento dolore al petto e un formicolio nel braccio destro. Anche la tiroide è normale. Non so cosa fare.","Il mio cuore comincia a battere all'improvviso molto velocemente da tre anni. Ho fatto una ecografia al cuore ed un controllo con elettrodi e sono sempre risultati normali. Adesso sento un dolore al petto ed un formicolio al braccio destro. La tiroide pure risulta normale, non so che devo fare","Il cuore mio comincia a battere improvvisamente in maniera molto veloce da tre anni. Ho fatto sia un’ecografia al cuore che un controllo con gli elettrodi e sono sempre risultati normali. Ultimamente sento dolore al petto e un formicolio al braccio destro. Anche la tiroide è normale, non so cosa fare."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "0",
+  "filename": "prompt-3566_rec-0.wav",
+  "size": 468659,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-21T09:29:54.008Z"
+}

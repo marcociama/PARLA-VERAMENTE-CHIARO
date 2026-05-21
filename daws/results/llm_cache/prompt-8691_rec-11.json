@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Mi identifico come donna.",
+    "Sono femmina",
+    "Sono una donna",
+    "soffimmano",
+    "soffimmano",
+    "Soffimano."
+  ],
+  "responses": [
+    "Ho ricevuto la tua richiesta. Come potrei aiutarmi?",
+    "Sono un assistente medico virtuale. Non posso fornire diagnosi o trattamenti senza una valutazione medica precedente da parte di un medico umano qualificato. Tuttavia, potrei aiutarti a capire i",
+    "La tua domanda non è specifica. Potrebbe essere utile conoscere il motivo per cui hai richiesto di essere una donna. Se stai chiedendo informazioni su malattie che colpiscono le donne in modo particolare, pot",
+    "Mi dispiace per il tuo disagio. I sintomi che hai descritto possono essere dovuti a una bronchite acuta o ad un'infezione respiratoria superiore. È importante consultare un medico per una diagnosi",
+    "Mi dispiace per il tuo disagio. I sintomi che hai descritto possono essere dovuti a una bronchite acuta o ad un'infezione respiratoria superiore. È importante consultare un medico per una diagnosi",
+    "Potrebbe trattarsi di un sintomo di una bronchite acuta o di un raffreddore comune. È consigliabile bere abbondante acqua, prendere paracetamolo per alleviare il febbrile e ripos"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: soffimmano\n\nRisposta:",
+    "best": {
+      "text": "Il tuo stato di salute sembra preoccupante, potrebbe essere una crisi di astma o un'altra emergenza respiratoria. Contatta subito il tuo medico o l'emergenza sanitaria.",
+      "length_norm_logprob": -0.420884
+    },
+    "references": [
+      {
+        "text": "Il tuo sintomo è la tosse. È importante consultare un medico per ottenere una diagnosi corretta e prescrizione di eventuali trattamenti.",
+        "length_norm_logprob": -0.542887
+      },
+      {
+        "text": "Il tuo stato di salute sembra preoccupante, ti suggerisco di consultare un medico immediatamente per una valutazione accurata. In attesa, cerca di respirare a ritmi regolari e mantieni calmo.",
+        "length_norm_logprob": -0.618021
+      },
+      {
+        "text": "Il tuo sintomo è la tosse. Se persiste, contatta il tuo medico o un servizio di emergenza sanitaria.",
+        "length_norm_logprob": -0.518418
+      },
+      {
+        "text": "Il tuo stato sembra peggiorare, è necessario consultare un medico immediatamente. Brevi espulsioni di aria possono essere una sintoma di diverse patologie respiratorie.",
+        "length_norm_logprob": -0.648707
+      }
+    ],
+    "sd": 0.563117,
+    "u_llm": 0.436883,
+    "n_refs": 4,
+    "distances": [
+      0.360389,
+      0.374421,
+      0.513538,
+      0.499003
+    ]
+  }
+}

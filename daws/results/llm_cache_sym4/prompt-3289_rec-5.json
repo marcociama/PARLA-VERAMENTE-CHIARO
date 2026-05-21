@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-3289_rec-5",
+  "gt_text": "Sei anni fa ho avuto una micosi inguinale che è stata completamente curata ma ha lasciato delle macchie scure. Un dermatologo mi ha consigliato una crema, che però non sembra funzionare. Mi consigli un unguento efficace.",
+  "w1_text": "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema che però non è molto buona. Voglio una crema più sistemata.",
+  "inputs": [
+    "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema che però non è molto buona. Voglio una crema più sistemata.",
+    "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo scure. Un dermatologo mi ha consigliato una crema, che però non sembra funzionare. Mi consigli un unguento efficace.",
+    "Sei anni fa ho avuto una micosi inguinale che è stata completamente curata ma ha lasciato delle macchie una certa crema che però non è molto buona. Voglio una crema più sistemata.",
+    "Sei anni fa ho avuto una micosi inguinale che è stata completamente curata ma ha lasciato delle macchie scure. Un dermatologo mi ha consigliato una crema, che però non sembra funzionare. Mi consigli un unguento efficace."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "La crema antifungina prescritta dal medico deve essere utilizzata secondo le indicazioni fornite. Se la crema attuale non funziona bene, è necessario consultare il medico per ottenere una prescrizione di un farm",
+    "Il mio paziente ha avuto un'infestazione di funghi sulla lingua alcuni anni fa e ha ricevuto una crema da un dermatologo, ma non sembra esserla stata efficace. Mi consiglio l'uso",
+    "Ho paura di fornirti informazioni mediche senza essere un medico qualificato, tuttavia posso suggerirti di consultare un dermatologo per ottenere consigli sulla crema più adatta per le tue macchie resid",
+    "Ho letto la tua richiesta. La micosi inguinale può lasciare delle macchie scure permanenti sulla pelle. Se il trattamento prescritto dal dermatologo non sembra funzionare, potresti considerare un"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

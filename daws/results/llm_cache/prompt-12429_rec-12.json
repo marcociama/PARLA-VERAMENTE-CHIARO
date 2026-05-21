@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho avuto problemi alle dita dei piedi in passato.",
+    "Ho tenuto dei problemi alle dita dei piedi, in passato.",
+    "Avevo dei problemi alle dita dei piedi, tempo fa.",
+    "ha già tenuto il problema e ritornare in passato",
+    "ha già tenuto il problema e ritornare in passato",
+    "ha già tenuto il problema e ritornare in passato"
+  ],
+  "responses": [
+    "Problemi alle dita dei piedi possono essere causati da diverse condizioni, come l'artrite reumatoide o la gonfiore delle vene. Se i sintomi persistono, è consigliabile consultare un medico per",
+    "Probabilmente stai parlando di un problema chiamato onicomielite, che è una condizione caratterizzata da infezioni delle unghie dei piedi. Se il problema continua o si ripresenta, è consigliabile",
+    "I sintomi che hai descritto possono essere dovuti a una forma di neuropatia periferica, come la neuropatia diabetica o una neuropatia periferica idiopatica. È importante consultare un medico per",
+    "Il problema che hai avuto è stato trattato? Se non ci sono cambiamenti significativi, potrebbe essere utile controllare la situazione per assicurarsi che si sia guarito completamente. In caso di nuovi sintomi",
+    "Il problema che hai avuto è stato trattato? Se non ci sono cambiamenti significativi, potrebbe essere utile controllare la situazione per assicurarsi che si sia guarito completamente. In caso di nuovi sintomi",
+    "Il problema che hai avuto è stato trattato? Se non ci sono cambiamenti significativi, potrebbe essere utile controllare la situazione per assicurarsi che si sia guarito completamente. In caso di nuovi sintomi"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: ha già tenuto il problema e ritornare in passato\n\nRisposta:",
+    "best": {
+      "text": "Il paziente ha già avuto l'esperienza del problema in precedenza. È importante condividere i dettagli della sua storia clinica per poter valutare la situazione attuale e fornire una consulenza adeguata.",
+      "length_norm_logprob": -0.431404
+    },
+    "references": [
+      {
+        "text": "Il paziente ha già avuto il problema in precedenza e lo ha riscontrato anche al tempo passato. Consiglio di consultare il medico per valutare la necessità di un trattamento.",
+        "length_norm_logprob": -0.526987
+      },
+      {
+        "text": "Il paziente ha già avuto l'esperienza di quel problema in precedenza. È importante rivedere i trattamenti effettuati in passato per poter fornire una terapia adeguata.",
+        "length_norm_logprob": -0.476213
+      },
+      {
+        "text": "Il paziente ha già avuto il problema in precedenza e lo ha riscontrato anche al suo ritorno.",
+        "length_norm_logprob": -0.374443
+      },
+      {
+        "text": "Il paziente ha già avuto l'esperienza di questo problema in precedenza. È importante rilevare i fattori che hanno causato il suo ritorno per un trattamento adeguato.",
+        "length_norm_logprob": -0.523897
+      }
+    ],
+    "sd": 0.613398,
+    "u_llm": 0.386602,
+    "n_refs": 4,
+    "distances": [
+      0.495575,
+      0.460377,
+      0.48928,
+      0.081356
+    ]
+  }
+}

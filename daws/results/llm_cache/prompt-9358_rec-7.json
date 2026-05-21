@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Riesco ad addormentarmi con quella, ma di solito mi strappo la maschera perché mi giro e rigiro.",
+    "Riesco a dormire con questa, però solitamente, mentre mi giro e mi rigiro, si strappa sempre.",
+    "Ce la faccio a dormire con questa, però solitamente, quando mi giro e mi rigiro, si rompe sempre",
+    "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre",
+    "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre",
+    "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre"
+  ],
+  "responses": [
+    "Il fatto che tu abbia difficoltà a dormire durante l'utilizzo della mascherina anticovid-19 è comune. Puoi provare a trovare una mascherina più comoda o adattarla in modo da poterla port",
+    "Il sintomo che hai descritto potrebbe essere dovuto ad una condizione nota come rash notturno. Tuttavia, per una diagnosi precisa è necessario un esame medico approfondito. In attesa di consultare il",
+    "Il problema potrebbe essere dovuto ad una malattia del collo o alla postura durante il sonno. È consigliabile consultare un medico per una valutazione accurata e eventuali trattamenti.",
+    "Il fatto di non riuscire a dormire durante la notte può essere dovuto a diversi fattori, tra cui stress, cibo o bevande che contengono sostanze stimolanti, o una condizione medica come il disturbo del",
+    "Il fatto di non riuscire a dormire durante la notte può essere dovuto a diversi fattori, tra cui stress, cibo o bevande che contengono sostanze stimolanti, o una condizione medica come il disturbo del",
+    "Il fatto di non riuscire a dormire durante la notte può essere dovuto a diversi fattori, tra cui stress, cibo o bevande che contengono sostanze stimolanti, o una condizione medica come il disturbo del"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre\n\nRisposta:",
+    "best": {
+      "text": "Il fatto di non riuscire a dormire tranquillamente potrebbe essere dovuto alla torsione del collo. È consigliabile cercare aiuto medico per una valutazione e eventuale terapia.",
+      "length_norm_logprob": -0.383175
+    },
+    "references": [
+      {
+        "text": "Il fatto di non riuscire a dormire per lungo tempo o avere disturbi nel sonno potrebbe essere dovuto a problemi di insomnia. È consigliabile cercare aiuto medico per trovare una soluzione appropriata.",
+        "length_norm_logprob": -0.581021
+      },
+      {
+        "text": "Il fatto di non riuscire a dormire tranquillamente potrebbe essere dovuto alla torsione notturna del collo. È consigliabile cercare aiuto medico per una valutazione e eventuali terapie.",
+        "length_norm_logprob": -0.413242
+      },
+      {
+        "text": "Il fatto di non riuscire a dormire per lungo tempo può essere dovuto a disturbi del sonno. Probabilmente ti consigliamo di cercare una terapia per insomnia o di consultare un medico specializzato.",
+        "length_norm_logprob": -0.499469
+      },
+      {
+        "text": "Il tuo problema sembra essere legato alla cattiva qualità del sonno, forse a causa di una condizione nota come disturbo del movimento delle arti durante il sonno. Pensiamo che sarebbe utile consultare un medico per ottenere un esame e una terapia adeguata.",
+        "length_norm_logprob": -0.54013
+      }
+    ],
+    "sd": 0.738452,
+    "u_llm": 0.261548,
+    "n_refs": 4,
+    "distances": [
+      0.436006,
+      0.012005,
+      0.371049,
+      0.263337
+    ]
+  }
+}

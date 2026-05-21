@@ -1,0 +1,199 @@
+{
+  "transcription": "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?",
+  "words": [
+    {
+      "word": "È",
+      "start": 0.743,
+      "end": 0.803,
+      "confidence": 0.486
+    },
+    {
+      "word": "un",
+      "start": 0.863,
+      "end": 1.003,
+      "confidence": 0.483
+    },
+    {
+      "word": "narcista",
+      "start": 1.084,
+      "end": 3.267,
+      "confidence": 0.692
+    },
+    {
+      "word": "irregolare.",
+      "start": 3.307,
+      "end": 4.029,
+      "confidence": 0.918
+    },
+    {
+      "word": "L'ecografia",
+      "start": 4.59,
+      "end": 5.271,
+      "confidence": 0.74
+    },
+    {
+      "word": "è",
+      "start": 5.291,
+      "end": 5.311,
+      "confidence": 0.064
+    },
+    {
+      "word": "fatta",
+      "start": 5.431,
+      "end": 5.671,
+      "confidence": 0.811
+    },
+    {
+      "word": "per",
+      "start": 5.711,
+      "end": 5.812,
+      "confidence": 0.476
+    },
+    {
+      "word": "i",
+      "start": 5.832,
+      "end": 5.892,
+      "confidence": 0.722
+    },
+    {
+      "word": "narcisti,",
+      "start": 5.912,
+      "end": 6.613,
+      "confidence": 0.903
+    },
+    {
+      "word": "ma",
+      "start": 6.693,
+      "end": 7.254,
+      "confidence": 0.888
+    },
+    {
+      "word": "insieme",
+      "start": 7.354,
+      "end": 7.775,
+      "confidence": 0.83
+    },
+    {
+      "word": "ai",
+      "start": 7.795,
+      "end": 7.835,
+      "confidence": 0.408
+    },
+    {
+      "word": "narcisti",
+      "start": 7.855,
+      "end": 8.316,
+      "confidence": 0.477
+    },
+    {
+      "word": "da",
+      "start": 8.396,
+      "end": 8.476,
+      "confidence": 0.947
+    },
+    {
+      "word": "dove",
+      "start": 8.516,
+      "end": 8.616,
+      "confidence": 0.265
+    },
+    {
+      "word": "vai?",
+      "start": 8.636,
+      "end": 8.977,
+      "confidence": 0.732
+    },
+    {
+      "word": "Sto",
+      "start": 9.979,
+      "end": 10.379,
+      "confidence": 0.871
+    },
+    {
+      "word": "cercando",
+      "start": 10.46,
+      "end": 10.86,
+      "confidence": 0.678
+    },
+    {
+      "word": "di",
+      "start": 10.88,
+      "end": 10.92,
+      "confidence": 0.034
+    },
+    {
+      "word": "avere",
+      "start": 10.94,
+      "end": 11.201,
+      "confidence": 0.619
+    },
+    {
+      "word": "figli,",
+      "start": 11.281,
+      "end": 11.662,
+      "confidence": 0.861
+    },
+    {
+      "word": "ero",
+      "start": 11.682,
+      "end": 11.802,
+      "confidence": 0.513
+    },
+    {
+      "word": "in",
+      "start": 11.822,
+      "end": 11.862,
+      "confidence": 0.007
+    },
+    {
+      "word": "misa,",
+      "start": 12.062,
+      "end": 12.483,
+      "confidence": 0.681
+    },
+    {
+      "word": "ma",
+      "start": 12.503,
+      "end": 12.804,
+      "confidence": 0.805
+    },
+    {
+      "word": "senza",
+      "start": 12.904,
+      "end": 13.164,
+      "confidence": 0.869
+    },
+    {
+      "word": "successo.",
+      "start": 13.224,
+      "end": 13.845,
+      "confidence": 0.799
+    },
+    {
+      "word": "Che",
+      "start": 14.086,
+      "end": 14.166,
+      "confidence": 0.592
+    },
+    {
+      "word": "posso",
+      "start": 14.266,
+      "end": 14.526,
+      "confidence": 0.478
+    },
+    {
+      "word": "fare?",
+      "start": 14.607,
+      "end": 14.847,
+      "confidence": 0.282
+    }
+  ],
+  "top3": [
+    "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?",
+    "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?",
+    "È un narcista irregolare. L'ecografia è fatta per i narcisti, ma insieme ai narcisti da dove vai? Sto cercando di avere figli, ero in misa, ma senza successo. Che posso fare?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6106774193548388,
+  "u_asr": 0.38932258064516123
+}

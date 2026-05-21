@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-22_17-04-10_napoletano_M_40-49",
+  "promptId": "188",
+  "promptText": ["Mia figlia piange dopo i pasti e a volte anche mentre mangia.","Mia figlia piange dopo che ha mangiato, e a volte anche mentre sta mangiando.","Mia figlia piange dopo che ha mangiato o a volte anche mentre sta magnando."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "8",
+  "filename": "prompt-188_rec-8.wav",
+  "size": 207438,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-22T17:14:29.304Z"
+}

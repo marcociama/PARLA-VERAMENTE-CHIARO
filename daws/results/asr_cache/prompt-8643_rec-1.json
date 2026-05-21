@@ -1,0 +1,121 @@
+{
+  "transcription": "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.",
+  "words": [
+    {
+      "word": "Mi",
+      "start": 0.713,
+      "end": 0.813,
+      "confidence": 0.606
+    },
+    {
+      "word": "fanno",
+      "start": 0.853,
+      "end": 1.074,
+      "confidence": 0.817
+    },
+    {
+      "word": "male",
+      "start": 1.134,
+      "end": 1.335,
+      "confidence": 0.97
+    },
+    {
+      "word": "i",
+      "start": 1.355,
+      "end": 1.375,
+      "confidence": 0.014
+    },
+    {
+      "word": "ginocchi,",
+      "start": 1.475,
+      "end": 2.197,
+      "confidence": 0.788
+    },
+    {
+      "word": "agito",
+      "start": 3.281,
+      "end": 3.682,
+      "confidence": 0.735
+    },
+    {
+      "word": "peggiorando",
+      "start": 3.722,
+      "end": 4.364,
+      "confidence": 0.784
+    },
+    {
+      "word": "piano",
+      "start": 4.404,
+      "end": 4.685,
+      "confidence": 0.516
+    },
+    {
+      "word": "piano",
+      "start": 4.725,
+      "end": 5.086,
+      "confidence": 0.71
+    },
+    {
+      "word": "ogni",
+      "start": 5.166,
+      "end": 5.367,
+      "confidence": 0.944
+    },
+    {
+      "word": "anno,",
+      "start": 5.427,
+      "end": 5.868,
+      "confidence": 0.931
+    },
+    {
+      "word": "la",
+      "start": 6.149,
+      "end": 6.209,
+      "confidence": 0.44
+    },
+    {
+      "word": "vita",
+      "start": 6.249,
+      "end": 6.45,
+      "confidence": 0.863
+    },
+    {
+      "word": "è",
+      "start": 6.47,
+      "end": 6.49,
+      "confidence": 0.538
+    },
+    {
+      "word": "tosta",
+      "start": 6.65,
+      "end": 7.112,
+      "confidence": 0.989
+    },
+    {
+      "word": "a",
+      "start": 7.132,
+      "end": 7.152,
+      "confidence": 0.019
+    },
+    {
+      "word": "72",
+      "start": 7.232,
+      "end": 7.332,
+      "confidence": 0.94
+    },
+    {
+      "word": "anni.",
+      "start": 7.493,
+      "end": 7.794,
+      "confidence": 0.808
+    }
+  ],
+  "top3": [
+    "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.",
+    "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni.",
+    "Mi fanno male i ginocchi, agito peggiorando piano piano ogni anno, la vita è tosta a 72 anni."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6895555555555556,
+  "u_asr": 0.3104444444444444
+}

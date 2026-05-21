@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_10-48-37_napoletano_F_30-39",
+  "promptId": "9358",
+  "promptText": ["Riesco ad addormentarmi con quella, ma di solito mi strappo la maschera perché mi giro e rigiro.",
+		 "Riesco a dormire con questa, però solitamente, mentre mi giro e mi rigiro, si strappa sempre.",
+		 "Ce la faccio a dormire con questa, però solitamente, quando mi giro e mi rigiro, si rompe sempre"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "7",
+  "filename": "prompt-9358_rec-7.wav",
+  "size": 182398,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T10:51:07.588Z"
+}

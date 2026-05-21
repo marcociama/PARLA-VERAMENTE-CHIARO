@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-5657_rec-11",
+  "gt_text": "Il narghilè aromatizzato è dannoso per la salute? Può consigliarmi?",
+  "w1_text": "o un argillet aromatizzato. Fa male? Purisce!",
+  "inputs": [
+    "o un argillet aromatizzato. Fa male? Purisce!",
+    "o un argillet per la salute? Può consigliarmi?",
+    "Il narghilè aromatizzato è dannoso aromatizzato. Fa male? Purisce!",
+    "Il narghilè aromatizzato è dannoso per la salute? Può consigliarmi?"
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Un argillet aromatizzato non è considerato un prodotto medicinale e pertanto non ha effetti terapeutici. Tuttavia, se il profumo di esso causa irritazione o allergia, è consigliabile rimuoverlo immediatamente dalla",
+    "Sì, posso suggerirti l'uso di un arginino, una sostanza che può aiutare a ridurre il rischio di malattie cardiovascolari. Tuttavia, è sempre meglio consultare un medico prima di",
+    "Sì, il narghilè aromatizzato può essere dannoso per la salute a causa della presenza di sostanze chimiche nocive. Nonostante le affermazioni sulla purificazione, non esiste alcuna prova scientifica che confermi",
+    "Il narghilè aromatizzato contiene sostanze chimiche nocive, come nicotina e diossine, che possono causare danni alla salute. Consiglio di evitare il suo uso. Al suo posto, potresti c"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

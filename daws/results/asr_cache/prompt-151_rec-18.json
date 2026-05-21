@@ -1,0 +1,73 @@
+{
+  "transcription": "Quali sono i momenti migliori per cercare di rimanere incinta?",
+  "words": [
+    {
+      "word": "Quali",
+      "start": 0.847,
+      "end": 1.068,
+      "confidence": 0.302
+    },
+    {
+      "word": "sono",
+      "start": 1.088,
+      "end": 1.228,
+      "confidence": 0.429
+    },
+    {
+      "word": "i",
+      "start": 1.309,
+      "end": 1.369,
+      "confidence": 0.765
+    },
+    {
+      "word": "momenti",
+      "start": 1.389,
+      "end": 2.133,
+      "confidence": 0.752
+    },
+    {
+      "word": "migliori",
+      "start": 2.233,
+      "end": 3.338,
+      "confidence": 0.679
+    },
+    {
+      "word": "per",
+      "start": 3.398,
+      "end": 3.499,
+      "confidence": 0.692
+    },
+    {
+      "word": "cercare",
+      "start": 3.599,
+      "end": 4.021,
+      "confidence": 0.897
+    },
+    {
+      "word": "di",
+      "start": 4.041,
+      "end": 4.082,
+      "confidence": 0.458
+    },
+    {
+      "word": "rimanere",
+      "start": 4.102,
+      "end": 4.383,
+      "confidence": 0.473
+    },
+    {
+      "word": "incinta?",
+      "start": 4.423,
+      "end": 5.006,
+      "confidence": 0.724
+    }
+  ],
+  "top3": [
+    "Quali sono i momenti migliori per cercare di rimanere incinta?",
+    "Quali sono i momenti migliori per cercare di rimanere incinta?",
+    "Quali sono i momenti migliori per cercare di rimanere incinta?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6171,
+  "u_asr": 0.3829
+}

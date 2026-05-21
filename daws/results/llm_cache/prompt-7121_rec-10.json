@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Installo pavimenti. Lavoro per un'impresa di costruzioni e il mio lavoro principale è la posa dei pavimenti.",
+    "Incollo i pavimenti. Lavoro per un'impresa di costruzioni e il lavoro mio principale è stuccare i pavimenti.",
+    "Incollo i pavimenti. Lavoro presso un'impresa di costruzioni e il mio lavoro principale è il posare i pavimenti.",
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.",
+    "Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è sui pavimenti."
+  ],
+  "responses": [
+    "La posa dei pavimenti non richiede competenze mediche. Se hai domande o problemi riguardanti l'occupazione, potresti contattare un agenzia di lavoro o un organismo professionale del settore della costruzione",
+    "Il lavoro che hai descritto può essere considerato come una forma di lavoro manuale, che potrebbe avere effetti negativi sulla salute se non si adotta un buon comportamento ergonomico e si utilizzano strumenti corretti",
+    "Il posizionamento dei pavimenti può essere stressante per le spalle e il collo a causa della ripetitività del movimento. Per prevenire dolori o infortuni, è importante mantenere una buona postura durante l'attiv",
+    "Il tuo lavoro può esporre a polveri minerali che possono causare problemi respiratori. È importante indossare mascherine antiparticolato e proteggersi con guanti, occhiali e abbigliamento protettivo",
+    "Il tuo lavoro può esporre a polveri minerali che possono causare problemi respiratori. È importante indossare mascherine antiparticolato e proteggersi con guanti, occhiali e abbigliamento protettivo",
+    "Il lavoro sui pavimenti può causare stress fisico e possibilmente problemi alla schiena o alle arti superiori a causa della ripetizione di movimenti precisi e del carico pesante. È importante mantenere una buona postura"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Con i pavimenti, fatica per imprese e costruzione, il mio lavoro principale è stuccare i pavimenti.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo lavoro consiste nella stuccatura dei pavimenti. Potrebbe essere necessario verificare che non si siano sviluppati problemi respiratori a causa della polvere o della sabbia.",
+      "length_norm_logprob": -0.481798
+    },
+    "references": [
+      {
+        "text": "Il tuo lavoro consiste nel stuccare i pavimenti. Puoi essere esposto a fatiche fisiche intense a causa delle imprese e della costruzione.",
+        "length_norm_logprob": -0.39751
+      },
+      {
+        "text": "Il tuo lavoro consiste nella stuccatura dei pavimenti. Puoi essere esposto a fatiche fisiche intense. È importante mantenere una buona igiene e proteggersi dai materiali chimici utilizzati.",
+        "length_norm_logprob": -0.431164
+      },
+      {
+        "text": "Il tuo lavoro consiste nella stuccatura dei pavimenti. Potrebbero essere necessari controlli periodici di salute respiratoria a causa della polvere prodotta durante l'attività.",
+        "length_norm_logprob": -0.40858
+      },
+      {
+        "text": "Il tuo lavoro consiste nella realizzazione di stucchi sui pavimenti. È importante mantenere le mani pulite e proteggersi dagli eventuali materiali irritanti.",
+        "length_norm_logprob": -0.423178
+      }
+    ],
+    "sd": 0.703989,
+    "u_llm": 0.296011,
+    "n_refs": 4,
+    "distances": [
+      0.246161,
+      0.441793,
+      0.007083,
+      0.495712
+    ]
+  }
+}

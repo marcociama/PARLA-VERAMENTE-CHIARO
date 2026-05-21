@@ -1,0 +1,241 @@
+{
+  "transcription": "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.",
+  "words": [
+    {
+      "word": "La",
+      "start": 1.154,
+      "end": 1.194,
+      "confidence": 0.396
+    },
+    {
+      "word": "roba",
+      "start": 1.254,
+      "end": 1.455,
+      "confidence": 0.608
+    },
+    {
+      "word": "mangiata,",
+      "start": 1.515,
+      "end": 2.196,
+      "confidence": 0.783
+    },
+    {
+      "word": "soprattutto",
+      "start": 2.516,
+      "end": 3.077,
+      "confidence": 0.917
+    },
+    {
+      "word": "il",
+      "start": 3.097,
+      "end": 3.138,
+      "confidence": 0.008
+    },
+    {
+      "word": "latte",
+      "start": 3.258,
+      "end": 3.979,
+      "confidence": 0.954
+    },
+    {
+      "word": "o",
+      "start": 4.099,
+      "end": 4.159,
+      "confidence": 0.577
+    },
+    {
+      "word": "la",
+      "start": 4.179,
+      "end": 4.239,
+      "confidence": 0.48
+    },
+    {
+      "word": "mozzarella,",
+      "start": 4.279,
+      "end": 5.101,
+      "confidence": 0.886
+    },
+    {
+      "word": "tengo",
+      "start": 5.622,
+      "end": 5.842,
+      "confidence": 0.74
+    },
+    {
+      "word": "la",
+      "start": 5.862,
+      "end": 5.902,
+      "confidence": 0.1
+    },
+    {
+      "word": "pancia",
+      "start": 5.922,
+      "end": 6.183,
+      "confidence": 0.749
+    },
+    {
+      "word": "gonfia",
+      "start": 6.243,
+      "end": 6.744,
+      "confidence": 0.729
+    },
+    {
+      "word": "e",
+      "start": 7.004,
+      "end": 7.044,
+      "confidence": 0.791
+    },
+    {
+      "word": "mi",
+      "start": 7.104,
+      "end": 7.164,
+      "confidence": 0.608
+    },
+    {
+      "word": "fa",
+      "start": 7.204,
+      "end": 7.285,
+      "confidence": 0.89
+    },
+    {
+      "word": "male",
+      "start": 7.345,
+      "end": 7.425,
+      "confidence": 0.483
+    },
+    {
+      "word": "il",
+      "start": 7.445,
+      "end": 7.525,
+      "confidence": 0.296
+    },
+    {
+      "word": "piede",
+      "start": 7.565,
+      "end": 7.906,
+      "confidence": 0.571
+    },
+    {
+      "word": "verso",
+      "start": 7.946,
+      "end": 8.206,
+      "confidence": 0.862
+    },
+    {
+      "word": "il",
+      "start": 8.226,
+      "end": 8.266,
+      "confidence": 0.0
+    },
+    {
+      "word": "cuore.",
+      "start": 8.286,
+      "end": 8.647,
+      "confidence": 0.735
+    },
+    {
+      "word": "Anche",
+      "start": 9.428,
+      "end": 9.649,
+      "confidence": 0.866
+    },
+    {
+      "word": "se",
+      "start": 9.689,
+      "end": 9.769,
+      "confidence": 0.53
+    },
+    {
+      "word": "tocco",
+      "start": 9.829,
+      "end": 10.109,
+      "confidence": 0.727
+    },
+    {
+      "word": "la",
+      "start": 10.129,
+      "end": 10.17,
+      "confidence": 0.008
+    },
+    {
+      "word": "costa",
+      "start": 10.27,
+      "end": 10.57,
+      "confidence": 0.938
+    },
+    {
+      "word": "tengo",
+      "start": 10.63,
+      "end": 11.031,
+      "confidence": 0.736
+    },
+    {
+      "word": "dolore",
+      "start": 11.071,
+      "end": 11.552,
+      "confidence": 0.716
+    },
+    {
+      "word": "e",
+      "start": 11.832,
+      "end": 11.892,
+      "confidence": 0.951
+    },
+    {
+      "word": "mi",
+      "start": 12.033,
+      "end": 12.133,
+      "confidence": 0.656
+    },
+    {
+      "word": "pare",
+      "start": 12.153,
+      "end": 12.313,
+      "confidence": 0.813
+    },
+    {
+      "word": "che",
+      "start": 12.353,
+      "end": 12.433,
+      "confidence": 0.953
+    },
+    {
+      "word": "ci",
+      "start": 12.494,
+      "end": 12.574,
+      "confidence": 0.795
+    },
+    {
+      "word": "sia",
+      "start": 12.634,
+      "end": 12.754,
+      "confidence": 0.608
+    },
+    {
+      "word": "qualcosa",
+      "start": 12.774,
+      "end": 13.135,
+      "confidence": 0.802
+    },
+    {
+      "word": "di",
+      "start": 13.155,
+      "end": 13.195,
+      "confidence": 0.454
+    },
+    {
+      "word": "gonfio.",
+      "start": 13.255,
+      "end": 13.716,
+      "confidence": 0.728
+    }
+  ],
+  "top3": [
+    "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.",
+    "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.",
+    "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6432631578947369,
+  "u_asr": 0.35673684210526313
+}

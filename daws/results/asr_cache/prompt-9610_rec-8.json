@@ -1,0 +1,49 @@
+{
+  "transcription": "Sì, aggiungo l'onorura alla coscia destra.",
+  "words": [
+    {
+      "word": "Sì,",
+      "start": 0.628,
+      "end": 0.87,
+      "confidence": 0.729
+    },
+    {
+      "word": "aggiungo",
+      "start": 0.89,
+      "end": 1.252,
+      "confidence": 0.642
+    },
+    {
+      "word": "l'onorura",
+      "start": 1.292,
+      "end": 1.816,
+      "confidence": 0.697
+    },
+    {
+      "word": "alla",
+      "start": 1.836,
+      "end": 1.917,
+      "confidence": 0.01
+    },
+    {
+      "word": "coscia",
+      "start": 1.957,
+      "end": 2.259,
+      "confidence": 0.84
+    },
+    {
+      "word": "destra.",
+      "start": 2.319,
+      "end": 2.762,
+      "confidence": 0.756
+    }
+  ],
+  "top3": [
+    "Sì, aggiungo l'onorura alla coscia destra.",
+    "Sì, aggiungo l'onorura alla coscia destra.",
+    "Sì, aggiungo l'onorura alla coscia destra."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6123333333333333,
+  "u_asr": 0.3876666666666667
+}

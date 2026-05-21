@@ -1,0 +1,103 @@
+{
+  "transcription": "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre",
+  "words": [
+    {
+      "word": "riesco",
+      "start": 0.822,
+      "end": 1.245,
+      "confidence": 0.537
+    },
+    {
+      "word": "a",
+      "start": 1.326,
+      "end": 1.366,
+      "confidence": 0.937
+    },
+    {
+      "word": "dormire",
+      "start": 1.447,
+      "end": 1.729,
+      "confidence": 0.411
+    },
+    {
+      "word": "con",
+      "start": 1.749,
+      "end": 1.85,
+      "confidence": 0.44
+    },
+    {
+      "word": "quello",
+      "start": 1.93,
+      "end": 2.252,
+      "confidence": 0.609
+    },
+    {
+      "word": "però",
+      "start": 2.293,
+      "end": 2.736,
+      "confidence": 0.855
+    },
+    {
+      "word": "solitamente",
+      "start": 2.877,
+      "end": 3.502,
+      "confidence": 0.868
+    },
+    {
+      "word": "mentre",
+      "start": 3.562,
+      "end": 3.804,
+      "confidence": 0.529
+    },
+    {
+      "word": "giro",
+      "start": 3.905,
+      "end": 4.086,
+      "confidence": 0.611
+    },
+    {
+      "word": "e",
+      "start": 4.106,
+      "end": 4.126,
+      "confidence": 0.141
+    },
+    {
+      "word": "mi",
+      "start": 4.207,
+      "end": 4.267,
+      "confidence": 0.517
+    },
+    {
+      "word": "giro",
+      "start": 4.429,
+      "end": 4.69,
+      "confidence": 0.767
+    },
+    {
+      "word": "si",
+      "start": 4.751,
+      "end": 4.831,
+      "confidence": 0.732
+    },
+    {
+      "word": "strappa",
+      "start": 4.892,
+      "end": 5.275,
+      "confidence": 0.747
+    },
+    {
+      "word": "sempre",
+      "start": 5.335,
+      "end": 5.637,
+      "confidence": 0.577
+    }
+  ],
+  "top3": [
+    "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre",
+    "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre",
+    "riesco a dormire con quello però solitamente mentre giro e mi giro si strappa sempre"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6185333333333334,
+  "u_asr": 0.3814666666666666
+}

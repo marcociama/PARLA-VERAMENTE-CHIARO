@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-25_15-49-30_napoletano_M_18-29",
+  "promptId": "9602",
+  "promptText": ["Una delle mie sorelle ha il cancro al seno.",
+  "Una delle sorelle mie ha il tumore al seno.",
+  "Una delle mie sorelle tiene il tumore al seno."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "9",
+  "filename": "prompt-9602_rec-9.wav",
+  "size": 133438,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-25T15:52:19.445Z"
+}

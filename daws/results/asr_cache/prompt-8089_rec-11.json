@@ -1,0 +1,73 @@
+{
+  "transcription": "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+  "words": [
+    {
+      "word": "Sapete",
+      "start": 1.143,
+      "end": 1.545,
+      "confidence": 0.62
+    },
+    {
+      "word": "dottor,",
+      "start": 1.585,
+      "end": 1.966,
+      "confidence": 0.841
+    },
+    {
+      "word": "sono",
+      "start": 2.026,
+      "end": 2.167,
+      "confidence": 0.526
+    },
+    {
+      "word": "nata",
+      "start": 2.187,
+      "end": 2.367,
+      "confidence": 0.545
+    },
+    {
+      "word": "a",
+      "start": 2.387,
+      "end": 2.408,
+      "confidence": 0.968
+    },
+    {
+      "word": "Monaco",
+      "start": 2.488,
+      "end": 2.809,
+      "confidence": 0.875
+    },
+    {
+      "word": "di",
+      "start": 2.849,
+      "end": 2.929,
+      "confidence": 0.987
+    },
+    {
+      "word": "Baviera,",
+      "start": 3.03,
+      "end": 3.451,
+      "confidence": 0.809
+    },
+    {
+      "word": "in",
+      "start": 3.471,
+      "end": 3.551,
+      "confidence": 0.714
+    },
+    {
+      "word": "Germania.",
+      "start": 3.592,
+      "end": 4.194,
+      "confidence": 0.888
+    }
+  ],
+  "top3": [
+    "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+    "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+    "Sapete dottor, sono nata a Monaco di Baviera, in Germania."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7773,
+  "u_asr": 0.2227
+}

@@ -1,0 +1,115 @@
+{
+  "transcription": "Mamma, ho avuto un incontro con il sangue di mente celebrato. Ma è ancora? Si può arrabbiare?",
+  "words": [
+    {
+      "word": "Mamma,",
+      "start": 0.312,
+      "end": 0.913,
+      "confidence": 0.786
+    },
+    {
+      "word": "ho",
+      "start": 1.134,
+      "end": 1.194,
+      "confidence": 0.507
+    },
+    {
+      "word": "avuto",
+      "start": 1.234,
+      "end": 1.495,
+      "confidence": 0.828
+    },
+    {
+      "word": "un",
+      "start": 1.515,
+      "end": 1.595,
+      "confidence": 0.333
+    },
+    {
+      "word": "incontro",
+      "start": 1.615,
+      "end": 2.237,
+      "confidence": 0.696
+    },
+    {
+      "word": "con",
+      "start": 2.297,
+      "end": 2.418,
+      "confidence": 0.704
+    },
+    {
+      "word": "il",
+      "start": 2.458,
+      "end": 2.498,
+      "confidence": 0.01
+    },
+    {
+      "word": "sangue",
+      "start": 2.518,
+      "end": 2.718,
+      "confidence": 0.51
+    },
+    {
+      "word": "di",
+      "start": 2.738,
+      "end": 2.799,
+      "confidence": 0.841
+    },
+    {
+      "word": "mente",
+      "start": 2.839,
+      "end": 3.079,
+      "confidence": 0.972
+    },
+    {
+      "word": "celebrato.",
+      "start": 3.16,
+      "end": 3.821,
+      "confidence": 0.79
+    },
+    {
+      "word": "Ma",
+      "start": 4.343,
+      "end": 4.523,
+      "confidence": 0.404
+    },
+    {
+      "word": "è",
+      "start": 4.543,
+      "end": 4.563,
+      "confidence": 0.035
+    },
+    {
+      "word": "ancora?",
+      "start": 4.604,
+      "end": 5.265,
+      "confidence": 0.708
+    },
+    {
+      "word": "Si",
+      "start": 5.847,
+      "end": 5.907,
+      "confidence": 0.747
+    },
+    {
+      "word": "può",
+      "start": 5.927,
+      "end": 6.048,
+      "confidence": 0.25
+    },
+    {
+      "word": "arrabbiare?",
+      "start": 6.088,
+      "end": 6.729,
+      "confidence": 0.51
+    }
+  ],
+  "top3": [
+    "Mamma, ho avuto un incontro con il sangue di mente celebrato. Ma è ancora? Si può arrabbiare?",
+    "Mamma, ho avuto un piccolo sanguinamento cerebrale, ma è ancora, si può riprendere?",
+    "Mamma, non ho mai avuto il mio sangue di mente celebrato. Ora è ancora. Ci vogliamo prendere?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.566529411764706,
+  "u_asr": 0.43347058823529405
+}

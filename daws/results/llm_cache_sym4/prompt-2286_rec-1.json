@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-2286_rec-1",
+  "gt_text": "C'è un modo per avere le palpebre a piega singola in modo naturale?",
+  "w1_text": "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+  "inputs": [
+    "C'è un modo per avere i papi a chiacchiera singola, in modo naturale.",
+    "C'è un modo per avere i palpebre a piega singola in modo naturale?",
+    "C'è un modo per avere le papi a chiacchiera singola, in modo naturale.",
+    "C'è un modo per avere le palpebre a piega singola in modo naturale?"
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Non esiste un modo sicuro e consigliato per ottenere papille dorsali singole in modo naturale. Tuttavia, se si desidera modificare l'aspetto delle proprie papille dorsali, è possibile ricorr",
+    "Sì, il modo più naturale per avere i palpebrini a piega singola è attraverso l'intervento chirurgico detto ptosi palpebrale correttiva. Tuttavia, prima di considerare un intervento chirurg",
+    "Sì, è possibile ottenere papille ghiandolari singole attraverso una procedura di stimolazione manuale o con l'ausilio di un dispositivo specializzato. Tuttavia, è importante ricordare che questa pratica non ha",
+    "Le palpebre a piega singola sono una caratteristica genetica e non è possibile modificarle in modo naturale. Tuttavia, esistono interventi chirurgici cosmetici che possono cambiarne l'aspet"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

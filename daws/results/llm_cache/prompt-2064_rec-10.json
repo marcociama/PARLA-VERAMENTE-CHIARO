@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Mia madre ha avuto un ictus con sanguinamento cerebrale ed è in coma. Può riprendersi?",
+    "Mia mamma ha avuto un ictus con il sanguinamento celebrale. Mo è in coma. Si può riprendere?",
+    "Mia madre ha avuto un ictus con sanguinamento celebrale. Adesso è in coma. Si riprenderà?",
+    "Mamma, ho avuto un incontro con il sangue di mente celebrato. Ma è ancora? Si può arrabbiare?",
+    "Mamma, ho avuto un piccolo sanguinamento cerebrale, ma è ancora, si può riprendere?",
+    "Mamma, non ho mai avuto il mio sangue di mente celebrato. Ora è ancora. Ci vogliamo prendere?"
+  ],
+  "responses": [
+    "La prognosi dipende dal grado di danno al cervello causato dall'ictus e dal tempo trascorso in stato di coma. È necessario un esame medico approfondito per valutare la situazione. In caso di sangu",
+    "La prognosi dipende dal grado di danno cerebrale causato dall'ictus e dal trattamento ricevuto. Il coma potrebbe essere un segno di gravi lesioni cerebrali, ma non si può stabilire se la madre possa",
+    "La prognosi dipende da diversi fattori, tra cui l'età della vostra madre, la gravità dell'ictus e il tipo di sanguinamento cerebrale. È importante che lei riceva un trattamento medico appropriato.",
+    "Il sangue di mente (emocromatosi) è una malattia genetica che si caratterizza per l'accumulo di ferro nel corpo. Se hai avuto un incontro con il sangue di mente celebrato, significa",
+    "Il sanguinamento cerebrale richiede attenzione immediata. Se il paziente ha subito un trauma o ha avvertito dolori intenso, deve essere portato all'ospedale per una valutazione medica appropriata. In caso di",
+    "La celebrazione del sangue di mente (ECG) è un esame medico utilizzato per valutare lo stato del cuore elettrico. Se non hai mai avuto l'esame, potresti aver bisogno di esso"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Mamma, ho avuto un incontro con il sangue di mente celebrato. Ma è ancora? Si può arrabbiare?\n\nRisposta:",
+    "best": {
+      "text": "Il sangue di mente non ha sensazioni o emozioni. Non può essere arrabbiato. Tuttavia, se stai parlando di un paziente con disturbo psicotico, è importante consultare il medico per una valutazione appropriata.",
+      "length_norm_logprob": -0.452279
+    },
+    "references": [
+      {
+        "text": "Il sangue di mente non ha sensazioni o emozioni. Non può arrabbiarsi.",
+        "length_norm_logprob": -0.320892
+      },
+      {
+        "text": "Il sangue di mente non è una malattia medica riconosciuta. Tuttavia, se stai parlando di un episodio psicotico, non si può dire che qualcuno sia arrabbioso durante questo periodo. In generale, i pazienti possono mostrare una varietà di emozioni dopo un episodio psicotico. È importante consultare un medico per una valutazione accurata e una terapia appropriata.",
+        "length_norm_logprob": -0.551109
+      },
+      {
+        "text": "Il sangue di mente non ha sensazioni o emozioni. Non può arrabbiarsi.",
+        "length_norm_logprob": -0.320892
+      },
+      {
+        "text": "Il sangue di mente non è una malattia medica riconosciuta. Tuttavia, i sintomi psicologici possono essere simili a quelli di alcune patologie mentali come la depressione o l'ansia. Può arrabbiarsi per motivi vari ma, in caso di cambiamenti significativi nel suo stato d'animo o comportamento, è consigliabile consultare un medico o un psicologo.",
+        "length_norm_logprob": -0.485558
+      }
+    ],
+    "sd": 0.9556,
+    "u_llm": 0.0444,
+    "n_refs": 4,
+    "distances": [
+      0.005922,
+      0.035608,
+      0.005922,
+      0.143367
+    ]
+  }
+}

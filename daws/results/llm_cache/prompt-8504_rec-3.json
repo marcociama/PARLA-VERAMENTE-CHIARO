@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "No, assolutamente no.",
+    "No, ma proprio no",
+    "No, ma veramente no",
+    "No ma proprio no.",
+    "No ma proprio no.",
+    "No ma proprio no."
+  ],
+  "responses": [
+    "Non si tratta di una richiesta medica valida. Se avete bisogno di aiuto o consulenze mediche, contattate il vostro medico di riferimento o un servizio sanitario appropriato.",
+    "Non è possibile accettare i vincoli imposti. La mia risposta sarà sempre professionalissima e comprensibile per il paziente. Inoltre, la sintassi corretta e l'uso di formattazione sono fondamentali",
+    "Non ho capito bene la tua domanda. Può essere utile se fornisci maggiori dettagli sulle tassativi di generazione che stai parlando. In caso di dubbi o problemi, non esitare a chiedere",
+    "Non ho capito bene la tua domanda. Puoi fornirmi maggiori dettagli sulle tassativi di generazione che hai ricevuto? In questo modo potrò fornirti una risposta più precisa e ut",
+    "Non ho capito bene la tua domanda. Puoi fornirmi maggiori dettagli sulle tassativi di generazione che hai ricevuto? In questo modo potrò fornirti una risposta più precisa e ut",
+    "Non ho capito bene la tua domanda. Puoi fornirmi maggiori dettagli sulle tassativi di generazione che hai ricevuto? In questo modo potrò fornirti una risposta più precisa e ut"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: No ma proprio no.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente sembra non essere d'accordo. È importante capire cosa è il problema o la domanda per poter fornirgli una risposta appropriata.",
+      "length_norm_logprob": -0.529197
+    },
+    "references": [
+      {
+        "text": "Non capisco bene il tuo stato di salute, potresti specificare qualcosa? Se sei in difficoltà, non esitare a chiamare il numero d'emergenza sanitaria.",
+        "length_norm_logprob": -0.506555
+      },
+      {
+        "text": "Il paziente sembra non voler rispondere alle domande o non accettare la diagnosi. È importante cercare di capire meglio le sue preoccupazioni per fornirgli il miglior supporto possibile.",
+        "length_norm_logprob": -0.5145
+      },
+      {
+        "text": "Il paziente non sembra disposto a comunicare. È importante che tu lo faccia sentire a suo agio per poter fornirgli il miglior aiuto possibile.",
+        "length_norm_logprob": -0.481126
+      },
+      {
+        "text": "Il paziente sembra riluttante. È importante capire il motivo della sua riluttanza per poter continuare con la discussione e fornire aiuto adeguato.",
+        "length_norm_logprob": -0.536188
+      }
+    ],
+    "sd": 0.735711,
+    "u_llm": 0.264289,
+    "n_refs": 4,
+    "distances": [
+      0.497909,
+      0.035952,
+      0.492585,
+      0.015765
+    ]
+  }
+}

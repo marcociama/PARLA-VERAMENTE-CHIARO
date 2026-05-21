@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-22_17-00-13_napoletano_F_30-39",
+  "promptId": "1314",
+  "promptText": ["Ho finito i farmaci antidolorifici. Cosa devo fare adesso?","Ho finito gli antidolorifici, che devo fare ora?","Mi sono finiti gli antidolorifici. Che devo fare adesso?"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "10",
+  "filename": "prompt-1314_rec-10.wav",
+  "size": 111438,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-22T17:16:24.792Z"
+}

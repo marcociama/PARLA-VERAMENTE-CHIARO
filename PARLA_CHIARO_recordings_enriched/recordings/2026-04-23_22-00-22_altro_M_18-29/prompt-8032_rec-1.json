@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_22-00-22_altro_M_18-29",
+  "promptId": "8032",
+  "promptText": ["No, non lo sono.",
+  "No, non ne ho idea.",
+  "No, io non lo so."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "1",
+  "filename": "prompt-8032_rec-1.wav",
+  "size": 101838,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T22:04:01.605Z"
+}

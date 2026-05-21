@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-22_14-28-08_napoletano_M_50-59",
+  "promptId": "4214",
+  "promptText": ["Ho l'alopecia da quattro mesi e i capelli non crescono. Sto già prendendo vitamine. Può consigliarmi qualche medicinale?","Ho l'alopecia da 4 mesi ed i capelli non crescono più. Sto già prendendo delle vitamine. Puoi consigliarmi qualche medicinale?","Ho l'alopecia da 4 mesi non mi crescono più. Sto già prendendo le vitamine. Puoi consigliarmi qualche medicinale?"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "2",
+  "filename": "prompt-4214_rec-2.wav",
+  "size": 288798,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-22T14:31:13.01Z"
+}

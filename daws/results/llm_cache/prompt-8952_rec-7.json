@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "È dieci su dieci.",
+    "È 10 su 10.",
+    "È perfetto.",
+    "E 10 goppa 10.",
+    "E 10 goppa 10.",
+    "E 10 goppa 10."
+  ],
+  "responses": [
+    "Il tasso di sodassi è pari a 10/10, questo valore indica un'alta intensità del dolore. Se il dolore persiste o si aggrava, contatta immediatamente il tuo medico.",
+    "Il valore del tuo stato di salute è 10/10. Se avessi qualche preoccupazione o sintomi, non esitare a contattarmi per chiarimenti o per richiedere consigli.",
+    "La tua pressione arteriosa è all'interno dei limiti normali. Continua a seguire una dieta equilibrata e un regolare stile di vita per mantenere la salute cardiovascolare. Se avessi problemi o",
+    "Il numero 10 goppa 10 non è una misura medica standard. Potresti voler dire che hai preso 10 compresse o pastiglie, ma per fornire informazioni accurate, potresti specificare il nome della tua",
+    "Il numero 10 goppa 10 non è una misura medica standard. Potresti voler dire che hai preso 10 compresse o pastiglie, ma per fornire informazioni accurate, potresti specificare il nome della tua",
+    "Il numero 10 goppa 10 non è una misura medica standard. Potresti voler dire che hai preso 10 compresse o pastiglie, ma per fornire informazioni accurate, potresti specificare il nome della tua"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: E 10 goppa 10.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente ha una temperatura corporea di 37,4°C (100,0°F). Non ci sono segni di emergenza medica. Consiglio di contattare il proprio medico di famiglia per un consiglio appropriato.",
+      "length_norm_logprob": -0.421054
+    },
+    "references": [
+      {
+        "text": "Il paziente ha dichiarato di avere una tosse continua, che è stato necessario expectorare dieci volte e ogni volta ha prodotto mucus in dieci casi. Potrebbe esserci un problema respiratorio o infettivo. È consigliabile consultare un medico per una valutazione accurata.",
+        "length_norm_logprob": -0.64983
+      },
+      {
+        "text": "Il paziente ha una temperatura corporea di 37,4°C (100,0°F). Non sembra essere un valore anormalmente alto o basso.",
+        "length_norm_logprob": -0.382113
+      },
+      {
+        "text": "Il paziente ha una temperatura corporea di 37,4° C (100,0 F). Non sembra essere un valore particolarmente elevato, ma è sempre consigliabile consultare il medico se ci sono altri sintomi o preoccupazioni.",
+        "length_norm_logprob": -0.509549
+      },
+      {
+        "text": "Il tuo stool (goppa) presenta una consistenza dura e forma a casella, che può essere un segno di costipazione. È consigliabile consultare un medico per verificare la causa e ottenere eventuali indicazioni terapeutiche.",
+        "length_norm_logprob": -0.60568
+      }
+    ],
+    "sd": 0.665187,
+    "u_llm": 0.334813,
+    "n_refs": 4,
+    "distances": [
+      0.312711,
+      0.490859,
+      0.222317,
+      0.284669
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "transcription": "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare da che non si sente proprio a che non fa molto male.",
+  "words": [
+    {
+      "word": "tengono",
+      "start": 0.82,
+      "end": 1.101,
+      "confidence": 0.794
+    },
+    {
+      "word": "dolore",
+      "start": 1.161,
+      "end": 1.462,
+      "confidence": 0.78
+    },
+    {
+      "word": "pulsando",
+      "start": 1.482,
+      "end": 2.584,
+      "confidence": 0.782
+    },
+    {
+      "word": "sotto",
+      "start": 2.624,
+      "end": 2.845,
+      "confidence": 0.883
+    },
+    {
+      "word": "e",
+      "start": 2.865,
+      "end": 2.885,
+      "confidence": 0.522
+    },
+    {
+      "word": "costa,",
+      "start": 3.005,
+      "end": 3.366,
+      "confidence": 0.796
+    },
+    {
+      "word": "la",
+      "start": 3.446,
+      "end": 3.526,
+      "confidence": 0.83
+    },
+    {
+      "word": "sinistra,",
+      "start": 3.647,
+      "end": 4.228,
+      "confidence": 0.895
+    },
+    {
+      "word": "dall'ottava",
+      "start": 4.769,
+      "end": 5.37,
+      "confidence": 0.857
+    },
+    {
+      "word": "alla",
+      "start": 5.39,
+      "end": 5.551,
+      "confidence": 0.77
+    },
+    {
+      "word": "decima.",
+      "start": 5.631,
+      "end": 6.112,
+      "confidence": 0.962
+    },
+    {
+      "word": "Può",
+      "start": 7.094,
+      "end": 7.194,
+      "confidence": 0.27
+    },
+    {
+      "word": "variare",
+      "start": 7.275,
+      "end": 7.756,
+      "confidence": 0.711
+    },
+    {
+      "word": "da",
+      "start": 7.836,
+      "end": 7.956,
+      "confidence": 0.618
+    },
+    {
+      "word": "che",
+      "start": 8.016,
+      "end": 8.117,
+      "confidence": 0.814
+    },
+    {
+      "word": "non",
+      "start": 8.157,
+      "end": 8.257,
+      "confidence": 0.786
+    },
+    {
+      "word": "si",
+      "start": 8.297,
+      "end": 8.377,
+      "confidence": 0.725
+    },
+    {
+      "word": "sente",
+      "start": 8.417,
+      "end": 8.698,
+      "confidence": 0.81
+    },
+    {
+      "word": "proprio",
+      "start": 8.738,
+      "end": 9.099,
+      "confidence": 0.813
+    },
+    {
+      "word": "a",
+      "start": 9.239,
+      "end": 9.299,
+      "confidence": 0.752
+    },
+    {
+      "word": "che",
+      "start": 9.339,
+      "end": 9.54,
+      "confidence": 0.779
+    },
+    {
+      "word": "non",
+      "start": 9.881,
+      "end": 9.941,
+      "confidence": 0.395
+    },
+    {
+      "word": "fa",
+      "start": 9.981,
+      "end": 10.101,
+      "confidence": 0.767
+    },
+    {
+      "word": "molto",
+      "start": 10.161,
+      "end": 10.422,
+      "confidence": 0.986
+    },
+    {
+      "word": "male.",
+      "start": 10.482,
+      "end": 10.742,
+      "confidence": 0.79
+    }
+  ],
+  "top3": [
+    "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare da che non si sente proprio a che non fa molto male.",
+    "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare, che non si sente proprio, a che mi fa molto male.",
+    "Tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare, che non si sente proprio, a che mi fa molto male."
+  ],
+  "language": "it",
+  "mean_confidence": 0.75548,
+  "u_asr": 0.24451999999999996
+}

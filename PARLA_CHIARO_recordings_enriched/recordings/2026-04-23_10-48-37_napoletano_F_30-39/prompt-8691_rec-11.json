@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_10-48-37_napoletano_F_30-39",
+  "promptId": "8691",
+  "promptText": ["Mi identifico come donna.",
+		 "Sono femmina",
+		 "Sono una donna"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "11",
+  "filename": "prompt-8691_rec-11.wav",
+  "size": 84238,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T10:52:00.821Z"
+}

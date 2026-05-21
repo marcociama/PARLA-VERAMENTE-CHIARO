@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sì, ho ancora dolore nella coscia destra.",
+    "Sì, ho ancora dolore alla coscia destra",
+    "Sì, sento ancora dolore alla coscia destra.",
+    "Sì, aggiungo l'onorura alla coscia destra.",
+    "Sì, aggiungo l'onorura alla coscia destra.",
+    "Sì, aggiungo l'onorura alla coscia destra."
+  ],
+  "responses": [
+    "Il dolore nella coscia destra può essere dovuto a varie cause, come lesioni muscolari o articolari, o problemi di vasi sanguigni. È consigliabile consultare un medico per una valutazione accurata e eventual",
+    "Il dolore alla coscia può essere dovuto a diverse cause, come ad esempio lesioni muscolari o articolari, o patologie più gravi quali una trombosi venosa profonda. Per un esame accurato e una diagnosi corretta",
+    "Il dolore alla coscia destra può essere dovuto a varie cause, come lesioni muscolari o articolari, edema, o problemi vascolari. È consigliabile consultare un medico per una valutazione accurata e eventuale",
+    "La tua domanda non è chiara. Ho bisogno di ulteriori informazioni per poter fornirti una risposta medica appropriata. Puoi descrivere meglio il dolore o la condizione che stai affrontando nella cos",
+    "La tua domanda non è chiara. Ho bisogno di ulteriori informazioni per poter fornirti una risposta medica appropriata. Puoi descrivere meglio il dolore o la condizione che stai affrontando nella cos",
+    "La tua domanda non è chiara. Ho bisogno di ulteriori informazioni per poter fornirti una risposta medica appropriata. Puoi descrivere meglio il dolore o la condizione che stai affrontando nella cos"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Sì, aggiungo l'onorura alla coscia destra.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente ha una ferita alla cosce destra. È necessario un esame medico per valutare la gravità dell'infortunio.",
+      "length_norm_logprob": -0.366635
+    },
+    "references": [
+      {
+        "text": "Il paziente ha una hernia alla coscia destra. Richiede un esame medico per verificare la gravità e fornire un trattamento appropriato.",
+        "length_norm_logprob": -0.404448
+      },
+      {
+        "text": "Il paziente ha una ferita alla cosce destra. È necessario un esame medico per valutare la gravità della lesione.",
+        "length_norm_logprob": -0.439243
+      },
+      {
+        "text": "Il paziente ha una ferita alla coscia destra. È necessario un esame medico per valutare la gravità dell'infortunio.",
+        "length_norm_logprob": -0.314242
+      },
+      {
+        "text": "Il dolore alla coscia destra potrebbe essere dovuto a una condizione chiamata onicolo articolare. È consigliabile consultare un medico per una diagnosi precisa e trattamento appropriato.",
+        "length_norm_logprob": -0.445023
+      }
+    ],
+    "sd": 0.741261,
+    "u_llm": 0.258739,
+    "n_refs": 4,
+    "distances": [
+      0.500104,
+      0.045811,
+      0.017836,
+      0.496103
+    ]
+  }
+}

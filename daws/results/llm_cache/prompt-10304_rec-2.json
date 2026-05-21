@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sono stato in un incidente d'auto molto tempo fa e da allora ho sempre avuto dolori al collo.",
+    "Ho avuto un incidente d'auto un sacco di tempo fa, e da allora ho tanto dolore  nel collo.",
+    "Ho auto un incidente automobilistico tanto tempo fa, e da allora ho tanto dolore nel collo.",
+    "c'è un incidente di macchina un sacco di tempo fa e allora tengo assai dolore nel tuo cuore.",
+    "C'è stato un incidente di macchina un sacco di tempo fa e allora tengo assai dolore nel tuo cuore.",
+    "C'è stato un incidente di macchina un sacco di tempo fa e allora tengo assai dolore nel tuo cuore."
+  ],
+  "responses": [
+    "Ho letto il tuo messaggio. Hai avuto un incidente d'auto e da allora hai continuato a soffrire di dolori al collo. È importante che fai un esame medico per valutare la gravità della tua cond",
+    "Il dolore al collo potrebbe essere dovuto ad una lesione muscolare o articolare causata dall'incidente d'auto. È consigliabile consultare un medico per una valutazione approfondita e eventuali esami",
+    "Il dolore persistente nel collo potrebbe essere dovuto ad una lesione alla colonna vertebrale o a muscoli e tendini irritati. È consigliabile consultare un medico per una valutazione approfondita e eventual",
+    "Il dolore nel petto potrebbe essere dovuto a diverse cause, tra cui infarto miocardico acuto o problemi al sistema respiratorio. È necessario consultare un medico immediatamente per una valutazione accurata e adeguata ter",
+    "Il dolore nel petto potrebbe essere dovuto a diverse cause, tra cui infarto miocardico acuto o problemi al sistema respiratorio. È necessario consultare un medico immediatamente per una valutazione accurata e adeguata ter",
+    "Il dolore nel petto potrebbe essere dovuto a diverse cause, tra cui infarto miocardico acuto o problemi al sistema respiratorio. È necessario consultare un medico immediatamente per una valutazione accurata e adeguata ter"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: c'è un incidente di macchina un sacco di tempo fa e allora tengo assai dolore nel tuo cuore.\n\nRisposta:",
+    "best": {
+      "text": "Il dolore nel cuore potrebbe essere dovuto all'incidente automobilistico. È necessario consultare subito un medico per una valutazione appropriata.",
+      "length_norm_logprob": -0.355913
+    },
+    "references": [
+      {
+        "text": "Il dolore nel tuo cuore potrebbe essere dovuto all'impatto della macchina, è importante che venga eseguito un esame medico urgente per valutare la possibilità di lesioni cardiache. Non dimenticare di seguire le indicazioni del medico.",
+        "length_norm_logprob": -0.421385
+      },
+      {
+        "text": "Il dolore nel cuore potrebbe essere dovuto all'impatto della macchina. È necessario eseguire una valutazione medica immediata per verificare se ci sia qualcosa di più grave.",
+        "length_norm_logprob": -0.367959
+      },
+      {
+        "text": "Il dolore nel cuore potrebbe essere dovuto all'impatto della macchina. È necessario effettuare un esame medico immediatamente per valutare la gravità dell'infortunio e fornire il trattamento adeguato.",
+        "length_norm_logprob": -0.385435
+      },
+      {
+        "text": "Il dolore nel petto potrebbe essere dovuto all'impatto della macchina. È necessario fare un esame medico per verificare se ci sia qualcosa di più grave, come un danno cardiaco.",
+        "length_norm_logprob": -0.381014
+      }
+    ],
+    "sd": 0.971464,
+    "u_llm": 0.028536,
+    "n_refs": 4,
+    "distances": [
+      0.025454,
+      0.035044,
+      0.020452,
+      0.03295
+    ]
+  }
+}

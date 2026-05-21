@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Dopo aver mangiato, soprattutto se prendo latticini, mi si gonfia la pancia e sento dolore sotto il petto, più a sinistra. Fa male anche se tocco le costole e ho la sensazione di avere qualcosa di gonfio da tanto tempo.",
+    "Dopo mangiato, soprattutto con latte o mozzarella, mi si gonfia la pancia e mi fa male il petto, verso il cuore. Anche se mi tocco le costole sento dolore e mi sembra di sentire qualcosa di gonfio.",
+    "Dopo mangiato, soprattutto se prendo latte o mozzarella, mi si gonfia la pancia e sento dolore al petto, in direzione del cuore. Se mi tocco le costole, anche sento dolore e mi sembra di sentire qualcosa di gonfio.",
+    "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.",
+    "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.",
+    "La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio."
+  ],
+  "responses": [
+    "Potrebbe trattarsi di un problema gastrico o colica biliare. È consigliabile consultare un medico per una valutazione precisa e eventuali esami diagnostici. Nel frattempo, evitare cibi g",
+    "Potrebbe trattarsi di un problema gastrico o da reflusso esofageo. Consiglio di evitare alimenti che causano sintomi simili, come latte e mozzarella. Se i dolori persistono o si",
+    "Potrebbe trattarsi di un problema cardiaco o gastrointestinale. È necessario consultare un medico per una valutazione accurata. Nel frattempo, evitare cibi forti e ricchi di grassi. In caso di",
+    "Potrebbe trattarsi di un problema gastrico o biliare, dovuto alla presenza di cibi a base di latte o mozzarella. Il dolore al piede verso il cuore e la sensazione di qualcosa gon",
+    "Potrebbe trattarsi di un problema gastrico o biliare, dovuto alla presenza di cibi a base di latte o mozzarella. Il dolore al piede verso il cuore e la sensazione di qualcosa gon",
+    "Potrebbe trattarsi di un problema gastrico o biliare, dovuto alla presenza di cibi a base di latte o mozzarella. Il dolore al piede verso il cuore e la sensazione di qualcosa gon"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: La roba mangiata, soprattutto il latte o la mozzarella, tengo la pancia gonfia e mi fa male il piede verso il cuore. Anche se tocco la costa tengo dolore e mi pare che ci sia qualcosa di gonfio.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo sintomo potrebbe essere dovuto a un problema digestivo o alla presenza di una colica biliare. È consigliabile consultare un medico per una valutazione precisa e eventuali esami diagnostici. Non dimenticare di descrivere anche il grado di dolore e la sua localizzazione per aiutarlo nella diagnosi.",
+      "length_norm_logprob": -0.455322
+    },
+    "references": [
+      {
+        "text": "Il tuo sintomo potrebbe essere dovuto a un problema gastrico o alla formazione di un gallone. È consigliabile consultare un medico per una verifica accurata e eventuale trattamento appropriato. Non dimenticare di specificare anche il dolore al piede verso il cuore, poiché potrebbe essere correlato a problemi cardiovascolari.",
+        "length_norm_logprob": -0.508467
+      },
+      {
+        "text": "Il tuo sintomo potrebbe essere dovuto a un'intossicazione da lattosio o da una reazione allergica alla mozzarella. È consigliabile consultare un medico per un esame più approfondito e ricevere terapia appropriata. Inoltre, il dolore alla costola può essere dovuto a una patologia del sistema cardiovascolare o respiratorio; è importante effettuare un controllo medico immediato.",
+        "length_norm_logprob": -0.468505
+      },
+      {
+        "text": "Il tuo sintomo potrebbe essere dovuto a un'intolleranza alimentare o a una patologia come il reflusso del gastrico. È importante consultare un medico per un esame accurato e ricevere una terapia adeguata. Non dimenticare di controllare anche il tuo peso e la tassa di colesterolo.",
+        "length_norm_logprob": -0.547686
+      },
+      {
+        "text": "Il tuo sintomo potrebbe essere dovuto a un problema digestivo o a una malattia renale. È necessario consultare un medico per un esame completo e una diagnosi corretta. Nel frattempo, evita di mangiare latte e mozzarella e cerca di bere abbondantemente per non dehidratarti.",
+        "length_norm_logprob": -0.462116
+      }
+    ],
+    "sd": 0.989018,
+    "u_llm": 0.010982,
+    "n_refs": 4,
+    "distances": [
+      0.002054,
+      0.013497,
+      0.025506,
+      0.003673
+    ]
+  }
+}

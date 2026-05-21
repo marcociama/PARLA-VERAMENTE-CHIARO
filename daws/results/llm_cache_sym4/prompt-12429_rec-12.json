@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-12429_rec-12",
+  "gt_text": "Ho avuto problemi alle dita dei piedi in passato.",
+  "w1_text": "ha già tenuto il problema e ritornare in passato",
+  "inputs": [
+    "ha già tenuto il problema e ritornare in passato",
+    "ha già tenuto il dita dei piedi in passato.",
+    "Ho avuto problemi alle problema e ritornare in passato",
+    "Ho avuto problemi alle dita dei piedi in passato."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Il problema che hai avuto è stato trattato? Se non ci sono cambiamenti significativi, potrebbe essere utile controllare la situazione per assicurarsi che si sia guarito completamente. In caso di nuovi sintomi",
+    "Il paziente ha avuto precedenti trattamenti podologici. È necessario verificare i risultati e eventuali complicanze.",
+    "Il dolore alle orecchie è un problema comune, potresti aver sofferto di otite? Ripeti la visita al medico per una valutazione accurata.",
+    "Problemi alle dita dei piedi possono essere causati da diverse condizioni, come l'artrite reumatoide o la gonfiore delle vene. Se i sintomi persistono, è consigliabile consultare un medico per"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

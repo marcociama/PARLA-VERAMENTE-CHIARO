@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Una delle mie sorelle ha il cancro al seno.",
+    "Una delle sorelle mie ha il tumore al seno.",
+    "Una delle mie sorelle tiene il tumore al seno.",
+    "Buon ritorno ai miei denotumurasids.",
+    "Buon ritorno ai miei denotumorasi.",
+    "Buon ritorno ai miei denotumorasi."
+  ],
+  "responses": [
+    "La diagnosi di cancro al seno richiede conferma da esami medici quali mammografia, ecografia o biopsia. Se la tua sorella ha sintomi come dolori, cambiamenti nella forma del seno o un massaio pal",
+    "La diagnosi di un tumore al seno richiede esami medici specifici, come ad esempio mammografia, ecografia o biopsia. Se la tua sorella sta sperimentando dolori, cambiamenti nella forma del seno o altri",
+    "Il tumore al seno è una malattia seria che richiede un esame medico immediato per valutare la gravità e stabilire il trattamento più adatto. Consiglio di far visita subito al proprio medico o chirur",
+    "Ho letto il tuo messaggio riguardo i tuoi denotumurasids. Se stai parlando di farmaci, è importante ricordare che non posso fornire consigli o prescrizioni mediche senza aver effettuato un es",
+    "La tua diagnosi è Denotumorasi, una condizione che può causare dolori e disturbi alla mascella superiore. Per un trattamento efficace, è necessario consultare un medico specializzato in odontoiatria o maxillo-",
+    "La tua diagnosi è Denotumorasi, una condizione che può causare dolori e disturbi alla mascella superiore. Per un trattamento efficace, è necessario consultare un medico specializzato in odontoiatria o maxillo-"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Buon ritorno ai miei denotumurasids.\n\nRisposta:",
+    "best": {
+      "text": "Grazie, ma non sono un medico e non posso fornire consigli o prescrizioni mediche. Tuttavia, sembra che stia parlando di farmaci chiamati Denotumursidi. Se si sta tornando a prendere questi farmaci dopo una pausa, è importante seguire le istruzioni del medico e controllare con lui/lei prima di riprendere la terapia.",
+      "length_norm_logprob": -0.417675
+    },
+    "references": [
+      {
+        "text": "Il tuo stato di salute è importante per noi. Continua a prendere i farmaci e a seguire le istruzioni del medico. Se presenti problemi, contattaci subito.",
+        "length_norm_logprob": -0.579147
+      },
+      {
+        "text": "Grazie, ma non sono un medico e non posso fornire consigli o prescrizioni mediche. Tuttavia, sembra che stia parlando di farmaci detto Denotumursid. Se hai domande su questi medicinali, ti suggerisco di contattare il tuo medico di riferimento.",
+        "length_norm_logprob": -0.496482
+      },
+      {
+        "text": "Grazie, ma non sono un medico e non posso fornire consigli o trattamenti medici. Tuttavia, ho capito che stai parlando di denotumoruside, un farmaco utilizzato per il trattamento della malattia di Morbus Fabry. Se hai qualsiasi domanda o preoccupazione riguardo al tuo stato di salute, ti consiglio di contattare il tuo medico.",
+        "length_norm_logprob": -0.380658
+      },
+      {
+        "text": "Grazie, ma devo chiederti qual è il motivo della tua domanda. I denotumursidi sono farmaci usati per trattare alcune forme di tumori maligni. Se stai avendo problemi con essi, ti consiglio di contattare il tuo medico subito.",
+        "length_norm_logprob": -0.57836
+      }
+    ],
+    "sd": 0.911279,
+    "u_llm": 0.088721,
+    "n_refs": 4,
+    "distances": [
+      0.158982,
+      0.013912,
+      0.135428,
+      0.042793
+    ]
+  }
+}

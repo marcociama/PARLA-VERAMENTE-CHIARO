@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_18-30-29_napoletano_F_40-49",
+  "promptId": "1061",
+  "promptText": ["Sento un dolore forte ai lati dell'addome, in zona ovarica. Potrebbe essere un'infezione alla vescica o una gravidanza fuori dall'utero?",
+		 "Sento un dolore forte, ma proprio a fianco all'addome, la zona delle ovaie. Non è che è un'infezione alla vescica, o una gravidanza fuori all'utero?",
+		 "Sento un dolore forte, ma proprio vicino all'addome, la zona delle ovaie. Non è che si tratta di un'infezione alla vescica o di una gravidanza fuori dall'utero?"],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "16",
+  "filename": "prompt-1061_rec-16.wav",
+  "size": 322638,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T18:45:22.361Z"
+}

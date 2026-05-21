@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho fatto una biopsia al seno nel 1989 e una colonscopia nel 2007.",
+    "Ho fatto una biopsia alle tette nell' 89 ed una colonscopia nel 2007.",
+    "Ho fatto na biopsia alle tette nell 1989, e una colonscopia nel 2007.",
+    "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+    "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.",
+    "Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007."
+  ],
+  "responses": [
+    "La tua ultima biopsia al seno è avvenuta nel 1989, mentre la colonscopia è stata eseguita nel 2007. Non ho accesso ai risultati di queste procedure mediche, ma ti consiglio",
+    "Hai effettuato una biopsia delle mammelle nel 1989 e una colonoscopia nel 2007? Non ho informazioni mediche aggiornate su di te, quindi non posso fornire un giudizio sulla t",
+    "Hai effettuato una biopsia delle mammelle nel 1989 e una colonoscopia nel 2007? Non ho accesso ai tuoi risultati medici o alla tua storia clinica, ma ti suggerisco di cont",
+    "La tua ultima biopsia risale al 1989, quindi è necessario che faccia un controllo medico per verificare se è necessaria una nuova biopsia o ulteriori esami. Inoltre, ti consiglio",
+    "La tua ultima biopsia risale al 1989, quindi è necessario che faccia un controllo medico per verificare se è necessaria una nuova biopsia o ulteriori esami. Inoltre, ti consiglio",
+    "La tua ultima biopsia risale al 1989, quindi è necessario che faccia un controllo medico per verificare se è necessaria una nuova biopsia o ulteriori esami. Inoltre, ti consiglio"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Io ho fatto la biopsia nel 1989 e ne conosco più dal 2007.\n\nRisposta:",
+    "best": {
+      "text": "La tua ultima biopsia è stata eseguita nel 1989, mentre l'ultimo controllo su di essa risale al 2007.",
+      "length_norm_logprob": -0.305585
+    },
+    "references": [
+      {
+        "text": "Hai avuto una biopsia nel 1989 e hai ricevuto ulteriori informazioni sul risultato della biopsia a partire dal 2007.",
+        "length_norm_logprob": -0.27696
+      },
+      {
+        "text": "La tua ultima biopsia è stata eseguita nel 1989, mentre l'ultimo controllo su di essa risale al 2007.",
+        "length_norm_logprob": -0.305585
+      },
+      {
+        "text": "La tua ultima biopsia è stata eseguita nel 1989, ma ti suggerisco di consultare il tuo medico per verificare lo stato della tua condizione a partire dal 2007.",
+        "length_norm_logprob": -0.35614
+      },
+      {
+        "text": "La tua ultima biopsia è avvenuta nel 1989, mentre l'ultimo controllo è stato nel 2007.",
+        "length_norm_logprob": -0.273883
+      }
+    ],
+    "sd": 0.87584,
+    "u_llm": 0.12416,
+    "n_refs": 4,
+    "distances": [
+      0.010032,
+      0.011611,
+      0.498128,
+      0.002535
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "transcription": "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+  "words": [
+    {
+      "word": "A",
+      "start": 0.999,
+      "end": 1.039,
+      "confidence": 0.593
+    },
+    {
+      "word": "Togo",
+      "start": 1.159,
+      "end": 1.561,
+      "confidence": 0.78
+    },
+    {
+      "word": "un",
+      "start": 1.621,
+      "end": 1.741,
+      "confidence": 0.72
+    },
+    {
+      "word": "generico",
+      "start": 1.801,
+      "end": 2.544,
+      "confidence": 0.913
+    },
+    {
+      "word": "dell'ultra",
+      "start": 2.665,
+      "end": 3.267,
+      "confidence": 0.806
+    },
+    {
+      "word": "c'è,",
+      "start": 3.287,
+      "end": 3.889,
+      "confidence": 0.872
+    },
+    {
+      "word": "a",
+      "start": 4.21,
+      "end": 4.25,
+      "confidence": 0.978
+    },
+    {
+      "word": "volte",
+      "start": 4.331,
+      "end": 5.134,
+      "confidence": 0.967
+    },
+    {
+      "word": "a",
+      "start": 5.154,
+      "end": 5.174,
+      "confidence": 0.002
+    },
+    {
+      "word": "Togo",
+      "start": 5.716,
+      "end": 5.937,
+      "confidence": 0.665
+    },
+    {
+      "word": "anche",
+      "start": 5.977,
+      "end": 6.157,
+      "confidence": 0.894
+    },
+    {
+      "word": "a",
+      "start": 6.177,
+      "end": 6.198,
+      "confidence": 0.014
+    },
+    {
+      "word": "quattro",
+      "start": 6.278,
+      "end": 6.599,
+      "confidence": 0.826
+    },
+    {
+      "word": "volte",
+      "start": 6.679,
+      "end": 6.96,
+      "confidence": 0.701
+    },
+    {
+      "word": "al",
+      "start": 7.021,
+      "end": 7.141,
+      "confidence": 0.907
+    },
+    {
+      "word": "dì.",
+      "start": 7.241,
+      "end": 7.402,
+      "confidence": 0.628
+    }
+  ],
+  "top3": [
+    "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+    "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+    "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì."
+  ],
+  "language": "it",
+  "mean_confidence": 0.704125,
+  "u_asr": 0.295875
+}

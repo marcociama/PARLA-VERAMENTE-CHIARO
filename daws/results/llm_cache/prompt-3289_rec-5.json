@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sei anni fa ho avuto una micosi inguinale che è stata completamente curata ma ha lasciato delle macchie scure. Un dermatologo mi ha consigliato una crema, che però non sembra funzionare. Mi consigli un unguento efficace.",
+    "Sei anni fa mi sono venuti i funghi all'inguine, mi sono messa una crema che però non ha funzionato bene, me ne puoi consigliare una migliore?",
+    "Sei anni fa mi son venuti i funghi all'inguine. Mi hanno consigliato una crema che però non si è rivelata efficace. Potresti consigliarmene un'altra migliore?",
+    "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema che però non è molto buona. Voglio una crema più sistemata.",
+    "Sei anni fa mi sono venuti i funghi in lingua, mi hanno messo una certa crema che però non è molto buona, potrei dare una crema più sistemata?",
+    "Sei anni fa mi sono venuti i funghi nella lingua, mi hanno messo una certa crema che però non è molto buona. Posso dare una crema più estimata?"
+  ],
+  "responses": [
+    "Ho letto la tua richiesta. La micosi inguinale può lasciare delle macchie scure permanenti sulla pelle. Se il trattamento prescritto dal dermatologo non sembra funzionare, potresti considerare un",
+    "Posso suggerirti una crema antimicotica come Clotrimazolo 1%, applicata due volte al giorno per circa due settimane. Se i sintomi non si migliorano o peggiorano, è necessario consultare",
+    "Posso suggerirti una crema antimicotica a base di clotrimazolo, come Lamisil o Canesten. Tuttavia, per una terapia più precisa e personalizzata, è necessario che il medico esamini la",
+    "La crema antifungina prescritta dal medico deve essere utilizzata secondo le indicazioni fornite. Se la crema attuale non funziona bene, è necessario consultare il medico per ottenere una prescrizione di un farm",
+    "Posso consigliare la crema antifungina Lamisil®. È importante seguire le istruzioni di utilizzo e completare il trattamento come indicato dal medico. Se i sintomi persistono o peggiorano, è necess",
+    "Posso suggerirti una crema antifungina prescritta dal medico, come la clotrimazolo o la miconazolo. Evita di usare prodotti non farmaceutici per trattare il fungo linguale. Se i sint"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema che però non è molto buona. Voglio una crema più sistemata.\n\nRisposta:",
+    "best": {
+      "text": "Il trattamento dei funghi della lingua richiede un approccio specifico. La crema utilizzata in passato potrebbe non essere stata adeguata. Mi consiglio di consultare il medico per ottenere una prescrizione di una crema più efficace e sicura.",
+      "length_norm_logprob": -0.396355
+    },
+    "references": [
+      {
+        "text": "Sono spiacente per il tuo problema passato, ma ora è importante curare la tua infezione linguare con un trattamento più efficace. Parli con il tuo medico per ottenere una prescrizione di crema antimicrobica appropriata.",
+        "length_norm_logprob": -0.551897
+      },
+      {
+        "text": "Ho paura di non essere in grado di fornire consigli medici senza un'appropriata valutazione del paziente, ma potrebbe essere utile cercare una crema antimicotica prescritta dal proprio medico per trattare il mio fungo linguato. Evitare di utilizzare prodotti non approvati o troppo forti senza la guida del medico.",
+        "length_norm_logprob": -0.54546
+      },
+      {
+        "text": "Il trattamento dei funghi della lingua richiede un approccio specifico. Sono consigliabili creme antimicotiche farmaceutiche, che possono essere prescritte dal medico. Evita di usare creme non farmaceutiche.",
+        "length_norm_logprob": -0.480293
+      },
+      {
+        "text": "Il trattamento dei funghi linguati richiede un farmaco specifico, non posso suggerirti una crema senza prima consultare il medico di famiglia o un dermatologo. Tuttavia, potrebbe essere utile cercare di usare una crema antifungina prescritta dal medico.",
+        "length_norm_logprob": -0.524141
+      }
+    ],
+    "sd": 0.655407,
+    "u_llm": 0.344593,
+    "n_refs": 4,
+    "distances": [
+      0.07042,
+      0.452746,
+      0.45701,
+      0.387933
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sa dottore, sono nato a Monaco di Baviera, in Germania.",
+    "Sapete dottò, sono nata a Monaco di Baviera, in Germania.",
+    "Sapete dottore, sono nata a Monaco di Baviera, in Germania.",
+    "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+    "Sapete dottor, sono nata a Monaco di Baviera, in Germania.",
+    "Sapete dottor, sono nata a Monaco di Baviera, in Germania."
+  ],
+  "responses": [
+    "Ho letto che sei nato a Monaco di Baviera, in Germania. Tuttavia, per fornire una valutazione medica appropriata, è necessario che tu mi fornisca informazioni aggiuntive sulla tua salute e sulle t",
+    "Ho letto la tua richiesta. La città di nascita non ha un impatto diretto sulla tua salute. Tuttavia, se hai bisogno di informazioni su come accedere al sistema sanitario tedesco o su qualche alt",
+    "In base alle informazioni fornite, non si è in possesso di dati sufficienti per stabilire una diagnosi o un trattamento specifico. Tuttavia, la tua origine geografica non influisce sui problemi medici che potrebbero",
+    "Ho letto che sei nato a Monaco di Baviera, in Germania. Non ho informazioni sui tuoi dati medici o sulla tua richiesta specifica. Potresti fornirmi ulteriori informazioni per poter aiutarti",
+    "Ho letto che sei nato a Monaco di Baviera, in Germania. Non ho informazioni sui tuoi dati medici o sulla tua richiesta specifica. Potresti fornirmi ulteriori informazioni per poter aiutarti",
+    "Ho letto che sei nato a Monaco di Baviera, in Germania. Non ho informazioni sui tuoi dati medici o sulla tua richiesta specifica. Potresti fornirmi ulteriori informazioni per poter aiutarti"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Sapete dottor, sono nata a Monaco di Baviera, in Germania.\n\nRisposta:",
+    "best": {
+      "text": "La tua città natale è Monaco di Baviera, in Germania. Ti prego, fornisci informazioni sulla tua età e sui motivi per cui hai richiesto un consulto medico.",
+      "length_norm_logprob": -0.427082
+    },
+    "references": [
+      {
+        "text": "Sono originaria dalla città tedesca di Monaco di Baviera, in Germania. Grazie per avermi informato.",
+        "length_norm_logprob": -0.370541
+      },
+      {
+        "text": "La tua città natale è Monaco di Baviera, in Germania.",
+        "length_norm_logprob": -0.153955
+      },
+      {
+        "text": "La tua città natale è Monaco di Baviera, in Germania. Non ho informazioni sulla tua nazionalità o sullo stato attuale di salute.",
+        "length_norm_logprob": -0.381795
+      },
+      {
+        "text": "La tua città natale è Monaco di Baviera, in Germania. In base a questa informazione non posso fornirti un'assistenza medica diretta.",
+        "length_norm_logprob": -0.433379
+      }
+    ],
+    "sd": 0.617384,
+    "u_llm": 0.382616,
+    "n_refs": 4,
+    "distances": [
+      0.223855,
+      0.009236,
+      0.904442,
+      0.495969
+    ]
+  }
+}

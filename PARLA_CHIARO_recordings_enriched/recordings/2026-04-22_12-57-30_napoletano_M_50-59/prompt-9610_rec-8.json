@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-22_12-57-30_napoletano_M_50-59",
+  "promptId": "9610",
+  "promptText": ["Sì, ho ancora dolore nella coscia destra.","Sì, ho ancora dolore alla coscia destra","Sì, sento ancora dolore alla coscia destra."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "8",
+  "filename": "prompt-9610_rec-8.wav",
+  "size": 132558,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-22T12:59:49.566Z"
+}

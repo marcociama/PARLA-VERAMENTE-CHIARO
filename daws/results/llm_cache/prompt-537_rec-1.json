@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma adesso mi sento malissimo.",
+    "Ho la gola infiammata da un batterio e mi hanno prescritto l'antibiotico. Adesso mi sento malissimo.",
+    "Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma ora mi sento malissimo.",
+    "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.",
+    "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.",
+    "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo."
+  ],
+  "responses": [
+    "Il dolore persistente potrebbe essere dovuto a una reazione avversa all'antibiotico o ad un'infezione più complessa. È necessario contattare il tuo medico per chiarire la situazione e ricevere eventual",
+    "Il dolore persistente potrebbe essere dovuto ad una reazione avversa all'antibiotico o ad un'infezione più complessa. È necessario contattare il medico che ti ha prescritto l'antibiotico per ch",
+    "Il dolore persistente potrebbe essere dovuto ad una reazione avversa all'antibiotico o a un'infezione virale che non è sensibile agli antibiotici. È necessario consultare il medico per valutare la situ",
+    "Ho paura che la tua condizione possa essere peggiorata dall'assunzione di antibiotici. Il dolore potrebbe derivare da un effetto collaterale o da una reazione allergica all'antibiotico prescritto. È importante",
+    "Ho paura che la tua condizione possa essere peggiorata dall'assunzione di antibiotici. Il dolore potrebbe derivare da un effetto collaterale o da una reazione allergica all'antibiotico prescritto. È importante",
+    "Ho paura che la tua condizione possa essere peggiorata dall'assunzione di antibiotici. Il dolore potrebbe derivare da un effetto collaterale o da una reazione allergica all'antibiotico prescritto. È importante"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.\n\nRisposta:",
+    "best": {
+      "text": "Il dolore persistente potrebbe essere dovuto ad una reazione allergica all'antibiotico. Contatta subito il tuo medico per discuterne e verificare se è necessario cambiare la terapia.",
+      "length_norm_logprob": -0.382153
+    },
+    "references": [
+      {
+        "text": "L'infiammazione alla cisti può essere dovuta a un'infezione batterica. Se ti senti male, è importante continuare ad assumere l'antibiotico fino al termine della prescrizione. Inoltre, contatta il tuo medico per verificare se ci sono necessità di modifiche nella terapia.",
+        "length_norm_logprob": -0.539576
+      },
+      {
+        "text": "Il dolore persistente potrebbe essere dovuto ad una reazione allergica all'antibiotico. Contattare immediatamente il medico per un consiglio. Non interrompere l'assunzione dell'antibiotico senza prima consultarlo.",
+        "length_norm_logprob": -0.381052
+      },
+      {
+        "text": "Il dolore continuo potrebbe essere dovuto a una reazione allergica all'antibiotico prescrittogli. È necessario contattare il medico per verificare se è possibile cambiare la terapia antibiotica.",
+        "length_norm_logprob": -0.464386
+      },
+      {
+        "text": "Il dolore persistente potrebbe essere dovuto a una reazione allergica all'antibiotico prescrittogli. È importante contattare il medico per eseguire un controllo e cambiare eventualmente la terapia.",
+        "length_norm_logprob": -0.476536
+      }
+    ],
+    "sd": 0.779168,
+    "u_llm": 0.220832,
+    "n_refs": 4,
+    "distances": [
+      0.117452,
+      0.594099,
+      0.001864,
+      0.128873
+    ]
+  }
+}

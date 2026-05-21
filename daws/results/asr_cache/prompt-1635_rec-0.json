@@ -1,0 +1,73 @@
+{
+  "transcription": "Sono entro le 19 settimane e mi sento assai depresso.",
+  "words": [
+    {
+      "word": "Sono",
+      "start": 1.97,
+      "end": 2.111,
+      "confidence": 0.441
+    },
+    {
+      "word": "entro",
+      "start": 2.171,
+      "end": 2.392,
+      "confidence": 0.414
+    },
+    {
+      "word": "le",
+      "start": 2.632,
+      "end": 2.833,
+      "confidence": 0.573
+    },
+    {
+      "word": "19",
+      "start": 2.953,
+      "end": 3.094,
+      "confidence": 0.686
+    },
+    {
+      "word": "settimane",
+      "start": 3.154,
+      "end": 3.615,
+      "confidence": 0.902
+    },
+    {
+      "word": "e",
+      "start": 3.636,
+      "end": 3.656,
+      "confidence": 0.043
+    },
+    {
+      "word": "mi",
+      "start": 3.736,
+      "end": 3.776,
+      "confidence": 0.494
+    },
+    {
+      "word": "sento",
+      "start": 3.836,
+      "end": 4.077,
+      "confidence": 0.651
+    },
+    {
+      "word": "assai",
+      "start": 4.097,
+      "end": 4.358,
+      "confidence": 0.863
+    },
+    {
+      "word": "depresso.",
+      "start": 4.398,
+      "end": 4.98,
+      "confidence": 0.772
+    }
+  ],
+  "top3": [
+    "Sono entro le 19 settimane e mi sento assai depresso.",
+    "Sono entro le 19 settimane e mi sento assai depresso.",
+    "Sono entro le 19 settimane e mi sento assai depresso."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5839000000000001,
+  "u_asr": 0.4160999999999999
+}

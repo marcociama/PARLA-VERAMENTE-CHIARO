@@ -1,0 +1,11 @@
+{
+  "participantId": "2026-04-22_14-09-28_napoletano_M_50-59",
+  "promptId": "537",
+  "promptText": ["Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma adesso mi sento malissimo.","Ho la gola infiammata da un batterio e mi hanno prescritto l'antibiotico. Adesso mi sento malissimo.","Ho la gola infiammata da un batterio e mi hanno prescritto un antibiotico, ma ora mi sento malissimo."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "1",
+  "filename": "prompt-537_rec-1.wav",
+  "size": 222798,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-22T14:10:12.453Z"
+}

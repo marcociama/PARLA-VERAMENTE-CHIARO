@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_20-06-32_napoletano_M_50-59",
+  "promptId": "10224",
+  "promptText": ["Sì, mi hanno tolto la cistifellea alcuni anni fa.",
+		 "Si, mi hanno tolto la cistifellea molto tempo fa.",
+		 "Si, mi hanno tolto la cistifellea tanto tempo fa."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "4",
+  "filename": "prompt-10224_rec-4.wav",
+  "size": 161358,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T20:08:41.244Z"
+}

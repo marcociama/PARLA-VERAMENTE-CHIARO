@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho questo dolore al ginocchio destro, dottore.",
+    "Dottore, sento dolore al ginocchio destro.",
+    "Dottore, ho questo dolore al ginocchio destro.",
+    "Dottor, tengo su di loro il ginocchio destro.",
+    "Dottor, tengo su di loro il ginocchio destro.",
+    "Dottor, tengo su di loro il ginocchio destro."
+  ],
+  "responses": [
+    "Il dolore al ginocchio può essere causato da diverse condizioni, come l'artrite, la tendinite o una lesione muscolare. È importante effettuare un esame medico per determinare la causa esatta del dolore e tratt",
+    "Il dolore al ginocchio può essere causato da diverse condizioni, come l'artrite, la tendinite o una lesione muscolare. È consigliabile consultare un medico per una diagnosi precisa e ricevere terapia adegu",
+    "Il dolore al ginocchio può essere causato da diverse condizioni, come l'artrite, la tendinite o una lesione muscolare. È importante effettuare un esame medico per determinare la causa esatta del dolore e forn",
+    "Ho ricevuto la tua richiesta. Il tuo ginocchio destro è stato menzionato. Per poter fornirti una valutazione appropriata, ti preghiero di descrivermi i sintomi che stai sentendo e se h",
+    "Ho ricevuto la tua richiesta. Il tuo ginocchio destro è stato menzionato. Per poter fornirti una valutazione appropriata, ti preghiero di descrivermi i sintomi che stai sentendo e se h",
+    "Ho ricevuto la tua richiesta. Il tuo ginocchio destro è stato menzionato. Per poter fornirti una valutazione appropriata, ti preghiero di descrivermi i sintomi che stai sentendo e se h"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Dottor, tengo su di loro il ginocchio destro.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo ginocchio destro sembra essere in stato di dolore. È necessario un esame medico per determinare la causa del dolore e fornire una terapia adeguata.",
+      "length_norm_logprob": -0.426266
+    },
+    "references": [
+      {
+        "text": "Il tuo ginocchio destro sembra essere in stato di dolore. È consigliabile effettuare un esame per chiarire la causa del dolore e trovare una terapia appropriata.",
+        "length_norm_logprob": -0.39624
+      },
+      {
+        "text": "Il tuo ginocchio destro potrebbe essere dolente o provare qualche problema. Ti consiglio di consultare un medico per una valutazione accurata.",
+        "length_norm_logprob": -0.4129
+      },
+      {
+        "text": "Il tuo ginocchio destro sembra essere in stato di dolore. È consigliabile consultare un medico per una valutazione accurata e eventuali cure.",
+        "length_norm_logprob": -0.418864
+      },
+      {
+        "text": "Il tuo ginocchio destro ti causa qualche problema? Cosa specificamente senti?",
+        "length_norm_logprob": -0.453908
+      }
+    ],
+    "sd": 0.866079,
+    "u_llm": 0.133921,
+    "n_refs": 4,
+    "distances": [
+      0.005727,
+      0.043383,
+      0.010589,
+      0.491783
+    ]
+  }
+}

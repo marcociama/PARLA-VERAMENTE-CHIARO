@@ -1,0 +1,13 @@
+{
+  "participantId": "2026-04-23_20-06-32_napoletano_M_50-59",
+  "promptId": "10304",
+  "promptText": ["Sono stato in un incidente d'auto molto tempo fa e da allora ho sempre avuto dolori al collo.",
+		 "Ho avuto un incidente d'auto un sacco di tempo fa, e da allora ho tanto dolore  nel collo.",
+		 "Ho auto un incidente automobilistico tanto tempo fa, e da allora ho tanto dolore nel collo."],
+  "promptCategory": "patient_dialog",
+  "recordingIndex": "2",
+  "filename": "prompt-10304_rec-2.wav",
+  "size": 347598,
+  "mimetype": "audio/wav",
+  "uploadedAt": "2026-04-23T20:07:43.212Z"
+}

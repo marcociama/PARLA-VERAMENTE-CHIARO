@@ -1,0 +1,133 @@
+{
+  "transcription": "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?",
+  "words": [
+    {
+      "word": "Tengo",
+      "start": 1.042,
+      "end": 1.163,
+      "confidence": 0.643
+    },
+    {
+      "word": "l'allopecia",
+      "start": 1.203,
+      "end": 1.604,
+      "confidence": 0.395
+    },
+    {
+      "word": "da",
+      "start": 1.644,
+      "end": 1.704,
+      "confidence": 0.32
+    },
+    {
+      "word": "quattro",
+      "start": 1.724,
+      "end": 1.945,
+      "confidence": 0.535
+    },
+    {
+      "word": "mesi",
+      "start": 1.985,
+      "end": 2.346,
+      "confidence": 0.889
+    },
+    {
+      "word": "e",
+      "start": 2.366,
+      "end": 2.386,
+      "confidence": 0.006
+    },
+    {
+      "word": "i",
+      "start": 2.406,
+      "end": 2.426,
+      "confidence": 0.104
+    },
+    {
+      "word": "capelli",
+      "start": 2.446,
+      "end": 2.727,
+      "confidence": 0.457
+    },
+    {
+      "word": "non",
+      "start": 2.747,
+      "end": 2.847,
+      "confidence": 0.827
+    },
+    {
+      "word": "crescono",
+      "start": 2.867,
+      "end": 3.188,
+      "confidence": 0.604
+    },
+    {
+      "word": "più.",
+      "start": 3.228,
+      "end": 3.389,
+      "confidence": 0.637
+    },
+    {
+      "word": "Sto",
+      "start": 4.512,
+      "end": 4.712,
+      "confidence": 0.644
+    },
+    {
+      "word": "già",
+      "start": 4.753,
+      "end": 4.833,
+      "confidence": 0.889
+    },
+    {
+      "word": "prendendo",
+      "start": 4.853,
+      "end": 5.093,
+      "confidence": 0.26
+    },
+    {
+      "word": "le",
+      "start": 5.114,
+      "end": 5.154,
+      "confidence": 0.001
+    },
+    {
+      "word": "vitamine.",
+      "start": 5.194,
+      "end": 5.655,
+      "confidence": 0.834
+    },
+    {
+      "word": "Vuoi",
+      "start": 6.056,
+      "end": 6.176,
+      "confidence": 0.3
+    },
+    {
+      "word": "consigliarmi",
+      "start": 6.197,
+      "end": 6.698,
+      "confidence": 0.608
+    },
+    {
+      "word": "qualche",
+      "start": 6.718,
+      "end": 7.36,
+      "confidence": 0.888
+    },
+    {
+      "word": "medicinata?",
+      "start": 7.38,
+      "end": 7.921,
+      "confidence": 0.581
+    }
+  ],
+  "top3": [
+    "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?",
+    "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?",
+    "Tengo l'allopecia da quattro mesi e i capelli non crescono più. Sto già prendendo le vitamine. Vuoi consigliarmi qualche medicinata?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.5211,
+  "u_asr": 0.4789
+}

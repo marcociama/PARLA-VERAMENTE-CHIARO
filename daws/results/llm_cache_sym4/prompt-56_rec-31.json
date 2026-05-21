@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-56_rec-31",
+  "gt_text": "Ho un dolore pulsante sotto le costole sinistre, dall'ottava alla decima, che può variare da impercettibile fino a un livello molto alto.",
+  "w1_text": "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare da che non si sente proprio a che non fa molto male.",
+  "inputs": [
+    "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può variare da che non si sente proprio a che non fa molto male.",
+    "tengono dolore pulsando sotto e costa, la sinistra, dall'ottava alla decima. Può che può variare da impercettibile fino a un livello molto alto.",
+    "Ho un dolore pulsante sotto le costole sinistre, dall'ottava alla decima, variare da che non si sente proprio a che non fa molto male.",
+    "Ho un dolore pulsante sotto le costole sinistre, dall'ottava alla decima, che può variare da impercettibile fino a un livello molto alto."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Il dolore che stai sentendo sulla tua sinistra, dalla 8ª alla 10ª costola, potrebbe essere dovuto ad una condizione come la pleurite o il reflusso gastroesofageo. È importante consultare",
+    "Il dolore pulsante sotto e sulla costa sinistra, dalla 8ª alla 10ª, potrebbe essere dovuto a una condizione come la peritonite o il reflusso biliare. È importante consultare un medico immediat",
+    "Il tuo dolore pulsante sotto le costole sinistre potrebbe essere causato da una patologia cardiaca o gastrointestinale. È necessario un esame medico per una diagnosi precisa. Non dimenticare di consultare il tuo",
+    "Il dolore pulsante sotto le costole potrebbe essere dovuto a una patologia chiamata pancreatite acuta o colica biliare. È necessario effettuare un esame medico per verificare la causa del dolore e stabilire"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

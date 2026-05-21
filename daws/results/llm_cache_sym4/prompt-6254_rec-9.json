@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-6254_rec-9",
+  "gt_text": "A volte, se faccio un pisolino o chiudo gli occhi, vedo una specie di forma scura che ruota davanti agli occhi per circa un minuto e poi scompare. È normale? Sono miope e l'anno scorso mi hanno controllato la retina.",
+  "w1_text": "A volte, quando dormo, chiudo gli occhi e vedo una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina.",
+  "inputs": [
+    "A volte, quando dormo, chiudo gli occhi e vedo una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina.",
+    "A volte, quando dormo, chiudo gli occhi e vedo una specie di forma nera che gira all'occhio per un occhi per circa un minuto e poi scompare. È normale? Sono miope e l'anno scorso mi hanno controllato la retina.",
+    "A volte, se faccio un pisolino o chiudo gli occhi, vedo una specie di forma scura che ruota davanti agli minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina.",
+    "A volte, se faccio un pisolino o chiudo gli occhi, vedo una specie di forma scura che ruota davanti agli occhi per circa un minuto e poi scompare. È normale? Sono miope e l'anno scorso mi hanno controllato la retina."
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Il fenomeno che hai descritto, chiamato \"enopsia\", può essere dovuto a varie cause, tra cui stress, assenza di sonno o alterazioni della retina. Tuttavia, poiché sei stato già controllato l",
+    "Non è sempre facile interpretare tali fenomeni, ma spesso possono essere causati da fenomeni fisici normali come iperattività del cervello durante il sonno o effetti dell'occhio aperto sulla percezione. T",
+    "Il fenomeno che hai descritto potrebbe essere dovuto a una disturbo della retina o di altri organi visivi. È consigliabile consultare un medico per una valutazione accurata e eventuale trattamento. Ricord",
+    "Non è raro che si verifichino fenomeni visivi anomali occasionali, come le vostre osservazioni. Tuttavia, se queste visioni persistono o diventano più frequenti, è consigliabile consultare un oftalm"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

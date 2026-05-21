@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Prendo il generico dell'Ultracet. A volte lo prendo anche quattro volte al giorno.",
+    "Assumo un generico dell'Ultracet, a volte lo assumo anche quattro volte al dì.",
+    "Assumo il generico dell'Ultracet, a volte lo assumo anche quattro volte al dì.",
+    "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+    "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.",
+    "A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì."
+  ],
+  "responses": [
+    "Ultracet è un farmaco che contiene acetaminofene e oxicodone, ed è indicato per il trattamento della moderata-grave dolore cronica. Tuttavia, non dovresti superare la dose raccomandata",
+    "Il farmaco Ultracet contiene acetaminofeno e oxicodone. L'uso frequente di quattro dosi al giorno può portare ad effetti collaterali e dipendenza. È consigliabile consultare il medico per una val",
+    "Il farmaco Ultracet è un analgesico combinato che contiene acetaminofeno e tramadolo. La dose massima giornaliera di acetaminofeno non dovrebbe superare i 4 g, mentre per il tramadolo la",
+    "Il farmaco Ultracet è una combinazione di ossicodone e paracetamolo. La frequenza di assunzione quotidiana superiore a quattro volte può portare ad effetti collaterali gravi, come dipendenza o so",
+    "Il farmaco Ultracet è una combinazione di ossicodone e paracetamolo. La frequenza di assunzione quotidiana superiore a quattro volte può portare ad effetti collaterali gravi, come dipendenza o so",
+    "Il farmaco Ultracet è una combinazione di ossicodone e paracetamolo. La frequenza di assunzione quotidiana superiore a quattro volte può portare ad effetti collaterali gravi, come dipendenza o so"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: A Togo un generico dell'ultra c'è, a volte a Togo anche a quattro volte al dì.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente sta dicendo di prendere un farmaco generico dell'Ultram (Tramadolo) a Togo, talvolta fino a quattro volte al giorno. È importante ricordare che l'uso eccessivo o improprio di questo farmaco può portare a effetti collaterali gravi. Il paziente dovrebbe consultarsi con il medico per discutere della sua terapia farmacologica e ottenere consigli sulla sicura amministrazione del",
+      "length_norm_logprob": -0.387071
+    },
+    "references": [
+      {
+        "text": "Il paziente sta dicendo di prendere un farmaco generico della levitra (l'Ultracam da lui chiamato) a Togo, talvolta fino a quattro volte al giorno. Tuttavia, è importante ricordare che la frequenza di assunzione di questo tipo di medicamento deve essere limitata e consigliata dal medico.",
+        "length_norm_logprob": -0.596145
+      },
+      {
+        "text": "Il paziente sta dicendo che a Togo è disponibile una versione generica dell'Ultram (tramadolo), e talvolta prende quattro volte al giorno. In Italia, tuttavia, il tramadolo non deve essere preso più di due volte al giorno per evitare effetti collaterali.",
+        "length_norm_logprob": -0.353835
+      },
+      {
+        "text": "Il paziente sta dicendo di prendere un farmaco generico dell'Ultram (Tramadolo) a Togo, talvolta fino a quattro volte al giorno. È importante consigliare al paziente di seguire le indicazioni del medico e non aumentare la dose senza prescrizione.",
+        "length_norm_logprob": -0.340747
+      },
+      {
+        "text": "Il paziente sta prendendo una versione generica di Ultram (Tramadolo) a Togo, e lo fa fino a quattro volte al giorno. Questo potrebbe aumentare il rischio di dipendenza o effetti collaterali. Consiglio un contatto con il medico per discutere la dose e i possibili effetti negativi.",
+        "length_norm_logprob": -0.551879
+      }
+    ],
+    "sd": 0.830476,
+    "u_llm": 0.169524,
+    "n_refs": 4,
+    "distances": [
+      0.211601,
+      0.043755,
+      0.029463,
+      0.455568
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "A volte, se faccio un pisolino o chiudo gli occhi, vedo una specie di forma scura che ruota davanti agli occhi per circa un minuto e poi scompare. È normale? Sono miope e l'anno scorso mi hanno controllato la retina.",
+    "A volte, a volte, quando dormo o chiudo gli occhi, vedo una specie di forma nera che gira davanti agli occhi. Per un minuto e poi... e poi se ne va. Non so: è normale? Sono miope e l'anno scorso mi hanno controllato la retina.",
+    "A volte, a volte, quando dormo o chiudo gli occhi, vedo una specie di forma scura che gira davanti agli occhi. Per un minuto e poi e poi se ne va. Non so se sia normale. Sono miope e l'anno passato mi hanno controllato la retina.",
+    "A volte, quando dormo, chiudo gli occhi e vedo una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina.",
+    "A volte, quando dormo, ho chiuso gli occhi, ho una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio, l'anno passato mi hanno controllato la retina.",
+    "A volte, quando dormo o chiudo gli occhi, vedo una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina."
+  ],
+  "responses": [
+    "Non è raro che si verifichino fenomeni visivi anomali occasionali, come le vostre osservazioni. Tuttavia, se queste visioni persistono o diventano più frequenti, è consigliabile consultare un oftalm",
+    "Il fenomeno che hai descritto si chiama \"enormeia di forma nera\" (Esfasi visive notturne). Questo può essere normale, ma se ti preoccupi o se il fenomeno è frequente e/o disturb",
+    "Il fenomeno che hai descritto è noto come \"fantasmi oculari\" o \"occhi neri\". Questo può essere dovuto a varie cause, tra cui stress, fatica o assenza di sonno. Tuttavia, se",
+    "Il fenomeno che hai descritto, chiamato \"enopsia\", può essere dovuto a varie cause, tra cui stress, assenza di sonno o alterazioni della retina. Tuttavia, poiché sei stato già controllato l",
+    "Il fenomeno che hai descritto può essere dovuto a una o più delle seguenti cause:\n\n1. Miopia: La forma nera potrebbe essere causata da un disturbo della rete vitreo-retinica, che si",
+    "Il fenomeno che hai descritto si chiama \"enfasi visiva\" o \"fantasmi oculari\". Può essere dovuto a varie cause, tra cui stress, assenza di sonno, consumo di caffeina e alc"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: A volte, quando dormo, chiudo gli occhi e vedo una specie di forma nera che gira all'occhio per un minuto e poi se ne va. Non è normale. Sono mio padre e l'anno passato mi hanno controllato la retina.\n\nRisposta:",
+    "best": {
+      "text": "Il fenomeno che hai descritto, chiamato \"enigmi dell'occhio\" (oculogiaggi), può verificarsi in alcuni casi di normale, ma se persiste o ti preoccupa, è consigliabile consultare un oftalmologo per una valutazione precisa. Poiché hai già avuto un esame della retina, potresti chiedere al medico di verificare se ci sono cambiamenti rispetto all'esame precedente.",
+      "length_norm_logprob": -0.489068
+    },
+    "references": [
+      {
+        "text": "Il fenomeno che hai descritto può essere dovuto a una condizione nota come oculus draconis, comune tra le persone sane. Tuttavia, se continua ad accadere e ti preoccupi, consiglio di consultare un oftalmologo per una verifica approfondita. Ricorda che hai già avuto un esame della retina l'anno scorso, quindi potrebbe essere utile chiedere al medico se puoi ripetere il cont",
+        "length_norm_logprob": -0.532615
+      },
+      {
+        "text": "Il fenomeno che hai descritto, noto come \"fantasmi oculari\", può verificarsi in occasioni di stress o alterazioni del sonno. Tuttavia, poiché sei stato già controllato la retina, è consigliabile consultare il tuo medico per un'eventuale ripetizione dell'esame o per una valutazione del possibile coinvolgimento di altre strutture oculari.",
+        "length_norm_logprob": -0.468129
+      },
+      {
+        "text": "Il fenomeno che hai descritto, chiamato \"fantasmi oculari\", può verificarsi in alcuni casi di sonnambulismo o stress. Tuttavia, se è continuato anche dopo un esame della retina, è meglio consultare il medico per una valutazione approfondita.",
+        "length_norm_logprob": -0.501721
+      },
+      {
+        "text": "Il fenomeno che hai descritto potrebbe essere dovuto a una specie di allucinazione nota come enfasi visiva o anche come fantasmi oculari. Nonostante abbia già avuto un controllo della retina, è consigliabile comunque consultare il tuo medico per una valutazione accurata.",
+        "length_norm_logprob": -0.501784
+      }
+    ],
+    "sd": 0.949017,
+    "u_llm": 0.050983,
+    "n_refs": 4,
+    "distances": [
+      0.02968,
+      0.016139,
+      0.039067,
+      0.119592
+    ]
+  }
+}

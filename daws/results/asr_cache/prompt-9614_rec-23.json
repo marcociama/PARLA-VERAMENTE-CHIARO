@@ -1,0 +1,25 @@
+{
+  "transcription": "Ecco sì.",
+  "words": [
+    {
+      "word": "Ecco",
+      "start": 0.983,
+      "end": 1.347,
+      "confidence": 0.802
+    },
+    {
+      "word": "sì.",
+      "start": 1.449,
+      "end": 1.53,
+      "confidence": 0.516
+    }
+  ],
+  "top3": [
+    "Ecco sì.",
+    "Eh, ecco sì.",
+    "Ecco sì."
+  ],
+  "language": "it",
+  "mean_confidence": 0.659,
+  "u_asr": 0.34099999999999997
+}

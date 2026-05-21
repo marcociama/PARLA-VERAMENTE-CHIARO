@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sì, mi hanno tolto la cistifellea alcuni anni fa.",
+    "Si, mi hanno tolto la cistifellea molto tempo fa.",
+    "Si, mi hanno tolto la cistifellea tanto tempo fa.",
+    "Ehi, ma non vuoi che ci si perla assai il tempo fuori?",
+    "Ehi, ma non vado a Cissefella a stare il tempo fuori.",
+    "Ehi, ma non vuoi che ci si perla assai il tempo fuori?"
+  ],
+  "responses": [
+    "Ho ricevuto la tua informazione che hai avuto una cistifellea rimossa qualche anno fa. Se stai avvertendo problemi o sintomi, è importante consultare il tuo medico per un esame e una valutazione",
+    "Ho ricevuto la tua informazione che hai avuto la cistifellea rimossa da tempo. Se stai avendo problemi urinari o qualche altro sintomo, è importante consultare un medico per una valutazione appropriata.",
+    "Ho ricevuto la tua affermazione che hai avuto la cistifellea rimossa da tempo. Se stai avvertendo dolori o problemi urinari, è importante consultare un medico per una valutazione appropriata.",
+    "Non ho bisogno di molto tempo. Come posso aiutarti oggi?",
+    "Ho paure che potresti aver ingerito qualcosa che ti fa sentire male. È importante consultare un medico per una valutazione accurata e ricevere le cure adeguate. Non dimenticare di seguire le indicazioni del medico in caso",
+    "Non ho bisogno di molto tempo. Come posso aiutarti oggi?"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Ehi, ma non vuoi che ci si perla assai il tempo fuori?\n\nRisposta:",
+    "best": {
+      "text": "Sì, è importante limitare le uscite al di fuori per ridurre il rischio di contagio. Mantieni la distanza sociale e l'igiene delle mani.",
+      "length_norm_logprob": -0.388506
+    },
+    "references": [
+      {
+        "text": "Sì, è importante limitare le uscite al di fuori per ridurre il rischio di contagio e proteggere la salute.",
+        "length_norm_logprob": -0.414001
+      },
+      {
+        "text": "Sì, è importante mantenere una dieta equilibrata e fare esercizio fisico regolare per migliorare la salute.",
+        "length_norm_logprob": -0.318136
+      },
+      {
+        "text": "Sì, è importante limitare le uscite al di fuori per ridurre il rischio di contagio. Segui le indicazioni della nostra comunità sanitaria.",
+        "length_norm_logprob": -0.475291
+      },
+      {
+        "text": "Sì, è importante mantenere una dieta equilibrata e fare esercizio fisico regolarmente per migliorare la salute.",
+        "length_norm_logprob": -0.319583
+      }
+    ],
+    "sd": 0.632686,
+    "u_llm": 0.367314,
+    "n_refs": 4,
+    "distances": [
+      0.01853,
+      0.470998,
+      0.489658,
+      0.476137
+    ]
+  }
+}

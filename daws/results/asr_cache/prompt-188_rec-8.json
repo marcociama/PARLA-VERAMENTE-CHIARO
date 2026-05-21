@@ -1,0 +1,109 @@
+{
+  "transcription": "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+  "words": [
+    {
+      "word": "mia",
+      "start": 0.803,
+      "end": 0.904,
+      "confidence": 0.37
+    },
+    {
+      "word": "figlia",
+      "start": 0.944,
+      "end": 1.185,
+      "confidence": 0.49
+    },
+    {
+      "word": "che",
+      "start": 1.225,
+      "end": 1.326,
+      "confidence": 0.705
+    },
+    {
+      "word": "ha",
+      "start": 1.346,
+      "end": 1.386,
+      "confidence": 0.013
+    },
+    {
+      "word": "il",
+      "start": 1.406,
+      "end": 1.446,
+      "confidence": 0.0
+    },
+    {
+      "word": "nero",
+      "start": 1.507,
+      "end": 1.708,
+      "confidence": 0.892
+    },
+    {
+      "word": "che",
+      "start": 1.768,
+      "end": 1.929,
+      "confidence": 0.433
+    },
+    {
+      "word": "ha",
+      "start": 2.029,
+      "end": 2.069,
+      "confidence": 0.456
+    },
+    {
+      "word": "mangiato,",
+      "start": 2.15,
+      "end": 2.833,
+      "confidence": 0.771
+    },
+    {
+      "word": "o",
+      "start": 2.973,
+      "end": 3.074,
+      "confidence": 0.566
+    },
+    {
+      "word": "a",
+      "start": 3.134,
+      "end": 3.174,
+      "confidence": 0.879
+    },
+    {
+      "word": "volte",
+      "start": 3.255,
+      "end": 3.536,
+      "confidence": 0.717
+    },
+    {
+      "word": "anche",
+      "start": 3.556,
+      "end": 4.059,
+      "confidence": 0.745
+    },
+    {
+      "word": "mentre",
+      "start": 4.601,
+      "end": 4.822,
+      "confidence": 0.614
+    },
+    {
+      "word": "sta",
+      "start": 4.862,
+      "end": 5.043,
+      "confidence": 0.878
+    },
+    {
+      "word": "mangiando.",
+      "start": 5.083,
+      "end": 5.686,
+      "confidence": 0.556
+    }
+  ],
+  "top3": [
+    "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+    "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando.",
+    "mia figlia che ha il nero che ha mangiato, o a volte anche mentre sta mangiando."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5678125,
+  "u_asr": 0.43218749999999995
+}

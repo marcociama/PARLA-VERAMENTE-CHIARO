@@ -1,0 +1,133 @@
+{
+  "transcription": "Sento un orrore forte proprio a fianco all'addome, dalla zona dell'ovaio. Non è che l'invezione avvicina la gravidanza fuori dall'utero.",
+  "words": [
+    {
+      "word": "Sento",
+      "start": 0.671,
+      "end": 0.932,
+      "confidence": 0.74
+    },
+    {
+      "word": "un",
+      "start": 0.972,
+      "end": 1.052,
+      "confidence": 0.57
+    },
+    {
+      "word": "orrore",
+      "start": 1.112,
+      "end": 1.412,
+      "confidence": 0.678
+    },
+    {
+      "word": "forte",
+      "start": 1.492,
+      "end": 1.993,
+      "confidence": 0.906
+    },
+    {
+      "word": "proprio",
+      "start": 2.714,
+      "end": 2.915,
+      "confidence": 0.728
+    },
+    {
+      "word": "a",
+      "start": 2.955,
+      "end": 2.995,
+      "confidence": 0.67
+    },
+    {
+      "word": "fianco",
+      "start": 3.095,
+      "end": 3.355,
+      "confidence": 0.687
+    },
+    {
+      "word": "all'addome,",
+      "start": 3.395,
+      "end": 4.317,
+      "confidence": 0.864
+    },
+    {
+      "word": "dalla",
+      "start": 4.617,
+      "end": 4.777,
+      "confidence": 0.347
+    },
+    {
+      "word": "zona",
+      "start": 4.898,
+      "end": 5.118,
+      "confidence": 0.635
+    },
+    {
+      "word": "dell'ovaio.",
+      "start": 5.138,
+      "end": 5.839,
+      "confidence": 0.678
+    },
+    {
+      "word": "Non",
+      "start": 5.859,
+      "end": 6.4,
+      "confidence": 0.776
+    },
+    {
+      "word": "è",
+      "start": 6.46,
+      "end": 6.5,
+      "confidence": 0.526
+    },
+    {
+      "word": "che",
+      "start": 6.52,
+      "end": 6.6,
+      "confidence": 0.182
+    },
+    {
+      "word": "l'invezione",
+      "start": 6.68,
+      "end": 7.161,
+      "confidence": 0.792
+    },
+    {
+      "word": "avvicina",
+      "start": 7.181,
+      "end": 8.102,
+      "confidence": 0.61
+    },
+    {
+      "word": "la",
+      "start": 8.223,
+      "end": 8.303,
+      "confidence": 0.536
+    },
+    {
+      "word": "gravidanza",
+      "start": 8.343,
+      "end": 8.984,
+      "confidence": 0.861
+    },
+    {
+      "word": "fuori",
+      "start": 9.044,
+      "end": 9.184,
+      "confidence": 0.583
+    },
+    {
+      "word": "dall'utero.",
+      "start": 9.204,
+      "end": 9.685,
+      "confidence": 0.548
+    }
+  ],
+  "top3": [
+    "Sento un orrore forte proprio a fianco all'addome, dalla zona dell'ovaio. Non è che l'invezione avvicina la gravidanza fuori dall'utero.",
+    "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che l'invezione avvicina la gravidanza fuori dall'utero.",
+    "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che l'invezione avvicina la gravidanza fuori dall'utero."
+  ],
+  "language": "it",
+  "mean_confidence": 0.64585,
+  "u_asr": 0.35414999999999996
+}

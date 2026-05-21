@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Mia moglie è incinta da 2 mesi e 5 giorni e da due settimane ha dolore sotto l'ascella destra, solo quando la tocca. C'è qualche problema? Sta prendendo un integratore per la gravidanza.",
+    "Eh, mia moglie è incinta di due mesi e cinque giorni. Da due settimane tiene dolore sotto l'ascella destra, solo quando la tocco. Ci sta qualche problema? Sta prendendo un integratore per la gravidanza.",
+    "Eh, mia moglie è incinta di due mesi e cinque giorni. Da due settimane avverte dolore sotto l'ascella destra, solo quando la tocco. C'è qualche problema? Sta prendendo un integratore per la gravidanza.",
+    "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.",
+    "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto la scella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.",
+    "Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza."
+  ],
+  "responses": [
+    "La tua moglie sta probabilmente sofferendo di dolori lombali comuni durante la gravidanza. Tuttavia, è importante consultare il tuo medico per una valutazione accurata e eventuali cure appropriati. Non dimenticare",
+    "La tua moglie si trova in uno stato avanzato di gravidanza e il dolore che le provoca sotto l'ascella destra potrebbe essere dovuto a varie cause, tra cui problemi muscolari o articolari, oppure a",
+    "La tua moglie sta probabilmente sofferendo di colica renale, una condizione comune durante la gravidanza che può causare dolori sotto l'ascella destra. Tuttavia, è importante consultare il tuo medico per un esame comp",
+    "La tua moglie potrebbe aver inizio al collo d'utero o un ascesso mammario. È importante consultare il medico per una valutazione accurata e eventuali esami diagnostici. Continuare a prendere l'",
+    "La tua moglie si trova in uno stadio precoce della gravidanza (2 mesi e 5 giorni). Il dolore che lei sente sotto la scella destra potrebbe essere dovuto a varie cause, come il parto pre",
+    "La tua moglie potrebbe aver inizio al collo d'utero o un ascesso mammario. È importante consultare il medico per una valutazione accurata e eventuali esami diagnostici. Continuare a prendere l'"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Mia moglie è incinta a due mesi e cinque giorni e a due settimane tenero loro sotto l'ascella destra, solo quando la tocca. C'è stato qualche problema, sta prendendo un integratore per la gravidanza.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente ha una gravidanza di 2 mesi e 5 giorni con dolori sotto l'ascella destra intermittenti. L'utilizzo di integratori per la gravidanza è consigliato, ma è necessario consultare il medico per un esame completo.",
+      "length_norm_logprob": -0.364693
+    },
+    "references": [
+      {
+        "text": "Il paziente ha una gravidanza di 2 mesi e 5 giorni con dolori sotto l'ascella destra che appaiono a intervalli di due settimane. L'utilizzo di integratori per la gravidanza è stato segnalato, consiglia un controllo medico immediato.",
+        "length_norm_logprob": -0.402586
+      },
+      {
+        "text": "Il paziente ha una moglie incinta da due mesi e cinque giorni e ha avuto qualche problema che è attualmente trattato con un integratore di gravidanza. Il dolore al fianco destro, che si verifica solo quando viene toccato, potrebbe essere un sintomo comune durante la gravidanza. Tuttavia, per una valutazione precisa e un trattamento adeguato è consigliabile consultare il proprio medico di riferimento.",
+        "length_norm_logprob": -0.476641
+      },
+      {
+        "text": "Il paziente ha una gravidanza di 2 mesi e 5 giorni con dolori sotto l'ascella destra a intervalli irregolari. L'utilizzo di integratori per la gravidanza è consigliato, ma il paziente dovrebbe consultare un medico per una verifica approfondita.",
+        "length_norm_logprob": -0.406143
+      },
+      {
+        "text": "Il paziente ha avvertito una possibile dolore a sinistra durante la gravidanza, è consigliabile consultare il medico per valutare se ci sia qualcosa di da preoccuparsi e verificare che l'integratore per la gravidanza preso sia sicuro.",
+        "length_norm_logprob": -0.675003
+      }
+    ],
+    "sd": 0.984062,
+    "u_llm": 0.015938,
+    "n_refs": 4,
+    "distances": [
+      0.007263,
+      0.011068,
+      0.007263,
+      0.044617
+    ]
+  }
+}

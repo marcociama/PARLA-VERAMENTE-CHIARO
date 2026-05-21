@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho 31 anni e da circa un anno sento un fastidio e un dolore nella parte sinistra dello stomaco, sotto le costole. È presente 24 ore su 24. A volte peggiora dopo aver mangiato cibo pesante o dopo qualche bicchiere alcolico. Ho fatto diversi esami.",
+    "Ho 31 anni e da circa un anno sento un dolore e un fastidio alla parte sinistra dello stomaco, sotto le costole. Si presenta tutta la giornata, 24 ore su 24. Certe volte sto peggio dopo che ho mangiato pesante o dopo qualche bicchiere di alcol. Ho fatto diversi esami.",
+    "Ho 31 anni e da circa un anno sento dolore e fastidio alla parte sinistra dello stomaco, sotto le costole. Lo sento 24 ore su 24. Certe volte peggiora dopo che mangio pesante o che bevo qualche bicchiere di alcolici. Ho fatto diversi esami.",
+    "Tengo 31 anni, da circa un anno ho avuto un dolore e ho perso la parte sinistra del stomaco, sotto lo stato, sotto il costo. E' stata tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami.",
+    "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte sinistra del stomaco, sotto il costo. E' stato tutta la giornata, 24 ore su 24. C'è stato un po' di stupeggio dopo aver mangiato pesante, dopo qualche bicchiere alcolica, e ho fatto parecchi esami.",
+    "Tengo 31 anni, da circa un anno ho avuto un dolore in un pastiglio alla parte sinistra del stomaco, sotto il costo. E' stato tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami."
+  ],
+  "responses": [
+    "Il dolore persistente nella parte sinistra dello stomaco, sotto le costole, potrebbe essere dovuto a una patologia gastrointestinale come la gastrite o il reflusso gastroesofageo. Tuttavia, poich",
+    "Il dolore e il fastidio alla parte sinistra dello stomaco, sotto le costole, che si presenta tutta la giornata potrebbe essere dovuto a una patologia chiamata gastrite cronica o reflusso gastroesofage",
+    "Il dolore e il fastidio alla parte sinistra dello stomaco, sotto le costole, che persiste 24 ore su 24, potrebbe essere dovuto a una patologia gastrointestinale come la gastrite o il reflus",
+    "Il dolore che stai avvertendo potrebbe essere dovuto a una patologia del sistema gastrointestinale. È importante consultare un medico per una valutazione accurata. In attesa della visita, evitare di mangiare cib",
+    "Il dolore che senti nella parte sinistra del tuo stomaco potrebbe essere dovuto a una patologia chiamata gastrite o gastroesofagea reflusso. È importante effettuare ulteriori esami per confermare la",
+    "Il dolore al basso ventre potrebbe essere dovuto a una gastrite o a un ulcero peptico. È consigliabile consultare un medico per una valutazione accurata e eventuali esami diagnostici. In attesa"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Tengo 31 anni, da circa un anno ho avuto un dolore e ho perso la parte sinistra del stomaco, sotto lo stato, sotto il costo. E' stata tutta la giornata, 24 ore su 24. C'è stato un po' di sopeggio dopo aver mangiato pesante, dopo qualche bicchiere d'alcolica, e ho fatto parecchi esami.\n\nRisposta:",
+    "best": {
+      "text": "Il dolore costante nella parte sinistra del tuo stomaco potrebbe essere dovuto a una patologia gastrointestinale. È necessario consultare un medico per eseguire ulteriori esami e determinare la causa esatta del tuo sintomo. Non consumare alcolici o cibi pesanti fino alla visita medica.",
+      "length_norm_logprob": -0.381423
+    },
+    "references": [
+      {
+        "text": "Il dolore continuo nella parte sinistra del tuo stomaco potrebbe essere dovuto a una patologia come l'ulcera peptica o il cancro del pancreas. A causa dei sintomi che hai descritto, è necessario un esame più approfondito per stabilire la diagnosi corretta e prescrivere un trattamento adeguato. Non dimenticare di consultare un medico specializzato in questo settore.",
+        "length_norm_logprob": -0.461249
+      },
+      {
+        "text": "Il dolore costante nella parte sinistra del tuo stomaco per 24 ore su 24 potrebbe essere causato da una patologia gastrointestinale. È necessario un esame più approfondito, come ad esempio un endoscopia o una ecografia, per stabilire la diagnosi corretta. Nonostante il sopeggio dopo aver mangiato pesantemente e bevuto alcolici, è importante continuare a consultarti con il medico.",
+        "length_norm_logprob": -0.467305
+      },
+      {
+        "text": "Il dolore costante nella parte sinistra del tuo stomaco, che si protrae per 24 ore su 24, potrebbe essere dovuto a una patologia gastrointestinale come la gastrite o il cancro del pancreas. È necessario un esame medico approfondito. Evita di mangiare cibi pesanti e bevande alcoliche, che possono peggiorare i sintomi.",
+        "length_norm_logprob": -0.364423
+      },
+      {
+        "text": "Il tuo dolore cronico nel basso ventre potrebbe essere dovuto a una patologia del tratto gastrointestinale superiore. È importante consultare un medico per ulteriori indagini e terapie. Non dimenticare che l'assunzione di alcolici può peggiorare il dolore e richiedere esami diagnostici aggiuntivi.",
+        "length_norm_logprob": -0.47867
+      }
+    ],
+    "sd": 0.991953,
+    "u_llm": 0.008047,
+    "n_refs": 4,
+    "distances": [
+      0.008047,
+      0.008047,
+      0.008047,
+      0.008047
+    ]
+  }
+}

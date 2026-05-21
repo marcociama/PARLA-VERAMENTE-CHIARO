@@ -1,0 +1,27 @@
+{
+  "stem": "prompt-1950_rec-24",
+  "gt_text": "Va bene usare una medicina per l'interruzione di gravidanza dopo un taglio cesareo?",
+  "w1_text": "A voi non usate la medicina per interrompere la gravità?",
+  "inputs": [
+    "A voi non usate la medicina per interrompere la gravità?",
+    "A voi non usate la l'interruzione di gravidanza dopo un taglio cesareo?",
+    "Va bene usare una medicina per medicina per interrompere la gravità?",
+    "Va bene usare una medicina per l'interruzione di gravidanza dopo un taglio cesareo?"
+  ],
+  "labels": [
+    "WW",
+    "W-GT",
+    "GT-W",
+    "GTGT"
+  ],
+  "responses": [
+    "Non ho l'intenzione di interrompere la gravità, ma mi riferisco ai medici competenti per fornire le cure necessarie.",
+    "Sì, dopo un taglio cesareo è consigliato aspettare almeno 18 mesi prima di tentare una nuova gravidanza.",
+    "La risposta dipende dal tipo di malattia e della medicina prescritta. In generale, è importante seguire le indicazioni del medico. Se si ha dubbi o problemi, è consigliabile consultare il proprio medico.",
+    "Non è consigliabile utilizzare una medicina per interrompere la gravidanza dopo un taglio cesareo, poiché potrebbe causare complicanze per entrambe madre e neonato. In questi casi, è necessario consult"
+  ],
+  "source_ww": "llm_cache (responses[3])",
+  "source_gtgt": "llm_cache (responses[0])",
+  "source_wgt": "ollama (new)",
+  "source_gtw": "ollama (new)"
+}

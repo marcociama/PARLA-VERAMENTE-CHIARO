@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Il leucoderma è curabile?",
+    "Ma il leucoderma si può curare?",
+    "Ma il leucoderma può essere curato?",
+    "Ma il leucoderma si può curare?",
+    "Ma il leucoderma si può curare?",
+    "Ma il leucoderma si può curare?"
+  ],
+  "responses": [
+    "Il leucoderma non è una malattia ma un fenomeno cutaneo caratterizzato da depigmentazione della pelle, che non può essere curata completamente. Tuttavia, esistono trattamenti per migliorare l'as",
+    "Il leucoderma non ha una cura definitiva, ma esistono trattamenti che possono aiutare a migliorare l'aspetto della pelle. Tra questi vi sono la crema con idrossido di pirrochinolo",
+    "Il leucoderma non ha una cura definitiva, ma possono essere utilizzati trattamenti per migliorare l'aspetto della pelle e rallentare la progressione della malattia. Tra questi vi sono creame con cort",
+    "Il leucoderma non ha una cura definitiva, ma esistono trattamenti che possono aiutare a migliorare l'aspetto della pelle. Tra questi vi sono la crema con idrossido di pirrochinolo",
+    "Il leucoderma non ha una cura definitiva, ma esistono trattamenti che possono aiutare a migliorare l'aspetto della pelle. Tra questi vi sono la crema con idrossido di pirrochinolo",
+    "Il leucoderma non ha una cura definitiva, ma esistono trattamenti che possono aiutare a migliorare l'aspetto della pelle. Tra questi vi sono la crema con idrossido di pirrochinolo"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Ma il leucoderma si può curare?\n\nRisposta:",
+    "best": {
+      "text": "Sì, il leucoderma non è una malattia curabile ma può essere trattato per migliorare l'aspetto della pelle e rallentare la sua progressione.",
+      "length_norm_logprob": -0.28755
+    },
+    "references": [
+      {
+        "text": "Sì, il leucoderma può essere trattato, ma non è sempre possibile la guarigione completa. Le terapie più comuni sono quelle basate sulla crema a base di idrossido di pirrocheline o sui raggi UV.",
+        "length_norm_logprob": -0.564391
+      },
+      {
+        "text": "Sì, il leucoderma non è una malattia curabile ma può essere trattato per migliorare l'aspetto e prevenire eventuali complicanze.",
+        "length_norm_logprob": -0.269643
+      },
+      {
+        "text": "Sì, il leucoderma non è una malattia curabile, ma sono disponibili trattamenti per migliorare l'aspetto della pelle e rallentare la sua progressione.",
+        "length_norm_logprob": -0.253878
+      },
+      {
+        "text": "Sì, il leucoderma non è una malattia curabile, ma sono disponibili trattamenti per migliorarne l'aspetto. Consulta il tuo medico per ulteriori informazioni.",
+        "length_norm_logprob": -0.328322
+      }
+    ],
+    "sd": 0.762983,
+    "u_llm": 0.237017,
+    "n_refs": 4,
+    "distances": [
+      0.499877,
+      0.031321,
+      0.003011,
+      0.49965
+    ]
+  }
+}

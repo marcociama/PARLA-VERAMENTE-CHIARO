@@ -1,0 +1,109 @@
+{
+  "transcription": "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.",
+  "words": [
+    {
+      "word": "T'hai",
+      "start": 1.022,
+      "end": 1.143,
+      "confidence": 0.302
+    },
+    {
+      "word": "una",
+      "start": 1.163,
+      "end": 1.243,
+      "confidence": 0.3
+    },
+    {
+      "word": "c***a",
+      "start": 1.263,
+      "end": 1.463,
+      "confidence": 0.531
+    },
+    {
+      "word": "infiammata",
+      "start": 1.484,
+      "end": 1.965,
+      "confidence": 0.731
+    },
+    {
+      "word": "da",
+      "start": 1.985,
+      "end": 2.085,
+      "confidence": 0.363
+    },
+    {
+      "word": "una",
+      "start": 2.165,
+      "end": 2.246,
+      "confidence": 0.308
+    },
+    {
+      "word": "batteria",
+      "start": 2.286,
+      "end": 2.847,
+      "confidence": 0.815
+    },
+    {
+      "word": "e",
+      "start": 2.867,
+      "end": 2.888,
+      "confidence": 0.016
+    },
+    {
+      "word": "mi",
+      "start": 2.928,
+      "end": 2.988,
+      "confidence": 0.49
+    },
+    {
+      "word": "hanno",
+      "start": 3.008,
+      "end": 3.188,
+      "confidence": 0.645
+    },
+    {
+      "word": "prescritto",
+      "start": 3.229,
+      "end": 3.73,
+      "confidence": 0.575
+    },
+    {
+      "word": "l'antibiotica.",
+      "start": 3.75,
+      "end": 4.572,
+      "confidence": 0.673
+    },
+    {
+      "word": "Ora",
+      "start": 5.375,
+      "end": 5.515,
+      "confidence": 0.429
+    },
+    {
+      "word": "ti",
+      "start": 5.535,
+      "end": 5.635,
+      "confidence": 0.566
+    },
+    {
+      "word": "sento",
+      "start": 5.676,
+      "end": 5.936,
+      "confidence": 0.717
+    },
+    {
+      "word": "malissimo.",
+      "start": 5.976,
+      "end": 6.518,
+      "confidence": 0.811
+    }
+  ],
+  "top3": [
+    "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.",
+    "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo.",
+    "T'hai una c***a infiammata da una batteria e mi hanno prescritto l'antibiotica. Ora ti sento malissimo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.517,
+  "u_asr": 0.483
+}

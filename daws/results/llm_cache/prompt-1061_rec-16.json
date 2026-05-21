@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sento un dolore forte ai lati dell'addome, in zona ovarica. Potrebbe essere un'infezione alla vescica o una gravidanza fuori dall'utero?",
+    "Sento un dolore forte, ma proprio a fianco all'addome, la zona delle ovaie. Non è che è un'infezione alla vescica, o una gravidanza fuori all'utero?",
+    "Sento un dolore forte, ma proprio vicino all'addome, la zona delle ovaie. Non è che si tratta di un'infezione alla vescica o di una gravidanza fuori dall'utero?",
+    "Sento un orrore forte proprio a fianco all'addome, dalla zona dell'ovaio. Non è che l'invezione avvicina la gravidanza fuori dall'utero.",
+    "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che l'invezione avvicina la gravidanza fuori dall'utero.",
+    "Sento un orrore forte proprio a fianco all'addome, dalla zona ovaica. Non è che l'invezione avvicina la gravidanza fuori dall'utero."
+  ],
+  "responses": [
+    "Il dolore forte ai lati dell'addome, in zona ovarica, può essere dovuto a diverse cause, tra cui infezioni o problemi alle ghiandole salivari, al colon o alla vescica. Tuttavia, non è",
+    "Il dolore che stai sentendo potrebbe essere dovuto ad una patologia del sistema riproduttivo femminile, come ad esempio una cistite o un'ovulazione complicata. Non è possibile stabilire se si tratta di una grav",
+    "Il dolore che stai sentendo potrebbe essere dovuto a problemi alle ovaie, come ad esempio cisti olinfiammato. Non sembra che si tratti di un'infezione alla vescica o di una gravidanza",
+    "Il dolore forte localizzato nella zona dell'ovaio può essere dovuto ad una torsione ovariaca o a un cisto ovarico. È necessario consultare un medico per una valutazione accurata e eventuale trattamento.",
+    "Il dolore forte localizzato nella zona ovaica può essere dovuto ad una patologia chiamata torsione ovarica. Se il dolore è molto intenso e persistente, è necessario consultare un medico immediatamente per una valut",
+    "Il dolore forte localizzato nella zona ovaica può essere dovuto ad una patologia chiamata torsione ovarica. Se il dolore è molto intenso e persistente, è necessario consultare un medico immediatamente per una valut"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Sento un orrore forte proprio a fianco all'addome, dalla zona dell'ovaio. Non è che l'invezione avvicina la gravidanza fuori dall'utero.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo dolore intenso vicino all'addome e zona ovarica potrebbe essere dovuto a una patologia ovarica, come cisti ovariche. Tuttavia, non è da escludere l'ipotesi di un problema renale o appendicite. È necessario consultare un medico per una diagnosi precisa e adeguata terapia.",
+      "length_norm_logprob": -0.487329
+    },
+    "references": [
+      {
+        "text": "Potrebbe trattarsi di dolori oculistici, probabilmente causati da una cisti ovarica. Se i sintomi persistono, è consigliabile consultare un medico per una valutazione corretta.",
+        "length_norm_logprob": -0.503
+      },
+      {
+        "text": "Il tuo dolore intenso localizzato vicino all'ovario potrebbe essere dovuto a una cista o ad un'influenza renale. È importante consultare il medico per una diagnosi precisa e adeguata terapia.",
+        "length_norm_logprob": -0.538443
+      },
+      {
+        "text": "Il tuo sintomo potrebbe essere dovuto ad una distesa ovarica acuta. È importante consultare un medico per una diagnosi precisa e adeguata terapia. Non dimenticare che il dolore o la distensione abdominale, specialmente in questa zona, possono anche essere causati da altre patologie non legate alla gravidanza.",
+        "length_norm_logprob": -0.600711
+      },
+      {
+        "text": "Il tuo dolore è localizzato nella zona dell'ovario e sembra essere un dolore ovarico acuto, potrebbe essere causato da cisti ovariche o da una infezione. Ti consiglio di consultare il tuo medico per un esame fisico completo e una diagnosi precisa.",
+        "length_norm_logprob": -0.520162
+      }
+    ],
+    "sd": 0.682063,
+    "u_llm": 0.317937,
+    "n_refs": 4,
+    "distances": [
+      0.472394,
+      0.361861,
+      0.437584,
+      0.007291
+    ]
+  }
+}

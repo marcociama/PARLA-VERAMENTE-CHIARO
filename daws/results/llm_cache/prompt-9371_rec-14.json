@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Sembra che tutto li peggiori. Peggiorano con la tosse, lo sforzo, gli starnuti, anche quando cerco di stare in piedi. Ho provato tutti i farmaci, ma niente ha aiutato. C'era l'Imitrex e ho anche provato il Motrin ottocento milligrammi due volte al giorno, ma niente sembra efficace. In realtà mi aiuta un po' quando mi sdraio.",
+    "Sembra che va sempre peggio. Va peggio con la tosse, lo sforzo, gli starnuti, pure quando cerco di stare in piedi. Ho provato tutti i farmaci, ma niente. C'è l'Imitrex, e ho provato pure il Motrin, ottocento milligrammi, due volte al giorno, ma non fa niente. In realtà, mi aiuta quando sono un po' sdraiata.",
+    "Pare che va sempre peggio. Peggio con la tosse, l'affaticamento, gli starnuti, pure quando cerco di stare in piedi. Ho provato tutti i farmaci, ma nulla. Ci sta l'Imitrex e ho provato pure il Motrin ottocento milligrammi per due volte al giorno, ma non fa nulla. In realtà, mi aiuta un po' quando mi sdraio.",
+    "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.",
+    "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.",
+    "Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata."
+  ],
+  "responses": [
+    "Potrebbe trattarsi di una forma di bronchite acuta o di una polmonite. È importante consultare un medico per una valutazione accurata e per prescrivere il trattamento appropriato. In attesa della visita, è consigliabile",
+    "Sembra che stia avendo problemi di salute che richiedono attenzione medica urgente. Il dolore e le sintomi come la tosse, lo sforzo, gli starnuti e l'impossibilità di stare in piedi pos",
+    "Mi dispiace per la tua condizione attuale. Se i sintomi persistono e sono gravi, è importante che ti consulti subito con il tuo medico di riferimento o con un urgente. Inoltre, potrebbe essere ut",
+    "Mi dispiace per la tua condizione. Se i sintomi persistono e sono associati a una forte tosse, starnuti e difficoltà respiratorie, è importante che ti consulti subito un medico. Puoi essere aff",
+    "Mi dispiace per la tua condizione. Se i sintomi persistono e sono associati a una forte tosse, starnuti e difficoltà respiratorie, è importante che ti consulti subito un medico. Puoi essere aff",
+    "Mi dispiace per la tua condizione. Se i sintomi persistono e sono associati a una forte tosse, starnuti e difficoltà respiratorie, è importante che ti consulti subito un medico. Puoi essere aff"
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Pare che va sempre peggio, peggio che ha tosso, così mi sforzi, starnuto, pure quando cerco di essere allerta. Ho provato tutti i farmaci, ma niente, c'è stato l'imitrex e ho provato pure il motrin, 800mg, devo due giorni, ma non fa niente. In realtà mi aiutano poco quando sono sdraiata.\n\nRisposta:",
+    "best": {
+      "text": "Il tuo stato sembra peggiorare. Ti consiglio di consultare un medico immediatamente per una valutazione approfondita. Potrebbe essere necessario eseguire test aggiuntivi o provare nuovi trattamenti.",
+      "length_norm_logprob": -0.406573
+    },
+    "references": [
+      {
+        "text": "Il tuo stato sembra peggiorare. Ti consiglio di consultarti subito un medico per una valutazione approfondita e eventuale modifica della terapia farmacologica. Inoltre, considera il fattore posizione: cercare di mantenere una postura eretta potrebbe aiutarti a respirare meglio.",
+        "length_norm_logprob": -0.471224
+      },
+      {
+        "text": "Il tuo stato sembra peggiorare e ti preoccupa che la tosse sia accompagnata da sforzi respiratori e starnuti, anche quando sei allerta. Hai provato diversi farmaci, come l'Imitrex e il Motrin, ma non hanno dato esiti positivi. La posizione sdraiata non sembra aiutarti molto. È necessario un esame medico approfondito per valutare la causa della tua tosse persistente e determinare una ter",
+        "length_norm_logprob": -0.432051
+      },
+      {
+        "text": "Il tuo stato sembra peggiorare. Ti suggerisco di consultarti subito con il medico per eseguire un esame completo e valutare la possibilità di un trattamento diverso. Inoltre, è importante mantenere una buona posizione eretta quando si può per aiutare a migliorare i sintomi.",
+        "length_norm_logprob": -0.444168
+      },
+      {
+        "text": "Il tuo stato di salute sembra peggiorare. Ti consiglio di consultare il medico immediatamente per un esame completo e una possibile terapia diversa. Non dimenticare di seguire le indicazioni del medico per gli eventuali farmaci prescritti.",
+        "length_norm_logprob": -0.397884
+      }
+    ],
+    "sd": 0.995696,
+    "u_llm": 0.004304,
+    "n_refs": 4,
+    "distances": [
+      0.004304,
+      0.004304,
+      0.004304,
+      0.004304
+    ]
+  }
+}

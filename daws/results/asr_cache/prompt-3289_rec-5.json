@@ -1,0 +1,175 @@
+{
+  "transcription": "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema che però non è molto buona. Voglio una crema più sistemata.",
+  "words": [
+    {
+      "word": "Sei",
+      "start": 0.894,
+      "end": 1.034,
+      "confidence": 0.535
+    },
+    {
+      "word": "anni",
+      "start": 1.114,
+      "end": 1.275,
+      "confidence": 0.758
+    },
+    {
+      "word": "fa",
+      "start": 1.315,
+      "end": 1.455,
+      "confidence": 0.936
+    },
+    {
+      "word": "mi",
+      "start": 1.495,
+      "end": 1.555,
+      "confidence": 0.33
+    },
+    {
+      "word": "sono",
+      "start": 1.596,
+      "end": 1.716,
+      "confidence": 0.331
+    },
+    {
+      "word": "venuti",
+      "start": 1.796,
+      "end": 2.057,
+      "confidence": 0.823
+    },
+    {
+      "word": "i",
+      "start": 2.097,
+      "end": 2.137,
+      "confidence": 0.361
+    },
+    {
+      "word": "funghi",
+      "start": 2.177,
+      "end": 2.619,
+      "confidence": 0.675
+    },
+    {
+      "word": "nella",
+      "start": 2.879,
+      "end": 3.04,
+      "confidence": 0.59
+    },
+    {
+      "word": "lingua.",
+      "start": 3.1,
+      "end": 3.922,
+      "confidence": 0.906
+    },
+    {
+      "word": "Mi",
+      "start": 4.003,
+      "end": 4.344,
+      "confidence": 0.63
+    },
+    {
+      "word": "hanno",
+      "start": 4.444,
+      "end": 4.845,
+      "confidence": 0.539
+    },
+    {
+      "word": "messo",
+      "start": 4.885,
+      "end": 5.086,
+      "confidence": 0.542
+    },
+    {
+      "word": "una",
+      "start": 5.106,
+      "end": 5.266,
+      "confidence": 0.56
+    },
+    {
+      "word": "certa",
+      "start": 5.326,
+      "end": 5.607,
+      "confidence": 0.83
+    },
+    {
+      "word": "crema",
+      "start": 5.728,
+      "end": 6.048,
+      "confidence": 0.69
+    },
+    {
+      "word": "che",
+      "start": 6.089,
+      "end": 6.189,
+      "confidence": 0.837
+    },
+    {
+      "word": "però",
+      "start": 6.269,
+      "end": 6.45,
+      "confidence": 0.821
+    },
+    {
+      "word": "non",
+      "start": 6.55,
+      "end": 7.051,
+      "confidence": 0.964
+    },
+    {
+      "word": "è",
+      "start": 7.152,
+      "end": 7.212,
+      "confidence": 0.642
+    },
+    {
+      "word": "molto",
+      "start": 7.312,
+      "end": 7.533,
+      "confidence": 0.447
+    },
+    {
+      "word": "buona.",
+      "start": 7.673,
+      "end": 8.716,
+      "confidence": 0.864
+    },
+    {
+      "word": "Voglio",
+      "start": 8.756,
+      "end": 10.301,
+      "confidence": 0.736
+    },
+    {
+      "word": "una",
+      "start": 10.381,
+      "end": 10.522,
+      "confidence": 0.596
+    },
+    {
+      "word": "crema",
+      "start": 10.562,
+      "end": 10.762,
+      "confidence": 0.441
+    },
+    {
+      "word": "più",
+      "start": 10.862,
+      "end": 10.943,
+      "confidence": 0.187
+    },
+    {
+      "word": "sistemata.",
+      "start": 11.043,
+      "end": 11.725,
+      "confidence": 0.471
+    }
+  ],
+  "top3": [
+    "Sei anni fa mi sono venuti i funghi nella lingua. Mi hanno messo una certa crema che però non è molto buona. Voglio una crema più sistemata.",
+    "Sei anni fa mi sono venuti i funghi in lingua, mi hanno messo una certa crema che però non è molto buona, potrei dare una crema più sistemata?",
+    "Sei anni fa mi sono venuti i funghi nella lingua, mi hanno messo una certa crema che però non è molto buona. Posso dare una crema più estimata?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6311851851851853,
+  "u_asr": 0.3688148148148147
+}

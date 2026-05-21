@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Va bene usare una medicina per l'interruzione di gravidanza dopo un taglio cesareo?",
+    "Va bene usare una medicina per interrompere una gravidanza dopo un tagli cesareo?",
+    "Va bene utilizzare la medicina per l'interruzione di una gravidanza dopo un taglio cesareo?",
+    "A voi non usate la medicina per interrompere la gravità?",
+    "A voi non usate la medicina per interrompere la gravidanza?",
+    "A voi non usate la medicina per interrompere la gravidanza?"
+  ],
+  "responses": [
+    "Non è consigliabile utilizzare una medicina per interrompere la gravidanza dopo un taglio cesareo, poiché potrebbe causare complicanze per entrambe madre e neonato. In questi casi, è necessario consult",
+    "Non è consigliabile utilizzare una medicina per interrompere una gravidanza dopo un taglio cesareo, poiché ciò può portare a complicanze gravi per la madre e il feto. In queste situazioni, è necessario",
+    "Utilizzo della medicina per interrompere una gravidanza dopo un taglio cesareo non è consigliabile e deve essere evitato. Il taglio cesareo è già un intervento chirurgico che comporta rischi per",
+    "Non ho l'intenzione di interrompere la gravità, ma mi riferisco ai medici competenti per fornire le cure necessarie.",
+    "Non utilizzo la medicina per interrompere la gravidanza. In caso di necessità, consulte un medico specializzato in ginecologia e ostetricia.",
+    "Non utilizzo la medicina per interrompere la gravidanza. In caso di necessità, consulte un medico specializzato in ginecologia e ostetricia."
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: A voi non usate la medicina per interrompere la gravità?\n\nRisposta:",
+    "best": {
+      "text": "Non utilizziamo la medicina per interrompere la gravità, ma per aiutare a migliorare i sintomi e il corso della malattia.",
+      "length_norm_logprob": -0.276614
+    },
+    "references": [
+      {
+        "text": "No, l'assistenza medica non ha il compito di interrompere la gravità delle malattie, ma di aiutare a migliorarne lo stato e alleviare i sintomi.",
+        "length_norm_logprob": -0.365442
+      },
+      {
+        "text": "Non utilizziamo la medicina per interrompere la gravità, ma per aiutare a migliorare i sintomi e il corso della malattia.",
+        "length_norm_logprob": -0.276614
+      },
+      {
+        "text": "Non utilizzo la medicina per modificare la gravità di una condizione medica, ma posso aiutarti a gestirla e migliorarla.",
+        "length_norm_logprob": -0.371983
+      },
+      {
+        "text": "Non utilizziamo la medicina per modificare la gravità, ma potenzialmente possono essere prescritti farmaci per alleviare i sintomi associati a una condizione grave.",
+        "length_norm_logprob": -0.37708
+      }
+    ],
+    "sd": 0.872057,
+    "u_llm": 0.127943,
+    "n_refs": 4,
+    "distances": [
+      0.047469,
+      0.018758,
+      0.005793,
+      0.452858
+    ]
+  }
+}

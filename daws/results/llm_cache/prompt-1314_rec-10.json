@@ -1,0 +1,52 @@
+{
+  "inputs": [
+    "Ho finito i farmaci antidolorifici. Cosa devo fare adesso?",
+    "Ho finito gli antidolorifici, che devo fare ora?",
+    "Mi sono finiti gli antidolorifici. Che devo fare adesso?",
+    "Ha già fornito l'antidolorifico, ha già fatto muco.",
+    "Ha già fornito l'antidolorifico, ha già fatto il muco.",
+    "ha già fornito l'antidolorifico, ha già fatto un"
+  ],
+  "responses": [
+    "Devi continuare a seguire le indicazioni del tuo medico per il trattamento della tua condizione. Se continui a sentirti male, non esitare a contattarlo.",
+    "Devi continuare a seguire il trattamento prescritto dal tuo medico. Se hai dubbi o problemi, contatta il tuo medico per chiarimenti.",
+    "Devi consultare il tuo medico per una valutazione e eventuale prescrizione di un altro farmaco. Non interrompere la terapia senza consulenza medica.",
+    "Il dolore persiste? È necessario un ulteriore trattamento per alleviare il dolore?",
+    "Il dolore persiste? È necessario un ulteriore trattamento per alleviare i sintomi?",
+    "Il trattamento sembra essere stato effettuato correttamente. Se continui a sentirsi male o a provare dolori, non esitare a contattarmi di nuovo."
+  ],
+  "sd_w1": {
+    "prompt": "Sei un assistente medico. Rispondi brevemente in italiano alla seguente dichiarazione del paziente in massimo 2 frasi.\n\nPaziente: Ha già fornito l'antidolorifico, ha già fatto muco.\n\nRisposta:",
+    "best": {
+      "text": "Il paziente ha già preso il farmaco antidolorivo e ha già eseguito la nebulizzazione con lo mucoactivatore.",
+      "length_norm_logprob": -0.37519
+    },
+    "references": [
+      {
+        "text": "L'antidolorifico è stato preso, ma il muco non è stato verificato. Ripeti la misura di muco per assicurare che ci sia un miglioramento del sintomo.",
+        "length_norm_logprob": -0.640789
+      },
+      {
+        "text": "Il paziente ha già preso il farmaco antidolorivo e ha già eseguito la muco-aspirazione. Non è necessario alcun intervento medico aggiuntivo in questo momento.",
+        "length_norm_logprob": -0.363352
+      },
+      {
+        "text": "Il paziente ha già preso il farmaco antidolorivo e ha già eseguito la mucolisi. Non è necessario alcun intervento aggiuntivo per ora.",
+        "length_norm_logprob": -0.38582
+      },
+      {
+        "text": "Il paziente ha preso già il farmaco contro la dolore e ha già eseguito la muco-aspirazione. Non è necessario agire in questo momento.",
+        "length_norm_logprob": -0.480689
+      }
+    ],
+    "sd": 0.445431,
+    "u_llm": 0.554569,
+    "n_refs": 4,
+    "distances": [
+      0.527205,
+      0.38372,
+      0.355235,
+      0.989175
+    ]
+  }
+}

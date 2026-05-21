@@ -1,0 +1,49 @@
+{
+  "transcription": "Non lo voglio, già posso farlo.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 1.067,
+      "end": 1.168,
+      "confidence": 0.264
+    },
+    {
+      "word": "lo",
+      "start": 1.208,
+      "end": 1.33,
+      "confidence": 0.398
+    },
+    {
+      "word": "voglio,",
+      "start": 1.371,
+      "end": 1.654,
+      "confidence": 0.661
+    },
+    {
+      "word": "già",
+      "start": 1.674,
+      "end": 1.857,
+      "confidence": 0.304
+    },
+    {
+      "word": "posso",
+      "start": 1.897,
+      "end": 2.16,
+      "confidence": 0.636
+    },
+    {
+      "word": "farlo.",
+      "start": 2.201,
+      "end": 2.525,
+      "confidence": 0.6
+    }
+  ],
+  "top3": [
+    "Non lo voglio, già posso farlo.",
+    "Non lo voglio, già posso farlo.",
+    "Non lo voglio, già posso farlo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.4771666666666667,
+  "u_asr": 0.5228333333333333
+}
