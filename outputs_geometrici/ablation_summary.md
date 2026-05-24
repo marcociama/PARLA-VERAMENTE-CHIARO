@@ -51,4 +51,4 @@
 |:---|:---|:---:|:---:|
 | Online (no GT) — best WER | 1D Markov Spettrale Laplace | +0.5010 | +0.5684 |
 | Online (no GT) — best E_sem | VN H_hybrid RBF | +0.4587 | +0.5767 |
-| Attuale produzione DAWS | VN H_hybrid RBF | +0.4587 | +0.5767 |
+| **Produzione DAWS (ablation 2026-05-21)** | **1D Markov Spettrale Laplace** | **+0.5010** | **+0.5684** |

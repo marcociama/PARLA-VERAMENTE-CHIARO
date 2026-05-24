@@ -2,8 +2,23 @@
 daws/pipeline/daws.py
 -----------------
 DAWS Online Inference Pipeline — 1D Markov Spettrale (Laplace k=1)
+Ablation study definitivo: 21 Maggio 2026, N=50, corpus PARLA CHIARO.
 
-Runtime flow (T=0 for full determinism):
+Tabella Pearson certificata (§4.5 DAWS_ablation_spectral_2026-05-21.md):
+
+  Metodo                              WER      E_sem_top  E_sem_cross  GT@runtime
+  ─────────────────────────────────────────────────────────────────────────────────
+  1D Markov Spettrale ONLINE (k=1)  +0.5010   +0.5688    +0.5684      NO  ← PROD
+  VN H_hybrid (RBF)                 +0.4590   +0.5530    +0.5770      NO  ← backup
+  Inv-Entropy H_k1 (NeurIPS 2025)   +0.5226   +0.4947    +0.6664      SÌ  ← UB offline
+  Inv-Entropy H_k4 (NeurIPS 2025)   +0.5150   +0.6070    +0.6680      SÌ  ← UB offline
+  ─────────────────────────────────────────────────────────────────────────────────
+  1D Markov Spettrale (k=4 in 1D)  −0.2160   −0.3120    −0.2170      —   ← ESCLUSO
+
+  1D Markov ONLINE vs Inv-Entropy H_k1 su E_sem_top: +0.5688 vs +0.4947 → +11 pp.
+  k=4 in 1D distrugge il segnale (correlazione NEGATIVA) — vizio geometrico §4.4.
+
+Runtime flow (T=0 per determinismo):
   1. Audio → WhisperX → W1 (greedy) + W2/W3 (Gaussian acoustic perturbations)
   2. U_ASR = 1 − mean(WhisperX word-level confidence for W1)
   3. W1, W2, W3 → Ollama Mistral T=0 → R_W1, R_W2, R_W3
@@ -15,9 +30,12 @@ Runtime flow (T=0 for full determinism):
   6. 1D Markov Spettrale: Px = row_stochastic(Laplace(pts_in, sigma_in))
                            Py = row_stochastic(Laplace(pts_out, sigma_out))
                            P_comb = Py @ Px
-                           H_spectral = Shannon(|eigvals(P_comb)| / sum)
-  7. U_pipeline = H_spectral  (thresholds calibrated on P33/P66 of H_spectral, N=50)
-  8. Traffic light risk level from calibrated thresholds
+                           H_spectral = Shannon(|eigvals(P_comb)| / sum)  [nats]
+  7. H_risk = clip((H_spectral − H_MIN) / (H_MAX − H_MIN), 0, 1)
+     empirical bounds N=50: H_MIN=0.4320, H_MAX=0.8452
+  8. Risk level: GREEN if H_risk < 0.39 | YELLOW if H_risk < 0.52 | RED otherwise
+     thresholds derived via 3-class ROC on damage=(wer+δPC1) P33/P66, N=50
+     AUC_green=0.76 (sens≥0.90 criterion)  AUC_red=0.85 (Youden's J)
   9. If RED: Mistral generates clarifying question (Italian)
  10. Persist inference log to MongoDB via daws.database.DAWSRepository
 """
@@ -38,6 +56,19 @@ BASE     = Path(__file__).parent.parent.parent
 CFG_PATH = BASE / "config" / "geometry_calibration.json"
 OLLAMA_URL   = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "mistral"
+
+# Empirical H_spectral bounds — N=50 corpus PARLA CHIARO (ablation 2026-05-21)
+H_SPECTRAL_MIN: float = 0.4320   # nats
+H_SPECTRAL_MAX: float = 0.8452   # nats
+_H_RANGE: float = H_SPECTRAL_MAX - H_SPECTRAL_MIN  # 0.4132 nats
+
+# H_risk triage thresholds — calibrated via 3-class ROC on N=50 PARLA CHIARO corpus
+# Label: damage = wer + δPC1, P33/P66 split → GREEN / YELLOW / RED
+# GREEN: AUC=0.76, sens≥0.90 criterion  |  RED: AUC=0.85, Youden's J
+# Bootstrap 95% CI: GREEN [0.15, 0.47]  |  RED [0.47, 0.70]
+# See daws/study/threshold_calibration.py for full derivation.
+_THRESH_GREEN: float = 0.39
+_THRESH_RED:   float = 0.52
 
 _MEDICAL_PROMPT = (
     "Sei un assistente medico. Rispondi brevemente in italiano alla seguente "
@@ -60,11 +91,12 @@ class InferenceResult:
     words:                  list[dict] = field(default_factory=list)
     llm_response:           str = ""
     u_asr:                  float = 0.0
-    u_llm:                  float = 0.0      # H_spectral (raw)
-    u_pipeline:             float = 0.0
+    u_llm:                  float = 0.0      # H_spectral raw (nats)
+    u_pipeline:             float = 0.0      # = H_spectral (backward compat)
     risk_level:             str  = "green"   # "green" | "yellow" | "red"
     clarification_question: Optional[str] = None
-    h_spectral:             float = 0.0      # 1D Markov Spettrale entropy
+    h_spectral:             float = 0.0      # 1D Markov Spettrale entropy (nats)
+    h_risk:                 float = 0.0      # clip((H_spectral−H_MIN)/(H_MAX−H_MIN), 0, 1)
     s_w:                    list[float] = field(default_factory=list)  # [s1,s2,s3] output projs
     processing_time_s:      float = 0.0
 
@@ -232,13 +264,17 @@ class DAWSPipeline:
         # ── Step 6: 1D Markov Spettrale → H_spectral ──────────────────────
         h_spectral = _spectral_H(pts_in, pts_out, cfg["sigma_in"], cfg["sigma_out"])
 
-        # ── Step 7: U_pipeline = H_spectral ───────────────────────────────
+        # ── Step 7: H_risk normalizzato (bounds empirici N=50) ────────────
         u_pipe = h_spectral
+        h_risk = float(np.clip(
+            (h_spectral - H_SPECTRAL_MIN) / max(_H_RANGE, 1e-12),
+            0.0, 1.0,
+        ))
 
-        # ── Step 8: Risk level ─────────────────────────────────────────────
-        if u_pipe < cfg["threshold_green"]:
+        # ── Step 8: Risk level — soglie su H_risk [0,1] ────────────────────
+        if h_risk < _THRESH_GREEN:
             risk = "green"
-        elif u_pipe < cfg["threshold_red"]:
+        elif h_risk < _THRESH_RED:
             risk = "yellow"
         else:
             risk = "red"
@@ -263,6 +299,7 @@ class DAWSPipeline:
             risk_level=risk,
             clarification_question=clarification,
             h_spectral=h_spectral,
+            h_risk=h_risk,
             s_w=s_out,
             processing_time_s=elapsed,
         )
@@ -282,6 +319,6 @@ class DAWSPipeline:
 
         log.info(
             f"Done in {elapsed:.1f}s | U_ASR={u_asr:.3f} H_spectral={h_spectral:.4f} "
-            f"U_pipe={u_pipe:.3f} → {risk.upper()}"
+            f"H_risk={h_risk:.3f} → {risk.upper()}"
         )
         return result

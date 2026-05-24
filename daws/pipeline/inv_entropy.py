@@ -4,6 +4,35 @@ pipeline/inv_entropy.py
 Inverse Conditional Entropy (Inv-Entropy) — Song et al., NeurIPS 2025.
 "Inv-Entropy: Uncertainty Quantification for LLMs via Inverse Conditional Entropy"
 
+ROLE IN THE ABLATION STUDY (DAWS_ablation_spectral_2026-05-21):
+  This module is the OFFLINE UPPER BOUND baseline (requires GT at runtime).
+  It is NOT the production pipeline (see daws/pipeline/daws.py for 1D Markov Spettrale).
+
+  Certified Pearson correlations on N=50 corpus PARLA CHIARO:
+  ─────────────────────────────────────────────────────────────────────────────
+  Metodo                               WER      E_sem_top  E_sem_cross  GT@runtime
+  ─────────────────────────────────────────────────────────────────────────────
+  1D Markov Spettrale ONLINE (k=1)   +0.5010   +0.5688    +0.5684      NO  ← PROD
+  VN H_hybrid (RBF)                  +0.4590   +0.5530    +0.5770      NO  ← backup
+  Inv-Entropy H_k1 (this file, k=1)  +0.5226   +0.4947    +0.6664      SÌ  ← UB offline
+  Inv-Entropy H_k4 (this file, k=4)  +0.5150   +0.6070    +0.6680      SÌ  ← UB offline
+  ─────────────────────────────────────────────────────────────────────────────
+  1D Markov Spettrale (k=4 in 1D)   −0.2160   −0.3120    −0.2170      —   ← ESCLUSO
+  ─────────────────────────────────────────────────────────────────────────────
+
+  IMPORTANT — k=4 disambiguation:
+    • k=4 HERE (SBERTSimilarity.similarity_matrix, line ~126): operates in 768D space.
+      Sharpening cos^4 in 768D amplifies contrast between distant embeddings, yielding
+      Pearson(E_sem_top) = +0.607 — best E_sem_top among all offline methods.
+      This is the VALID NeurIPS 2025 ablation variant. NOT excluded.
+
+    • k=4 in 1D Markov Spettrale (§4.4 of ablation): sharpening applied AFTER projecting
+      to 1D. In 1D there is no curse of dimensionality — the matrix becomes quasi-binary,
+      destroying spectral structure → Pearson = −0.216. EXCLUDED from production.
+
+  Summary: any k>1 reference in THIS file is in 768D and is correct. The excluded
+  k=4 variant does not exist in this codebase; it was only evaluated offline.
+
 Design for PARLA CHIARO (N=6):
   X_n = [GT1, GT2, GT3, W1, W2, W3]
     GT1/GT2/GT3  — three promptText variants from the recording JSON (free ground truth)

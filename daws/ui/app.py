@@ -153,7 +153,8 @@ def _inject_tooltip_css() -> None:
 @st.cache_resource(show_spinner="Caricamento pipeline DAWS (WhisperX · SBERT · Mistral)...")
 def _load_pipeline():
     from daws.pipeline.daws import DAWSPipeline
-    return DAWSPipeline(use_mongo=True)
+    # use_mongo=False: la UI gestisce la persistenza esplicita con feedback visivo
+    return DAWSPipeline(use_mongo=False)
 
 
 @st.cache_data
@@ -378,21 +379,41 @@ def _drift_fig(s_w: list[float], cfg: dict,
                transcript: str = "", llm_response: str = ""):
     import plotly.graph_objects as go
 
-    mu_gt   = [cfg["mu_R_GT1"], cfg["mu_R_GT2"], cfg["mu_R_GT3"]]
-    mu_mean = float(np.mean(mu_gt))
-    w_dists = [abs(v - mu_mean) for v in s_w]
-    max_d   = max(w_dists) if max(w_dists) > 0 else 1.0
-    w_colors = [_score_color(d / max_d) for d in w_dists]
+    mu_gt    = [cfg["mu_R_GT1"], cfg["mu_R_GT2"], cfg["mu_R_GT3"]]
+    mu_mean  = float(np.mean(mu_gt))
+    gt_span  = max(mu_gt) - min(mu_gt)
+    if gt_span < 1e-6:
+        gt_span = max(abs(mu_mean) * 0.1, 0.01)
 
-    all_x = mu_gt + list(s_w)
-    pad   = max((max(all_x) - min(all_x)) * 0.4, 0.02)
+    # Fixed tolerance zones around mu_mean — absolute, zoom-independent
+    green_half  = 1.5 * gt_span
+    yellow_half = 3.5 * gt_span
+    far_pad     = 20.0 * gt_span   # effectively infinite for the red bands
+
+    def _zone_color(v: float) -> str:
+        dist = abs(v - mu_mean)
+        if dist <= green_half:  return _C_GREEN
+        if dist <= yellow_half: return _C_YELLOW
+        return _C_RED
+
+    w_colors = [_zone_color(v) for v in s_w]
 
     tr_s = (transcript[:65]+"…")   if len(transcript)>65   else transcript
     r_s  = (llm_response[:65]+"…") if len(llm_response)>65 else llm_response
 
     fig = go.Figure()
-    fig.add_vrect(x0=min(mu_gt)-pad*0.25, x1=max(mu_gt)+pad*0.25,
-                  fillcolor=_C_BLUE, opacity=0.07, layer="below", line_width=0)
+
+    # Background risk bands — fixed in data-coordinates, stable under zoom
+    fig.add_vrect(x0=mu_mean - far_pad,     x1=mu_mean - yellow_half,
+                  fillcolor=_C_RED,    opacity=0.07, layer="below", line_width=0)
+    fig.add_vrect(x0=mu_mean + yellow_half, x1=mu_mean + far_pad,
+                  fillcolor=_C_RED,    opacity=0.07, layer="below", line_width=0)
+    fig.add_vrect(x0=mu_mean - yellow_half, x1=mu_mean - green_half,
+                  fillcolor=_C_YELLOW, opacity=0.10, layer="below", line_width=0)
+    fig.add_vrect(x0=mu_mean + green_half,  x1=mu_mean + yellow_half,
+                  fillcolor=_C_YELLOW, opacity=0.10, layer="below", line_width=0)
+    fig.add_vrect(x0=mu_mean - green_half,  x1=mu_mean + green_half,
+                  fillcolor=_C_GREEN,  opacity=0.08, layer="below", line_width=0)
 
     fig.add_trace(go.Scatter(
         x=mu_gt, y=[0]*3, mode="markers+text",
@@ -476,29 +497,112 @@ def _load_historical_fallback() -> list[dict]:
     dataset = _load_dataset()
     if not dataset:
         return []
-    h_vals = [d.get("inv_entropy", {}).get("H_k1", 0.0) for d in dataset]
-    p33, p66 = float(np.percentile(h_vals, 33)), float(np.percentile(h_vals, 66))
     out = []
     for d in dataset:
-        h_k1  = d.get("inv_entropy", {}).get("H_k1", 0.0)
-        h_sp  = d.get("h_spectral", 0.0)
-        pca   = d.get("pca_local", {})
-        txts  = d.get("texts", [])
+        h_k1    = d.get("inv_entropy", {}).get("H_k1", 0.0)
+        h_sp    = float(d.get("h_spectral", 0.0))
+        h_risk  = _h_risk_from_spectral(h_sp)
+        pca     = d.get("pca_local", {})
+        txts    = d.get("texts", [])
+        wer     = round(d.get("wer", 0.0), 4)
+        dpc1    = round(pca.get("delta_pc1", 0.0), 4)
         out.append({
-            "_source":     "Historical Corpus",
-            "_display_id": d.get("stem", ""),
-            "dialect":     d.get("dialect", ""),
-            "gender":      d.get("gender", ""),
-            "age_range":   d.get("age_range", ""),
-            "wer":         round(d.get("wer", 0.0), 4),
-            "H_k6":        round(h_k1, 4),
-            "h_spectral":  round(h_sp, 5),
-            "delta_pc1":   round(pca.get("delta_pc1", 0.0), 4),
-            "gt1":         txts[0] if txts else "",
-            "w1":          txts[3] if len(txts) > 3 else "",
-            "risk_level":  "green" if h_k1 < p33 else ("yellow" if h_k1 < p66 else "red"),
+            "_source":        "Historical Corpus",
+            "_display_id":    d.get("stem", ""),
+            "dialect":        d.get("dialect", ""),
+            "gender":         d.get("gender", ""),
+            "age_range":      d.get("age_range", ""),
+            "wer":            wer,
+            "H_k6":           round(h_k1, 4),
+            "h_spectral":     round(h_sp, 5),
+            "h_risk":         round(h_risk, 4),
+            "severity_score": round(h_risk * (wer + dpc1), 4),
+            "delta_pc1":      dpc1,
+            "gt1":            txts[0] if txts else "",
+            "w1":             txts[3] if len(txts) > 3 else "",
+            "risk_level":     _risk_from_h_risk(h_risk),
         })
     return out
+
+
+_H_SP_MIN = 0.4320   # bounds empirici N=50 (ablation 2026-05-21)
+_H_SP_MAX = 0.8452
+_H_SP_RNG = _H_SP_MAX - _H_SP_MIN  # 0.4132
+
+
+def _h_risk_from_spectral(h_sp: float) -> float:
+    """Normalizza H_spectral nei bounds empirici → H_risk ∈ [0,1]."""
+    return float(np.clip((h_sp - _H_SP_MIN) / max(_H_SP_RNG, 1e-12), 0.0, 1.0))
+
+
+def _risk_from_h_risk(h_risk: float) -> str:
+    if h_risk < 0.39:  return "green"
+    if h_risk < 0.52:  return "yellow"
+    return "red"
+
+
+def _seed_corpus_to_mongo(repo, dataset: list[dict]) -> int:
+    """Bulk-upsert N=50 corpus records into MongoDB recordings.
+    risk_level = _risk_from_h_risk(H_risk(h_spectral)) — soglie ROC-calibrate 0.39/0.52.
+    Returns count of upserted+modified documents."""
+    if not dataset or not repo._connect():
+        return 0
+
+    from datetime import datetime, timezone
+    from pymongo import UpdateOne
+
+    # Build u_asr lookup from ASR cache (keyed by stem = filename without extension)
+    _asr_cache_dir = BASE / "daws" / "results" / "asr_cache"
+    _u_asr_lookup: dict[str, float] = {}
+    if _asr_cache_dir.exists():
+        import json as _json
+        for _f in _asr_cache_dir.glob("*.json"):
+            try:
+                _d = _json.loads(_f.read_text())
+                _u_asr_lookup[_f.stem] = float(_d.get("u_asr", 0.0))
+            except Exception:
+                pass
+
+    now = datetime.now(timezone.utc)
+
+    ops = []
+    for d in dataset:
+        h_k1    = d.get("inv_entropy", {}).get("H_k1", 0.0)
+        h_sp    = float(d.get("h_spectral", 0.0))
+        h_risk  = _h_risk_from_spectral(h_sp)
+        pca     = d.get("pca_local", {})
+        txts    = d.get("texts", [])
+        wer     = float(d.get("wer", 0.0))
+        dpc1    = float(pca.get("delta_pc1", 0.0))
+        stem    = d.get("stem", "")
+        u_asr   = _u_asr_lookup.get(stem, 0.0)
+        ops.append(UpdateOne(
+            {"filename": stem},
+            {"$set": {
+                "filename":         stem,
+                "dialect":          d.get("dialect", ""),
+                "gender":           d.get("gender", ""),
+                "age_range":        d.get("age_range", ""),
+                "wer":              wer,
+                "u_asr":            u_asr,
+                "H_k6":             float(h_k1),
+                "h_spectral":       h_sp,
+                "h_risk":           h_risk,
+                "severity_score":   round(h_risk * (wer + dpc1), 4),
+                "delta_pc1":        dpc1,
+                "gt1":              txts[0] if txts else "",
+                "w1":               txts[3] if len(txts) > 3 else "",
+                "risk_level":       _risk_from_h_risk(h_risk),
+                "created_at":       now,
+            }},
+            upsert=True,
+        ))
+
+    try:
+        res = repo._db["recordings"].bulk_write(ops, ordered=False)
+        return res.upserted_count + res.modified_count
+    except Exception:
+        return 0
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -545,22 +649,67 @@ def _section_inferenza() -> None:
             st.error(f"Errore pipeline: {exc}")
             return
 
-    st.session_state["last_risk"]       = result.risk_level
+    ui_risk = result.risk_level   # calibrated P33/P66 thresholds from pipeline
+
+    st.session_state["last_risk"]       = ui_risk
     st.session_state["last_u_pipeline"] = result.u_pipeline
+
+    # Persist to MongoDB (UI-layer save with visible feedback)
+    _mongo_saved = False
+    _mongo_err   = ""
+    try:
+        from daws.database import DAWSRepository
+        _repo_ui = DAWSRepository()
+        _inf_id  = _repo_ui.log_inference({
+            "transcript":          result.transcript,
+            "u_asr":               float(result.u_asr),
+            "u_llm":               float(result.u_llm),
+            "u_pipeline":          float(result.u_pipeline),
+            "h_spectral":          float(result.h_spectral),
+            "h_risk":              float(result.h_risk),
+            "risk_level":          ui_risk,
+            "llm_response":        result.llm_response,
+            "clarifying_question": result.clarification_question,
+        })
+        _mongo_saved = bool(_inf_id)
+    except Exception as _exc:
+        _mongo_err = str(_exc)
 
     # Risk badge
     st.markdown("---")
-    _risk_badge(result.risk_level)
+    if _mongo_saved:
+        st.success("Inferenza salvata su MongoDB — visibile in Audit Trail (fonte: Live Production).")
+    else:
+        st.caption(
+            "MongoDB non raggiungibile — l'inferenza non è stata persistita."
+            + (f" ({_mongo_err})" if _mongo_err else "")
+        )
+    _risk_badge(ui_risk)
 
-    if result.risk_level == "red" and result.clarification_question:
+    if ui_risk == "red" and result.clarification_question:
         st.error(f"**Domanda di chiarimento:** {result.clarification_question}")
 
-    # Metrics
+    # Metrics — solo valori direttamente calcolabili a runtime (no WER, no ΔPC1 → no Severity Score)
     m1, m2, m3, m4 = st.columns(4)
-    m1.metric("U_ASR",       f"{result.u_asr:.3f}",       help="1 − confidenza media WhisperX")
-    m2.metric("H_spectral",  f"{result.h_spectral:.4f}",  help="1D Markov Spettrale (Laplace) — |eigvals(Py@Px)| → Shannon entropy (nats)")
-    m3.metric("U_pipeline",  f"{result.u_pipeline:.3f}",  help="H_spectral — confrontato con soglie P33/P66 calibrate su N=50")
-    m4.metric("Tempo",       f"{result.processing_time_s:.1f} s")
+    m1.metric("U_ASR",      f"{result.u_asr:.3f}",
+              help="1 − confidenza media WhisperX (proxy acustico del WER)")
+    m2.metric("H_spectral", f"{result.h_spectral:.4f} nat",
+              help="Entropia spettrale 1D Markov Laplace (nats). "
+                   "Range calibrazione N=50: [0.4320, 0.8452]. "
+                   "Valori inferiori al minimo → drift sotto soglia corpus.")
+    m3.metric("H_risk",     f"{result.h_risk:.3f}",
+              help="(H_spectral − 0.4320) / 0.4132  ∈ [0,1] "
+                   "| VERDE < 0.39 | GIALLO < 0.52 | ROSSO ≥ 0.52 "
+                   "(soglie ROC-calibrate su N=50, AUC_red=0.85)")
+    m4.metric("Tempo",      f"{result.processing_time_s:.1f} s")
+
+    if result.h_spectral < 0.4320:
+        st.caption(
+            f"H_spectral = {result.h_spectral:.4f} nats — sotto il minimo del corpus di calibrazione "
+            "(0.4320 nats, N=50). Deriva semantica inferiore al caso meno dialettale osservato. "
+            "Il Severity Score (H_risk × (WER + |ΔPC1|)) è calcolato nell'Audit Trail "
+            "dove WER e ΔPC1 sono disponibili."
+        )
 
     # 1D Drift
     cfg = _load_cfg()
@@ -575,28 +724,15 @@ def _section_inferenza() -> None:
             "Diamanti = proiezioni live s_W1/W2/W3 (colorati per distanza da μ_GT)."
         )
 
-    # Token heatmaps
-    st.subheader("Analytics dei token")
-    tab_asr, tab_llm = st.tabs([
-        "WhisperX — confidenza di allineamento",
-        "Mistral — incertezza semantica dei token",
-    ])
-
-    with tab_asr:
-        st.caption("Barra colorata sotto ogni parola = incertezza ASR (1 − confidenza). "
-                   "Passa il cursore per il dettaglio.")
-        if result.words:
-            st.markdown(_whisperx_heatmap(result.words), unsafe_allow_html=True)
-            _heatmap_legend()
-        else:
-            st.info("Nessun dato di allineamento parola disponibile.")
-
-    with tab_llm:
-        st.caption("Barra colorata = stima di deriva semantica per token. "
-                   "Passa il cursore per punteggio e interpretazioni.")
-        st.markdown(_mistral_heatmap(result.llm_response, result.u_pipeline),
-                    unsafe_allow_html=True)
+    # Token heatmap — WhisperX acoustic alignment only
+    st.subheader("Allineamento acustico WhisperX")
+    st.caption("Barra colorata sotto ogni parola = incertezza ASR (1 − confidenza). "
+               "Passa il cursore per il dettaglio.")
+    if result.words:
+        st.markdown(_whisperx_heatmap(result.words), unsafe_allow_html=True)
         _heatmap_legend()
+    else:
+        st.info("Nessun dato di allineamento parola disponibile.")
 
     # Transcript
     st.subheader("Trascrizione (W1)")
@@ -622,30 +758,65 @@ def _section_audit() -> None:
 
     recs_raw: list[dict] = []
     infs_raw: list[dict] = []
+    _mongo_repo = None
 
     try:
         from daws.database import DAWSRepository
-        repo     = DAWSRepository()
-        recs_raw = repo.get_recordings(limit=200)
-        infs_raw = repo.get_inferences(limit=100)
-        if recs_raw:
-            cfg = _load_cfg()
-            for r in recs_raw:
-                r["_source"]     = "Historical Corpus"
-                r["_display_id"] = r.get("filename", "")
-                if cfg and "H_k6" in r and "risk_level" not in r:
-                    h = r["H_k6"]
-                    r["risk_level"] = (
-                        "green"  if h < cfg.get("threshold_green", 0.71) else
-                        "yellow" if h < cfg.get("threshold_red",   0.81) else "red"
-                    )
+        _mongo_repo = DAWSRepository()
+        if _mongo_repo._connect():
+            recs_raw = _mongo_repo.get_recordings(limit=200)
+            infs_raw = _mongo_repo.get_inferences(limit=100)
     except Exception:
         pass
 
+    # Auto-seed: MongoDB raggiungibile ma recordings vuota, oppure dati stale (u_asr tutti 0)
+    _needs_seed = _mongo_repo is not None and (
+        not recs_raw
+        or (recs_raw and all(float(r.get("u_asr", 0.0)) == 0.0 for r in recs_raw))
+    )
+    if _needs_seed:
+        _ds = _load_dataset()
+        if _ds and _mongo_repo._connect():
+            with st.spinner("Prima apertura: caricamento corpus PARLA CHIARO in MongoDB…"):
+                _n_seeded = _seed_corpus_to_mongo(_mongo_repo, _ds)
+            if _n_seeded > 0:
+                try:
+                    recs_raw = _mongo_repo.get_recordings(limit=200)
+                    st.success(f"Corpus PARLA CHIARO ({_n_seeded} campioni) caricato in MongoDB.")
+                except Exception:
+                    pass
+
+    # Annota fonte e risk_level usando H_risk(h_spectral) con soglie ROC-calibrate 0.39/0.52
+    if recs_raw:
+        for r in recs_raw:
+            r["_source"]     = "Historical Corpus"
+            r["_display_id"] = r.get("filename", "")
+            if "risk_level" not in r:
+                h_sp = float(r.get("h_spectral", r.get("H_k6", 0.0)))
+                r["risk_level"] = _risk_from_h_risk(_h_risk_from_spectral(h_sp))
+            # aggiungi severity_score se manca
+            if "severity_score" not in r:
+                h_risk = _h_risk_from_spectral(float(r.get("h_spectral", 0.0)))
+                wer    = float(r.get("wer", 0.0))
+                dpc1   = float(r.get("delta_pc1", 0.0))
+                r["severity_score"] = round(h_risk * (wer + dpc1), 4)
+
+    # Fallback JSON solo se MongoDB non disponibile
     if not recs_raw:
         recs_raw = _load_historical_fallback()
         if recs_raw:
-            st.caption("MongoDB `recordings` vuoto — corpus caricato da dataset_topologico_50.json.")
+            st.caption("MongoDB non disponibile — corpus caricato da dataset_topologico_50.json.")
+
+    # Manual re-seed button (forza ricalcolo risk_level da H_spectral + u_asr reali)
+    if _mongo_repo is not None and getattr(_mongo_repo, "_available", None) is True:
+        if st.button("🔄 Re-seed corpus", help="Ricalcola risk_level, h_risk, u_asr e severity_score per tutti i 50 record storici usando la pipeline 1D Markov Spettrale corrente."):
+            _ds = _load_dataset()
+            if _ds:
+                with st.spinner("Re-seed in corso…"):
+                    _n = _seed_corpus_to_mongo(_mongo_repo, _ds)
+                recs_raw = _mongo_repo.get_recordings(limit=200)
+                st.success(f"Re-seed completato: {_n} record aggiornati.")
+                st.rerun()
 
     for i in infs_raw:
         i["_source"]     = "Live Production"
@@ -674,19 +845,48 @@ def _section_audit() -> None:
         st.info("Nessun record trovato con i filtri selezionati.")
         return
 
-    # Counts
+    # Historical Corpus: count from loaded recs_raw (JSON or MongoDB recordings)
     from collections import Counter
-    counts = Counter(d.get("risk_level", "") for d in pool)
+    hist_c = Counter(
+        r.get("risk_level", "") for r in recs_raw
+        if r.get("risk_level") in ("green", "yellow", "red")
+    )
+
+    # Live Production: $group aggregation — riusa _mongo_repo, nessun timeout aggiuntivo
+    live_c: dict[str, int] = {"green": 0, "yellow": 0, "red": 0}
+    if "Live Production" in source_sel:
+        _live_mongo = False
+        if _mongo_repo is not None and getattr(_mongo_repo, "_available", None) is True:
+            try:
+                for doc in _mongo_repo._db["inferences"].aggregate([
+                    {"$group": {"_id": "$risk_level", "n": {"$sum": 1}}}
+                ]):
+                    lvl = doc.get("_id") or ""
+                    if lvl in live_c:
+                        live_c[lvl] += int(doc["n"])
+                _live_mongo = True
+            except Exception:
+                pass
+        if not _live_mongo:
+            for _i in infs_raw:
+                lvl = _i.get("risk_level", "")
+                if lvl in live_c:
+                    live_c[lvl] += 1
+
+    n_g = (hist_c["green"]  if "Historical Corpus" in source_sel else 0) + live_c["green"]
+    n_y = (hist_c["yellow"] if "Historical Corpus" in source_sel else 0) + live_c["yellow"]
+    n_r = (hist_c["red"]    if "Historical Corpus" in source_sel else 0) + live_c["red"]
     s1, s2, s3, s4 = st.columns(4)
-    s1.metric("Totale", len(pool))
-    s2.metric("Verde",  counts.get("green",  0))
-    s3.metric("Giallo", counts.get("yellow", 0))
-    s4.metric("Rosso",  counts.get("red",    0))
+    s1.metric("Totale", n_g + n_y + n_r)
+    s2.metric("Verde",  n_g)
+    s3.metric("Giallo", n_y)
+    s4.metric("Rosso",  n_r)
 
     # DataFrame + Styler
     COLS = ["_source", "risk_level", "_display_id", "dialect",
-            "gender", "age_range", "wer", "H_k6", "delta_pc1",
-            "u_asr", "u_llm", "u_pipeline", "created_at"]
+            "gender", "age_range", "wer", "delta_pc1",
+            "H_k6", "h_spectral", "severity_score",
+            "u_asr", "created_at"]
     df = pd.DataFrame(pool)
     if "created_at" in df.columns:
         df["created_at"] = (pd.to_datetime(df["created_at"], errors="coerce")
@@ -694,12 +894,19 @@ def _section_audit() -> None:
 
     display_cols = [c for c in COLS if c in df.columns]
     rename = {
-        "_source": "Fonte", "risk_level": "Rischio",
-        "_display_id": "ID / Trascrizione", "dialect": "Dialetto",
-        "gender": "Sesso", "age_range": "Età", "wer": "WER",
-        "H_k6": "H (proxy)", "delta_pc1": "ΔPC1",
-        "u_asr": "U_ASR", "u_llm": "U_LLM", "u_pipeline": "U_pipeline",
-        "created_at": "Data",
+        "_source":        "Fonte",
+        "risk_level":     "Rischio",
+        "_display_id":    "ID / Trascrizione",
+        "dialect":        "Dialetto",
+        "gender":         "Sesso",
+        "age_range":      "Età",
+        "wer":            "WER",
+        "delta_pc1":      "ΔPC1",
+        "H_k6":           "Baseline Offline (NeurIPS 2025)",
+        "h_spectral":     "Framework Online (1D Markov Spettrale)",
+        "severity_score": "Severity Score",
+        "u_asr":          "U_ASR",
+        "created_at":     "Data",
     }
     df_view = df[display_cols].rename(columns=rename)
 
@@ -726,11 +933,10 @@ def _section_analytics() -> None:
     import plotly.express as px
     import pandas as pd
 
-    st.header("Analytics — Studio offline N=50")
+    st.header("Analytics — Ablation Study N=50 (21 Maggio 2026)")
     st.markdown(
-        "Risultati dell'ablation study sul corpus PARLA CHIARO. "
-        "**Inv-Entropy H_k1: Pearson(WER) = +0.52  ·  Pearson(H_k1, ΔPC1) = +0.84  ·  "
-        "1D Markov Spettrale ONLINE: Pearson(WER) = +0.50**"
+        "**1D Spectral Markov (no GT):** Pearson(WER) = **+0.501** | "
+        "Pearson(E_sem_top) = **+0.569** | Pearson(|ΔPC1|) = **+0.43**"
     )
 
     dataset = _load_dataset()
@@ -742,43 +948,47 @@ def _section_analytics() -> None:
             st.warning("dataset_topologico_50.json non trovato.")
         else:
             wer  = [d.get("wer", 0.0)                             for d in dataset]
-            h    = [d.get("inv_entropy", {}).get("H_k1", 0.0)     for d in dataset]
             dpc  = [d.get("pca_local",  {}).get("delta_pc1", 0.0) for d in dataset]
             stem = [d.get("stem", "")                              for d in dataset]
             dial = [d.get("dialect", "altro")                      for d in dataset]
+            h_sp = [d.get("h_spectral", 0.0)                       for d in dataset]
 
             c1, c2 = st.columns(2)
             with c1:
                 st.plotly_chart(
-                    _scatter_fig(wer, h, stem, dial,
-                                 "WER", "H_k1 (nats)", "H_k1 vs WER",
-                                 float(np.corrcoef(wer, h)[0, 1])),
+                    _scatter_fig(wer, h_sp, stem, dial,
+                                 "WER", "H_spectral (nats)",
+                                 "1D Spectral Markov vs WER  [r=+0.501]",
+                                 float(np.corrcoef(wer, h_sp)[0, 1])),
                     use_container_width=True)
             with c2:
                 st.plotly_chart(
-                    _scatter_fig(dpc, h, stem, dial,
-                                 "|ΔPC1|", "H_k1 (nats)", "H_k1 vs |ΔPC1|",
-                                 float(np.corrcoef(dpc, h)[0, 1])),
+                    _scatter_fig(dpc, h_sp, stem, dial,
+                                 "|ΔPC1|", "H_spectral (nats)",
+                                 "1D Spectral Markov vs ΔPC1",
+                                 float(np.corrcoef(dpc, h_sp)[0, 1])),
                     use_container_width=True)
-            st.caption(
-                "H_k1 = Inv-Entropy (Song et al. NeurIPS 2025, k=1, upper bound offline) su 6 risposte Mistral/campione. "
-                "|ΔPC1| = distanza tra centroidi GT e ASR sul primo asse PCA locale."
-            )
+            st.caption("|ΔPC1| = distanza centroidi GT↔ASR sul primo asse PCA locale (media 0.55 ± 0.34).")
 
         cfg = _load_cfg()
         if cfg:
             st.markdown("---")
-            st.subheader("Parametri calibrazione 1D Markov Spettrale (N=50)")
+            st.subheader("Parametri 1D Markov Spettrale — calibrazione N=50")
             g1, g2, g3, g4 = st.columns(4)
-            g1.metric("σ_in",         f"{cfg.get('sigma_in',  0):.5f}")
-            g2.metric("σ_out",        f"{cfg.get('sigma_out', 0):.5f}")
-            g3.metric("Soglia verde", f"{cfg.get('threshold_green', 0):.4f}")
-            g4.metric("Soglia rosso", f"{cfg.get('threshold_red',   0):.4f}")
+            g1.metric("σ_in",             f"{cfg.get('sigma_in',  0):.5f}")
+            g2.metric("σ_out",            f"{cfg.get('sigma_out', 0):.5f}")
+            g3.metric("H_min (nats)",      "0.4320",
+                      help="Empirical minimum H_spectral su N=50 (bounds normalizzazione H_risk)")
+            g4.metric("H_max (nats)",      "0.8452",
+                      help="Empirical maximum H_spectral su N=50")
             g5, g6, g7, g8 = st.columns(4)
-            g5.metric("Pearson(H, WER)",   f"{cfg.get('pearson_H_wer', 0):.4f}")
-            g6.metric("SVM acc (output)",  f"{cfg.get('svm_train_acc_out', 0):.1%}")
-            g7.metric("SVM acc (input)",   f"{cfg.get('svm_train_acc_in',  0):.1%}")
-            g8.metric("N campioni",         cfg.get("n_samples", 50))
+            g5.metric("Pearson(H_sp, WER)",  f"{cfg.get('pearson_H_wer', 0.501):.4f}",
+                      help="1D Markov Spettrale ONLINE — ablation 2026-05-21")
+            g6.metric("H_risk soglia verde",  "0.39",
+                      help="H_risk < 0.39 → Rischio Basso (ROC-calibrato, AUC=0.76, sens≥0.90)")
+            g7.metric("H_risk soglia rosso",  "0.52",
+                      help="H_risk ≥ 0.52 → Rischio Elevato (ROC-calibrato, AUC=0.85, Youden's J)")
+            g8.metric("N campioni",            cfg.get("n_samples", 50))
 
     # ── Spectral PCA ──────────────────────────────────────────────────
     with tab_pca:
@@ -850,48 +1060,16 @@ def _section_analytics() -> None:
         if max_sc == 0.0:
             max_sc = 1.0
 
-        max_wer = max(d.get("wer", 0.0) for d in dataset) or 1.0
-        max_h   = max(d.get("h_spectral", 0.0) for d in dataset) or 1.0
-
-        # Summary table (all 50 cases)
-        rows = []
-        for d in ranked:
-            h_sp = d.get("h_spectral", 0.0)
-            h_risk = float(np.clip((h_sp - h_sp_min) / h_sp_range, 0.0, 1.0))
-            rows.append({
-                "stem":       d.get("stem", ""),
-                "dialetto":   d.get("dialect", ""),
-                "età":        d.get("age_range", ""),
-                "WER":        round(d.get("wer", 0.0), 3),
-                "H_spectral": round(h_sp, 5),
-                "H_risk":     round(h_risk, 4),
-                "ΔPC1":       round(d.get("pca_local", {}).get("delta_pc1", 0.0), 4),
-                "score":      round(_score(d), 4),
-            })
-        df_c = pd.DataFrame(rows)
-
-        def _color_score(v):
-            try:
-                return (f"background-color:{_score_color(float(v)/max_sc)};"
-                        f"color:#fff;font-weight:700;")
-            except Exception:
-                return ""
-
-        styled_c = df_c.style.map(_color_score, subset=["score"])
-        st.dataframe(styled_c, use_container_width=True, height=340)
-        st.caption("Score = H_risk × (WER + |ΔPC1|)  dove H_risk = clip((H_spectral − H_min)/(H_max − H_min), 0, 1).")
-
-        # Fancy detail cards — top 5
-        st.markdown("---")
-        st.subheader("Analisi testuale — top 5 casi critici")
-        st.caption("Passa il cursore sulle parole per vedere il tipo di errore ASR.")
+        # Top-10 casi critici — righe compatte HTML + analisi lazy in expander
+        st.subheader("Top 10 casi critici")
+        st.caption("Clicca su una riga per espandere l'analisi acustica e il diff testuale GT↔ASR.")
 
         _DIALECT_COLOR = {
             "napoletano": "#8e44ad", "parmigiano": "#16a085",
             "salentino": "#d35400", "lucano": "#2980b9", "altro": "#7f8c8d",
         }
 
-        for rank, d in enumerate(ranked[:5], 1):
+        for rank, d in enumerate(ranked[:10], 1):
             txts   = d.get("texts", [])
             gt1    = txts[0] if txts else ""
             w1     = txts[3] if len(txts) > 3 else ""
@@ -907,43 +1085,36 @@ def _section_analytics() -> None:
             age    = d.get("age_range", "?")
             sev    = _score_color(sc / max_sc)
             dcol   = _DIALECT_COLOR.get(dial, "#7f8c8d")
-            r_hex, g_hex, b_hex = int(sev[1:3],16), int(sev[3:5],16), int(sev[5:7],16)
 
-            # Card header
+            # Compact flat row
             st.markdown(f"""
-<div style="border-left:5px solid {sev};padding:10px 16px;
-            background:rgba({r_hex},{g_hex},{b_hex},0.06);
-            border-radius:0 8px 8px 0;margin:12px 0 4px 0;">
-  <span style="font-weight:700;font-size:16px;color:#212529;">#{rank} &nbsp; {stem}</span>
-  &nbsp;&nbsp;
-  <span style="background:{dcol};color:#fff;padding:2px 9px;
-               border-radius:12px;font-size:11px;font-weight:600;">{dial.upper()}</span>
-  <span style="background:#6c757d;color:#fff;padding:2px 8px;
-               border-radius:12px;font-size:11px;margin-left:4px;">{gender} · {age}</span>
-  <span style="float:right;background:{sev};color:#fff;padding:2px 10px;
-               border-radius:12px;font-size:12px;font-weight:700;">
-    score {sc:.3f}
-  </span>
+<div style="display:flex;align-items:center;gap:10px;padding:8px 14px;
+            border-left:4px solid {sev};background:#fafafa;
+            border-radius:0 6px 6px 0;margin:3px 0;">
+  <span style="font-weight:700;font-size:13px;color:#6c757d;min-width:22px;">#{rank}</span>
+  <span style="font-weight:600;font-size:13px;color:#212529;flex:1;
+               white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{stem}</span>
+  <span style="background:{dcol};color:#fff;padding:2px 8px;
+               border-radius:10px;font-size:11px;font-weight:600;white-space:nowrap;">{dial.upper()}</span>
+  <span style="background:#6c757d;color:#fff;padding:2px 7px;
+               border-radius:10px;font-size:11px;white-space:nowrap;">{gender} · {age}</span>
+  <span style="background:{sev};color:#fff;padding:3px 10px;
+               border-radius:10px;font-size:12px;font-weight:700;white-space:nowrap;">{sc:.3f}</span>
 </div>""", unsafe_allow_html=True)
 
-            # Metric bars
-            bc1, bc2, bc3 = st.columns(3)
-            bc1.progress(min(wer / max_wer, 1.0),
-                         text=f"WER: {wer:.3f}")
-            bc2.progress(h_risk,
-                         text=f"H_risk: {h_risk:.3f}  (H_spectral={h:.5f})")
-            bc3.metric("ΔPC1", f"{dpc:.4f}",
-                       help="Distanza GT↔ASR sul primo asse PCA locale")
-
-            # Diff heatmap inside expander
-            with st.expander("Analisi diff GT1 vs W1", expanded=(rank == 1)):
+            with st.expander(f"Analisi dettagliata — #{rank} {stem}", expanded=False):
+                bc1, bc2, bc3 = st.columns(3)
+                bc1.metric("WER",    f"{wer:.3f}")
+                bc2.metric("H_risk", f"{h_risk:.3f}", help=f"H_spectral = {h:.5f}")
+                bc3.metric("ΔPC1",   f"{dpc:.4f}",
+                           help="Distanza GT↔ASR sul primo asse PCA locale")
                 if gt1 and w1:
                     _diff_heatmap(gt1, w1)
                 else:
                     st.info("Testo non disponibile.")
                 st.caption(
-                    f"PC1 var.: {pca.get('pc1_variance_explained',0):.1%} · "
-                    f"PC1 spread GT↔ASR: {dpc:.4f}"
+                    f"PC1 var.: {pca.get('pc1_variance_explained', 0):.1%} · "
+                    f"Score = H_risk × (WER + |ΔPC1|) = {sc:.4f}"
                 )
 
 

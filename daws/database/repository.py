@@ -5,7 +5,7 @@ DAWS MongoDB Repository with strict JSON Schema validation.
 
 Collections
 -----------
-recordings  — static 50-sample corpus (WER, H_k6, delta_pc1, u_asr per sample)
+recordings  — static 50-sample corpus (WER, h_spectral, delta_pc1, u_asr per sample)
 inferences  — real-time production runs (transcript → risk assessment log)
 
 Usage

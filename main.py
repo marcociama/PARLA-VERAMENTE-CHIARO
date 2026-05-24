@@ -6,18 +6,13 @@ PARLA CHIARO — DialectGuard entry point.
 Modes:
   corpus      — corpus statistics
   asr-cache   — pre-generate ASR JSON cache (top-3 beam search) for all recordings
-  daws        — end-to-end DAWS on a WAV file (Von Neumann H_k6 pipeline)
-  ie-study    — offline Inv-Entropy study over the full corpus
-  calibrate   — legacy SD-based threshold calibration (use scripts/calibrate_geometry.py
-                for the production Von Neumann calibration)
-  characterize — NeurIPS-style LLM uncertainty characterization figure
-  benchmark   — multi-LLM benchmark across local and API models
+  daws        — end-to-end DAWS on a WAV file (1D Markov Spettrale pipeline)
+  ie-study    — offline Inv-Entropy study over the full corpus (N=6 design)
 
 Flags:
   --audio PATH        WAV file for daws mode
   --limit N           process at most N recordings
   --asr-cache-dir     ASR cache directory (default: daws/results/asr_cache)
-  --bootstrap-b N     bootstrap replicates for Inv-Entropy (default: 50)
 """
 
 import argparse
@@ -101,7 +96,7 @@ def mode_asr_cache(asr_cache_dir: str, limit: int | None):
 # ---------------------------------------------------------------------------
 
 def mode_daws(audio_path: Path | None, asr_cache_dir: str):
-    """End-to-end DAWS: WAV → ASR → Mistral → H_k6 → U_pipeline → risk alert."""
+    """End-to-end DAWS: WAV → ASR → Mistral → 1D Markov Spettrale → H_risk → risk alert."""
     if audio_path is None:
         from daws.utils.corpus_loader import PARLACHIAROLoader
         sessions = PARLACHIAROLoader(CORPUS_PATH).load_all()
@@ -116,11 +111,12 @@ def mode_daws(audio_path: Path | None, asr_cache_dir: str):
     pipeline = DAWSPipeline(use_mongo=False, asr_cache_dir=asr_cache_dir)
     result = pipeline.process_audio(str(audio_path))
 
-    print(f"\n=== DAWS RESULT (Von Neumann H_k6) ===")
+    print(f"\n=== DAWS RESULT (1D Markov Spettrale) ===")
     print(f"  Transcript:    '{result.transcript[:100]}'")
     print(f"  LLM response:  '{result.llm_response[:100]}'")
     print(f"  U_ASR:         {result.u_asr:.4f}")
-    print(f"  H_k6 (U_LLM): {result.h_k6_value:.4f}  (Von Neumann entropy, nats)")
+    print(f"  H_spectral:    {result.h_spectral:.4f}  nats (1D Markov Spettrale)")
+    print(f"  H_risk:        {result.h_risk:.4f}  (normalised [0,1])")
     print(f"  s_W:           {[f'{s:.4f}' for s in result.s_w]}")
     print(f"  U_pipeline:    {result.u_pipeline:.4f}")
     print(f"  Risk level:    {result.risk_level}")
@@ -146,52 +142,6 @@ def mode_ie_study(asr_cache_dir: str, limit: int | None):
 
 
 # ---------------------------------------------------------------------------
-# calibrate  (legacy SD-based; for geometry use scripts/calibrate_geometry.py)
-# ---------------------------------------------------------------------------
-
-def mode_calibrate(results_path: str | None = None):
-    """Legacy calibration: alpha/beta/gamma weights via SLSQP on SD+H_k4 proxy."""
-    from daws.study.calibration import calibrate
-    calibrate(results_path=results_path)
-
-
-# ---------------------------------------------------------------------------
-# characterize
-# ---------------------------------------------------------------------------
-
-def mode_characterize(reuse: bool):
-    """NeurIPS-style LLM uncertainty characterization figure."""
-    from daws.study.llm_characterization import run_characterization
-    run_characterization()
-
-
-# ---------------------------------------------------------------------------
-# benchmark
-# ---------------------------------------------------------------------------
-
-def mode_benchmark(
-    asr_cache_dir: str,
-    limit: int | None,
-    models: str,
-    bootstrap_b: int,
-):
-    """Multi-LLM benchmark: SD + Inv-Entropy across local and API models."""
-    from daws.study.benchmark import build_adapters, run_benchmark
-
-    model_list = [m.strip() for m in models.split(",")]
-    adapters = build_adapters(model_list)
-    print(f"Benchmarking {len(adapters)} models: {[a.name for a in adapters]}")
-
-    run_benchmark(
-        corpus_root=str(CORPUS_PATH),
-        asr_cache_dir=asr_cache_dir,
-        adapters=adapters,
-        limit=limit,
-        bootstrap_B=bootstrap_b,
-    )
-
-
-# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -199,18 +149,12 @@ def main():
     parser = argparse.ArgumentParser(description="PARLA CHIARO — DialectGuard")
     parser.add_argument(
         "--mode",
-        choices=["corpus", "asr-cache", "daws",
-                 "ie-study", "calibrate", "characterize", "benchmark"],
+        choices=["corpus", "asr-cache", "daws", "ie-study"],
         default="corpus",
     )
     parser.add_argument("--audio", type=Path, default=None)
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--asr-cache-dir", default="daws/results/asr_cache")
-    parser.add_argument("--bootstrap-b", type=int, default=50)
-    parser.add_argument("--models", default="mistral",
-                        help="Comma-separated list: mistral,gemini,claude,ollama (benchmark mode)")
-    parser.add_argument("--reuse-results", action="store_true",
-                        help="Reuse cached results if available (characterize mode)")
     args = parser.parse_args()
 
     if args.mode == "corpus":
@@ -221,12 +165,6 @@ def main():
         mode_daws(args.audio, args.asr_cache_dir)
     elif args.mode == "ie-study":
         mode_ie_study(args.asr_cache_dir, args.limit)
-    elif args.mode == "calibrate":
-        mode_calibrate()
-    elif args.mode == "characterize":
-        mode_characterize(args.reuse_results)
-    elif args.mode == "benchmark":
-        mode_benchmark(args.asr_cache_dir, args.limit, args.models, args.bootstrap_b)
 
 
 if __name__ == "__main__":
