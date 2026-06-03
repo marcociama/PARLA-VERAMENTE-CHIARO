@@ -1,0 +1,73 @@
+{
+  "transcription": "Un om Gianturco, nella via principale d'Oriona, via Emanuele Gianturco.",
+  "words": [
+    {
+      "word": "Un",
+      "start": 1.642,
+      "end": 1.682,
+      "confidence": 0.085
+    },
+    {
+      "word": "om",
+      "start": 1.763,
+      "end": 1.963,
+      "confidence": 0.772
+    },
+    {
+      "word": "Gianturco,",
+      "start": 2.023,
+      "end": 2.764,
+      "confidence": 0.777
+    },
+    {
+      "word": "nella",
+      "start": 2.805,
+      "end": 3.065,
+      "confidence": 0.571
+    },
+    {
+      "word": "via",
+      "start": 3.125,
+      "end": 3.366,
+      "confidence": 0.75
+    },
+    {
+      "word": "principale",
+      "start": 3.887,
+      "end": 4.468,
+      "confidence": 0.892
+    },
+    {
+      "word": "d'Oriona,",
+      "start": 4.528,
+      "end": 5.209,
+      "confidence": 0.852
+    },
+    {
+      "word": "via",
+      "start": 5.329,
+      "end": 5.55,
+      "confidence": 0.894
+    },
+    {
+      "word": "Emanuele",
+      "start": 5.59,
+      "end": 6.211,
+      "confidence": 0.737
+    },
+    {
+      "word": "Gianturco.",
+      "start": 6.311,
+      "end": 6.932,
+      "confidence": 0.829
+    }
+  ],
+  "top3": [
+    "Un om Gianturco, nella via principale d'Oriona, via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale d'Oriona, via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale di Oriona, via Emanuele Gianturco."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7159,
+  "u_asr": 0.2841
+}

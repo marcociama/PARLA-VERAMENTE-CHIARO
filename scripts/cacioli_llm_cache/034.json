@@ -1,0 +1,29 @@
+{
+  "filename": "034",
+  "neapolitan_text": "Ch'e rrose mmiez' 'a tavula?",
+  "domain": "Play",
+  "gt_variants": [
+    "Con le rose in mezzo alla tavola",
+    "Con le rose al centro della tavola",
+    "Con le rose in mezzo al tavolo."
+  ],
+  "inputs": [
+    "Con le rose in mezzo alla tavola",
+    "Con le rose al centro della tavola",
+    "Con le rose in mezzo al tavolo.",
+    "che il rosa è in mezzo alla tavola.",
+    "Che il rosa mi è già tavola.",
+    "che il rosa è in mezzo alla tavola."
+  ],
+  "responses": [
+    "Le rose sono simbolo di amore e bellezza nella tradizione occidentale. In questo contesto, potrebbe significare che la tavola è decorata con rose.",
+    "Le rose sono posizionate al centro della tavola, creando un bel paesaggio floreale.",
+    "Le rose sono posizionate al centro della tavola.",
+    "Il rosa è posizionato al centro della tavola.",
+    "La frase \"Che il rosa mi è già tavola\" sembra essere un'espressione dialettale o poetica, non ha un significato chiaro in italiano standard. Potrebbe riferirsi a qualcosa di confuso o incomprensibile, oppure potrebbe essere una metafora o un gioco di parole.",
+    "Il rosa è posizionato al centro della tavola."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.557375,
+  "wer_gt1": 0.714286
+}

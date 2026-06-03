@@ -1,0 +1,29 @@
+{
+  "filename": "137",
+  "neapolitan_text": "E va bbuono, mo basta!",
+  "domain": "Play",
+  "gt_variants": [
+    "E va bene, adesso basta!",
+    "E va bene, ora basta!",
+    "E va bene, finiamola qui!"
+  ],
+  "inputs": [
+    "E va bene, adesso basta!",
+    "E va bene, ora basta!",
+    "E va bene, finiamola qui!",
+    "E va buono, basta.",
+    "E va buono, basta.",
+    "E va buono, basta."
+  ],
+  "responses": [
+    "Sono pronto a terminare, come richiesto!",
+    "Complimentati, il tuo dialogo è corretto! \"E va bene, ora basta!\" significa \"Tutto bene, ora abbiamo finito\".",
+    "Sì, perfetto! Arrivederci per ora!",
+    "La risposta è positiva. L'individuo sembra soddisfatto.",
+    "La risposta è positiva. L'individuo sembra soddisfatto.",
+    "La risposta è positiva. L'individuo sembra soddisfatto."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.182,
+  "wer_gt1": 0.6
+}

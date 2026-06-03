@@ -1,0 +1,29 @@
+{
+  "filename": "075",
+  "neapolitan_text": "Vedive, a chioppa a chioppa, na paranza",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Vedevi, a gruppi a gruppi, una paranza",
+    "Vedevi, a schiere a schiere, una paranza",
+    "Vedevi, a gruppi compatti, una paranza"
+  ],
+  "inputs": [
+    "Vedevi, a gruppi a gruppi, una paranza",
+    "Vedevi, a schiere a schiere, una paranza",
+    "Vedevi, a gruppi compatti, una paranza",
+    "Vivere a chioppa a chioppa la balanza.",
+    "Vivere a chioppa chioppa la balanza.",
+    "Vivere a chioppa a chioppa la balanza."
+  ],
+  "responses": [
+    "Hai visto, gradualmente, un gruppo di persone insieme.",
+    "Hai visto molte imbarcazioni insieme.",
+    "Hai visto un gruppo di persone che si muovevano insieme, come una scuola di pesci.",
+    "La frase \"Vivere a chioppa a chioppa la balanza\" implica un modo di vivere in cui si cerca di mantenere una situazione equilibrata e bilanciata in ogni aspetto della vita.",
+    "Vivere con estrema cautela e prudenza, come se si camminasse sulla punta delle dita.",
+    "La frase \"Vivere a chioppa a chioppa la balanza\" implica un modo di vivere in cui si cerca di mantenere una situazione equilibrata e bilanciata in ogni aspetto della vita."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.372429,
+  "wer_gt1": 0.714286
+}

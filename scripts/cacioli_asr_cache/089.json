@@ -1,0 +1,55 @@
+{
+  "transcription": "a chi l'udì ebbe venato di bagna.",
+  "words": [
+    {
+      "word": "a",
+      "start": 0.806,
+      "end": 0.847,
+      "confidence": 0.516
+    },
+    {
+      "word": "chi",
+      "start": 0.907,
+      "end": 0.987,
+      "confidence": 0.745
+    },
+    {
+      "word": "l'udì",
+      "start": 1.007,
+      "end": 1.268,
+      "confidence": 0.684
+    },
+    {
+      "word": "ebbe",
+      "start": 1.288,
+      "end": 1.529,
+      "confidence": 0.572
+    },
+    {
+      "word": "venato",
+      "start": 1.549,
+      "end": 1.81,
+      "confidence": 0.567
+    },
+    {
+      "word": "di",
+      "start": 1.85,
+      "end": 1.91,
+      "confidence": 0.414
+    },
+    {
+      "word": "bagna.",
+      "start": 1.951,
+      "end": 2.292,
+      "confidence": 0.572
+    }
+  ],
+  "top3": [
+    "a chi l'udì ebbe venato di bagna.",
+    "A chi l'udì e beve un'aldivagna.",
+    "a chi lo dia e beve nell'aldivagna."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5814285714285715,
+  "u_asr": 0.4185714285714285
+}

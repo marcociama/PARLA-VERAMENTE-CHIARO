@@ -1,0 +1,37 @@
+{
+  "transcription": "Panzer, Lanzalong e Torracor.",
+  "words": [
+    {
+      "word": "Panzer,",
+      "start": 1.364,
+      "end": 1.866,
+      "confidence": 0.653
+    },
+    {
+      "word": "Lanzalong",
+      "start": 1.967,
+      "end": 2.791,
+      "confidence": 0.869
+    },
+    {
+      "word": "e",
+      "start": 2.811,
+      "end": 2.831,
+      "confidence": 0.72
+    },
+    {
+      "word": "Torracor.",
+      "start": 2.952,
+      "end": 3.596,
+      "confidence": 0.851
+    }
+  ],
+  "top3": [
+    "Panzer, Lanzalong e Torracor.",
+    "Panzer, Lanzalong e Torracor.",
+    "Panzer, Lanzalong e Torracor."
+  ],
+  "language": "it",
+  "mean_confidence": 0.77325,
+  "u_asr": 0.22675
+}

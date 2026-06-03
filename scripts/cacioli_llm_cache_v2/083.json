@@ -1,0 +1,29 @@
+{
+  "filename": "083",
+  "neapolitan_text": "era tenuto pe gallo de razza.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Era tenuto per gallo di razza",
+    "Era considerato un gallo di razza",
+    "Veniva stimato come un gallo di razza"
+  ],
+  "inputs": [
+    "Era tenuto per gallo di razza",
+    "Era considerato un gallo di razza",
+    "Veniva stimato come un gallo di razza",
+    "Era tenuto per galle razza.",
+    "Era tenuto per galle razza.",
+    "Era tenuto per galle razza."
+  ],
+  "responses": [
+    "L'animale era considerato un gallo di razza pura.",
+    "L'animale era appartenente a una determinata razza di galli.",
+    "L'affermazione indica che veniva considerato un gallo di una determinata razza.",
+    "L'affermazione indica che era considerato appartenente a una razza di cane nota come galgo.",
+    "L'affermazione indica che era considerato appartenente a una razza di cane nota come galgo.",
+    "L'affermazione indica che era considerato appartenente a una razza di cane nota come galgo."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.5604,
+  "wer_gt1": 0.5
+}

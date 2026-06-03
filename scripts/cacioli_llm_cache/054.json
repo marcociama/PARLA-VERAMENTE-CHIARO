@@ -1,0 +1,29 @@
+{
+  "filename": "054",
+  "neapolitan_text": "co balestre, spigarde, e co ttrabucche.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con balestre, spingarde e con trabucchi",
+    "Con balestre, spingarde e con catapulte",
+    "Con delle balestre, cannoni leggeri e con delle macchine d'assedio"
+  ],
+  "inputs": [
+    "Con balestre, spingarde e con trabucchi",
+    "Con balestre, spingarde e con catapulte",
+    "Con delle balestre, cannoni leggeri e con delle macchine d'assedio",
+    "con Balestre, Spiccarte e Cotrabuchè.",
+    "con balestre, spiccarte e cotrabbocche.",
+    "con Balestre, Spiccarte e Cotrabuché."
+  ],
+  "responses": [
+    "Armi da fuoco tradizionali come le balestre, le spingarde e i trabucchi.",
+    "Armi da fuoco antiche come le balestre, le spingarde e le catapulte erano utilizzate nella guerra e nella caccia durante il Medioevo.",
+    "Armi utilizzate per assediare una città o un castello, compresi archibugi, piccoli cannoni e macchine da guerra.",
+    "Queste sono armi medievali: la balestra è un'arma a torsione, la spiccara è una lancia e il cotrabuche è un tipo di armatura.",
+    "Queste sono armi medievali: balestra (arco a sfera), sparciaspade (spada lanciata) e cotrabbocca (lancia).",
+    "Queste parole sembrano riferirsi a armi medievali o antiche: balestra (arco lungo), spicciare (spada) e cotrabucco (balestra a mano)."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.2644,
+  "wer_gt1": 0.5
+}

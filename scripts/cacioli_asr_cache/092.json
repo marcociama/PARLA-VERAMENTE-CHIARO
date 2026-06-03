@@ -1,0 +1,61 @@
+{
+  "transcription": "e gli aveva abbracciato a otto e dieci.",
+  "words": [
+    {
+      "word": "e",
+      "start": 1.556,
+      "end": 1.576,
+      "confidence": 0.392
+    },
+    {
+      "word": "gli",
+      "start": 1.597,
+      "end": 1.677,
+      "confidence": 0.622
+    },
+    {
+      "word": "aveva",
+      "start": 1.697,
+      "end": 1.899,
+      "confidence": 0.54
+    },
+    {
+      "word": "abbracciato",
+      "start": 1.919,
+      "end": 2.525,
+      "confidence": 0.754
+    },
+    {
+      "word": "a",
+      "start": 2.545,
+      "end": 2.565,
+      "confidence": 0.038
+    },
+    {
+      "word": "otto",
+      "start": 2.646,
+      "end": 2.908,
+      "confidence": 0.802
+    },
+    {
+      "word": "e",
+      "start": 2.928,
+      "end": 2.948,
+      "confidence": 0.213
+    },
+    {
+      "word": "dieci.",
+      "start": 3.049,
+      "end": 3.412,
+      "confidence": 0.593
+    }
+  ],
+  "top3": [
+    "e gli aveva abbracciato a otto e dieci.",
+    "e gli aveva abbracciato a otto e dieci.",
+    "e gli avevano abbracciato a otto e dieci."
+  ],
+  "language": "it",
+  "mean_confidence": 0.49424999999999997,
+  "u_asr": 0.50575
+}

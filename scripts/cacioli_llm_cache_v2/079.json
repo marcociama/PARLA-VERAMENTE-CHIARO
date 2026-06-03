@@ -1,0 +1,29 @@
+{
+  "filename": "079",
+  "neapolitan_text": "Chillo non era tiempo ammagagnato!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quello non era tempo corrotto!",
+    "Quello non era un tempo malato",
+    "Quello non era un tempo pieno di magagne!"
+  ],
+  "inputs": [
+    "Quello non era tempo corrotto!",
+    "Quello non era un tempo malato",
+    "Quello non era un tempo pieno di magagne!",
+    "Chi non è la mia mamma ha cagnato.",
+    "Chi non è la mia mamma ha cagnato.",
+    "Chi non è la mia mamma ha cagnato."
+  ],
+  "responses": [
+    "Quello non era un momento corrotto! (Questo significa che non c'era corruzione in quel momento.)",
+    "Quella persona non era mai stata malata a quel tempo.",
+    "Quella era una epoca non caratterizzata dalla presenza di magagne!",
+    "Questo significa che chi non è mia madre, è stato ingannato o tradito.",
+    "Questo significa che chi non è mia madre, è stato ingannato o tradito.",
+    "Questo significa che chi non è mia madre, è stato ingannato o tradito."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.478625,
+  "wer_gt1": 1.4
+}

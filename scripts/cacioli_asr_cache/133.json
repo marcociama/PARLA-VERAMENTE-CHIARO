@@ -1,0 +1,55 @@
+{
+  "transcription": "Stato sito che ha mancato i capiti.",
+  "words": [
+    {
+      "word": "Stato",
+      "start": 0.668,
+      "end": 1.009,
+      "confidence": 0.643
+    },
+    {
+      "word": "sito",
+      "start": 1.11,
+      "end": 1.491,
+      "confidence": 0.712
+    },
+    {
+      "word": "che",
+      "start": 1.531,
+      "end": 1.611,
+      "confidence": 0.31
+    },
+    {
+      "word": "ha",
+      "start": 1.631,
+      "end": 1.671,
+      "confidence": 0.001
+    },
+    {
+      "word": "mancato",
+      "start": 1.691,
+      "end": 2.173,
+      "confidence": 0.846
+    },
+    {
+      "word": "i",
+      "start": 2.193,
+      "end": 2.233,
+      "confidence": 0.205
+    },
+    {
+      "word": "capiti.",
+      "start": 2.273,
+      "end": 2.675,
+      "confidence": 0.763
+    }
+  ],
+  "top3": [
+    "Stato sito che ha mancato i capiti.",
+    "Stato sito che ha mancato i capiti.",
+    "Stato sito che a manga tu hai capito."
+  ],
+  "language": "it",
+  "mean_confidence": 0.49714285714285716,
+  "u_asr": 0.5028571428571429
+}

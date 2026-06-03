@@ -1,0 +1,29 @@
+{
+  "filename": "069",
+  "neapolitan_text": "danzanno tutte ‘n chietta, (oh bona fede!)",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Danzano tutte in schietta, (oh buona fede!)",
+    "Ballano tutte in fila, (oh santa pazienza/buona fede!)",
+    "Danzano tutte insieme in gruppo, (oh buona fede!)"
+  ],
+  "inputs": [
+    "Danzano tutte in schietta, (oh buona fede!)",
+    "Ballano tutte in fila, (oh santa pazienza/buona fede!)",
+    "Danzano tutte insieme in gruppo, (oh buona fede!)",
+    "Danzano tutta anch'ieta. O buona fede.",
+    "Danzano tutta anch'ieta. O buona fede.",
+    "Danzano tutta anch'ieta. O buona fede."
+  ],
+  "responses": [
+    "Sono una macchina e non posso danzare, ma ti ringrazio per la gentilezza!",
+    "Tutti ballano in linea, (oh santa pazienza!).",
+    "Sì, si ballano insieme in un gruppo. Oh buona fede!",
+    "La danza è eseguita anche dalla tartaruga. In buona fede, si riferisce alla sua lenta e ritmata camminata.",
+    "La danza è eseguita anche dalla tartaruga. In buona fede, si riferisce alla sua lenta e ritmata camminata.",
+    "La danza è eseguita anche dalla tartaruga. In buona fede, si riferisce alla sua lenta e ritmata camminata."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.179,
+  "wer_gt1": 0.714286
+}

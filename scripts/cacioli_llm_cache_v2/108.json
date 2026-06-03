@@ -1,0 +1,29 @@
+{
+  "filename": "108",
+  "neapolitan_text": "Chi 'o pparla e addò?​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Chi lo parla e dove?",
+    "Chi è che lo parla e in quali luoghi?",
+    "Da chi viene parlato e dove?"
+  ],
+  "inputs": [
+    "Chi lo parla e dove?",
+    "Chi è che lo parla e in quali luoghi?",
+    "Da chi viene parlato e dove?",
+    "Io parlo e addo.",
+    "Chi lo parla è addome.",
+    "Chi lo parla è addome."
+  ],
+  "responses": [
+    "Chi lo parla indica chi è l'agente della frase, mentre dove non è specificato nella frase data.",
+    "Chi sta parlando e dove sta parlando? (Libera traduzione)",
+    "La frase indica chi è l'oggetto della conversazione e il luogo in cui avviene la conversazione.",
+    "La frase \"Io parlo e addo\" significa \"io parlo e sto bene\".",
+    "L'affermazione \"Chi lo parla è addome\" implica che chi parla ha un ventre o, in senso figurato, che la persona è nervosa o agitata.",
+    "L'affermazione \"Chi lo parla è addome\" implica che chi parla ha un ventre o, in senso figurato, che la persona è nervosa o agitata."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.90625,
+  "wer_gt1": 0.8
+}

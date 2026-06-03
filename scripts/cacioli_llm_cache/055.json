@@ -1,0 +1,29 @@
+{
+  "filename": "055",
+  "neapolitan_text": "Chillo fu tiempo che Berta filava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quello fu il tempo in cui Berta filava",
+    "Quello era il tempo che Berta filava",
+    "Fu quello il tempo in cui Berta filava"
+  ],
+  "inputs": [
+    "Quello fu il tempo in cui Berta filava",
+    "Quello era il tempo che Berta filava",
+    "Fu quello il tempo in cui Berta filava",
+    "Che il fu tempo che Bert fuiava.",
+    "che il fu tempo che Bert fuiava.",
+    "che il fu tempo che Bert fuiava."
+  ],
+  "responses": [
+    "Il testo parla del passato, precisamente di un'attività domestica della signora Berta, ovvero filare.",
+    "Quella era l'epoca in cui Berta faceva la filatura.",
+    "Quel tempo si riferisce probabilmente all'epoca in cui le donne lavoravano a casa, come Berta che filava.",
+    "Il tuo testo sembra essere una frase scritta in dialetto, probabilmente veneto o emiliano-romagnolo. \"Che il fu tempo che Bert fuiava\" potrebbe tradursi come \"Quando Bert era via\".",
+    "Il tuo testo sembra essere una frase irregolare, potrebbe essere \"che il tempo che Bert viaggiava\" o \"quando Bert viaggiava\". Entrambe le traduzioni sono corrette ma la seconda è più comune.",
+    "Il tuo testo sembra essere una frase irregolare, potrebbe essere \"che il tempo che Bert viaggiava\" o \"quando Bert viaggiava\". Entrambe le traduzioni sono corrette ma la seconda è più comune."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.251571,
+  "wer_gt1": 0.875
+}

@@ -1,0 +1,85 @@
+{
+  "transcription": "musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale.",
+  "words": [
+    {
+      "word": "musicista",
+      "start": 4.333,
+      "end": 5.097,
+      "confidence": 0.864
+    },
+    {
+      "word": "e",
+      "start": 5.278,
+      "end": 5.318,
+      "confidence": 0.374
+    },
+    {
+      "word": "giudice,",
+      "start": 5.459,
+      "end": 6.122,
+      "confidence": 0.899
+    },
+    {
+      "word": "cancere",
+      "start": 7.007,
+      "end": 7.569,
+      "confidence": 0.846
+    },
+    {
+      "word": "e",
+      "start": 7.59,
+      "end": 7.61,
+      "confidence": 0.488
+    },
+    {
+      "word": "barrista,",
+      "start": 7.73,
+      "end": 8.574,
+      "confidence": 0.927
+    },
+    {
+      "word": "scegliano",
+      "start": 9.037,
+      "end": 9.499,
+      "confidence": 0.754
+    },
+    {
+      "word": "assai",
+      "start": 9.519,
+      "end": 9.901,
+      "confidence": 0.772
+    },
+    {
+      "word": "spesso",
+      "start": 9.961,
+      "end": 10.665,
+      "confidence": 0.842
+    },
+    {
+      "word": "il",
+      "start": 10.685,
+      "end": 11.027,
+      "confidence": 0.695
+    },
+    {
+      "word": "dialetto",
+      "start": 11.067,
+      "end": 11.549,
+      "confidence": 0.82
+    },
+    {
+      "word": "locale.",
+      "start": 11.65,
+      "end": 12.112,
+      "confidence": 0.592
+    }
+  ],
+  "top3": [
+    "musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale.",
+    "Musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale.",
+    "musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7394166666666666,
+  "u_asr": 0.2605833333333334
+}

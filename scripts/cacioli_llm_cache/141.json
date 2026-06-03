@@ -1,0 +1,29 @@
+{
+  "filename": "141",
+  "neapolitan_text": "Me mettette appaura 'e t' 'o ddicere! Sulo per me, è vivo 'o figlio tuio!",
+  "domain": "Play",
+  "gt_variants": [
+    "Mi mise paura di dirtelo! Solo per me, è vivo il figlio tuo!",
+    "Ebbi paura di dirtelo! Soltanto per me, tuo figlio è vivo!",
+    "Ho avuto paura di dirtelo! Solo per me, tuo figlio è ancora vivo!"
+  ],
+  "inputs": [
+    "Mi mise paura di dirtelo! Solo per me, è vivo il figlio tuo!",
+    "Ebbi paura di dirtelo! Soltanto per me, tuo figlio è vivo!",
+    "Ho avuto paura di dirtelo! Solo per me, tuo figlio è ancora vivo!",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua.",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua.",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua."
+  ],
+  "responses": [
+    "Il testo sembra essere una frase di dialogo tra due persone, dove la prima persona ha paura di dire qualcosa e dichiara che per lei il figlio dell'altra persona è ancora vivo. Non ho informazioni aggiuntive su questo contesto, quindi non posso fornire una risposta più dettagliata.",
+    "Ho grande gioia per te! Il tuo figlio è davvero vivo.",
+    "Mi dispiace per il tuo dolore, ma la tua notizia mi ha commosso. Spero che possiamo essere insieme presto per condividere ulteriori informazioni sul tuo figlio.",
+    "La frase sembra essere una citazione dal dramma \"La tragedia di Romeo e Giulietta\" di William Shakespeare. In questa parte del testo, il personaggio di Friar Laurence dice a Giulietta che Romeo è ancora vivo, dopo aver bevuto un veleno per credere morto Giulietta.",
+    "La frase sembra essere una citazione dal dramma \"La tragedia di Romeo e Giulietta\" di William Shakespeare. In questa parte del testo, il personaggio di Friar Laurence dice a Giulietta che Romeo è ancora vivo, dopo aver bevuto un veleno per credere morto Giulietta.",
+    "La frase sembra essere una citazione dal dramma \"La tragedia di Romeo e Giulietta\" di William Shakespeare. In questa parte del testo, il personaggio di Friar Laurence dice a Giulietta che Romeo è ancora vivo, dopo aver bevuto un veleno per credere morto Giulietta."
+  ],
+  "wer": 0.923077,
+  "u_asr": 0.325538,
+  "wer_gt1": 0.923077
+}

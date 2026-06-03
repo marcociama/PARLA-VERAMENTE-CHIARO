@@ -1,0 +1,29 @@
+{
+  "filename": "027",
+  "neapolitan_text": "Cinquantaduie anne, e se permette 'e se mettere cu' na figliola 'e vintiduie!",
+  "domain": "Play",
+  "gt_variants": [
+    "Cinquantadue anni, e si permette di mettersi con una ragazza di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una giovane di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una fanciulla di ventidue."
+  ],
+  "inputs": [
+    "Cinquantadue anni, e si permette di mettersi con una ragazza di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una giovane di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una fanciulla di ventidue.",
+    "50 rio annas permette di smettere una figliola e 20 rio.",
+    "50 rio annas permette di smettere con una figliola i 20 rio.",
+    "50 rio annas permette di smettere una figliola e 20 rio."
+  ],
+  "responses": [
+    "L'età non deve essere un ostacolo per la felicità. Tuttavia, è importante considerare se entrambe sono d'accordo e maturi per una relazione seria.",
+    "L'età non deve essere un ostacolo per l'amore, ma è importante considerare la maturità emotiva e il consenso della persona più giovane.",
+    "L'età non deve essere un ostacolo per l'amore, ma è importante considerare la maturità emotiva e il consenso della persona coinvolta.",
+    "La frase sembra riferirsi a misure di lunghezza, ma non è chiaro il significato esatto. \"50 Rio Annas\" potrebbe essere un'unità di misura tradizionale italiana, ma non è comunemente usata per misurare la lunghezza di oggetti. \"Smettere una figliola e 20 rio\", invece, non ha senso nella misura della lunghezza. Potrebbe essere un'espressione colloquiale o un er",
+    "\"50 Rio Annas funziona come moneta virtuale, non ha effetto reale sulla vita reale. Non puoi utilizzarla per smettere di avere una figlia.\"",
+    "La frase sembra riferirsi a misure di lunghezza, ma non è chiaro il significato esatto. \"50 Rio Annas\" potrebbe essere un'unità di misura tradizionale italiana, ma non è comunemente usata per misurare la lunghezza di oggetti. \"Smettere una figliola e 20 rio\", invece, non ha senso nella misura della lunghezza. Potrebbe essere un'espressione colloquiale o un er"
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.423,
+  "wer_gt1": 0.833333
+}

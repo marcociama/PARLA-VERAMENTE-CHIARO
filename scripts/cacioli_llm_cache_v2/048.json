@@ -1,0 +1,29 @@
+{
+  "filename": "048",
+  "neapolitan_text": "nnante che ffosse Vartommeo Coglione,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Tanto che fosse Bartolomeo Coglione",
+    "Tanto che era Bartolomeo Coglione",
+    "Tanto che sembrava Bartolomeo Coglione."
+  ],
+  "inputs": [
+    "Tanto che fosse Bartolomeo Coglione",
+    "Tanto che era Bartolomeo Coglione",
+    "Tanto che sembrava Bartolomeo Coglione.",
+    "Tanto che fosse un altomeno coglione.",
+    "Tanto che fosse un altomeno coglione.",
+    "Tanto che fosse un altomeno coglione."
+  ],
+  "responses": [
+    "\"Regardless of who Bartolomeo Coglione is\" (implicando che la cosa discusso non dipende da chi sia Bartolomeo Coglione)",
+    "L'affermazione \"Tanto che era Bartolomeo Coglione\" implica che qualcosa o qualcuno è così simile a Bartolomeo Coglione, un personaggio storico noto per essere particolarmente stupido.",
+    "L'affermazione \"Tanto che sembrava Bartolomeo Coglione\" implica che qualcosa o qualcuno ha assunto le caratteristiche di Bartolomeo Coglione, una figura storica nota per essere un impostore.",
+    "L'affermazione implica che qualcuno è un uomo senza scrupoli o un individuo spregiudicato.",
+    "L'affermazione implica che qualcuno è un uomo senza scrupoli o un individuo spregiudicato.",
+    "L'affermazione implica che qualcuno è un uomo senza scrupoli o un individuo spregiudicato."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.342667,
+  "wer_gt1": 0.6
+}

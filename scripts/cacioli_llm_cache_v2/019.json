@@ -1,0 +1,29 @@
+{
+  "filename": "019",
+  "neapolitan_text": "Ma Filumena Marturano bene nun ne cunosce... e quanno se cunosce sulo 'o mmale nun se chiagne.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si piange",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si versa una lacrima",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non ci si mette a piangere."
+  ],
+  "inputs": [
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si piange",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si versa una lacrima",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non ci si mette a piangere.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga."
+  ],
+  "responses": [
+    "Questa affermazione implica che Filumena Marturano non conosce bene la persona di cui si parla, e che solo se una persona sa solo del male di qualcuno, non può piangere per essa.",
+    "Questa affermazione implica che Filumena Marturano non conosce bene la persona di cui si parla, e che solo quando si conosce soltanto il male di qualcuno, non si provoca un senso di compassione o lacrime.",
+    "Questa affermazione implica che Filumena Marturano non conosce bene qualcosa, e che quando una persona solo conosce il male di qualcuno o di una situazione, non dovrebbe piangere.",
+    "La frase implica che Filumena Madurana non ha una buona conoscenza, e quando acquisisce conoscenza, non cambia o migliora la sua natura.",
+    "La frase implica che Filumena Madurana non ha una buona conoscenza, e quando acquisisce conoscenza, non cambia o migliora la sua natura.",
+    "La frase implica che Filumena Madurana non ha una buona conoscenza, e quando acquisisce conoscenza, non cambia o migliora la sua natura."
+  ],
+  "wer": 0.352941,
+  "u_asr": 0.2338,
+  "wer_gt1": 0.352941
+}

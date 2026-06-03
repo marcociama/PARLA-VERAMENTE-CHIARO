@@ -1,0 +1,103 @@
+{
+  "transcription": "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.214,
+      "end": 1.314,
+      "confidence": 0.686
+    },
+    {
+      "word": "Filumena",
+      "start": 1.355,
+      "end": 1.795,
+      "confidence": 0.846
+    },
+    {
+      "word": "Madurana",
+      "start": 1.876,
+      "end": 2.457,
+      "confidence": 0.811
+    },
+    {
+      "word": "bene",
+      "start": 2.818,
+      "end": 3.078,
+      "confidence": 0.709
+    },
+    {
+      "word": "non",
+      "start": 3.158,
+      "end": 3.419,
+      "confidence": 0.919
+    },
+    {
+      "word": "conosce",
+      "start": 3.459,
+      "end": 4.04,
+      "confidence": 0.874
+    },
+    {
+      "word": "e",
+      "start": 4.22,
+      "end": 4.26,
+      "confidence": 0.592
+    },
+    {
+      "word": "quando",
+      "start": 4.421,
+      "end": 4.741,
+      "confidence": 0.771
+    },
+    {
+      "word": "si",
+      "start": 4.802,
+      "end": 4.862,
+      "confidence": 0.592
+    },
+    {
+      "word": "conosce",
+      "start": 4.922,
+      "end": 5.423,
+      "confidence": 0.887
+    },
+    {
+      "word": "solo",
+      "start": 5.503,
+      "end": 5.744,
+      "confidence": 0.782
+    },
+    {
+      "word": "mare",
+      "start": 5.824,
+      "end": 6.345,
+      "confidence": 0.838
+    },
+    {
+      "word": "non",
+      "start": 6.926,
+      "end": 7.086,
+      "confidence": 0.633
+    },
+    {
+      "word": "si",
+      "start": 7.146,
+      "end": 7.227,
+      "confidence": 0.742
+    },
+    {
+      "word": "chiaga.",
+      "start": 7.267,
+      "end": 7.748,
+      "confidence": 0.811
+    }
+  ],
+  "top3": [
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7661999999999999,
+  "u_asr": 0.23380000000000012
+}

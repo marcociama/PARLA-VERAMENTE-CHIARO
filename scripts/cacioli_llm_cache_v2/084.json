@@ -1,0 +1,29 @@
+{
+  "filename": "084",
+  "neapolitan_text": "Ll’uno co ll’autro lo mostrav’a dito:",
+  "domain": "Poetry",
+  "gt_variants": [
+    "L'uno con l'altro lo mostravano a dito:",
+    "L'un con l'altro se lo indicavano a dito:",
+    "Tra loro lo additavano l'un l'altro:"
+  ],
+  "inputs": [
+    "L'uno con l'altro lo mostravano a dito:",
+    "L'un con l'altro se lo indicavano a dito:",
+    "Tra loro lo additavano l'un l'altro:",
+    "l'una con l'altra la mostrava detta.",
+    "l'una con l'altra la mostrava detta.",
+    "l'una con l'altra la mostrava detta."
+  ],
+  "responses": [
+    "Essa indica che gli individui mostravano qualcosa reciprocamente utilizzando le mani, ovvero il gesto del dito.",
+    "Questa affermazione indica che gli individui si riferivano a cosa o a qualcuno utilizzando il linguaggio non verbale, come ad esempio il gesto del dito.",
+    "Essi si indicavano a vicenda reciprocamente.",
+    "L'affermazione mostra che l'una le stava dicendo qualcosa all'altra.",
+    "L'affermazione mostra che l'una le stava dicendo qualcosa all'altra.",
+    "L'affermazione mostra che l'una le stava dicendo qualcosa all'altra."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.231333,
+  "wer_gt1": 0.857143
+}

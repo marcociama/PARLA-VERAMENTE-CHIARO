@@ -1,0 +1,29 @@
+{
+  "filename": "051",
+  "neapolitan_text": "Nc’era lo Rre Marruocco che s’armava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "C’era il Re Marruocco che si armava",
+    "Ci stava il Re Marruocco che si stava armando",
+    "Vi era il Re Marruocco che si preparava in armi"
+  ],
+  "inputs": [
+    "C’era il Re Marruocco che si armava",
+    "Ci stava il Re Marruocco che si stava armando",
+    "Vi era il Re Marruocco che si preparava in armi",
+    "Cerrore Marocca e Sarmava.",
+    "Cerrore Marocca e Sarmava.",
+    "Cerrore, Marocca e Sarmava."
+  ],
+  "responses": [
+    "Il re del Marocco stava arruolando le sue forze militari o si preparava per un conflitto.",
+    "Il re del Marocco stava preparandosi per andare in guerra o per difendersi da un attacco.",
+    "Il re del Marocco stava preparandosi per andare in guerra.",
+    "La collina Marocca e la collina Sarmava sono entrambe localizzazioni geografiche.",
+    "La collina Marocca e la collina Sarmava sono entrambe localizzazioni geografiche.",
+    "Cerrore, Marocco e Sarmava sono tre nomi geografici."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.27875,
+  "wer_gt1": 1.0
+}

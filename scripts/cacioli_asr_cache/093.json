@@ -1,0 +1,49 @@
+{
+  "transcription": "Che le ghiance rose che maledice.",
+  "words": [
+    {
+      "word": "Che",
+      "start": 3.01,
+      "end": 3.15,
+      "confidence": 0.401
+    },
+    {
+      "word": "le",
+      "start": 3.171,
+      "end": 3.231,
+      "confidence": 0.442
+    },
+    {
+      "word": "ghiance",
+      "start": 3.311,
+      "end": 3.612,
+      "confidence": 0.69
+    },
+    {
+      "word": "rose",
+      "start": 3.712,
+      "end": 4.033,
+      "confidence": 0.878
+    },
+    {
+      "word": "che",
+      "start": 4.073,
+      "end": 4.173,
+      "confidence": 0.555
+    },
+    {
+      "word": "maledice.",
+      "start": 4.233,
+      "end": 4.795,
+      "confidence": 0.8
+    }
+  ],
+  "top3": [
+    "Che le ghiance rose che maledice.",
+    "Che le ghiance rose che maledice.",
+    "Che le ghiance rose che maledice."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6276666666666667,
+  "u_asr": 0.3723333333333333
+}

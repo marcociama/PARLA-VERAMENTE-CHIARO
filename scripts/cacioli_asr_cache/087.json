@@ -1,0 +1,43 @@
+{
+  "transcription": "Le rose ora diventano papagna.",
+  "words": [
+    {
+      "word": "Le",
+      "start": 0.483,
+      "end": 0.544,
+      "confidence": 0.742
+    },
+    {
+      "word": "rose",
+      "start": 0.584,
+      "end": 0.827,
+      "confidence": 0.765
+    },
+    {
+      "word": "ora",
+      "start": 0.847,
+      "end": 0.948,
+      "confidence": 0.313
+    },
+    {
+      "word": "diventano",
+      "start": 0.988,
+      "end": 1.474,
+      "confidence": 0.864
+    },
+    {
+      "word": "papagna.",
+      "start": 1.534,
+      "end": 1.979,
+      "confidence": 0.742
+    }
+  ],
+  "top3": [
+    "Le rose ora diventano papagna.",
+    "Le rose ora diventano papagna.",
+    "Le rose ora diventano papagna."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6852,
+  "u_asr": 0.31479999999999997
+}

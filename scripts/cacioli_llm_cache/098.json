@@ -1,0 +1,29 @@
+{
+  "filename": "098",
+  "neapolitan_text": "Melito 'e Napule (ditto Mêlito d''a ggente) è nu comune 'e 38.062 crestiane d''a pruvincia 'e Napule.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Melito di Napoli (detto Mêlito dalla gente) è un comune di 38.062 abitanti della provincia di Napoli.",
+    "Melito di Napoli (chiamato Mêlito dalla gente) rappresenta un comune di 38.062 persone della provincia di Napoli.",
+    "Melito di Napoli (noto come Mêlito tra la gente) è un comune di 38.062 anime della provincia di Napoli."
+  ],
+  "inputs": [
+    "Melito di Napoli (detto Mêlito dalla gente) è un comune di 38.062 abitanti della provincia di Napoli.",
+    "Melito di Napoli (chiamato Mêlito dalla gente) rappresenta un comune di 38.062 persone della provincia di Napoli.",
+    "Melito di Napoli (noto come Mêlito tra la gente) è un comune di 38.062 anime della provincia di Napoli.",
+    "Merite Napola, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli.",
+    "Merite Napoli, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli.",
+    "Merite Napola, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli."
+  ],
+  "responses": [
+    "Melito di Napoli, comunemente conosciuto come Mêlito, è una città della provincia di Napoli con una popolazione di circa 38.062 abitanti.",
+    "Melito di Napoli, noto anche come Mêlito dai suoi abitanti, è un comune della provincia di Napoli con una popolazione di circa 38.062 persone.",
+    "Melito di Napoli, noto anche come Mêlito, è una città della provincia di Napoli con una popolazione di circa 38.062 abitanti.",
+    "La comunità di Meride, situata nella provincia di Napoli, conta circa 3.860 abitanti e fa parte delle comuni cristiani della regione.",
+    "Napoli è una città meritevole per il suo patrimonio culturale ricco e vario, caratterizzato da monumenti, musei e tradizioni uniche. La sua popolazione è composta da circa 3.860 residenti cristiani, facendo parte della provincia di Napoli.",
+    "La comunità di Meride, situata nella provincia di Napoli, conta circa 3.860 abitanti e fa parte delle comuni cristiani della regione."
+  ],
+  "wer": 0.631579,
+  "u_asr": 0.303118,
+  "wer_gt1": 0.647059
+}

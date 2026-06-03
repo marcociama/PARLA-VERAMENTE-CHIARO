@@ -1,0 +1,29 @@
+{
+  "filename": "077",
+  "neapolitan_text": "Lo viecchio a chillo tiempo era zitiello,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Il vecchio a quel tempo era un giovanotto",
+    "Il vecchio a quei tempi era un giovinetto",
+    "Il vecchio in quel tempo era ancora giovane"
+  ],
+  "inputs": [
+    "Il vecchio a quel tempo era un giovanotto",
+    "Il vecchio a quei tempi era un giovinetto",
+    "Il vecchio in quel tempo era ancora giovane",
+    "O vieti a chi lo tiene per zetella.",
+    "ovecchi a chi lo tiene per zetella.",
+    "ovecchi a chi lo tiene per zetella."
+  ],
+  "responses": [
+    "All'epoca, l'uomo era molto più giovane di quanto non lo sia oggi.",
+    "Nella frase, \"Il vecchio a quei tempi era un giovinetto\", si descrive una situazione in cui la persona era considerata anziana in un determinato momento, ma in un altro tempo era ancora giovane.",
+    "Nella frase, si descrive un uomo anziano che era ancora considerato giovane durante quell'epoca.",
+    "Proibisce di trattare qualcuno come un oggetto o un animale da trainare.",
+    "La frase \"ovecchi a chi lo tiene per zetella\" significa \"gatti tenuti con la coda\".",
+    "La frase \"ovecchi a chi lo tiene per zetella\" significa \"gatti tenuti con la coda\"."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.362375,
+  "wer_gt1": 0.875
+}

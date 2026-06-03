@@ -1,0 +1,29 @@
+{
+  "filename": "123",
+  "neapolitan_text": "Vulesse, potesse e facesse, ereno tre fesse.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Vorrei, potessi e facessi, erano tre fessi.",
+    "Vorrei, potessi e facessi, erano tre sciocchi.",
+    "Vorrei, potessi e facessi, erano tre ingenui."
+  ],
+  "inputs": [
+    "Vorrei, potessi e facessi, erano tre fessi.",
+    "Vorrei, potessi e facessi, erano tre sciocchi.",
+    "Vorrei, potessi e facessi, erano tre ingenui.",
+    "Voleisse, potesse, facesse. Erre tre fesse.",
+    "volesse, potesse, facesse, era trefessa.",
+    "Voleisse, potesse, facesse. Erre tre fesse."
+  ],
+  "responses": [
+    "La frase \"Vorrei, potessi e facessi, erano tre fessi\" è una metafora che significa \"Il desiderio, la possibilità e l'azione sono necessarie per ottenere qualcosa, ma spesso ci sono ostacoli che ne impediscono il raggiungimento\".",
+    "La frase \"Vorrei, potessi e facessi, erano tre sciocchi\" è un'espressione popolare che significa \"Desiderare, essere in grado e fare qualcosa, non basta per farlo effettivamente\". In altre parole, chi desidera qualcosa ma non ha le capacità o le opportunità per realizzarlo può essere considerato sciocco.",
+    "La frase \"Vorrei, potessi e facessi, erano tre ingenui\" è un'espressione latina che significa \"Desiderare, essere in grado e agire, sono le caratteristiche di tre innocenti\".",
+    "La frase \"Voleisse, potesse, facesse. Erre tre fesse\" è una forma di gioco linguistico in cui si utilizza l'allitterazione (ripetizione della stessa lettera all'inizio delle parole) per creare un effetto umoristico. In questo caso, le prime lettere di \"Voleisse\", \"potesse\" e \"facesse\" sono tutte V, mentre \"Erre tre fesse\" è una frase che non ha nessun legame con il contesto preced",
+    "La frase \"volesse, potesse, facesse, era trefessa\" è una forma di espressione poetica che significa \"se desiderasse, se avesse poteri, farebbe qualcosa di malvagio\".",
+    "La frase \"Voleisse, potesse, facesse. Erre tre fesse\" è una forma di gioco linguistico in cui si utilizza l'allitterazione (ripetizione della stessa lettera all'inizio delle parole) per creare un effetto umoristico. In questo caso, le prime lettere di \"Voleisse\", \"potesse\" e \"facesse\" sono tutte V, mentre \"Erre tre fesse\" è una frase che non ha nessun legame con il contesto preced"
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.237833,
+  "wer_gt1": 0.857143
+}

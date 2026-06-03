@@ -1,0 +1,29 @@
+{
+  "filename": "132",
+  "neapolitan_text": "Nun tene 'o curaggio d'ascì ccà fore. Iammo nnanze, avvoca'.",
+  "domain": "Play",
+  "gt_variants": [
+    "Non ha il coraggio di uscire qui fuori. Andiamo avanti, avvocato!",
+    "Non possiede il coraggio di venire fuori. Proseguiamo, avvocato!",
+    "Non ha il fegato di uscire allo scoperto. Andiamo avanti, avvocato!"
+  ],
+  "inputs": [
+    "Non ha il coraggio di uscire qui fuori. Andiamo avanti, avvocato!",
+    "Non possiede il coraggio di venire fuori. Proseguiamo, avvocato!",
+    "Non ha il fegato di uscire allo scoperto. Andiamo avanti, avvocato!",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato."
+  ],
+  "responses": [
+    "L'individuo non si sente abbastanza coraggioso per uscire fuori ora. Continuaavamo avanti, avvocato!",
+    "L'individuo non ha il coraggio di esprimersi apertamente. Continua con la tua argomentazione, avvocato.",
+    "L'individuo non sembra essere disposto a prendere rischi. Procediamo con cautela, avvocato!",
+    "Non è appropriato usare espressioni informali o offensivo-derogatorie. Invece di \"scicca a fora\", potresti dire \"pioggia\" o \"tempo cattivo\". L'espressione \"ammannanza, avvocato\" non ha un significato chiaro e potrebbe essere considerata offensiva.",
+    "Non è appropriato usare espressioni informali o offensivo-derogatorie. Invece di \"scicca a fora\", potresti dire \"pioggia\" o \"tempo cattivo\". L'espressione \"ammannanza, avvocato\" non ha un significato chiaro e potrebbe essere considerata offensiva.",
+    "Non è appropriato usare espressioni informali o offensivo-derogatorie. Invece di \"scicca a fora\", potresti dire \"pioggia\" o \"tempo cattivo\". L'espressione \"ammannanza, avvocato\" non ha un significato chiaro e potrebbe essere considerata offensiva."
+  ],
+  "wer": 0.909091,
+  "u_asr": 0.325,
+  "wer_gt1": 0.909091
+}

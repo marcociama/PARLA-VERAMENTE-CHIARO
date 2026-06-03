@@ -1,0 +1,29 @@
+{
+  "filename": "087",
+  "neapolitan_text": "Le rose mo deventano papagne!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Le rose ora diventano papaveri!",
+    "Quelle che erano rose, ora sono diventate papaveri!",
+    "Le rose adesso son diventate papaveri!"
+  ],
+  "inputs": [
+    "Le rose ora diventano papaveri!",
+    "Quelle che erano rose, ora sono diventate papaveri!",
+    "Le rose adesso son diventate papaveri!",
+    "Le rose ora diventano papagna.",
+    "Le rose ora diventano papagna.",
+    "Le rose ora diventano papagna."
+  ],
+  "responses": [
+    "La metafora suggerisce una trasformazione improvvisa e drastica, come se le rose mutassero completamente nella forma di papaveri. Tuttavia, in natura non si verifica che le rose diventino papaveri.",
+    "Le rose si sono trasformate in papaveri! Questo significa un cambiamento drammatico nella loro identità.",
+    "La metafora suggerisce una trasformazione improvvisa e drastica, come se le rose, simbolo di bellezza e amore, si siano trasformate in papaveri, simbolo di addormentamento o morte. Potrebbe essere un esempio di linguaggio poetico o figurato.",
+    "La parola \"papagna\" non è comunemente usata per descrivere le rose. In Italia, le rose sono spesso chiamate \"rosa\". Se si vuole dire che le rose hanno un colore particolare, potresti dire \"Le rose ora hanno un colore rosso scuro\", ad esempio.",
+    "La parola \"papagna\" non è comunemente usata per descrivere le rose. In Italia, le rose sono spesso chiamate \"rosa\". Se si vuole dire che le rose hanno un colore particolare, potresti dire \"Le rose ora hanno un colore rosso scuro\", ad esempio.",
+    "La parola \"papagna\" non è comunemente usata per descrivere le rose. In Italia, le rose sono spesso chiamate \"rosa\". Se si vuole dire che le rose hanno un colore particolare, potresti dire \"Le rose ora hanno un colore rosso scuro\", ad esempio."
+  ],
+  "wer": 0.2,
+  "u_asr": 0.3148,
+  "wer_gt1": 0.2
+}

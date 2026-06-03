@@ -1,0 +1,29 @@
+{
+  "filename": "135",
+  "neapolitan_text": "Allora io aggio spiso na vita pè furmà na famiglia, e 'a legge nun m' 'o permette?",
+  "domain": "Play",
+  "gt_variants": [
+    "Allora io ho speso una vita per formare una famiglia, e la legge non me lo permette?",
+    "Quindi io ho dedicato una vita a costruire una famiglia, e la legge non me lo consente?",
+    "Dunque io ho speso una vita intera per creare una famiglia, e la legge me lo impedisce?"
+  ],
+  "inputs": [
+    "Allora io ho speso una vita per formare una famiglia, e la legge non me lo permette?",
+    "Quindi io ho dedicato una vita a costruire una famiglia, e la legge non me lo consente?",
+    "Dunque io ho speso una vita intera per creare una famiglia, e la legge me lo impedisce?",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette.",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette.",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette."
+  ],
+  "responses": [
+    "La frase implica un sentimento di disillusione o incomprensione verso le regole della legge che ostacolano l'abilità di qualcuno a formare una famiglia dopo aver dedicato la propria vita a questo scopo.",
+    "La dichiarazione implica che l'individuo ha trascorso tutta la sua vita a costruire una famiglia, ma si sente limitato dalla legge.",
+    "La frase implica che l'individuo ha dedicato tutta la sua vita a costruire una famiglia, ma ora si sente ostacolato dalla legge.",
+    "La legge impedisce che io abbia trascorso la mia vita a costruire una famiglia.",
+    "La legge impedisce che io abbia trascorso la mia vita a costruire una famiglia.",
+    "La legge impedisce che io abbia trascorso la mia vita a costruire una famiglia."
+  ],
+  "wer": 0.352941,
+  "u_asr": 0.3986,
+  "wer_gt1": 0.352941
+}

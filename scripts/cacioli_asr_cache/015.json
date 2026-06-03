@@ -1,0 +1,61 @@
+{
+  "transcription": "La strada era a gas, lì è scordato.",
+  "words": [
+    {
+      "word": "La",
+      "start": 2.13,
+      "end": 2.211,
+      "confidence": 0.48
+    },
+    {
+      "word": "strada",
+      "start": 2.272,
+      "end": 2.594,
+      "confidence": 0.845
+    },
+    {
+      "word": "era",
+      "start": 2.615,
+      "end": 2.756,
+      "confidence": 0.812
+    },
+    {
+      "word": "a",
+      "start": 2.776,
+      "end": 2.796,
+      "confidence": 0.001
+    },
+    {
+      "word": "gas,",
+      "start": 2.816,
+      "end": 3.179,
+      "confidence": 0.803
+    },
+    {
+      "word": "lì",
+      "start": 3.2,
+      "end": 3.24,
+      "confidence": 0.004
+    },
+    {
+      "word": "è",
+      "start": 3.26,
+      "end": 3.28,
+      "confidence": 0.398
+    },
+    {
+      "word": "scordato.",
+      "start": 3.321,
+      "end": 3.906,
+      "confidence": 0.742
+    }
+  ],
+  "top3": [
+    "La strada era a gas, lì è scordato.",
+    "La strada era a gas, lì è scordato.",
+    "A strada ragazzi, vi scordate?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.510625,
+  "u_asr": 0.489375
+}

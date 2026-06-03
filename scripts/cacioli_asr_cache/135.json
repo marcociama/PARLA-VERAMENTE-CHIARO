@@ -1,0 +1,103 @@
+{
+  "transcription": "Allora ho speso la vita per formare una famiglia e la legge non mi permette.",
+  "words": [
+    {
+      "word": "Allora",
+      "start": 1.444,
+      "end": 1.745,
+      "confidence": 0.85
+    },
+    {
+      "word": "ho",
+      "start": 1.785,
+      "end": 2.045,
+      "confidence": 0.38
+    },
+    {
+      "word": "speso",
+      "start": 2.105,
+      "end": 2.466,
+      "confidence": 0.683
+    },
+    {
+      "word": "la",
+      "start": 2.546,
+      "end": 2.646,
+      "confidence": 0.53
+    },
+    {
+      "word": "vita",
+      "start": 2.686,
+      "end": 2.947,
+      "confidence": 0.761
+    },
+    {
+      "word": "per",
+      "start": 2.987,
+      "end": 3.127,
+      "confidence": 0.833
+    },
+    {
+      "word": "formare",
+      "start": 3.207,
+      "end": 3.588,
+      "confidence": 0.868
+    },
+    {
+      "word": "una",
+      "start": 3.608,
+      "end": 3.688,
+      "confidence": 0.181
+    },
+    {
+      "word": "famiglia",
+      "start": 3.728,
+      "end": 4.169,
+      "confidence": 0.807
+    },
+    {
+      "word": "e",
+      "start": 4.189,
+      "end": 4.209,
+      "confidence": 0.234
+    },
+    {
+      "word": "la",
+      "start": 4.229,
+      "end": 4.269,
+      "confidence": 0.002
+    },
+    {
+      "word": "legge",
+      "start": 4.39,
+      "end": 4.65,
+      "confidence": 0.803
+    },
+    {
+      "word": "non",
+      "start": 4.71,
+      "end": 4.85,
+      "confidence": 0.748
+    },
+    {
+      "word": "mi",
+      "start": 4.87,
+      "end": 4.991,
+      "confidence": 0.588
+    },
+    {
+      "word": "permette.",
+      "start": 5.071,
+      "end": 5.612,
+      "confidence": 0.753
+    }
+  ],
+  "top3": [
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette.",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette.",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6014,
+  "u_asr": 0.39859999999999995
+}

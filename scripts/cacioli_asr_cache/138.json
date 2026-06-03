@@ -1,0 +1,55 @@
+{
+  "transcription": "Dammi una mano a prendere roba mia.",
+  "words": [
+    {
+      "word": "Dammi",
+      "start": 0.652,
+      "end": 0.873,
+      "confidence": 0.598
+    },
+    {
+      "word": "una",
+      "start": 0.893,
+      "end": 0.994,
+      "confidence": 0.446
+    },
+    {
+      "word": "mano",
+      "start": 1.034,
+      "end": 1.256,
+      "confidence": 0.512
+    },
+    {
+      "word": "a",
+      "start": 1.276,
+      "end": 1.296,
+      "confidence": 0.625
+    },
+    {
+      "word": "prendere",
+      "start": 1.377,
+      "end": 1.699,
+      "confidence": 0.293
+    },
+    {
+      "word": "roba",
+      "start": 1.759,
+      "end": 2.062,
+      "confidence": 0.855
+    },
+    {
+      "word": "mia.",
+      "start": 2.122,
+      "end": 2.404,
+      "confidence": 0.618
+    }
+  ],
+  "top3": [
+    "Dammi una mano a prendere roba mia.",
+    "Dammi una mano a prendere roba mia.",
+    "Dammi una mano a prendere roba mia."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5638571428571428,
+  "u_asr": 0.43614285714285717
+}

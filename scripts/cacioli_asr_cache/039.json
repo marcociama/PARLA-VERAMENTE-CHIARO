@@ -1,0 +1,73 @@
+{
+  "transcription": "Ma io non ti curo, non ti ho mai curato.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 0.534,
+      "end": 0.654,
+      "confidence": 0.704
+    },
+    {
+      "word": "io",
+      "start": 0.715,
+      "end": 0.816,
+      "confidence": 0.384
+    },
+    {
+      "word": "non",
+      "start": 0.856,
+      "end": 1.017,
+      "confidence": 0.499
+    },
+    {
+      "word": "ti",
+      "start": 1.057,
+      "end": 1.138,
+      "confidence": 0.686
+    },
+    {
+      "word": "curo,",
+      "start": 1.198,
+      "end": 1.561,
+      "confidence": 0.799
+    },
+    {
+      "word": "non",
+      "start": 1.581,
+      "end": 1.783,
+      "confidence": 0.65
+    },
+    {
+      "word": "ti",
+      "start": 1.843,
+      "end": 2.004,
+      "confidence": 0.838
+    },
+    {
+      "word": "ho",
+      "start": 2.105,
+      "end": 2.206,
+      "confidence": 0.548
+    },
+    {
+      "word": "mai",
+      "start": 2.266,
+      "end": 2.407,
+      "confidence": 0.879
+    },
+    {
+      "word": "curato.",
+      "start": 2.468,
+      "end": 2.931,
+      "confidence": 0.768
+    }
+  ],
+  "top3": [
+    "Ma io non ti curo, non ti ho mai curato.",
+    "Ma io non ti curo, non ti ho mai curato.",
+    "Ma io non ti curo, non ti ho mai curato."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6755,
+  "u_asr": 0.3245
+}

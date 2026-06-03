@@ -1,0 +1,29 @@
+{
+  "filename": "037",
+  "neapolitan_text": "Ma che me ne mporta 'e te, d' 'a figliola che t'ha fatto perdere 'a capa, 'e tutto chello ca me dice?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la testa, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la ragione, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere il senno, di tutto quello che mi dici?"
+  ],
+  "inputs": [
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la testa, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la ragione, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere il senno, di tutto quello che mi dici?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?"
+  ],
+  "responses": [
+    "Non ho bisogno di preoccuparmi di te o della tua vita privata. Il mio scopo è fornire informazioni culturali e non discutere su argomenti personali.",
+    "Non ho bisogno di preoccuparmi di te o della tua storia personale. Il mio scopo è aiutarti a risolvere i tuoi problemi.",
+    "Non ho bisogno di preoccuparmi di te o della tua vita privata. Il mio scopo è aiutarti a risolvere le tue domande riguardanti la cultura.",
+    "Non ho sensazioni o emozioni personali, ma sembra che tu sia arrabbiato con qualcuno per aver perso una cosa importante e non ti fidate di ciò che gli stai dicendo.",
+    "Non ho sensazioni o emozioni personali, ma sembra che tu sia arrabbiato con qualcuno per aver perso una cosa importante e non ti fidate di ciò che gli stai dicendo.",
+    "Non ho sensazioni o emozioni personali, ma sembra che tu sia arrabbiato con qualcuno per aver perso una cosa importante e non ti fidate di ciò che gli stai dicendo."
+  ],
+  "wer": 0.272727,
+  "u_asr": 0.433476,
+  "wer_gt1": 0.272727
+}

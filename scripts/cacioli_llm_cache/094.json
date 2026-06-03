@@ -1,0 +1,29 @@
+{
+  "filename": "094",
+  "neapolitan_text": "Chella co la gonnella de scarlata",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quella con la gonnella di scarlatto",
+    "Quella con la gonna color scarlatto",
+    "Quella vestita con la gonnella di scarlatto"
+  ],
+  "inputs": [
+    "Quella con la gonnella di scarlatto",
+    "Quella con la gonna color scarlatto",
+    "Quella vestita con la gonnella di scarlatto",
+    "Chi è il collega Nedle di Scarletta?",
+    "che le collago nel letto di scarletta.",
+    "Chi è il collega Nedle di Scarletta?"
+  ],
+  "responses": [
+    "La figura che indossa una gonnella di scarlatto potrebbe essere una donna o un personaggio femminile, ad esempio una ballerina o una regina.",
+    "Il vestito rosso è quello con la gonna di colore scarlatto.",
+    "La persona indossa una gonnella rossa scarlatto.",
+    "Nedle di Scarletta è un personaggio immaginario creato dall'autrice J.K. Rowling, non compare nel mondo fantastico di Harry Potter ma appartiene alla serie Cormoran Strike.",
+    "Le collago nel letto, ma non è la camera da letto di Scarlett O'Hara, personaggio della \"Storia dei tenenbaum\" di F. Scott Fitzgerald. Invece, si tratta del letto rosso di Scarlett O'Hara, protagonista de \"La terra del mito\", romanzo di Margaret Mitchell.",
+    "Nedle di Scarletta è un personaggio immaginario creato dall'autrice J.K. Rowling, non compare nel mondo fantastico di Harry Potter ma appartiene alla serie Cormoran Strike."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.412857,
+  "wer_gt1": 1.0
+}

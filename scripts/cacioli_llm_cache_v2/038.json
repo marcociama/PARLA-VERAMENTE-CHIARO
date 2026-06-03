@@ -1,0 +1,29 @@
+{
+  "filename": "038",
+  "neapolitan_text": "Ma tu te cride overo ca io ll'aggio fatto pe' te?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma tu ti credi davvero che io l'abbia fatto per te?",
+    "Ma tu ti credi sul serio che io l'abbia fatto per te?",
+    "Ma tu ci credi davvero che io l'abbia fatto per te?"
+  ],
+  "inputs": [
+    "Ma tu ti credi davvero che io l'abbia fatto per te?",
+    "Ma tu ti credi sul serio che io l'abbia fatto per te?",
+    "Ma tu ci credi davvero che io l'abbia fatto per te?",
+    "Ma tu ti credo vero che l'ho già fatta per te.",
+    "Ma tutto quello vero che l'ho già fatto per te.",
+    "Ma tutto quello vero che l'ho già fatto per te."
+  ],
+  "responses": [
+    "L'affermazione indica che l'interlocutore si domanda se la persona a cui è rivolta la domanda crede veramente che lei abbia agito in modo specifico per lei.",
+    "L'affermazione indica che l'interlocutore si domanda se la persona a cui sta parlando crede veramente che abbia agito in modo specifico per lei.",
+    "L'affermazione indica un dubbio sulla veridicità della presunta azione compiuta in favore dell'altro.",
+    "La dichiarazione implica che la persona a cui è indirizzata ha fatto qualcosa per l'altro interlocutore, e quest'ultimo crede che sia già successo in precedenza.",
+    "Questa affermazione implica che ciò che è stato fatto precedentemente dall'oratore per qualcuno (te) è veritiero.",
+    "Questa affermazione implica che ciò che è stato fatto precedentemente dall'oratore per qualcuno (te) è veritiero."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.362455,
+  "wer_gt1": 0.545455
+}

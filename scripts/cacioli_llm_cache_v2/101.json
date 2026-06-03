@@ -1,0 +1,29 @@
+{
+  "filename": "101",
+  "neapolitan_text": "A Zona Nnustriale (o Gianturco) è nu rione 'e 6082 crestiani d''a part' 'e levante 'e Napule.",
+  "domain": "Blog",
+  "gt_variants": [
+    "La Zona Industriale (o Gianturco) è un rione di 6.082 abitanti della parte orientale di Napoli.",
+    "La Zona Industriale, nota anche come Gianturco, è un quartiere di 6.082 residenti situato nella zona orientale di Napoli.",
+    "La Zona Industriale (o Gianturco) costituisce un rione della parte est di Napoli che conta 6.082 abitanti.s"
+  ],
+  "inputs": [
+    "La Zona Industriale (o Gianturco) è un rione di 6.082 abitanti della parte orientale di Napoli.",
+    "La Zona Industriale, nota anche come Gianturco, è un quartiere di 6.082 residenti situato nella zona orientale di Napoli.",
+    "La Zona Industriale (o Gianturco) costituisce un rione della parte est di Napoli che conta 6.082 abitanti.s",
+    "a zona industriale Ogianturk, in Uriona e i 6.082 cristiani dalla parte elevata di Napoli.",
+    "a zona industriale o Janturk, in Uriona e i 6.082 cristiani da parte levata di Napoli.",
+    "a zona industriale o gianturca, in Uriona e i 6.082 cristiani dalla parte elevata di Napoli."
+  ],
+  "responses": [
+    "Il Gianturco, noto anche come la Zona Industriale, è un quartiere residenziale che ospita una popolazione di circa 6.082 persone e si trova nell'area orientale di Napoli.",
+    "Il Gianturco, conosciuto anche come la Zona Industriale, è un quartiere abitato da 6.082 persone situato nell'area orientale di Napoli.",
+    "Il Gianturco, noto come la Zona Industriale, è un quartiere situato nell'est di Napoli e residevi 6.082 persone.",
+    "Nella zona industriale Ogianturk, nella città di Uriona, e tra i 6.082 cristiani che vivono in una posizione alta a Napoli.",
+    "La dichiarazione indica che 6.082 cristiani sono stati rimossi da Napoli e sono stati portati a una zona industriale o Janturk, in Uriona.",
+    "Nella zona industriale o giardiniera di Uriona e tra i 6.082 cristiani della parte alta di Napoli."
+  ],
+  "wer": 0.625,
+  "u_asr": 0.285733,
+  "wer_gt1": 0.625
+}

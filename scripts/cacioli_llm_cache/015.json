@@ -1,0 +1,29 @@
+{
+  "filename": "015",
+  "neapolitan_text": "A strada d' 'a casa t' 'a scurdave.",
+  "domain": "Play",
+  "gt_variants": [
+    "La strada di casa, l'hai scordata",
+    "La strada di casa, l'hai dimenticata",
+    "La strada di casa, l'hai persa di mente."
+  ],
+  "inputs": [
+    "La strada di casa, l'hai scordata",
+    "La strada di casa, l'hai dimenticata",
+    "La strada di casa, l'hai persa di mente.",
+    "La strada era a gas, lì è scordato.",
+    "La strada era a gas, lì è scordato.",
+    "A strada ragazzi, vi scordate?"
+  ],
+  "responses": [
+    "Mi dispiace, non posso ricordare la strada di casa. Potresti fornirmi ulteriori informazioni per aiutarti?",
+    "Mi dispiace, ho dimenticato la strada di casa. Potrei aiutarti a trovarla?",
+    "Mi dispiace, ho dimenticato la tua strada di casa. Potresti fornirmi ulteriori informazioni per aiutarti? Ad esempio, il nome della via o del quartiere dove ti trovi?",
+    "La strada era pavimentata con asfalto, non ricordo il luogo specifico.",
+    "La strada era pavimentata con asfalto, non ricordo il luogo specifico.",
+    "Sì, ricordati sempre della sicurezza stradale. Non dimenticate di guardare attentamente prima di attraversare la strada."
+  ],
+  "wer": 0.75,
+  "u_asr": 0.489375,
+  "wer_gt1": 1.0
+}

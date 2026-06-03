@@ -1,0 +1,127 @@
+{
+  "transcription": "Ma ora, all'ultimo, all'ultimo, a cinquantadue anni, sarei tira che i vazzoletti sporchi e russetti che mi fanno schifo.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.197,
+      "end": 1.297,
+      "confidence": 0.934
+    },
+    {
+      "word": "ora,",
+      "start": 1.397,
+      "end": 1.617,
+      "confidence": 0.646
+    },
+    {
+      "word": "all'ultimo,",
+      "start": 1.837,
+      "end": 2.478,
+      "confidence": 0.774
+    },
+    {
+      "word": "all'ultimo,",
+      "start": 2.498,
+      "end": 3.198,
+      "confidence": 0.777
+    },
+    {
+      "word": "a",
+      "start": 3.418,
+      "end": 3.499,
+      "confidence": 0.676
+    },
+    {
+      "word": "cinquantadue",
+      "start": 3.619,
+      "end": 4.259,
+      "confidence": 0.726
+    },
+    {
+      "word": "anni,",
+      "start": 4.319,
+      "end": 4.739,
+      "confidence": 0.738
+    },
+    {
+      "word": "sarei",
+      "start": 4.819,
+      "end": 5.059,
+      "confidence": 0.733
+    },
+    {
+      "word": "tira",
+      "start": 5.1,
+      "end": 5.44,
+      "confidence": 0.948
+    },
+    {
+      "word": "che",
+      "start": 5.52,
+      "end": 5.62,
+      "confidence": 0.616
+    },
+    {
+      "word": "i",
+      "start": 5.7,
+      "end": 5.72,
+      "confidence": 0.002
+    },
+    {
+      "word": "vazzoletti",
+      "start": 5.74,
+      "end": 6.26,
+      "confidence": 0.696
+    },
+    {
+      "word": "sporchi",
+      "start": 6.34,
+      "end": 6.861,
+      "confidence": 0.702
+    },
+    {
+      "word": "e",
+      "start": 6.881,
+      "end": 6.901,
+      "confidence": 0.065
+    },
+    {
+      "word": "russetti",
+      "start": 6.961,
+      "end": 7.521,
+      "confidence": 0.831
+    },
+    {
+      "word": "che",
+      "start": 7.561,
+      "end": 7.681,
+      "confidence": 0.65
+    },
+    {
+      "word": "mi",
+      "start": 7.741,
+      "end": 7.821,
+      "confidence": 0.737
+    },
+    {
+      "word": "fanno",
+      "start": 7.881,
+      "end": 8.241,
+      "confidence": 0.746
+    },
+    {
+      "word": "schifo.",
+      "start": 8.322,
+      "end": 8.822,
+      "confidence": 0.777
+    }
+  ],
+  "top3": [
+    "Ma ora, all'ultimo, all'ultimo, a cinquantadue anni, sarei tira che i vazzoletti sporchi e russetti che mi fanno schifo.",
+    "Ma ora, all'ultimo, all'ultimo, a cinquantadue anni, si ritira che i vazzoletti sporchi e russetti che mi fanno schifo.",
+    "Ma ora, per l'ultimo, per l'ultimo, a cinquantadue anni sarei tornato con le mazzolette sporche e russette che mi fanno schifo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6723157894736842,
+  "u_asr": 0.3276842105263158
+}

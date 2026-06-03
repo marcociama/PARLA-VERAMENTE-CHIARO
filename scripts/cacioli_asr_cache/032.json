@@ -1,0 +1,79 @@
+{
+  "transcription": "Ma perché tu moriva e io non l'avevo a bagnare più?",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 0.537,
+      "end": 0.577,
+      "confidence": 0.607
+    },
+    {
+      "word": "perché",
+      "start": 0.597,
+      "end": 0.859,
+      "confidence": 0.597
+    },
+    {
+      "word": "tu",
+      "start": 0.98,
+      "end": 1.08,
+      "confidence": 0.622
+    },
+    {
+      "word": "moriva",
+      "start": 1.12,
+      "end": 1.563,
+      "confidence": 0.939
+    },
+    {
+      "word": "e",
+      "start": 1.583,
+      "end": 1.604,
+      "confidence": 0.008
+    },
+    {
+      "word": "io",
+      "start": 1.624,
+      "end": 1.966,
+      "confidence": 0.686
+    },
+    {
+      "word": "non",
+      "start": 2.006,
+      "end": 2.147,
+      "confidence": 0.915
+    },
+    {
+      "word": "l'avevo",
+      "start": 2.187,
+      "end": 2.389,
+      "confidence": 0.431
+    },
+    {
+      "word": "a",
+      "start": 2.469,
+      "end": 2.509,
+      "confidence": 0.736
+    },
+    {
+      "word": "bagnare",
+      "start": 2.55,
+      "end": 2.852,
+      "confidence": 0.747
+    },
+    {
+      "word": "più?",
+      "start": 2.952,
+      "end": 3.154,
+      "confidence": 0.653
+    }
+  ],
+  "top3": [
+    "Ma perché tu moriva e io non l'avevo a bagnare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6309999999999999,
+  "u_asr": 0.3690000000000001
+}

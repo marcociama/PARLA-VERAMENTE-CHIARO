@@ -1,0 +1,29 @@
+{
+  "filename": "094",
+  "neapolitan_text": "Chella co la gonnella de scarlata",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quella con la gonnella di scarlatto",
+    "Quella con la gonna color scarlatto",
+    "Quella vestita con la gonnella di scarlatto"
+  ],
+  "inputs": [
+    "Quella con la gonnella di scarlatto",
+    "Quella con la gonna color scarlatto",
+    "Quella vestita con la gonnella di scarlatto",
+    "Chi è il collega Nedle di Scarletta?",
+    "che le collago nel letto di scarletta.",
+    "Chi è il collega Nedle di Scarletta?"
+  ],
+  "responses": [
+    "La donna indossa un abito rosso scarlatto.",
+    "La donna indossa una gonna rossa scarlatto.",
+    "La persona è vestita con un abito rosso scarlatto.",
+    "La dichiarazione indica che chi è il collega di Scarletta chiamato Nedle.",
+    "La collago nel letto di Scarletta significa mettere qualcosa nella cullotta rossa di Scarlett O'Hara, personaggio della famosa opera letteraria \"Storia dei fiori del campo\" di Margaret Mitchell.",
+    "La dichiarazione indica che chi è il collega di Scarletta chiamato Nedle."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.412857,
+  "wer_gt1": 1.0
+}

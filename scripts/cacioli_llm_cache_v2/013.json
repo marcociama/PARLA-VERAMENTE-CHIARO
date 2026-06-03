@@ -1,0 +1,29 @@
+{
+  "filename": "013",
+  "neapolitan_text": "Era troppo bello 'o mobile.",
+  "domain": "Play",
+  "gt_variants": [
+    "Era troppo bello il mobile",
+    "Era fin troppo bello il mobile",
+    "Era davvero bello il mobile."
+  ],
+  "inputs": [
+    "Era troppo bello il mobile",
+    "Era fin troppo bello il mobile",
+    "Era davvero bello il mobile.",
+    "Era troppo bello, mobile.",
+    "Era troppo bello, umabile.",
+    "Era troppo bello, umabile."
+  ],
+  "responses": [
+    "Il mobile era troppo bellissimo (o attraente)",
+    "Il mobile era troppo bellissimo.",
+    "La frase \"Era davvero bello il mobile\" significa che il mobile era veramente attraente o gradevole all'occhio.",
+    "L'affermazione indica che la cosa era troppo bellissima e attraente.",
+    "L'affermazione indica che era troppo bellissimo e commovente.",
+    "L'affermazione indica che era troppo bellissimo e commovente."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.314,
+  "wer_gt1": 0.6
+}

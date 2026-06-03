@@ -1,0 +1,61 @@
+{
+  "transcription": "Ci ha creduto Purissa e ci aveva creduto.",
+  "words": [
+    {
+      "word": "Ci",
+      "start": 0.648,
+      "end": 0.708,
+      "confidence": 0.718
+    },
+    {
+      "word": "ha",
+      "start": 0.728,
+      "end": 0.789,
+      "confidence": 0.476
+    },
+    {
+      "word": "creduto",
+      "start": 0.829,
+      "end": 1.15,
+      "confidence": 0.438
+    },
+    {
+      "word": "Purissa",
+      "start": 1.19,
+      "end": 1.752,
+      "confidence": 0.779
+    },
+    {
+      "word": "e",
+      "start": 2.093,
+      "end": 2.133,
+      "confidence": 0.637
+    },
+    {
+      "word": "ci",
+      "start": 2.274,
+      "end": 2.314,
+      "confidence": 0.742
+    },
+    {
+      "word": "aveva",
+      "start": 2.334,
+      "end": 2.655,
+      "confidence": 0.686
+    },
+    {
+      "word": "creduto.",
+      "start": 2.695,
+      "end": 3.097,
+      "confidence": 0.641
+    }
+  ],
+  "top3": [
+    "Ci ha creduto Purissa e ci aveva creduto.",
+    "Ciao a tutti e ciao a tutti.",
+    "Ciao a tutti e ciao a tutti."
+  ],
+  "language": "it",
+  "mean_confidence": 0.639625,
+  "u_asr": 0.360375
+}

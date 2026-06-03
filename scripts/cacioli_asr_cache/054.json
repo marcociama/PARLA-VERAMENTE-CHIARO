@@ -1,0 +1,43 @@
+{
+  "transcription": "con Balestre, Spiccarte e Cotrabuchè.",
+  "words": [
+    {
+      "word": "con",
+      "start": 1.04,
+      "end": 1.12,
+      "confidence": 0.576
+    },
+    {
+      "word": "Balestre,",
+      "start": 1.181,
+      "end": 1.806,
+      "confidence": 0.715
+    },
+    {
+      "word": "Spiccarte",
+      "start": 1.887,
+      "end": 2.553,
+      "confidence": 0.745
+    },
+    {
+      "word": "e",
+      "start": 2.573,
+      "end": 2.593,
+      "confidence": 0.912
+    },
+    {
+      "word": "Cotrabuchè.",
+      "start": 2.674,
+      "end": 3.44,
+      "confidence": 0.73
+    }
+  ],
+  "top3": [
+    "con Balestre, Spiccarte e Cotrabuchè.",
+    "con balestre, spiccarte e cotrabbocche.",
+    "con Balestre, Spiccarte e Cotrabuché."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7356,
+  "u_asr": 0.26439999999999997
+}

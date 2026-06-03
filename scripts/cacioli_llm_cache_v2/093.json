@@ -1,0 +1,29 @@
+{
+  "filename": "093",
+  "neapolitan_text": "cchiù ghianche e rosse che le mmela-diece",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Più bianche e rosse che le mele annurche",
+    "Più bianche e rosse che le mele a dieci",
+    "Più bianche e rosse di una mela annurca"
+  ],
+  "inputs": [
+    "Più bianche e rosse che le mele annurche",
+    "Più bianche e rosse che le mele a dieci",
+    "Più bianche e rosse di una mela annurca",
+    "Che le ghiance rose che maledice.",
+    "Che le ghiance rose che maledice.",
+    "Che le ghiance rose che maledice."
+  ],
+  "responses": [
+    "La frase \"Più bianche e rosse che le mele annurche\" implica che qualcosa è più bianco e rosso rispetto alle mele Annurche, ovvero frutti di colore chiaro e scuro.",
+    "La frase \"Più bianche e rosse che le mele a dieci\" implica che qualcosa è più bianco e rosso rispetto alle mele maturate.",
+    "La frase \"Più bianche e rosse di una mela annurca\" implica che qualcosa è più bianco e rosso rispetto a un'annurca.",
+    "La frase \"Che le ghiance rose che maledice\" implica un'espressione di disprezzo o sdegno verso le rosa ghiaccio, una forma di neve che ricorda le rose.",
+    "La frase \"Che le ghiance rose che maledice\" implica un'espressione di disprezzo o sdegno verso le rosa ghiaccio, una forma di neve che ricorda le rose.",
+    "La frase \"Che le ghiance rose che maledice\" implica un'espressione di disprezzo o sdegno verso le rosa ghiaccio, una forma di neve che ricorda le rose."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.372333,
+  "wer_gt1": 0.875
+}

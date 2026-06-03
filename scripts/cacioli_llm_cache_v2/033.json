@@ -1,0 +1,29 @@
+{
+  "filename": "033",
+  "neapolitan_text": "Nun m'avev' 'a sustené?",
+  "domain": "Play",
+  "gt_variants": [
+    "Non mi dovevo sostenere",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire.",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire."
+  ],
+  "inputs": [
+    "Non mi dovevo sostenere",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire.",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire.",
+    "NUM MA VEVA SUSTA NEI",
+    "NUM MA VEVA SUSTA NEI.",
+    "NUM MA VEVA SUSTA NEI."
+  ],
+  "responses": [
+    "La frase \"Non mi dovevo sostenere\" significa che non era necessario che io fornisca sostegno a qualcuno o qualcosa.",
+    "La frase implica che l'autosostentamento e l'alimentazione non erano necessarie per il soggetto.",
+    "La frase implica che l'autosostentamento e l'alimentazione non erano necessarie per il soggetto.",
+    "La frase \"NUM MA VEVA SUSTA NEI\" in lingua siciliana significa \"Non muoversi o non fare nulla\".",
+    "La frase \"NUM MA VEVA SUSTA NEI\" implica che qualcosa o qualcuno deve continuare a sopravvivere o a rimanere in una determinata situazione difficile.",
+    "La frase \"NUM MA VEVA SUSTA NEI\" implica che qualcosa o qualcuno deve continuare a sopravvivere o a rimanere in una determinata situazione difficile."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.3024,
+  "wer_gt1": 1.25
+}

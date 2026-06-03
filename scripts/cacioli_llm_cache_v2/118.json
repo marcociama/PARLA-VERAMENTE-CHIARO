@@ -1,0 +1,29 @@
+{
+  "filename": "118",
+  "neapolitan_text": "Vide Napule, e po' muore.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Vedi Napoli, e poi muori.",
+    "Guarda Napoli, e poi muori.",
+    "Vedi Napoli, e poi puoi morire."
+  ],
+  "inputs": [
+    "Vedi Napoli, e poi muori.",
+    "Guarda Napoli, e poi muori.",
+    "Vedi Napoli, e poi puoi morire.",
+    "Vi renavola il pomore.",
+    "Viranabla e Pomor.",
+    "Viranable Pomor."
+  ],
+  "responses": [
+    "\"Vedi Napoli, e poi muori\" significa \"Visita Napoli prima di morire\". L'affermazione implica che Napoli sia una meta da visitare prima della morte perché è così bella o importante.",
+    "La frase \"Guarda Napoli, e poi muori\" significa \"Guarda Napoli e poi mori\", cioè esprima un'espressione di ammirazione o stupore verso la città di Napoli, che è talmente bella da essere paragonata alla morte.",
+    "La frase \"Vedi Napoli, e poi puoi morire\" significa che dopo aver visitato Napoli, si può considerare la vita completata. In altre parole, Napoli è una meta da non perdere nella vita.",
+    "La frase \"Vi renavola il pomore\" significa che il pomo rinnova qualcuno o qualcosa.",
+    "Viranabla e Pomor sono due nomi, probabilmente riferendosi a persone o luoghi.",
+    "\"Viranable Pomor\" significa \"Pomor Viro\" in lingua finlandese, che è un nome composto formato da due nomi personali, Pomor e Viro."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.33075,
+  "wer_gt1": 1.0
+}

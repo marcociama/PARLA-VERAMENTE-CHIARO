@@ -1,0 +1,55 @@
+{
+  "transcription": "Chi non sa peggiorare non sa bemancare.",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.434,
+      "end": 0.514,
+      "confidence": 0.654
+    },
+    {
+      "word": "non",
+      "start": 0.555,
+      "end": 0.716,
+      "confidence": 0.615
+    },
+    {
+      "word": "sa",
+      "start": 0.776,
+      "end": 0.917,
+      "confidence": 0.85
+    },
+    {
+      "word": "peggiorare",
+      "start": 0.937,
+      "end": 1.582,
+      "confidence": 0.577
+    },
+    {
+      "word": "non",
+      "start": 1.622,
+      "end": 1.783,
+      "confidence": 0.762
+    },
+    {
+      "word": "sa",
+      "start": 1.844,
+      "end": 2.045,
+      "confidence": 0.908
+    },
+    {
+      "word": "bemancare.",
+      "start": 2.085,
+      "end": 2.77,
+      "confidence": 0.672
+    }
+  ],
+  "top3": [
+    "Chi non sa peggiorare non sa bemancare.",
+    "Chi non sa peggiorare non sa bemancare.",
+    "Chi non sapeva giangere non sapeva ancora girare."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7197142857142858,
+  "u_asr": 0.28028571428571425
+}

@@ -1,0 +1,49 @@
+{
+  "transcription": "Tutte le buone usanze sono passate.",
+  "words": [
+    {
+      "word": "Tutte",
+      "start": 0.332,
+      "end": 0.593,
+      "confidence": 0.919
+    },
+    {
+      "word": "le",
+      "start": 0.673,
+      "end": 0.734,
+      "confidence": 0.988
+    },
+    {
+      "word": "buone",
+      "start": 0.794,
+      "end": 0.955,
+      "confidence": 0.47
+    },
+    {
+      "word": "usanze",
+      "start": 0.975,
+      "end": 1.396,
+      "confidence": 0.872
+    },
+    {
+      "word": "sono",
+      "start": 1.457,
+      "end": 1.597,
+      "confidence": 0.465
+    },
+    {
+      "word": "passate.",
+      "start": 1.657,
+      "end": 2.219,
+      "confidence": 0.865
+    }
+  ],
+  "top3": [
+    "Tutte le buone usanze sono passate.",
+    "Tutte le buone usanze sono passate.",
+    "Tutte le buone usanze sono passate."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7631666666666667,
+  "u_asr": 0.23683333333333334
+}

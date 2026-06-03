@@ -1,0 +1,29 @@
+{
+  "filename": "139",
+  "neapolitan_text": "Te putevo dicere ca tutt'e tre t'erano figlie, ce avarrisse creduto... T' 'o ffacevo credere!",
+  "domain": "Play",
+  "gt_variants": [
+    "Ti potevo dire che tutte e tre erano figlie tue, ci avresti creduto... Te lo facevo credere!",
+    "Potevo dirti che tutte e tre erano tue figlie e ci avresti creduto... Te l'avrei fatto credere!",
+    "Avrei potuto dirti che tutte e tre erano tue figlie, ci avresti creduto... Te lo avrei fatto credere!"
+  ],
+  "inputs": [
+    "Ti potevo dire che tutte e tre erano figlie tue, ci avresti creduto... Te lo facevo credere!",
+    "Potevo dirti che tutte e tre erano tue figlie e ci avresti creduto... Te l'avrei fatto credere!",
+    "Avrei potuto dirti che tutte e tre erano tue figlie, ci avresti creduto... Te lo avrei fatto credere!",
+    "Tu potevi dire che tutta e tre era una figlia. Ce l'aveste creduta. Tu facevi credere.",
+    "Tu potevi dire che tutta e tre era una figlia. Ce l'aveste creduta. Tu facevi credere.",
+    "Tu potevi dire che tutti e tre erano figli. Ce l'aveste creduto. Tu facevi credere."
+  ],
+  "responses": [
+    "La frase implica una situazione di ironia o sarcasmo. L'utente sta dicendo che se le tre persone fossero state figlie del destinatario, avrebbe creduto, ma in realtà lo stava ingannando. \"Te lo facevo credere!\" significa \"ti ho fatto credere\".",
+    "Sono delusione, ma non ho figlie. Ti ho solo dato la sensazione di avere figlie.",
+    "Sarei stato sorpreso se ti avessi detto che tutte e tre erano le tue figlie. Ti avrei certamente cercato di farlo credere.",
+    "Sì, si tratta di un riferimento alla tragedia di Euripide \"Medea\", dove Medea ha tre figli. La frase indica che Medea era responsabile delle loro morti.",
+    "Sì, si tratta di un riferimento alla tragedia di Euripide \"Medea\", dove Medea ha tre figli. La frase indica che Medea era responsabile delle loro morti.",
+    "Sì, tutti e tre erano figli, come tu supposti. Ti sembrava che tu avessi fatto credere a qualcosa."
+  ],
+  "wer": 0.764706,
+  "u_asr": 0.282062,
+  "wer_gt1": 0.764706
+}

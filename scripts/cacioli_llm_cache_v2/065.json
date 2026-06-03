@@ -1,0 +1,29 @@
+{
+  "filename": "065",
+  "neapolitan_text": "Pigliave co lo bisco, a na chiammata,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Prendeva con il bisco, a una chiamata",
+    "Afferrava con il bisco, a un richiamo",
+    "Acchiappava con il bisco, a un cenno"
+  ],
+  "inputs": [
+    "Prendeva con il bisco, a una chiamata",
+    "Afferrava con il bisco, a un richiamo",
+    "Acchiappava con il bisco, a un cenno",
+    "pigliavolo brischi e nagiamata.",
+    "i diavolo brischi e una chiamata.",
+    "pigliavolo briscana e amata."
+  ],
+  "responses": [
+    "Riceveva un telefonato con il biscotto (o con qualcuno che lo chiamava \"biscotto\")",
+    "La mano lo prendeva con la bocca, in risposta ad un richiamo",
+    "Catturare qualcuno con un semplice gesto (bisco è un gesto di approvazione o invito in italiano)",
+    "La frase \"pigliavolo brischi e nagiamata\" implica che qualcosa è stato preso con forza o rubato, e che la persona che lo ha fatto è stata catturata o fermata.",
+    "La locuzione \"i diavolo brischi\" è un'espressione dialettale italiana che significa \"un guizzo, uno spasimo improvviso\". \"Una chiamata\", invece, indica genericamente una telefonata. Quindi, l'affermazione composta \"i diavolo brischi e una chiamata\" potrebbe significare qualcosa come \"un guizzo improvviso e una telefonata\".",
+    "La locuzione \"pigliavolo briscana e amata\" implica qualcosa che è prezioso o caro, ma anche danneggiato o usurato."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.492,
+  "wer_gt1": 1.0
+}

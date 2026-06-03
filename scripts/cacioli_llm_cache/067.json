@@ -1,0 +1,29 @@
+{
+  "filename": "067",
+  "neapolitan_text": "Le ffemmene, addorose de colata,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Le femmine, odorose di bucato",
+    "Le donne, profumate di bucato",
+    "Le donne, che sanno di bucato"
+  ],
+  "inputs": [
+    "Le femmine, odorose di bucato",
+    "Le donne, profumate di bucato",
+    "Le donne, che sanno di bucato",
+    "E femmine, addorso e collate.",
+    "E femmine, addorso e collate.",
+    "e femmina d'orso e collag."
+  ],
+  "responses": [
+    "La frase \"Le femmine, odorose di bucato\" fa riferimento alle femmine di farfalle, che emanano un profumo caratteristico simile a quello del bucato.",
+    "La frase \"Le donne, profumate di bucato\" descrive le donne che hanno un profumo del bucato, cioè della lavanda fatta a casa.",
+    "La frase \"Le donne, che sanno di bucato\" fa riferimento a una canzone del cantautore Fabrizio De André, dove il termine \"bucato\" indica un tipo specifico di stoffa usata per i vestiti. In generale, la frase si riferisce alle donne che sono abili nel fare il bucato e curare i propri vestiti.",
+    "Le parole sembrano riferirsi a oggetti di gioielleria. Potrebbero essere collane o braccialetti con pendenti femminili, posti addosso.",
+    "Le parole sembrano riferirsi a oggetti di gioielleria. Potrebbero essere collane o braccialetti con pendenti femminili, posti addosso.",
+    "L'orso è un animale maschile, mentre la femmina di orso è detta orsina. Collag è un termine inglese che non ha nessun significato in italiano."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.5392,
+  "wer_gt1": 0.8
+}

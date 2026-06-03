@@ -1,0 +1,29 @@
+{
+  "filename": "090",
+  "neapolitan_text": "Pecché ‘ncopp’a sta terra femmene comme a te non ce hanna sta pé n’ommo onesto comme a me!…",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Perché su questa terra donne come te non ce ne devono stare per un uomo onesto come me!...",
+    "Perché su questa terra non devono esserci donne come te per un uomo onesto come me!...",
+    "Poiché su questa terra non si devono trovare donne pari a te per un uomo onesto come me!..."
+  ],
+  "inputs": [
+    "Perché su questa terra donne come te non ce ne devono stare per un uomo onesto come me!...",
+    "Perché su questa terra non devono esserci donne come te per un uomo onesto come me!...",
+    "Poiché su questa terra non si devono trovare donne pari a te per un uomo onesto come me!...",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me.",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me.",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me."
+  ],
+  "responses": [
+    "Questa affermazione esprime l'idea che le donne oneste come te dovrebbero essere presenti in questo mondo per un uomo onesto come me.",
+    "Questa affermazione esprime l'ammirazione di un uomo verso una donna, implicando che lei è eccezionale e merita rispetto.",
+    "Questa affermazione implica che l'uomo onesto in questione non è in grado di trovare donne paragonabili a lui nella società.",
+    "L'affermazione implica che la donna è più onesta dell'uomo nella società, poiché non ha avuto uomini onesti come lei.",
+    "L'affermazione implica che la donna è più onesta dell'uomo nella società, poiché non ha avuto uomini onesti come lei.",
+    "L'affermazione implica che la donna è più onesta dell'uomo nella società, poiché non ha avuto uomini onesti come lei."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.301294,
+  "wer_gt1": 0.666667
+}

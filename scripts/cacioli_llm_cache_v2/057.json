@@ -1,0 +1,29 @@
+{
+  "filename": "057",
+  "neapolitan_text": "Portave brache, e nullo delleggiava!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Portava brache, e nessuno dileggiava!",
+    "Indossava le brache, e nessuno lo scherniva!",
+    "Portava calzoni, e nessuno lo prendeva in giro!"
+  ],
+  "inputs": [
+    "Portava brache, e nessuno dileggiava!",
+    "Indossava le brache, e nessuno lo scherniva!",
+    "Portava calzoni, e nessuno lo prendeva in giro!",
+    "portava i bracchi e nulla galleggiava.",
+    "portava i bracchi e nulla galleggiava.",
+    "portava i bracchi e nulla galleggiava."
+  ],
+  "responses": [
+    "Lui portava braccia (o vestiti stranamente) ma nessuno lo deriseva! (Lui era rispettato nonostante la sua apparenza strana.)",
+    "Wearing trousers, he was not ridiculed by anyone! (This person wore trousers and no one made fun of him.)",
+    "Lui indossava calzoni e non riceveva scherzi da nessuno! (Lui era accettato come è)",
+    "L'affermazione indica che niente fluttuava sulle braccia.",
+    "L'affermazione indica che niente fluttuava sulle braccia.",
+    "L'affermazione indica che niente fluttuava sulle braccia."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.429833,
+  "wer_gt1": 0.8
+}

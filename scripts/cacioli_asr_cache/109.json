@@ -1,0 +1,67 @@
+{
+  "transcription": "E ancora, quando sapesse parlare l'italiano e quanto dialetto.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.987,
+      "end": 2.048,
+      "confidence": 0.633
+    },
+    {
+      "word": "ancora,",
+      "start": 2.128,
+      "end": 2.53,
+      "confidence": 0.811
+    },
+    {
+      "word": "quando",
+      "start": 2.63,
+      "end": 2.932,
+      "confidence": 0.744
+    },
+    {
+      "word": "sapesse",
+      "start": 2.992,
+      "end": 3.474,
+      "confidence": 0.819
+    },
+    {
+      "word": "parlare",
+      "start": 3.535,
+      "end": 3.856,
+      "confidence": 0.694
+    },
+    {
+      "word": "l'italiano",
+      "start": 3.876,
+      "end": 4.479,
+      "confidence": 0.687
+    },
+    {
+      "word": "e",
+      "start": 4.499,
+      "end": 4.519,
+      "confidence": 0.005
+    },
+    {
+      "word": "quanto",
+      "start": 4.841,
+      "end": 5.122,
+      "confidence": 0.776
+    },
+    {
+      "word": "dialetto.",
+      "start": 5.202,
+      "end": 5.705,
+      "confidence": 0.793
+    }
+  ],
+  "top3": [
+    "E ancora, quando sapesse parlare l'italiano e quanto dialetto.",
+    "E ancora, quando sapessi parlare l'italiano e quanto dialetto.",
+    "E ancora, quando sapessi parlare l'italiano e quanto dialetto."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6624444444444444,
+  "u_asr": 0.3375555555555556
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "131",
+  "neapolitan_text": "Guè, ccà se tratta 'e na cosa seria, t'aggio ditto!",
+  "domain": "Play",
+  "gt_variants": [
+    "Guarda, qui si tratta di una cosa seria, te l'ho detto!",
+    "Ehi, qui la faccenda è seria, te l'ho detto!",
+    "Ascolta, stiamo parlando di una cosa seria, te l'ho detto!"
+  ],
+  "inputs": [
+    "Guarda, qui si tratta di una cosa seria, te l'ho detto!",
+    "Ehi, qui la faccenda è seria, te l'ho detto!",
+    "Ascolta, stiamo parlando di una cosa seria, te l'ho detto!",
+    "Voi che sto trattando una cosa seria da giurito.",
+    "Voi che sto trattando una cosa seria da giurito.",
+    "Uè, questo tratta è una cosa seria da giurito."
+  ],
+  "responses": [
+    "Sì, sono pronto a prendere in considerazione la tua richiesta come se trattasse di una cosa seria. Ti ringrazio per avermi informato.",
+    "Sì, capisco che la situazione è importante. Ti ascolterò attentamente.",
+    "Sì, sono pronto. Mi riferivo a ciò che abbiamo discusso?",
+    "Sto discutendo di un argomento importante e solenne.",
+    "Sto discutendo di un argomento importante e solenne.",
+    "Sì, il testo sembra esprimere un'impressione forte e seria. Potrebbe essere un brano di dialogo in cui un personaggio esprime la sua preoccupazione o il suo stupore."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.533222,
+  "wer_gt1": 0.818182
+}

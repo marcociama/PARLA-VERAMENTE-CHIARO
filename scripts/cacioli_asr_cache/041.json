@@ -1,0 +1,31 @@
+{
+  "transcription": "Masserva, tu Masserva.",
+  "words": [
+    {
+      "word": "Masserva,",
+      "start": 0.568,
+      "end": 1.155,
+      "confidence": 0.737
+    },
+    {
+      "word": "tu",
+      "start": 1.216,
+      "end": 1.297,
+      "confidence": 0.637
+    },
+    {
+      "word": "Masserva.",
+      "start": 1.337,
+      "end": 2.066,
+      "confidence": 0.744
+    }
+  ],
+  "top3": [
+    "Masserva, tu Masserva.",
+    "Masserva, tu Masserva.",
+    "Masserva, tu Masserva."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7060000000000001,
+  "u_asr": 0.29399999999999993
+}

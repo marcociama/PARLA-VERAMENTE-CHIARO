@@ -1,0 +1,29 @@
+{
+  "filename": "110",
+  "neapolitan_text": "Nun ce sta periculo ca 'stu fatto succede a Napule.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Non c'è pericolo che questo fatto accada a Napoli.",
+    "Non esiste alcun pericolo che una cosa simile possa succedere a Napoli.",
+    "Non c'è rischio che questo evento accada a Napoli."
+  ],
+  "inputs": [
+    "Non c'è pericolo che questo fatto accada a Napoli.",
+    "Non esiste alcun pericolo che una cosa simile possa succedere a Napoli.",
+    "Non c'è rischio che questo evento accada a Napoli.",
+    "Non ci sta per dire che questo fatto succeda a Napoli.",
+    "Non ci sta per dire che questo fatto succeda a Napoli.",
+    "Non ci sta per dire che questo fatto succeda a Napoli."
+  ],
+  "responses": [
+    "Non sembra esistere rischio di questo evento avvenire a Napoli.",
+    "Non si prevede alcun rischio di eventi simili a quelli accaduti in altre città. Tuttavia, è sempre importante mantenere un'attenzione elevata alla sicurezza pubblica.",
+    "L'evento non avverrà a Napoli, poiché non ci sono condizioni favorevoli per il suo svolgimento in questa città.",
+    "Non sembra che questo evento avvenga a Napoli, almeno non è stato confermato.",
+    "Non sembra che questo evento avvenga a Napoli, almeno non è stato confermato.",
+    "Non sembra che questo evento avvenga a Napoli, almeno non è stato confermato."
+  ],
+  "wer": 0.555556,
+  "u_asr": 0.354182,
+  "wer_gt1": 0.555556
+}

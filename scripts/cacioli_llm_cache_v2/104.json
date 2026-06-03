@@ -1,0 +1,29 @@
+{
+  "filename": "104",
+  "neapolitan_text": "O nnapulitano è na lengua rumanza ca se parla 'n Campania e all'ate parte d\"o Sud-Italia.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il napoletano è una lingua romanza che si parla in Campania e in altre parti del Sud Italia.",
+    "Il napoletano è un idioma romanzo parlato in Campania e in diverse zone dell'Italia meridionale.",
+    "Il napoletano costituisce una lingua romanza diffusa in Campania e in altre aree del Mezzogiorno d'Italia."
+  ],
+  "inputs": [
+    "Il napoletano è una lingua romanza che si parla in Campania e in altre parti del Sud Italia.",
+    "Il napoletano è un idioma romanzo parlato in Campania e in diverse zone dell'Italia meridionale.",
+    "Il napoletano costituisce una lingua romanza diffusa in Campania e in altre aree del Mezzogiorno d'Italia.",
+    "Una politica è una lingua e un romanzo che si parla in Campania e altre parti del sud Italia.",
+    "Una politica nella lingua è un romanzo che si parla in Campania e altre parti del sud Italia.",
+    "Una politica nella lingua è un romanzo che si parla in Campania e altre parti del sud Italia."
+  ],
+  "responses": [
+    "La Napoletana è una variante della lingua romanza, parlata principalmente nella regione italiana della Campania e in altre zone del sud dell'Italia.",
+    "Il Napoletano è una lingua romanza parlata nella regione della Campania e in altre aree del sud Italia.",
+    "La lingua napoletana è una varietà della lingua romanza che si parla principalmente nella regione di Campania, in Italia meridionale.",
+    "La politica è una forma di linguaggio e narrazione che si utilizza nella Campania e nelle altre regioni meridionali d'Italia.",
+    "La politica in lingua italiana è un romanzo che si ambienta o si parla comunemente nella regione della Campania e nelle altre parti del sud Italia.",
+    "La politica in lingua italiana è un romanzo che si ambienta o si parla comunemente nella regione della Campania e nelle altre parti del sud Italia."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.391737,
+  "wer_gt1": 0.333333
+}

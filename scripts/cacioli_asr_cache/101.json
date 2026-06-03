@@ -1,0 +1,103 @@
+{
+  "transcription": "a zona industriale Ogianturk, in Uriona e i 6.082 cristiani dalla parte elevata di Napoli.",
+  "words": [
+    {
+      "word": "a",
+      "start": 1.45,
+      "end": 1.49,
+      "confidence": 0.89
+    },
+    {
+      "word": "zona",
+      "start": 1.591,
+      "end": 1.791,
+      "confidence": 0.791
+    },
+    {
+      "word": "industriale",
+      "start": 1.831,
+      "end": 2.574,
+      "confidence": 0.813
+    },
+    {
+      "word": "Ogianturk,",
+      "start": 2.734,
+      "end": 3.596,
+      "confidence": 0.754
+    },
+    {
+      "word": "in",
+      "start": 3.657,
+      "end": 3.737,
+      "confidence": 0.776
+    },
+    {
+      "word": "Uriona",
+      "start": 3.757,
+      "end": 4.339,
+      "confidence": 0.919
+    },
+    {
+      "word": "e",
+      "start": 4.7,
+      "end": 5.462,
+      "confidence": 0.602
+    },
+    {
+      "word": "i",
+      "start": 5.482,
+      "end": 5.522,
+      "confidence": 0.004
+    },
+    {
+      "word": "6.082",
+      "start": 5.582,
+      "end": 6.264,
+      "confidence": 0.699
+    },
+    {
+      "word": "cristiani",
+      "start": 6.324,
+      "end": 7.026,
+      "confidence": 0.835
+    },
+    {
+      "word": "dalla",
+      "start": 7.608,
+      "end": 7.788,
+      "confidence": 0.775
+    },
+    {
+      "word": "parte",
+      "start": 7.849,
+      "end": 8.21,
+      "confidence": 0.96
+    },
+    {
+      "word": "elevata",
+      "start": 8.23,
+      "end": 8.631,
+      "confidence": 0.651
+    },
+    {
+      "word": "di",
+      "start": 8.651,
+      "end": 8.711,
+      "confidence": 0.625
+    },
+    {
+      "word": "Napoli.",
+      "start": 8.751,
+      "end": 9.172,
+      "confidence": 0.62
+    }
+  ],
+  "top3": [
+    "a zona industriale Ogianturk, in Uriona e i 6.082 cristiani dalla parte elevata di Napoli.",
+    "a zona industriale o Janturk, in Uriona e i 6.082 cristiani da parte levata di Napoli.",
+    "a zona industriale o gianturca, in Uriona e i 6.082 cristiani dalla parte elevata di Napoli."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7142666666666667,
+  "u_asr": 0.2857333333333333
+}

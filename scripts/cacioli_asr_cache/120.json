@@ -1,0 +1,37 @@
+{
+  "transcription": "Tutto passato è perduto.",
+  "words": [
+    {
+      "word": "Tutto",
+      "start": 0.885,
+      "end": 1.148,
+      "confidence": 0.791
+    },
+    {
+      "word": "passato",
+      "start": 1.209,
+      "end": 1.614,
+      "confidence": 0.766
+    },
+    {
+      "word": "è",
+      "start": 1.634,
+      "end": 1.654,
+      "confidence": 0.081
+    },
+    {
+      "word": "perduto.",
+      "start": 1.796,
+      "end": 2.303,
+      "confidence": 0.734
+    }
+  ],
+  "top3": [
+    "Tutto passato è perduto.",
+    "Tutto passato è perduto.",
+    "Tutto passato è perduto."
+  ],
+  "language": "it",
+  "mean_confidence": 0.593,
+  "u_asr": 0.40700000000000003
+}

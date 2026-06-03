@@ -1,0 +1,29 @@
+{
+  "filename": "036",
+  "neapolitan_text": "Quanto me faie ridere!",
+  "domain": "Play",
+  "gt_variants": [
+    "Quanto mi fai ridere",
+    "Come mi fai ridere",
+    "Ma quanto mi fai ridere."
+  ],
+  "inputs": [
+    "Quanto mi fai ridere",
+    "Come mi fai ridere",
+    "Ma quanto mi fai ridere.",
+    "Qua non mi fai ridere.",
+    "Quando mi fai ridere?",
+    "Qua non mi fai ridere."
+  ],
+  "responses": [
+    "Mi dispiace, ma non sono un robot comico e non posso fare ridere le persone. Tuttavia, ti consiglio di guardare qualcosa di divertente per avere una buona giornata!",
+    "Con racconti umoristici o condividendo qualcosa di divertente, potrei aiutarti a riderti.",
+    "La tua risata è molto piacevole! Spero di poterti far ridere ancora di più.",
+    "Mi dispiace se il mio aiuto non ti ha fatto ridere. Spero di poterti essere utile in altre occasioni.",
+    "Mi fa ridere quando tu sei allegro e divertenti!",
+    "Mi dispiace se il mio aiuto non ti ha fatto ridere. Spero di poterti essere utile in altre occasioni."
+  ],
+  "wer": 0.4,
+  "u_asr": 0.3646,
+  "wer_gt1": 0.75
+}

@@ -1,0 +1,73 @@
+{
+  "transcription": "Chi ha capo è vacante, chi ha lengue è lungo.",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.85,
+      "end": 0.951,
+      "confidence": 0.388
+    },
+    {
+      "word": "ha",
+      "start": 0.991,
+      "end": 1.052,
+      "confidence": 0.604
+    },
+    {
+      "word": "capo",
+      "start": 1.092,
+      "end": 1.293,
+      "confidence": 0.601
+    },
+    {
+      "word": "è",
+      "start": 1.313,
+      "end": 1.394,
+      "confidence": 0.242
+    },
+    {
+      "word": "vacante,",
+      "start": 1.434,
+      "end": 2.098,
+      "confidence": 0.873
+    },
+    {
+      "word": "chi",
+      "start": 2.279,
+      "end": 2.339,
+      "confidence": 0.726
+    },
+    {
+      "word": "ha",
+      "start": 2.359,
+      "end": 2.44,
+      "confidence": 0.682
+    },
+    {
+      "word": "lengue",
+      "start": 2.48,
+      "end": 2.802,
+      "confidence": 0.729
+    },
+    {
+      "word": "è",
+      "start": 2.822,
+      "end": 2.862,
+      "confidence": 0.466
+    },
+    {
+      "word": "lungo.",
+      "start": 2.882,
+      "end": 3.245,
+      "confidence": 0.454
+    }
+  ],
+  "top3": [
+    "Chi ha capo è vacante, chi ha lengue è lungo.",
+    "Chi ha capo è vacante, chi ha lengue è lungo.",
+    "Chi ha capo è vacante, chi ha lengue è lungo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5765,
+  "u_asr": 0.4235
+}

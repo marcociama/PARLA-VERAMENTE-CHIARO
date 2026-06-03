@@ -1,0 +1,29 @@
+{
+  "filename": "025",
+  "neapolitan_text": "Che te cride ca nun l'avevo capito?",
+  "domain": "Play",
+  "gt_variants": [
+    "Che ti credi, che non l'avevo capito?",
+    "Che pensi, che non l'avevo capito?",
+    "Che ti immagini, che non l'avevo capito?"
+  ],
+  "inputs": [
+    "Che ti credi, che non l'avevo capito?",
+    "Che pensi, che non l'avevo capito?",
+    "Che ti immagini, che non l'avevo capito?",
+    "Questa critica non l'aveva capita.",
+    "Questa critica non l'aveva capita.",
+    "Questa critica non l'aveva capita."
+  ],
+  "responses": [
+    "La frase indica che l'interlocutore non ha compreso qualcosa che l'altro crede sia vero.",
+    "La frase indica che si chiede cosa pensa l'altro, poiché sembra non averlo compreso.",
+    "La frase indica che ciò che si immagina non era stato compreso precedentemente.",
+    "Questa critica non era stata compresa o intesa dall'autore/a.",
+    "Questa critica non era stata compresa o intesa dall'autore/a.",
+    "Questa critica non era stata compresa o intesa dall'autore/a."
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.3646,
+  "wer_gt1": 0.857143
+}

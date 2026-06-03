@@ -1,0 +1,29 @@
+{
+  "filename": "109",
+  "neapolitan_text": "E ancora, quanno s'avess' 'a parlà Taliano e quanno 'o dialetto?​",
+  "domain": "Blog",
+  "gt_variants": [
+    "E ancora, quando si dovrebbe parlare italiano e quando il dialetto?",
+    "E inoltre, quando bisognerebbe parlare italiano e quando invece il dialetto?",
+    "E ancora, in quali situazioni si dovrebbe usare l'italiano e in quali il dialetto?"
+  ],
+  "inputs": [
+    "E ancora, quando si dovrebbe parlare italiano e quando il dialetto?",
+    "E inoltre, quando bisognerebbe parlare italiano e quando invece il dialetto?",
+    "E ancora, in quali situazioni si dovrebbe usare l'italiano e in quali il dialetto?",
+    "E ancora, quando sapesse parlare l'italiano e quanto dialetto.",
+    "E ancora, quando sapessi parlare l'italiano e quanto dialetto.",
+    "E ancora, quando sapessi parlare l'italiano e quanto dialetto."
+  ],
+  "responses": [
+    "La frase indica una domanda sul momento appropriato per parlare italiano rispetto al dialetto locale.",
+    "Questa affermazione chiede quando è necessario parlare l'italiano e quando invece si può usare il dialetto.",
+    "La dichiarazione indica che si deve determinare nelle quali circostanze è appropriato utilizzare l'italiano o i dialetti.",
+    "La frase indica che la persona sa parlare italiano ed anche un dialetto italiano.",
+    "La frase indica che l'individuo desidererebbe poter parlare italiano e conoscere i dialetti.",
+    "La frase indica che l'individuo desidererebbe poter parlare italiano e conoscere i dialetti."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.337556,
+  "wer_gt1": 0.545455
+}

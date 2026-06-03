@@ -1,0 +1,29 @@
+{
+  "filename": "112",
+  "neapolitan_text": "Museciste e judece, chianchiere e barriste sciuliéano assaje spisso int''o ddialetto lucale.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Musicisti e giudici, macellai e baristi scivolavano molto spesso nel dialetto locale.",
+    "Musicisti e magistrati, macellai e gestori di bar cadevano assai spesso nel dialetto locale.",
+    "Musicisti e giudici, macellai e baristi si lasciavano andare molto spesso al dialetto locale."
+  ],
+  "inputs": [
+    "Musicisti e giudici, macellai e baristi scivolavano molto spesso nel dialetto locale.",
+    "Musicisti e magistrati, macellai e gestori di bar cadevano assai spesso nel dialetto locale.",
+    "Musicisti e giudici, macellai e baristi si lasciavano andare molto spesso al dialetto locale.",
+    "musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale.",
+    "Musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale.",
+    "musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale."
+  ],
+  "responses": [
+    "La comunità era caratterizzata da un forte uso del dialetto locale, in cui musicisti, giudici, macellai e baristi si esprimevano frequentemente.",
+    "La comunità era caratterizzata da un'ampia varietà di professioni locali, tra cui musicisti, magistrati, macellai e gestori di bar. Questi individui utilizzavano il dialetto locale in molte occasioni.",
+    "I musicisti e i giudici, macellai e baristi solitamente utilizzano il dialetto locale a volte. Questo è dovuto alla loro familiarità con la lingua regionale.",
+    "Musici e giudici spesso preferiscono utilizzare il dialetto locale per connettersi meglio con l'audience o la comunità locale. Lo stesso vale per i baristi, che possono creare un ambiente più intimo e autentico.",
+    "Musici e giudici solitamente preferiscono utilizzare il dialetto locale per connettersi meglio con l'audience o la comunità locale. Lo stesso vale per i baristi, che possono usare espressioni regionali per creare un ambiente più intimo e accogliente.",
+    "Musici e giudici spesso preferiscono utilizzare il dialetto locale per connettersi meglio con l'audience o la comunità locale. Lo stesso vale per i baristi, che possono creare un ambiente più intimo e autentico."
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.260583,
+  "wer_gt1": 0.583333
+}

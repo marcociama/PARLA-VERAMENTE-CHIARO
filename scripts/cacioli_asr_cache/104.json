@@ -1,0 +1,127 @@
+{
+  "transcription": "Una politica è una lingua e un romanzo che si parla in Campania e altre parti del sud Italia.",
+  "words": [
+    {
+      "word": "Una",
+      "start": 1.226,
+      "end": 1.347,
+      "confidence": 0.787
+    },
+    {
+      "word": "politica",
+      "start": 1.367,
+      "end": 1.711,
+      "confidence": 0.597
+    },
+    {
+      "word": "è",
+      "start": 1.731,
+      "end": 1.751,
+      "confidence": 0.007
+    },
+    {
+      "word": "una",
+      "start": 1.791,
+      "end": 1.892,
+      "confidence": 0.443
+    },
+    {
+      "word": "lingua",
+      "start": 1.912,
+      "end": 2.195,
+      "confidence": 0.862
+    },
+    {
+      "word": "e",
+      "start": 2.215,
+      "end": 2.236,
+      "confidence": 0.004
+    },
+    {
+      "word": "un",
+      "start": 2.256,
+      "end": 2.296,
+      "confidence": 0.001
+    },
+    {
+      "word": "romanzo",
+      "start": 2.316,
+      "end": 2.821,
+      "confidence": 0.797
+    },
+    {
+      "word": "che",
+      "start": 2.862,
+      "end": 2.963,
+      "confidence": 0.858
+    },
+    {
+      "word": "si",
+      "start": 3.084,
+      "end": 3.165,
+      "confidence": 0.504
+    },
+    {
+      "word": "parla",
+      "start": 3.205,
+      "end": 3.569,
+      "confidence": 0.723
+    },
+    {
+      "word": "in",
+      "start": 3.609,
+      "end": 3.67,
+      "confidence": 0.859
+    },
+    {
+      "word": "Campania",
+      "start": 3.71,
+      "end": 4.457,
+      "confidence": 0.942
+    },
+    {
+      "word": "e",
+      "start": 4.478,
+      "end": 4.498,
+      "confidence": 0.005
+    },
+    {
+      "word": "altre",
+      "start": 4.922,
+      "end": 5.265,
+      "confidence": 0.852
+    },
+    {
+      "word": "parti",
+      "start": 5.326,
+      "end": 5.629,
+      "confidence": 0.841
+    },
+    {
+      "word": "del",
+      "start": 5.669,
+      "end": 5.79,
+      "confidence": 0.732
+    },
+    {
+      "word": "sud",
+      "start": 5.831,
+      "end": 6.053,
+      "confidence": 0.831
+    },
+    {
+      "word": "Italia.",
+      "start": 6.073,
+      "end": 6.457,
+      "confidence": 0.912
+    }
+  ],
+  "top3": [
+    "Una politica è una lingua e un romanzo che si parla in Campania e altre parti del sud Italia.",
+    "Una politica nella lingua è un romanzo che si parla in Campania e altre parti del sud Italia.",
+    "Una politica nella lingua è un romanzo che si parla in Campania e altre parti del sud Italia."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6082631578947368,
+  "u_asr": 0.39173684210526316
+}

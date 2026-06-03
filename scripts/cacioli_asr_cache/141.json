@@ -1,0 +1,91 @@
+{
+  "transcription": "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 2.466,
+      "end": 2.506,
+      "confidence": 0.256
+    },
+    {
+      "word": "te",
+      "start": 2.627,
+      "end": 2.707,
+      "confidence": 0.728
+    },
+    {
+      "word": "te",
+      "start": 2.788,
+      "end": 2.868,
+      "confidence": 0.489
+    },
+    {
+      "word": "paure",
+      "start": 2.928,
+      "end": 3.169,
+      "confidence": 0.799
+    },
+    {
+      "word": "ti",
+      "start": 3.209,
+      "end": 3.29,
+      "confidence": 0.277
+    },
+    {
+      "word": "ho",
+      "start": 3.31,
+      "end": 3.37,
+      "confidence": 0.364
+    },
+    {
+      "word": "dicere,",
+      "start": 3.45,
+      "end": 3.872,
+      "confidence": 0.753
+    },
+    {
+      "word": "solo",
+      "start": 3.953,
+      "end": 4.113,
+      "confidence": 0.883
+    },
+    {
+      "word": "per",
+      "start": 4.154,
+      "end": 4.294,
+      "confidence": 0.81
+    },
+    {
+      "word": "me,",
+      "start": 4.375,
+      "end": 4.555,
+      "confidence": 0.976
+    },
+    {
+      "word": "evvivo",
+      "start": 4.576,
+      "end": 5.158,
+      "confidence": 0.802
+    },
+    {
+      "word": "figlia",
+      "start": 5.218,
+      "end": 5.48,
+      "confidence": 0.824
+    },
+    {
+      "word": "tua.",
+      "start": 5.54,
+      "end": 5.801,
+      "confidence": 0.807
+    }
+  ],
+  "top3": [
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua.",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua.",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6744615384615386,
+  "u_asr": 0.32553846153846144
+}

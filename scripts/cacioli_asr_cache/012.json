@@ -1,0 +1,43 @@
+{
+  "transcription": "E avevo cagno di buttare.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.043,
+      "end": 1.084,
+      "confidence": 0.501
+    },
+    {
+      "word": "avevo",
+      "start": 1.145,
+      "end": 1.408,
+      "confidence": 0.732
+    },
+    {
+      "word": "cagno",
+      "start": 1.469,
+      "end": 1.793,
+      "confidence": 0.677
+    },
+    {
+      "word": "di",
+      "start": 1.874,
+      "end": 1.934,
+      "confidence": 0.093
+    },
+    {
+      "word": "buttare.",
+      "start": 1.955,
+      "end": 2.36,
+      "confidence": 0.473
+    }
+  ],
+  "top3": [
+    "E avevo cagno di buttare.",
+    "E avevo cagno di buttare.",
+    "E avevo cagno da buttare."
+  ],
+  "language": "it",
+  "mean_confidence": 0.4952,
+  "u_asr": 0.5048
+}

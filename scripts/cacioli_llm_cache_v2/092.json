@@ -1,0 +1,29 @@
+{
+  "filename": "092",
+  "neapolitan_text": "E ghievano abbracciate a otto, a diece,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "E andavano abbracciate a otto, a dieci",
+    "E camminavano abbracciate a gruppi di otto, di dieci",
+    "E se ne andavano abbracciate a otto, a dieci"
+  ],
+  "inputs": [
+    "E andavano abbracciate a otto, a dieci",
+    "E camminavano abbracciate a gruppi di otto, di dieci",
+    "E se ne andavano abbracciate a otto, a dieci",
+    "e gli aveva abbracciato a otto e dieci.",
+    "e gli aveva abbracciato a otto e dieci.",
+    "e gli avevano abbracciato a otto e dieci."
+  ],
+  "responses": [
+    "Le due stavano abbracciandosi a otto o a dieci persone. (Literally: They were embracing with eight or ten people.)",
+    "Stavano camminando in gruppi composti da 8 o 10 persone, abbracciate tra loro.",
+    "Essa suggerisce che due persone si abbracciano tra loro e con altre otto o dieci persone.",
+    "L'affermazione indica che l'individuo ha abbracciato qualcuno all'età di otto o dieci anni.",
+    "L'affermazione indica che l'individuo ha abbracciato qualcuno all'età di otto o dieci anni.",
+    "Essi li hanno abbracciati a otto e dieci anni. (L'affermazione indica che gli esseri in questione erano abbracciati all'età di 8 o 10 anni.)"
+  ],
+  "wer": 0.777778,
+  "u_asr": 0.50575,
+  "wer_gt1": 0.857143
+}

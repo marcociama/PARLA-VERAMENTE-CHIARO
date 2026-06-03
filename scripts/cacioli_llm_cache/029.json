@@ -1,0 +1,29 @@
+{
+  "filename": "029",
+  "neapolitan_text": "E mm' 'a mette dint' 'a casa, dicenno ca era l'infermiera... Pecché isso se credeva overo ca io stevo murenno.",
+  "domain": "Play",
+  "gt_variants": [
+    "E me la mette dentro casa, dicendo che era l'infermiera... Perché lui si credeva davvero che io stessi morendo",
+    "E me la mette dentro casa, dicendo che era l'infermiera... Perché lui credeva sul serio che io stessi morendo",
+    "E me la mette dentro casa, dicendo che era l'infermiera... Perché lui era convinto sul serio che io stessi morendo."
+  ],
+  "inputs": [
+    "E me la mette dentro casa, dicendo che era l'infermiera... Perché lui si credeva davvero che io stessi morendo",
+    "E me la mette dentro casa, dicendo che era l'infermiera... Perché lui credeva sul serio che io stessi morendo",
+    "E me la mette dentro casa, dicendo che era l'infermiera... Perché lui era convinto sul serio che io stessi morendo.",
+    "E mamma metteva dentro la casa, diceva che era l'infermiera, perché lui si credeva che io stessi muorendo.",
+    "E mamma metteva dentro la casa, diceva che era l'infermiera, perché lui si credeva che io stessi muorendo.",
+    "E mamma metteva l'intera casa dicendo che era l'infermiera perché lui si credeva che io stessi muorendo."
+  ],
+  "responses": [
+    "Lui ha portato la donna a casa credendola infermiera perché credeva veramente che tu stessi morendo.",
+    "Lui ha portato la infermiera a casa perché credeva che tu stessi morendo.",
+    "Lui ha portato la infermiera a casa perché credeva sinceramente che tu stavi morendo.",
+    "La madre metteva il figlio in una stanza e lo chiamava infermiera perché credeva che fosse malato.",
+    "La madre metteva il figlio in una stanza e lo chiamava infermiera perché credeva che fosse malato.",
+    "La madre sembrava prendersi cura di tutta la casa come se fosse una infermiera, probabilmente perché credeva che il figlio potesse essere malato gravemente."
+  ],
+  "wer": 0.421053,
+  "u_asr": 0.443833,
+  "wer_gt1": 0.421053
+}

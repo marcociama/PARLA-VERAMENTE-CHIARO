@@ -1,0 +1,29 @@
+{
+  "filename": "127",
+  "neapolitan_text": "Già, me faceva male 'o pede.",
+  "domain": "Play",
+  "gt_variants": [
+    "Già, mi faceva male il piede.",
+    "Sì, avevo dolore al piede.",
+    "Già, mi doleva il piede."
+  ],
+  "inputs": [
+    "Già, mi faceva male il piede.",
+    "Sì, avevo dolore al piede.",
+    "Già, mi doleva il piede.",
+    "Ciao, ma faceva male opera.",
+    "Ciao, ma faceva male opera.",
+    "Ciao, ma faceva male opera."
+  ],
+  "responses": [
+    "Il tuo piede ti stava male. Potrebbe aver bisogno di cure o di riposo.",
+    "Il dolore al piede potrebbe essere dovuto a varie cause, come ad esempio un infortunio o una patologia. È consigliabile consultare un medico per ottenere una diagnosi precisa e ricevere terapia adeguata.",
+    "Il tuo piede ti provoca dolore. Potrebbe essere necessario prenderti cura di esso.",
+    "Mi dispiace che stai avendo problemi. Come posso aiutarti?",
+    "Mi dispiace che stai avendo problemi. Come posso aiutarti?",
+    "Mi dispiace che stai avendo problemi. Come posso aiutarti?"
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.5728,
+  "wer_gt1": 0.666667
+}

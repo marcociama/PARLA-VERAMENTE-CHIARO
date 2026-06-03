@@ -1,0 +1,43 @@
+{
+  "transcription": "Ogni scarafone bella mamma suia.",
+  "words": [
+    {
+      "word": "Ogni",
+      "start": 1.265,
+      "end": 1.486,
+      "confidence": 0.842
+    },
+    {
+      "word": "scarafone",
+      "start": 1.526,
+      "end": 2.309,
+      "confidence": 0.699
+    },
+    {
+      "word": "bella",
+      "start": 2.449,
+      "end": 2.75,
+      "confidence": 0.906
+    },
+    {
+      "word": "mamma",
+      "start": 2.811,
+      "end": 3.152,
+      "confidence": 0.915
+    },
+    {
+      "word": "suia.",
+      "start": 3.232,
+      "end": 3.633,
+      "confidence": 0.873
+    }
+  ],
+  "top3": [
+    "Ogni scarafone bella mamma suia.",
+    "Ogni scarafone bella mamma suia.",
+    "Ogni scarafone bella mamma suia."
+  ],
+  "language": "it",
+  "mean_confidence": 0.8470000000000001,
+  "u_asr": 0.1529999999999999
+}

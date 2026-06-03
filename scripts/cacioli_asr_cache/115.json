@@ -1,0 +1,55 @@
+{
+  "transcription": "La cucina piccerella fa la casa grande.",
+  "words": [
+    {
+      "word": "La",
+      "start": 1.697,
+      "end": 1.737,
+      "confidence": 0.532
+    },
+    {
+      "word": "cucina",
+      "start": 1.818,
+      "end": 2.099,
+      "confidence": 0.601
+    },
+    {
+      "word": "piccerella",
+      "start": 2.179,
+      "end": 2.802,
+      "confidence": 0.677
+    },
+    {
+      "word": "fa",
+      "start": 2.862,
+      "end": 2.942,
+      "confidence": 0.804
+    },
+    {
+      "word": "la",
+      "start": 2.982,
+      "end": 3.043,
+      "confidence": 0.44
+    },
+    {
+      "word": "casa",
+      "start": 3.083,
+      "end": 3.264,
+      "confidence": 0.874
+    },
+    {
+      "word": "grande.",
+      "start": 3.364,
+      "end": 3.625,
+      "confidence": 0.37
+    }
+  ],
+  "top3": [
+    "La cucina piccerella fa la casa grande.",
+    "La cucina piccerella fa la casa grande.",
+    "La cucina pitch red la fa a casa grande."
+  ],
+  "language": "it",
+  "mean_confidence": 0.614,
+  "u_asr": 0.386
+}

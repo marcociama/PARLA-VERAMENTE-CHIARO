@@ -1,0 +1,79 @@
+{
+  "transcription": "50 rio annas permette di smettere una figliola e 20 rio.",
+  "words": [
+    {
+      "word": "50",
+      "start": 0.773,
+      "end": 1.235,
+      "confidence": 0.558
+    },
+    {
+      "word": "rio",
+      "start": 1.295,
+      "end": 1.456,
+      "confidence": 0.59
+    },
+    {
+      "word": "annas",
+      "start": 1.476,
+      "end": 1.897,
+      "confidence": 0.635
+    },
+    {
+      "word": "permette",
+      "start": 2.218,
+      "end": 2.72,
+      "confidence": 0.744
+    },
+    {
+      "word": "di",
+      "start": 2.74,
+      "end": 2.82,
+      "confidence": 0.414
+    },
+    {
+      "word": "smettere",
+      "start": 2.84,
+      "end": 3.322,
+      "confidence": 0.768
+    },
+    {
+      "word": "una",
+      "start": 3.402,
+      "end": 3.603,
+      "confidence": 0.771
+    },
+    {
+      "word": "figliola",
+      "start": 3.663,
+      "end": 4.004,
+      "confidence": 0.706
+    },
+    {
+      "word": "e",
+      "start": 4.024,
+      "end": 4.044,
+      "confidence": 0.06
+    },
+    {
+      "word": "20",
+      "start": 4.064,
+      "end": 4.104,
+      "confidence": 0.489
+    },
+    {
+      "word": "rio.",
+      "start": 4.144,
+      "end": 4.285,
+      "confidence": 0.612
+    }
+  ],
+  "top3": [
+    "50 rio annas permette di smettere una figliola e 20 rio.",
+    "50 rio annas permette di smettere con una figliola i 20 rio.",
+    "50 rio annas permette di smettere una figliola e 20 rio."
+  ],
+  "language": "it",
+  "mean_confidence": 0.577,
+  "u_asr": 0.42300000000000004
+}

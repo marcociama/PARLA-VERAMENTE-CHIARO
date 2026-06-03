@@ -1,0 +1,29 @@
+{
+  "filename": "028",
+  "neapolitan_text": "Nun se ne mette scuorno",
+  "domain": "Play",
+  "gt_variants": [
+    "Non se ne vergogna",
+    "Non si mette vergogna",
+    "Non ne ha vergogna."
+  ],
+  "inputs": [
+    "Non se ne vergogna",
+    "Non si mette vergogna",
+    "Non ne ha vergogna.",
+    "Non se ne mette scurna.",
+    "Non se ne mette scurna.",
+    "Non se ne mette scurna."
+  ],
+  "responses": [
+    "Non è necessario sentirsi vergognoso per le proprie emozioni o azioni. È importante accettare sé stessi come sono.",
+    "Non è necessario sentirsi vergognoso per le proprie azioni o emozioni, al contrario, è importante essere onesti e autentici in tutto ciò che facciamo.",
+    "L'espressione \"Non ne ha vergogna\" significa che qualcuno non si sente imbarazzato o vergognoso di qualcosa.",
+    "Non dovrebbe prendersi gioco della situazione o delle persone. Mostrare rispetto e considerazione è importante.",
+    "Non dovrebbe prendersi gioco della situazione o delle persone. Mostrare rispetto e considerazione è importante.",
+    "Non dovrebbe prendersi gioco della situazione o delle persone. Mostrare rispetto e considerazione è importante."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.3588,
+  "wer_gt1": 0.5
+}

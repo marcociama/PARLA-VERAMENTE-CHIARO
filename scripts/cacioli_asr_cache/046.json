@@ -1,0 +1,79 @@
+{
+  "transcription": "O ne siete venuti oggi per ordinare la cena? Vi ricordate?",
+  "words": [
+    {
+      "word": "O",
+      "start": 0.793,
+      "end": 0.813,
+      "confidence": 0.016
+    },
+    {
+      "word": "ne",
+      "start": 0.853,
+      "end": 0.913,
+      "confidence": 0.489
+    },
+    {
+      "word": "siete",
+      "start": 0.953,
+      "end": 1.114,
+      "confidence": 0.578
+    },
+    {
+      "word": "venuti",
+      "start": 1.134,
+      "end": 1.375,
+      "confidence": 0.485
+    },
+    {
+      "word": "oggi",
+      "start": 1.415,
+      "end": 1.616,
+      "confidence": 0.924
+    },
+    {
+      "word": "per",
+      "start": 1.777,
+      "end": 1.938,
+      "confidence": 0.478
+    },
+    {
+      "word": "ordinare",
+      "start": 1.978,
+      "end": 2.259,
+      "confidence": 0.412
+    },
+    {
+      "word": "la",
+      "start": 2.279,
+      "end": 2.339,
+      "confidence": 0.269
+    },
+    {
+      "word": "cena?",
+      "start": 2.4,
+      "end": 2.761,
+      "confidence": 0.512
+    },
+    {
+      "word": "Vi",
+      "start": 2.781,
+      "end": 2.902,
+      "confidence": 0.193
+    },
+    {
+      "word": "ricordate?",
+      "start": 2.942,
+      "end": 3.464,
+      "confidence": 0.762
+    }
+  ],
+  "top3": [
+    "O ne siete venuti oggi per ordinare la cena? Vi ricordate?",
+    "O ne siete venuti oggi per ordinare la cena? Vi ricordate?",
+    "Quando siete venuti oggi per ordinare la cena, vi ricordate?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.4652727272727273,
+  "u_asr": 0.5347272727272727
+}

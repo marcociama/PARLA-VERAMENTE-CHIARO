@@ -1,0 +1,29 @@
+{
+  "filename": "047",
+  "neapolitan_text": "Cient’anne arreto ch’era viva Vava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Cent'anni fa che era viva. Vai vai",
+    "Cent'anni addietro che era viva. Vai vai",
+    "Cent'anni fa, quando era viva. Vai vai."
+  ],
+  "inputs": [
+    "Cent'anni fa che era viva. Vai vai",
+    "Cent'anni addietro che era viva. Vai vai",
+    "Cent'anni fa, quando era viva. Vai vai.",
+    "Cent'anni al re di Carviva. Va, va.",
+    "Cent'anni al re di Carviva. Va, va.",
+    "Cent'anni al re di Carviva. Va, va."
+  ],
+  "responses": [
+    "La frase \"Cent'anni fa che era viva. Vai vai\" sembra essere una poesia o un'espressione poetica. In italiano moderno, potrebbe essere tradotta come \"Un secolo fa era ancora in vita. Va via\". Tuttavia, la frase implica un senso di tristezza e nostalgia per qualcosa o qualcuno che ora non è più presente.",
+    "Il testo sembra essere una poesia o un verso tradizionale, ma non è possibile fornire una risposta breve e precisa a causa della natura ambigua della frase. Tuttavia, potrebbe essere interpretato come \"Cent'anni fa era ancora viva\" e \"Vai vai\", che significa \"andate via\".",
+    "Cent'anni fa significa che si parla di un periodo molto remoto nel tempo. \"Vai vai\" non ha un significato chiaro in questo contesto, potrebbe essere una frase dialettale o una espressione poetica.",
+    "Il testo sembra essere una frase tratta da un brano musicale o teatrale. \"Cent'anni al re di Carviva\" potrebbe riferirsi a un personaggio o a un regno immaginario. La frase \"Va, va\" può indicare che qualcosa deve continuare o avanzare.",
+    "Il testo sembra essere una frase tratta da un brano musicale o teatrale. \"Cent'anni al re di Carviva\" potrebbe riferirsi a un personaggio o a un regno immaginario. La frase \"Va, va\" può indicare che qualcosa deve continuare o avanzare.",
+    "Il testo sembra essere una frase tratta da un brano musicale o teatrale. \"Cent'anni al re di Carviva\" potrebbe riferirsi a un personaggio o a un regno immaginario. La frase \"Va, va\" può indicare che qualcosa deve continuare o avanzare."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.377286,
+  "wer_gt1": 0.857143
+}

@@ -1,0 +1,73 @@
+{
+  "transcription": "Se mangiare due chili d'uovo e non scostare la mamma.",
+  "words": [
+    {
+      "word": "Se",
+      "start": 0.756,
+      "end": 0.856,
+      "confidence": 0.676
+    },
+    {
+      "word": "mangiare",
+      "start": 0.876,
+      "end": 1.258,
+      "confidence": 0.55
+    },
+    {
+      "word": "due",
+      "start": 1.338,
+      "end": 1.479,
+      "confidence": 0.747
+    },
+    {
+      "word": "chili",
+      "start": 1.519,
+      "end": 1.72,
+      "confidence": 0.562
+    },
+    {
+      "word": "d'uovo",
+      "start": 1.781,
+      "end": 2.203,
+      "confidence": 0.694
+    },
+    {
+      "word": "e",
+      "start": 2.223,
+      "end": 2.243,
+      "confidence": 0.029
+    },
+    {
+      "word": "non",
+      "start": 2.464,
+      "end": 2.585,
+      "confidence": 0.51
+    },
+    {
+      "word": "scostare",
+      "start": 2.625,
+      "end": 3.067,
+      "confidence": 0.706
+    },
+    {
+      "word": "la",
+      "start": 3.087,
+      "end": 3.148,
+      "confidence": 0.682
+    },
+    {
+      "word": "mamma.",
+      "start": 3.248,
+      "end": 3.63,
+      "confidence": 0.524
+    }
+  ],
+  "top3": [
+    "Se mangiare due chili d'uovo e non scostare la mamma.",
+    "Se mangiare due chili d'uovo non ci costa la mamma.",
+    "Se mangiare due chili d'uovo non ci costa la mamma."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5680000000000001,
+  "u_asr": 0.43199999999999994
+}

@@ -1,0 +1,79 @@
+{
+  "transcription": "Ma tu ti credo vero che l'ho già fatta per te.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.067,
+      "end": 1.208,
+      "confidence": 0.466
+    },
+    {
+      "word": "tu",
+      "start": 1.228,
+      "end": 1.288,
+      "confidence": 0.818
+    },
+    {
+      "word": "ti",
+      "start": 1.328,
+      "end": 1.409,
+      "confidence": 0.235
+    },
+    {
+      "word": "credo",
+      "start": 1.429,
+      "end": 1.69,
+      "confidence": 0.657
+    },
+    {
+      "word": "vero",
+      "start": 1.75,
+      "end": 1.992,
+      "confidence": 0.75
+    },
+    {
+      "word": "che",
+      "start": 2.012,
+      "end": 2.092,
+      "confidence": 0.764
+    },
+    {
+      "word": "l'ho",
+      "start": 2.172,
+      "end": 2.313,
+      "confidence": 0.459
+    },
+    {
+      "word": "già",
+      "start": 2.394,
+      "end": 2.474,
+      "confidence": 0.474
+    },
+    {
+      "word": "fatta",
+      "start": 2.514,
+      "end": 2.775,
+      "confidence": 0.799
+    },
+    {
+      "word": "per",
+      "start": 2.816,
+      "end": 2.916,
+      "confidence": 0.915
+    },
+    {
+      "word": "te.",
+      "start": 2.996,
+      "end": 3.157,
+      "confidence": 0.676
+    }
+  ],
+  "top3": [
+    "Ma tu ti credo vero che l'ho già fatta per te.",
+    "Ma tutto quello vero che l'ho già fatto per te.",
+    "Ma tutto quello vero che l'ho già fatto per te."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6375454545454546,
+  "u_asr": 0.36245454545454536
+}

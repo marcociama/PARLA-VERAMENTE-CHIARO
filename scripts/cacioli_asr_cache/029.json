@@ -1,0 +1,121 @@
+{
+  "transcription": "E mamma metteva dentro la casa, diceva che era l'infermiera, perché lui si credeva che io stessi muorendo.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.94,
+      "end": 1.98,
+      "confidence": 0.478
+    },
+    {
+      "word": "mamma",
+      "start": 2.04,
+      "end": 2.24,
+      "confidence": 0.766
+    },
+    {
+      "word": "metteva",
+      "start": 2.28,
+      "end": 2.661,
+      "confidence": 0.433
+    },
+    {
+      "word": "dentro",
+      "start": 2.721,
+      "end": 3.001,
+      "confidence": 0.58
+    },
+    {
+      "word": "la",
+      "start": 3.021,
+      "end": 3.081,
+      "confidence": 0.245
+    },
+    {
+      "word": "casa,",
+      "start": 3.121,
+      "end": 3.482,
+      "confidence": 0.864
+    },
+    {
+      "word": "diceva",
+      "start": 3.502,
+      "end": 3.802,
+      "confidence": 0.476
+    },
+    {
+      "word": "che",
+      "start": 3.822,
+      "end": 3.982,
+      "confidence": 0.394
+    },
+    {
+      "word": "era",
+      "start": 4.062,
+      "end": 4.202,
+      "confidence": 0.557
+    },
+    {
+      "word": "l'infermiera,",
+      "start": 4.222,
+      "end": 5.023,
+      "confidence": 0.803
+    },
+    {
+      "word": "perché",
+      "start": 5.043,
+      "end": 5.284,
+      "confidence": 0.789
+    },
+    {
+      "word": "lui",
+      "start": 5.304,
+      "end": 5.424,
+      "confidence": 0.454
+    },
+    {
+      "word": "si",
+      "start": 5.524,
+      "end": 5.584,
+      "confidence": 0.678
+    },
+    {
+      "word": "credeva",
+      "start": 5.764,
+      "end": 6.164,
+      "confidence": 0.696
+    },
+    {
+      "word": "che",
+      "start": 6.505,
+      "end": 6.585,
+      "confidence": 0.056
+    },
+    {
+      "word": "io",
+      "start": 6.685,
+      "end": 6.785,
+      "confidence": 0.628
+    },
+    {
+      "word": "stessi",
+      "start": 6.845,
+      "end": 7.125,
+      "confidence": 0.605
+    },
+    {
+      "word": "muorendo.",
+      "start": 7.205,
+      "end": 7.646,
+      "confidence": 0.509
+    }
+  ],
+  "top3": [
+    "E mamma metteva dentro la casa, diceva che era l'infermiera, perché lui si credeva che io stessi muorendo.",
+    "E mamma metteva dentro la casa, diceva che era l'infermiera, perché lui si credeva che io stessi muorendo.",
+    "E mamma metteva l'intera casa dicendo che era l'infermiera perché lui si credeva che io stessi muorendo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5561666666666667,
+  "u_asr": 0.4438333333333333
+}

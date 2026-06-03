@@ -1,0 +1,29 @@
+{
+  "filename": "061",
+  "neapolitan_text": "Mo, s’uno parla, e chella se corruzza.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Adesso, se uno parla, e quella si corruccia",
+    "Ora, se qualcuno parla, quella si offende",
+    "Adesso, se uno apre bocca, lei si indispettisce"
+  ],
+  "inputs": [
+    "Adesso, se uno parla, e quella si corruccia",
+    "Ora, se qualcuno parla, quella si offende",
+    "Adesso, se uno apre bocca, lei si indispettisce",
+    "Non se ne parla, che lo si carruzza.",
+    "Non se lo parla, che lo si carruzza.",
+    "Non se ne parla, che lo si carruzza."
+  ],
+  "responses": [
+    "Ora, se qualcuno sta parlando, la sua conversazione viene interrotta o resa imprecisa.",
+    "L'affermazione indica che se qualcuno parla a qualcuno, quest'ultimo si sente offeso.",
+    "Se qualcuno apre la bocca ora, lei si arrabbia. (L'affermazione implica che una persona è irritata quando qualcun altro fa qualcosa che le sta a disagio.)",
+    "La frase implica che qualcosa non viene discusso apertamente, ma comunque viene preso in considerazione o trattato in modo segreto.",
+    "Se non lo parla, lo si pensa o lo si immagina.",
+    "La frase implica che qualcosa non viene discusso apertamente, ma comunque viene preso in considerazione o trattato in modo segreto."
+  ],
+  "wer": 0.625,
+  "u_asr": 0.37225,
+  "wer_gt1": 0.625
+}

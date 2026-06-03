@@ -1,0 +1,29 @@
+{
+  "filename": "063",
+  "neapolitan_text": "O bell’ausanza, e ddove si’ squagliata?",
+  "domain": "Poetry",
+  "gt_variants": [
+    "O bella usanza, e dove ti sei sciolta?",
+    "O bella abitudine, e dove sei svanita?",
+    "O bell’usanza, e dove sei finita?"
+  ],
+  "inputs": [
+    "O bella usanza, e dove ti sei sciolta?",
+    "O bella abitudine, e dove sei svanita?",
+    "O bell’usanza, e dove sei finita?",
+    "Oh bello Sanze, dove sei squagliata?",
+    "Ho belle usanze dove si è squagliata.",
+    "Oh bello Sanze, dove sei squagliata?"
+  ],
+  "responses": [
+    "La frase \"O bella usanza, e dove ti sei sciolta?\" è un verso tratto dal poema epico \"Orlando Furioso\" di Ludovico Ariosto. Non c'è una risposta precisa a questa domanda, ma la frase viene spesso interpretata come un richiamo alla natura e all'arte, che sembrano essere state abbandonate o distrutte.",
+    "La bellezza dell'abitudine è scomparsa probabilmente nel tempo o nella vita moderna. Tuttavia, può essere recuperata attraverso la riflessione e l'osservazione della natura e della cultura antica.",
+    "La bellezza dell'usanza è stata perduta nel tempo, ma ci sono ancora molti esempi che la ricordano.",
+    "Oh bello Sanzio, sembra che tu stia perduto. Potrei aiutarti a trovare la strada giusta?",
+    "La traduzione della frase \"Ho belle usanze dove si è squagliata\" è \"Ho belle tradizioni in quel luogo che è andato a pezzi\". Questa frase implica che ci sono belle tradizioni o costumi che sono state interrotte o distrutti.",
+    "Oh bello Sanzio, sembra che tu stia perduto. Potrei aiutarti a trovare la strada giusta?"
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.311333,
+  "wer_gt1": 0.75
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "024",
+  "neapolitan_text": "Appriesso a chella schifosa!",
+  "domain": "Play",
+  "gt_variants": [
+    "Appresso a quella schifosa",
+    "Dietro a quella schifosa",
+    "Inseguendo quella schifosa."
+  ],
+  "inputs": [
+    "Appresso a quella schifosa",
+    "Dietro a quella schifosa",
+    "Inseguendo quella schifosa.",
+    "Appressa quella schifosa.",
+    "appresso a quella schifosa.",
+    "Appressa quella schifosa."
+  ],
+  "responses": [
+    "Dopo quella sporca cosa",
+    "Questa affermazione indica qualcosa che si trova dietro a qualcosa sporco o imbarazzante.",
+    "Seguendo qualcosa sporco o vergognoso.",
+    "Avvicina la cosa sporca o disgustosa.",
+    "Nella frase \"appresso a quella schifosa\", \"appresso\" indica che si trova vicino a qualcosa, mentre \"quella schifosa\" implica che ciò a cui si riferisce è sporco o vergognoso. Così la traduzione del significato della frase sarebbe: \"vicino a quello sporco o vergognoso\".",
+    "Avvicina la cosa sporca o disgustosa."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.208,
+  "wer_gt1": 0.75
+}

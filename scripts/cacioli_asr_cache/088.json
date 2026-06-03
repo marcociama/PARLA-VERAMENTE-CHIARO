@@ -1,0 +1,43 @@
+{
+  "transcription": "Avvicinati e chiesto la libertà.",
+  "words": [
+    {
+      "word": "Avvicinati",
+      "start": 1.393,
+      "end": 1.976,
+      "confidence": 0.81
+    },
+    {
+      "word": "e",
+      "start": 1.996,
+      "end": 2.017,
+      "confidence": 0.032
+    },
+    {
+      "word": "chiesto",
+      "start": 2.157,
+      "end": 2.499,
+      "confidence": 0.813
+    },
+    {
+      "word": "la",
+      "start": 2.599,
+      "end": 2.66,
+      "confidence": 0.53
+    },
+    {
+      "word": "libertà.",
+      "start": 2.7,
+      "end": 3.343,
+      "confidence": 0.93
+    }
+  ],
+  "top3": [
+    "Avvicinati e chiesto la libertà.",
+    "Avvicinati e chiesto di libertà.",
+    "Avvicinati e chiesto la libertà."
+  ],
+  "language": "it",
+  "mean_confidence": 0.623,
+  "u_asr": 0.377
+}

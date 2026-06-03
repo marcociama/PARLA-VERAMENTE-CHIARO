@@ -1,0 +1,29 @@
+{
+  "filename": "013",
+  "neapolitan_text": "Era troppo bello 'o mobile.",
+  "domain": "Play",
+  "gt_variants": [
+    "Era troppo bello il mobile",
+    "Era fin troppo bello il mobile",
+    "Era davvero bello il mobile."
+  ],
+  "inputs": [
+    "Era troppo bello il mobile",
+    "Era fin troppo bello il mobile",
+    "Era davvero bello il mobile.",
+    "Era troppo bello, mobile.",
+    "Era troppo bello, umabile.",
+    "Era troppo bello, umabile."
+  ],
+  "responses": [
+    "Il mobile è molto elegante e attraente.",
+    "Il mobile è molto elegante e ben progettato.",
+    "Sì, il mobile era molto elegante e ben progettato.",
+    "Il paesaggio era molto bellezza, caratterizzato da movimento e dinamismo.",
+    "Il paesaggio era molto belissimo e ricco di umidità.",
+    "Il paesaggio era molto belissimo e ricco di umidità."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.314,
+  "wer_gt1": 0.6
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "099",
+  "neapolitan_text": "O Regno 'e Napule (nomme ufficiale: Regno 'e Sicilia citeriore) è 'o nomme cu cui è canusciuto nu stato indipendente, ca esisteva tra 'o XIII e 'o XIX seculo e ca currispunneva a ll'attuale reggione 'e ll'Italia meridiunale, 'ncluse Abruzzo e parte d\"o Lazzio, ma cca lassava fore 'a Sicilia",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il Regno di Napoli (nome ufficiale: Regno di Sicilia citeriore) è il nome con cui è conosciuto uno stato indipendente, esistito tra il XIII e il XIX secolo e che corrispondeva all'attuale regione dell'Italia meridionale, inclusi Abruzzo e parte del Lazio, ma che lasciava fuori la Sicilia",
+    "Il Regno di Napoli (denominazione ufficiale: Regno di Sicilia citeriore) è il nome col quale è noto uno stato indipendente, che esistette tra il XIII e il XIX secolo e che comprendeva l'attuale territorio dell'Italia meridionale, compresi l'Abruzzo e una parte del Lazio, ma che escludeva la Sicilia",
+    "Il Regno di Napoli (nome ufficiale: Regno di Sicilia citeriore) è la denominazione di uno stato indipendente, vissuto tra il XIII e il XIX secolo, il cui territorio coincideva con l'attuale Italia meridionale, includendo l'Abruzzo e parte del Lazio, pur escludendo la Sicilia."
+  ],
+  "inputs": [
+    "Il Regno di Napoli (nome ufficiale: Regno di Sicilia citeriore) è il nome con cui è conosciuto uno stato indipendente, esistito tra il XIII e il XIX secolo e che corrispondeva all'attuale regione dell'Italia meridionale, inclusi Abruzzo e parte del Lazio, ma che lasciava fuori la Sicilia",
+    "Il Regno di Napoli (denominazione ufficiale: Regno di Sicilia citeriore) è il nome col quale è noto uno stato indipendente, che esistette tra il XIII e il XIX secolo e che comprendeva l'attuale territorio dell'Italia meridionale, compresi l'Abruzzo e una parte del Lazio, ma che escludeva la Sicilia",
+    "Il Regno di Napoli (nome ufficiale: Regno di Sicilia citeriore) è la denominazione di uno stato indipendente, vissuto tra il XIII e il XIX secolo, il cui territorio coincideva con l'attuale Italia meridionale, includendo l'Abruzzo e parte del Lazio, pur escludendo la Sicilia.",
+    "Il regno di Napoli, il nuovo ufficiale regno di Sicilia e Citerone, è un uomo con cui è conosciuto lo Stato indipendente, che esisteva tra il XIII e il XIX secoli e che corrispondeva all'attuale regione e all'Italia meridionale, incluso all'Abruzzo e a parte l'Orazia, ma che lasciava fuori Sicilia.",
+    "Il regno di Napoli, il nuovo ufficiale regno di Sicilia e Citerone, è un uomo con cui è conosciuto lo Stato indipendente, che esisteva tra il XIII e il XIX secoli e che corrispondeva all'attuale regione dell'Italia meridionale, incluso l'Abruzzo e parte dell'Orazia, ma che lasciava fuori Sicilia.",
+    "Il regno di Napoli, il nuovo ufficiale regno di Sicilia e Citerone, è un uomo con cui è conosciuto lo Stato indipendente, che esisteva tra il XIII e il XIX secoli e che corrispondeva all'attuale regione dell'Italia meridionale, incluso l'Abruzzo e partono razze, ma che lasciava fuori Sicilia."
+  ],
+  "responses": [
+    "Lo Stato indipendente noto come Regno di Napoli (ufficialmente Regno di Sicilia citra) esistette tra il XIII e il XIX secolo ed era composto dall'attuale regione dell'Italia meridionale, ad eccezione della Sicilia.",
+    "Lo Stato indipendente noto come Regno di Napoli (ufficialmente Regno di Sicilia citeriore) esistette tra il XIII e il XIX secolo ed era composto dal territorio dell'Italia meridionale, incluso l'Abruzzo e una parte del Lazio, ma non comprendeva la Sicilia.",
+    "Lo Stato indipendente noto come Regno di Napoli (ufficialmente Regno di Sicilia citeriore) esistette tra il XIII e il XIX secolo ed aveva un territorio corrispondente all'attuale Italia meridionale, compreso l'Abruzzo e parte del Lazio, ma non comprendeva la Sicilia.",
+    "Il Regno di Napoli, il Regno di Sicilia e Citerone, corrispondono allo Stato indipendente esistito tra il XIII e il XIX secolo, noto come Stato dei Due Sicili, che comprendeva la maggior parte della regione meridionale italiana (esclusa l'Orazia) e l'Abruzzo, ma non incluse la Sicilia.",
+    "Il Regno di Napoli, il Regno di Sicilia e Citerone erano stati indipendenti esistenti tra il XIII e il XIX secolo, corrispondenti alla regione dell'Italia meridionale (compresa l'Abruzzo) e parte dell'Orcia, ma non comprendevano la Sicilia.",
+    "Il Regno di Napoli, il Regno di Sicilia e Citerone erano stati indipendenti noti, esistenti tra il XIII e il XIX secolo, corrispondenti alla regione attuale del Sud Italia, compresa l'Abruzzo, ma non comprendevano la Sicilia."
+  ],
+  "wer": 0.446809,
+  "u_asr": 0.39854,
+  "wer_gt1": 0.446809
+}

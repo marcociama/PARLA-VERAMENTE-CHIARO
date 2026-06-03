@@ -1,0 +1,29 @@
+{
+  "filename": "088",
+  "neapolitan_text": "Lo vicenato, ‘n chietta e ‘n lebertate,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Il vicinato, in fila e in libertà",
+    "Il vicinato, in schiera e in libertà",
+    "La comunità, in ordine e in piena libertà"
+  ],
+  "inputs": [
+    "Il vicinato, in fila e in libertà",
+    "Il vicinato, in schiera e in libertà",
+    "La comunità, in ordine e in piena libertà",
+    "Avvicinati e chiesto la libertà.",
+    "Avvicinati e chiesto di libertà.",
+    "Avvicinati e chiesto la libertà."
+  ],
+  "responses": [
+    "La frase \"Il vicinato, in fila e in libertà\" indica che il quartiere è disposto in file ma con una certa libertà o autonomia.",
+    "La comunità vicina si trova insieme e libera.",
+    "La comunità è organizzata e libera.",
+    "Richiedete la liberta' (Chiedete la libertà).",
+    "Richiedono di essere avvicinati e concessa la libertà.",
+    "Richiedete la liberta' (Chiedete la libertà)."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.377,
+  "wer_gt1": 1.0
+}

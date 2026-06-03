@@ -1,0 +1,29 @@
+{
+  "filename": "040",
+  "neapolitan_text": "Na femmena comm' a mme, ll'he ditto tu e mm' 'o stai dicenno 'a vinticinc'anne, se fa 'e cunte.",
+  "domain": "Play",
+  "gt_variants": [
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa contare",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa valere",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa rispettare."
+  ],
+  "inputs": [
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa contare",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa valere",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa rispettare.",
+    "Una femmina come me, quali tutti i nostri 19 anni che si fanno con te.",
+    "Una femmina come me, ma lì tutto è mostrato a 19 anni, che si fa con te.",
+    "Una femmina come me, ma lì tutto è mostrato a 19 anni, che si fa con te."
+  ],
+  "responses": [
+    "La donna che io sono, secondo te, mi hai detto ciò da 25 anni e continui a direlo, è considerata importante.",
+    "La donna afferma che per venticinque anni lei è stata riconosciuta e rispettata.",
+    "La donna che io sono, secondo quanto hai detto e ciò che continui a dire da venticinque anni, è rispettata.",
+    "La dichiarazione implica un'espressione di affetto e gratitudine da parte della donna verso l'uomo, dicendo che lei ha trascorso i suoi primi 19 anni insieme a lui.",
+    "La dichiarazione indica che si tratta di una donna di 19 anni e lei suggerisce di intraprendere un rapporto con lei.",
+    "La dichiarazione indica che si tratta di una donna di 19 anni e lei suggerisce di intraprendere un rapporto con lei."
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.504,
+  "wer_gt1": 0.833333
+}

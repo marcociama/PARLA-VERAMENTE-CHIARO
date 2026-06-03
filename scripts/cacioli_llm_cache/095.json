@@ -1,0 +1,29 @@
+{
+  "filename": "095",
+  "neapolitan_text": "portava perne grosse comm’antrita.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Portava perle grosse come nocciole",
+    "Indossava perle grandi come nocciole",
+    "Portava perle grosse quanto una nocciola"
+  ],
+  "inputs": [
+    "Portava perle grosse come nocciole",
+    "Indossava perle grandi come nocciole",
+    "Portava perle grosse quanto una nocciola",
+    "portava perne grosse come antica.",
+    "portava perne grosse come antica.",
+    "portava perne grosse come antica."
+  ],
+  "responses": [
+    "La persona indossava perle di grandi dimensioni, simili a noci.",
+    "La persona indossava collane di perle di dimensioni simili a noci.",
+    "Le perle erano di dimensioni simili a quelle di una nocciola.",
+    "Le sue perne erano grandi e ricordavano quelle di un'antica carrozza.",
+    "Le sue perne erano grandi e ricordavano quelle di un'antica carrozza.",
+    "Le sue perne erano grandi e ricordavano quelle di un'antica carrozza."
+  ],
+  "wer": 0.4,
+  "u_asr": 0.3332,
+  "wer_gt1": 0.4
+}

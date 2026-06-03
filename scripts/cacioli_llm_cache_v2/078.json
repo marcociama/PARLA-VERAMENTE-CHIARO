@@ -1,0 +1,29 @@
+{
+  "filename": "078",
+  "neapolitan_text": "co le brache stringate e ‘n jopponciello.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con le braghe strette e un giubboncino",
+    "Con i calzoni attillati e un piccolo giubbetto",
+    "Con le braghe a coscia e un giubbetto di panno"
+  ],
+  "inputs": [
+    "Con le braghe strette e un giubboncino",
+    "Con i calzoni attillati e un piccolo giubbetto",
+    "Con le braghe a coscia e un giubbetto di panno",
+    "Che i braga stringate e ne appungierlo.",
+    "Che braga stringata e gnappunciello.",
+    "Che i braga stringate e ne appungirlo."
+  ],
+  "responses": [
+    "Indossando i pantaloni stretti e un gilet piccolo",
+    "Indossare calzoni corti e una maglietta da ginnastica corta.",
+    "La frase indica che si sta vestendo con pantaloni corti e una maglietta o giubbotto in tessuto.",
+    "La frase \"Che i braga stringate e ne appungierlo\" vuol dire \"che si faccia stretti i pantaloni e si li appiattisca\".",
+    "La braga stringata e il gnappunciello sono legati o stretti.",
+    "La frase \"Che i braga stringate e ne appungirlo\" vuol dire \"che si debbano stringare i braghi e poi appiccarli\"."
+  ],
+  "wer": 0.75,
+  "u_asr": 0.421429,
+  "wer_gt1": 0.857143
+}

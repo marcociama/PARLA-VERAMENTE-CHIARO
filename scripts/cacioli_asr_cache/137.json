@@ -1,0 +1,37 @@
+{
+  "transcription": "E va buono, basta.",
+  "words": [
+    {
+      "word": "E",
+      "start": 0.422,
+      "end": 0.463,
+      "confidence": 0.684
+    },
+    {
+      "word": "va",
+      "start": 0.544,
+      "end": 0.645,
+      "confidence": 0.811
+    },
+    {
+      "word": "buono,",
+      "start": 0.726,
+      "end": 1.091,
+      "confidence": 0.796
+    },
+    {
+      "word": "basta.",
+      "start": 1.172,
+      "end": 1.637,
+      "confidence": 0.981
+    }
+  ],
+  "top3": [
+    "E va buono, basta.",
+    "E va buono, basta.",
+    "E va buono, basta."
+  ],
+  "language": "it",
+  "mean_confidence": 0.8180000000000001,
+  "u_asr": 0.18199999999999994
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "047",
+  "neapolitan_text": "Cient’anne arreto ch’era viva Vava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Cent'anni fa che era viva. Vai vai",
+    "Cent'anni addietro che era viva. Vai vai",
+    "Cent'anni fa, quando era viva. Vai vai."
+  ],
+  "inputs": [
+    "Cent'anni fa che era viva. Vai vai",
+    "Cent'anni addietro che era viva. Vai vai",
+    "Cent'anni fa, quando era viva. Vai vai.",
+    "Cent'anni al re di Carviva. Va, va.",
+    "Cent'anni al re di Carviva. Va, va.",
+    "Cent'anni al re di Carviva. Va, va."
+  ],
+  "responses": [
+    "La persona o cosa che si riferisce all'affermazione è morta cento anni fa.",
+    "La frase indica che cento anni fa, la persona era ancora in vita.",
+    "La frase \"Cent'anni fa, quando era viva. Vai vai.\" significa \"Cent'anni fa, quando era ancora in vita. Andate via.\"",
+    "La frase \"Cent'anni al re di Carviva. Va, va.\" significa \"Cent'anni al re di Carviva (lunga vita al re di Carviva) e vada, vada\" in italiano. È una espressione di augurio per il re di un ipotetico regno chiamato Carviva.",
+    "La frase \"Cent'anni al re di Carviva. Va, va.\" significa \"Cent'anni al re di Carviva (lunga vita al re di Carviva) e vada, vada\" in italiano. È una espressione di augurio per il re di un ipotetico regno chiamato Carviva.",
+    "La frase \"Cent'anni al re di Carviva. Va, va.\" significa \"Cent'anni al re di Carviva (lunga vita al re di Carviva) e vada, vada\" in italiano. È una espressione di augurio per il re di un ipotetico regno chiamato Carviva."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.377286,
+  "wer_gt1": 0.857143
+}

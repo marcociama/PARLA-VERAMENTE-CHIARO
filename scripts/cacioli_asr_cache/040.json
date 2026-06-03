@@ -1,0 +1,103 @@
+{
+  "transcription": "Una femmina come me, quali tutti i nostri 19 anni che si fanno con te.",
+  "words": [
+    {
+      "word": "Una",
+      "start": 0.587,
+      "end": 0.688,
+      "confidence": 0.604
+    },
+    {
+      "word": "femmina",
+      "start": 0.728,
+      "end": 1.049,
+      "confidence": 0.583
+    },
+    {
+      "word": "come",
+      "start": 1.089,
+      "end": 1.39,
+      "confidence": 0.794
+    },
+    {
+      "word": "me,",
+      "start": 1.49,
+      "end": 1.791,
+      "confidence": 0.943
+    },
+    {
+      "word": "quali",
+      "start": 2.433,
+      "end": 2.694,
+      "confidence": 0.477
+    },
+    {
+      "word": "tutti",
+      "start": 2.834,
+      "end": 3.235,
+      "confidence": 0.647
+    },
+    {
+      "word": "i",
+      "start": 3.476,
+      "end": 3.496,
+      "confidence": 0.046
+    },
+    {
+      "word": "nostri",
+      "start": 3.556,
+      "end": 3.918,
+      "confidence": 0.551
+    },
+    {
+      "word": "19",
+      "start": 3.938,
+      "end": 3.978,
+      "confidence": 0.706
+    },
+    {
+      "word": "anni",
+      "start": 3.998,
+      "end": 4.078,
+      "confidence": 0.239
+    },
+    {
+      "word": "che",
+      "start": 4.118,
+      "end": 4.178,
+      "confidence": 0.379
+    },
+    {
+      "word": "si",
+      "start": 4.198,
+      "end": 4.259,
+      "confidence": 0.227
+    },
+    {
+      "word": "fanno",
+      "start": 4.339,
+      "end": 4.479,
+      "confidence": 0.219
+    },
+    {
+      "word": "con",
+      "start": 4.499,
+      "end": 4.62,
+      "confidence": 0.337
+    },
+    {
+      "word": "te.",
+      "start": 4.64,
+      "end": 4.78,
+      "confidence": 0.688
+    }
+  ],
+  "top3": [
+    "Una femmina come me, quali tutti i nostri 19 anni che si fanno con te.",
+    "Una femmina come me, ma lì tutto è mostrato a 19 anni, che si fa con te.",
+    "Una femmina come me, ma lì tutto è mostrato a 19 anni, che si fa con te."
+  ],
+  "language": "it",
+  "mean_confidence": 0.49599999999999994,
+  "u_asr": 0.504
+}

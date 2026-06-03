@@ -1,0 +1,29 @@
+{
+  "filename": "027",
+  "neapolitan_text": "Cinquantaduie anne, e se permette 'e se mettere cu' na figliola 'e vintiduie!",
+  "domain": "Play",
+  "gt_variants": [
+    "Cinquantadue anni, e si permette di mettersi con una ragazza di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una giovane di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una fanciulla di ventidue."
+  ],
+  "inputs": [
+    "Cinquantadue anni, e si permette di mettersi con una ragazza di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una giovane di ventidue",
+    "Cinquantadue anni, e si permette di mettersi con una fanciulla di ventidue.",
+    "50 rio annas permette di smettere una figliola e 20 rio.",
+    "50 rio annas permette di smettere con una figliola i 20 rio.",
+    "50 rio annas permette di smettere una figliola e 20 rio."
+  ],
+  "responses": [
+    "L'affermazione indica che l'uomo ha cinquantadue anni ed è permesso avere una relazione con una donna di ventidue.",
+    "Si tratta di una dichiarazione che afferma che un uomo di cinquantadue anni si sente autorizzato a intraprendere una relazione con una donna di ventidue anni.",
+    "L'affermazione indica che è accettabile avere una relazione con una donna di ventidue anni se si ha cinquantadue.",
+    "La frase \"50 rio annas permette di smettere una figliola e 20 rio\" implica che 50 monete di denominazione \"anna\" sono sufficienti per pagare una somma, mentre 20 monete meno ne sono necessarie.",
+    "Utilizzando 50 unità di \"rio annas\" si può eliminare la necessità di utilizzare le 20 unità di \"rio\" per una figlia.",
+    "La frase \"50 rio annas permette di smettere una figliola e 20 rio\" implica che 50 monete di denominazione \"anna\" sono sufficienti per pagare una somma, mentre 20 monete meno ne sono necessarie."
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.423,
+  "wer_gt1": 0.833333
+}

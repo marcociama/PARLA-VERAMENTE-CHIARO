@@ -1,0 +1,61 @@
+{
+  "transcription": "È uno dei più importanti award tra Europa.",
+  "words": [
+    {
+      "word": "È",
+      "start": 0.661,
+      "end": 0.681,
+      "confidence": 0.001
+    },
+    {
+      "word": "uno",
+      "start": 0.721,
+      "end": 0.822,
+      "confidence": 0.781
+    },
+    {
+      "word": "dei",
+      "start": 0.862,
+      "end": 1.003,
+      "confidence": 0.377
+    },
+    {
+      "word": "più",
+      "start": 1.084,
+      "end": 1.205,
+      "confidence": 0.715
+    },
+    {
+      "word": "importanti",
+      "start": 1.245,
+      "end": 1.809,
+      "confidence": 0.787
+    },
+    {
+      "word": "award",
+      "start": 1.829,
+      "end": 2.111,
+      "confidence": 0.529
+    },
+    {
+      "word": "tra",
+      "start": 2.172,
+      "end": 2.333,
+      "confidence": 0.861
+    },
+    {
+      "word": "Europa.",
+      "start": 2.373,
+      "end": 2.776,
+      "confidence": 0.716
+    }
+  ],
+  "top3": [
+    "È uno dei più importanti award tra Europa.",
+    "E' uno dei più importanti award tra Europa.",
+    "E' uno dei più importanti award tra Europa."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5958749999999999,
+  "u_asr": 0.40412500000000007
+}

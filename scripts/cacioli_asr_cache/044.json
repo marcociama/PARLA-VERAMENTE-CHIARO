@@ -1,0 +1,55 @@
+{
+  "transcription": "Ma perché non aveva mangiato secondo voi?",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 0.793,
+      "end": 0.873,
+      "confidence": 0.684
+    },
+    {
+      "word": "perché",
+      "start": 0.893,
+      "end": 1.114,
+      "confidence": 0.756
+    },
+    {
+      "word": "non",
+      "start": 1.175,
+      "end": 1.275,
+      "confidence": 0.803
+    },
+    {
+      "word": "aveva",
+      "start": 1.315,
+      "end": 1.536,
+      "confidence": 0.643
+    },
+    {
+      "word": "mangiato",
+      "start": 1.597,
+      "end": 1.938,
+      "confidence": 0.622
+    },
+    {
+      "word": "secondo",
+      "start": 1.978,
+      "end": 2.36,
+      "confidence": 0.923
+    },
+    {
+      "word": "voi?",
+      "start": 2.421,
+      "end": 2.642,
+      "confidence": 0.745
+    }
+  ],
+  "top3": [
+    "Ma perché non aveva mangiato secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.7394285714285714,
+  "u_asr": 0.26057142857142856
+}

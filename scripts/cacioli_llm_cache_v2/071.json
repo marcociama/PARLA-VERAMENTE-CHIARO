@@ -1,0 +1,29 @@
+{
+  "filename": "071",
+  "neapolitan_text": "Dove se trova mai tanta lianza!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Dove si trova mai tanta lianza!",
+    "Dove si riesce mai a trovare tanta lianza!",
+    "Dove mai si può trovare così tanta lianza!"
+  ],
+  "inputs": [
+    "Dove si trova mai tanta lianza!",
+    "Dove si riesce mai a trovare tanta lianza!",
+    "Dove mai si può trovare così tanta lianza!",
+    "Dove si trova mai tanta alianza?",
+    "Dove si trova mai tanta alianza?",
+    "Dove si trova mai tanta alianza?"
+  ],
+  "responses": [
+    "Dov'è sempre presente un grande numero di legami o connessioni! (Traduzione letterale)",
+    "Dov'è possibile mai trovare tanto amore! (Traduzione letterale)",
+    "La frase \"Dove mai si può trovare così tanta liania!\" significa \"Dov'è mai possibile trovarsi così tanti ostacoli!\"",
+    "Dov'è sempre presente un grande numero di alleanze? (In italiano)",
+    "Dov'è sempre presente un grande numero di alleanze? (In italiano)",
+    "Dov'è sempre presente un grande numero di alleanze? (In italiano)"
+  ],
+  "wer": 0.166667,
+  "u_asr": 0.388,
+  "wer_gt1": 0.166667
+}

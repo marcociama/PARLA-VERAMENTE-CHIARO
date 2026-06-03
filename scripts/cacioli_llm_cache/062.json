@@ -1,0 +1,29 @@
+{
+  "filename": "062",
+  "neapolitan_text": "Chi te pienze che ssia? Monna Maruzza.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Chi ti pensi che sia? Monna Maruzza",
+    "Chi credi che sia? Monna Maruzza",
+    "Chi t'immagini che sia? Monna Maruzza"
+  ],
+  "inputs": [
+    "Chi ti pensi che sia? Monna Maruzza",
+    "Chi credi che sia? Monna Maruzza",
+    "Chi t'immagini che sia? Monna Maruzza",
+    "Chi ti pensa che sì, nonna Maruzzo?",
+    "Chi ti pensa che si? Nonna Maruzzo?",
+    "Chi ti pensa che si? Nonna Maruzzo?"
+  ],
+  "responses": [
+    "Monna Maruzza è una figura storica fiorentina, nota per aver ospitato artisti e intellettuali durante il Rinascimento.",
+    "Monna Maruzza è una sculttrice italiana del Rinascimento, nota per aver creato la statua di San Giovanni Battista nella Basilica di San Francesco a Rimini.",
+    "Monna Maruzza è una celebre artista italiana del Rinascimento, nota per i suoi affreschi nella Basilica di San Francesco a Arezzo.",
+    "Sono un assistente e non ho sensazioni o emozioni personali. Non posso rispondere a domande su persone reali come Nonna Maruzzo.",
+    "Sì, è Nonna Maruzzo a pensare a me.",
+    "Sì, è Nonna Maruzzo a pensare a me."
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.306857,
+  "wer_gt1": 0.571429
+}

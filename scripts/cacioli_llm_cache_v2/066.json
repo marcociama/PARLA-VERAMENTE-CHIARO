@@ -1,0 +1,29 @@
+{
+  "filename": "066",
+  "neapolitan_text": "cient’aucelluzze a no trunco de fico!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Cento uccellini su un tronco di fico!",
+    "Cento uccelletti su un ceppo di fico!",
+    "Cento aluccelli su un ramo di fico!"
+  ],
+  "inputs": [
+    "Cento uccellini su un tronco di fico!",
+    "Cento uccelletti su un ceppo di fico!",
+    "Cento aluccelli su un ramo di fico!",
+    "C'è un taccio luzzo e un tronco di figa.",
+    "Centaccioluzza e nutronchefica.",
+    "Centaccioluzza e nutronchefica."
+  ],
+  "responses": [
+    "Sessantaquattro uccelli sono posizionati su un tronco di figo! (La frase originale è una espressione popolare italiana che significa \"molto\", ma il numero esatto è stato tradotto letteralmente dal dialetto napoletano, dove \"uccellini\" corrisponde a 64.)",
+    "Sessantaquattro uccelli sono posizionati su un ramo di figo.",
+    "Cento uccelli su un ramo della figa! (Espressione che indica una grande quantità o moltiplicazione eccessiva)",
+    "Esiste un melanzana grosso e un tronco di fico.",
+    "La centaccioluzza e la nutronchefica sono due sostanze chimiche luminiscenti.",
+    "La centaccioluzza e la nutronchefica sono due sostanze chimiche luminiscenti."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.439333,
+  "wer_gt1": 0.857143
+}

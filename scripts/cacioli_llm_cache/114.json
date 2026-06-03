@@ -1,0 +1,29 @@
+{
+  "filename": "114",
+  "neapolitan_text": "Ogni scarrafone è bello 'a mamma soja.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Ogni scarafaggio è bello a mamma sua.",
+    "Ogni scarafaggio è bello agli occhi di sua madre.",
+    "Ogni scarafaggio è bello per sua madre."
+  ],
+  "inputs": [
+    "Ogni scarafaggio è bello a mamma sua.",
+    "Ogni scarafaggio è bello agli occhi di sua madre.",
+    "Ogni scarafaggio è bello per sua madre.",
+    "Ogni scarafone bella mamma suia.",
+    "Ogni scarafone bella mamma suia.",
+    "Ogni scarafone bella mamma suia."
+  ],
+  "responses": [
+    "Ogni scarafaggio ha la propria bellezza unica per ogni madre.",
+    "Ogni scarafaggio è carino per chi lo guarda con affetto, come la sua madre lo fa.",
+    "Ogni scarafaggio è carino per chi lo ama, soprattutto per la sua madre.",
+    "Il significato della frase \"Ogni scarafone bella mamma suia\" non è chiaro, poiché non sembra essere una frase comune in italiano. Tuttavia, potrebbe essere interpretata come \"Ciascun scarabeo ha la sua bellezza madre\", ma questa interpretazione rimane speculativa e potrebbe richiedere ulteriori contesto per essere completamente corretta.",
+    "Il significato della frase \"Ogni scarafone bella mamma suia\" non è chiaro, poiché non sembra essere una frase comune in italiano. Tuttavia, potrebbe essere interpretata come \"Ciascun scarabeo ha la sua bellezza madre\", ma questa interpretazione rimane speculativa e potrebbe richiedere ulteriori contesto per essere completamente corretta.",
+    "Il significato della frase \"Ogni scarafone bella mamma suia\" non è chiaro, poiché non sembra essere una frase comune in italiano. Tuttavia, potrebbe essere interpretata come \"Ciascun scarabeo ha la sua bellezza madre\", ma questa interpretazione rimane speculativa e potrebbe richiedere ulteriori contesto per essere completamente corretta."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.153,
+  "wer_gt1": 0.714286
+}

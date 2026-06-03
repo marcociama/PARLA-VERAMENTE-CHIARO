@@ -1,0 +1,43 @@
+{
+  "transcription": "Non se ne mette scurna.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 0.486,
+      "end": 0.606,
+      "confidence": 0.6
+    },
+    {
+      "word": "se",
+      "start": 0.667,
+      "end": 0.707,
+      "confidence": 0.503
+    },
+    {
+      "word": "ne",
+      "start": 0.747,
+      "end": 0.828,
+      "confidence": 0.516
+    },
+    {
+      "word": "mette",
+      "start": 0.868,
+      "end": 1.15,
+      "confidence": 0.874
+    },
+    {
+      "word": "scurna.",
+      "start": 1.21,
+      "end": 1.754,
+      "confidence": 0.713
+    }
+  ],
+  "top3": [
+    "Non se ne mette scurna.",
+    "Non se ne mette scurna.",
+    "Non se ne mette scurna."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6412,
+  "u_asr": 0.3588
+}

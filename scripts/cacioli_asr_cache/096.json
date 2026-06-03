@@ -1,0 +1,151 @@
+{
+  "transcription": "La porta a Napoli è una porta impizzata intorno al golfo di Napoli, che si spagna intorno alla costiera della città di Napoli.",
+  "words": [
+    {
+      "word": "La",
+      "start": 0.53,
+      "end": 0.61,
+      "confidence": 0.428
+    },
+    {
+      "word": "porta",
+      "start": 0.65,
+      "end": 0.911,
+      "confidence": 0.792
+    },
+    {
+      "word": "a",
+      "start": 0.931,
+      "end": 0.951,
+      "confidence": 0.001
+    },
+    {
+      "word": "Napoli",
+      "start": 0.971,
+      "end": 1.291,
+      "confidence": 0.605
+    },
+    {
+      "word": "è",
+      "start": 1.311,
+      "end": 1.331,
+      "confidence": 0.023
+    },
+    {
+      "word": "una",
+      "start": 1.351,
+      "end": 1.491,
+      "confidence": 0.517
+    },
+    {
+      "word": "porta",
+      "start": 1.551,
+      "end": 1.872,
+      "confidence": 0.757
+    },
+    {
+      "word": "impizzata",
+      "start": 1.892,
+      "end": 2.552,
+      "confidence": 0.778
+    },
+    {
+      "word": "intorno",
+      "start": 2.632,
+      "end": 2.893,
+      "confidence": 0.423
+    },
+    {
+      "word": "al",
+      "start": 2.913,
+      "end": 2.953,
+      "confidence": 0.0
+    },
+    {
+      "word": "golfo",
+      "start": 2.973,
+      "end": 3.353,
+      "confidence": 0.727
+    },
+    {
+      "word": "di",
+      "start": 3.373,
+      "end": 3.413,
+      "confidence": 0.028
+    },
+    {
+      "word": "Napoli,",
+      "start": 3.433,
+      "end": 3.934,
+      "confidence": 0.898
+    },
+    {
+      "word": "che",
+      "start": 4.815,
+      "end": 4.975,
+      "confidence": 0.699
+    },
+    {
+      "word": "si",
+      "start": 5.075,
+      "end": 5.155,
+      "confidence": 0.414
+    },
+    {
+      "word": "spagna",
+      "start": 5.276,
+      "end": 5.936,
+      "confidence": 0.607
+    },
+    {
+      "word": "intorno",
+      "start": 6.157,
+      "end": 6.437,
+      "confidence": 0.585
+    },
+    {
+      "word": "alla",
+      "start": 6.457,
+      "end": 6.537,
+      "confidence": 0.062
+    },
+    {
+      "word": "costiera",
+      "start": 6.577,
+      "end": 7.218,
+      "confidence": 0.908
+    },
+    {
+      "word": "della",
+      "start": 7.238,
+      "end": 7.979,
+      "confidence": 0.521
+    },
+    {
+      "word": "città",
+      "start": 8.039,
+      "end": 8.379,
+      "confidence": 0.922
+    },
+    {
+      "word": "di",
+      "start": 8.399,
+      "end": 8.479,
+      "confidence": 0.71
+    },
+    {
+      "word": "Napoli.",
+      "start": 8.499,
+      "end": 8.9,
+      "confidence": 0.748
+    }
+  ],
+  "top3": [
+    "La porta a Napoli è una porta impizzata intorno al golfo di Napoli, che si spagna intorno alla costiera della città di Napoli.",
+    "La porta a Napoli è una porta impizzata intorno al Golfo di Napoli, che si spagna intorno alla costiera della città di Napoli.",
+    "La porta a Napoli è una porta impizzata intorno al golfo di Napoli, che si spagna intorno alla costiera della città di Napoli."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5283913043478261,
+  "u_asr": 0.4716086956521739
+}

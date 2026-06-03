@@ -1,0 +1,31 @@
+{
+  "transcription": "Saiguan na sayanya.",
+  "words": [
+    {
+      "word": "Saiguan",
+      "start": 0.737,
+      "end": 1.22,
+      "confidence": 0.59
+    },
+    {
+      "word": "na",
+      "start": 1.241,
+      "end": 1.321,
+      "confidence": 0.688
+    },
+    {
+      "word": "sayanya.",
+      "start": 1.382,
+      "end": 1.987,
+      "confidence": 0.581
+    }
+  ],
+  "top3": [
+    "Saiguan na sayanya.",
+    "Saiguan na sayanya.",
+    "Saiguan na sayanya."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6196666666666667,
+  "u_asr": 0.3803333333333333
+}

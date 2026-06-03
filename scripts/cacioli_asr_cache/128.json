@@ -1,0 +1,37 @@
+{
+  "transcription": "È perché avessai malamento.",
+  "words": [
+    {
+      "word": "È",
+      "start": 0.488,
+      "end": 0.528,
+      "confidence": 0.46
+    },
+    {
+      "word": "perché",
+      "start": 0.588,
+      "end": 0.869,
+      "confidence": 0.672
+    },
+    {
+      "word": "avessai",
+      "start": 0.929,
+      "end": 1.571,
+      "confidence": 0.916
+    },
+    {
+      "word": "malamento.",
+      "start": 1.631,
+      "end": 2.292,
+      "confidence": 0.85
+    }
+  ],
+  "top3": [
+    "È perché avessai malamento.",
+    "È perché avessai malamento.",
+    "È perché avessai malamento."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7245,
+  "u_asr": 0.27549999999999997
+}

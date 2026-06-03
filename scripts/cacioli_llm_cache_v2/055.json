@@ -1,0 +1,29 @@
+{
+  "filename": "055",
+  "neapolitan_text": "Chillo fu tiempo che Berta filava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quello fu il tempo in cui Berta filava",
+    "Quello era il tempo che Berta filava",
+    "Fu quello il tempo in cui Berta filava"
+  ],
+  "inputs": [
+    "Quello fu il tempo in cui Berta filava",
+    "Quello era il tempo che Berta filava",
+    "Fu quello il tempo in cui Berta filava",
+    "Che il fu tempo che Bert fuiava.",
+    "che il fu tempo che Bert fuiava.",
+    "che il fu tempo che Bert fuiava."
+  ],
+  "responses": [
+    "Questa affermazione indica che era un momento in cui Berta stava filando.",
+    "Quella era la situazione in cui Berta stava filando. (L'affermazione descrive un momento in cui Berta era impegnata a filare.)",
+    "Quella era l'epoca in cui Berta stava filando.",
+    "Il tempo passò quando Bert era in viaggio.",
+    "Il tempo passò quando Bert fuggì. (Literally: It was time when Bert was fleeing.)",
+    "Il tempo passò quando Bert fuggì. (Literally: It was time when Bert was fleeing.)"
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.251571,
+  "wer_gt1": 0.875
+}

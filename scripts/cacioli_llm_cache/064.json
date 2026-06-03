@@ -1,0 +1,29 @@
+{
+  "filename": "064",
+  "neapolitan_text": "Pecchè non tuorne, o doce tiempo antico?",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Perché non torni, o dolce tempo antico?",
+    "Perché non ritorni, o dolce tempo passato?",
+    "Perché non fai ritorno, o dolce epoca antica?"
+  ],
+  "inputs": [
+    "Perché non torni, o dolce tempo antico?",
+    "Perché non ritorni, o dolce tempo passato?",
+    "Perché non fai ritorno, o dolce epoca antica?",
+    "Perché non tuorno dolce di empantica?",
+    "Perché non tuorno dolce di empantica?",
+    "Perché non tuorlo dolce di ampantica?"
+  ],
+  "responses": [
+    "Il motivo per cui non torni è da stabilire a seconda della situazione specifica. Tuttavia, \"dolce tempo antico\" può riferirsi alla nostalgia di un'epoca passata, che potrebbe essere ricordata con affetto ma non necessariamente si deve ripetere.",
+    "Sono solo un computer programmato e non posso sentire o ricordare sentimenti. Tuttavia, la tua domanda è una bella espressione di nostalgia per il tempo trascorso insieme.",
+    "La nostra epoca moderna è caratterizzata da progressi tecnologici e sociali che rendono la vita più comoda e semplice. Tuttavia, l'antichità offre una visione unica della cultura e dell'arte, che rimane importante per comprendere il nostro passato e il nostro sviluppo come civiltà.",
+    "La frase \"Perché non tuorno dolce di empantica?\" significa \"Perché non torni dolce come la mela cotta?\" In altre parole, l'interlocutore chiede perché non ritorni dolce come una mela cotta.",
+    "La frase \"Perché non tuorno dolce di empantica?\" significa \"Perché non torni dolce come la mela cotta?\" In altre parole, l'interlocutore chiede perché non ritorni dolce come una mela cotta.",
+    "Il termine \"tuorlo\" non è comune nella lingua italiana. Potrebbe essere un errore di scrittura o una parola dialettale. Tuttavia, se si intende come \"tortello\", un tipo di pasta ripiena, allora la risposta potrebbe essere: \"Perché non preparare tortelli dolci ripieni di ampantica?\""
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.2485,
+  "wer_gt1": 0.571429
+}

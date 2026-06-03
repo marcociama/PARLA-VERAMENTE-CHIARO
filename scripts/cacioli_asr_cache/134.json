@@ -1,0 +1,61 @@
+{
+  "transcription": "Io non so leggere, poca arte non accetto.",
+  "words": [
+    {
+      "word": "Io",
+      "start": 1.336,
+      "end": 1.496,
+      "confidence": 0.492
+    },
+    {
+      "word": "non",
+      "start": 1.517,
+      "end": 1.637,
+      "confidence": 0.408
+    },
+    {
+      "word": "so",
+      "start": 1.697,
+      "end": 1.999,
+      "confidence": 0.783
+    },
+    {
+      "word": "leggere,",
+      "start": 2.059,
+      "end": 2.562,
+      "confidence": 0.689
+    },
+    {
+      "word": "poca",
+      "start": 2.662,
+      "end": 2.883,
+      "confidence": 0.781
+    },
+    {
+      "word": "arte",
+      "start": 2.944,
+      "end": 3.185,
+      "confidence": 0.506
+    },
+    {
+      "word": "non",
+      "start": 3.245,
+      "end": 3.426,
+      "confidence": 0.761
+    },
+    {
+      "word": "accetto.",
+      "start": 3.486,
+      "end": 4.009,
+      "confidence": 0.805
+    }
+  ],
+  "top3": [
+    "Io non so leggere, poca arte non accetto.",
+    "Io non so leggere, poca arte non accetto.",
+    "Io non so leggere, poca arte non accetto."
+  ],
+  "language": "it",
+  "mean_confidence": 0.653125,
+  "u_asr": 0.34687500000000004
+}

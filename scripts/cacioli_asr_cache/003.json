@@ -1,0 +1,73 @@
+{
+  "transcription": "E che Donara ti accattate tutte quelle che hai voluto.",
+  "words": [
+    {
+      "word": "E",
+      "start": 0.756,
+      "end": 0.817,
+      "confidence": 0.256
+    },
+    {
+      "word": "che",
+      "start": 0.917,
+      "end": 1.038,
+      "confidence": 0.85
+    },
+    {
+      "word": "Donara",
+      "start": 1.078,
+      "end": 1.643,
+      "confidence": 0.957
+    },
+    {
+      "word": "ti",
+      "start": 1.804,
+      "end": 1.884,
+      "confidence": 0.366
+    },
+    {
+      "word": "accattate",
+      "start": 1.925,
+      "end": 2.428,
+      "confidence": 0.749
+    },
+    {
+      "word": "tutte",
+      "start": 2.509,
+      "end": 2.811,
+      "confidence": 0.759
+    },
+    {
+      "word": "quelle",
+      "start": 2.851,
+      "end": 3.294,
+      "confidence": 0.845
+    },
+    {
+      "word": "che",
+      "start": 3.798,
+      "end": 3.879,
+      "confidence": 0.943
+    },
+    {
+      "word": "hai",
+      "start": 3.899,
+      "end": 3.959,
+      "confidence": 0.069
+    },
+    {
+      "word": "voluto.",
+      "start": 3.999,
+      "end": 4.463,
+      "confidence": 0.748
+    }
+  ],
+  "top3": [
+    "E che Donara ti accattate tutte quelle che hai voluto.",
+    "e che Danara ti ha cattato tutto quello che hai voluto.",
+    "E che Donara ti accattate tutte quelle che hai voluto."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6542,
+  "u_asr": 0.3458
+}

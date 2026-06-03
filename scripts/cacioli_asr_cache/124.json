@@ -1,0 +1,49 @@
+{
+  "transcription": "Non ventricate tra marito e mogliere.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 0.232,
+      "end": 0.373,
+      "confidence": 0.838
+    },
+    {
+      "word": "ventricate",
+      "start": 0.433,
+      "end": 1.137,
+      "confidence": 0.755
+    },
+    {
+      "word": "tra",
+      "start": 1.197,
+      "end": 1.338,
+      "confidence": 0.818
+    },
+    {
+      "word": "marito",
+      "start": 1.398,
+      "end": 1.659,
+      "confidence": 0.61
+    },
+    {
+      "word": "e",
+      "start": 1.68,
+      "end": 1.7,
+      "confidence": 0.037
+    },
+    {
+      "word": "mogliere.",
+      "start": 1.82,
+      "end": 2.222,
+      "confidence": 0.597
+    }
+  ],
+  "top3": [
+    "Non ventricate tra marito e mogliere.",
+    "Non vi intrigate tra marito e moglie.",
+    "non ventricata tra marito e mogliere"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6091666666666666,
+  "u_asr": 0.39083333333333337
+}

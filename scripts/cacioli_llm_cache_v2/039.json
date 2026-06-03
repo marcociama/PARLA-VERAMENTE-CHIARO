@@ -1,0 +1,29 @@
+{
+  "filename": "039",
+  "neapolitan_text": "Ma io nun te curo, nun t'aggio maie curato.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma io non ti curo. Non ti ho mai curato",
+    "Ma io non ti bado, non ti ho mai badato",
+    "Ma io non ti considero, non ti ho mai considerato."
+  ],
+  "inputs": [
+    "Ma io non ti curo. Non ti ho mai curato",
+    "Ma io non ti bado, non ti ho mai badato",
+    "Ma io non ti considero, non ti ho mai considerato.",
+    "Ma io non ti curo, non ti ho mai curato.",
+    "Ma io non ti curo, non ti ho mai curato.",
+    "Ma io non ti curo, non ti ho mai curato."
+  ],
+  "responses": [
+    "La frase indica che l'autore non ha mai avuto interesse o preoccupazione per la persona a cui si rivolge.",
+    "La dichiarazione implica che l'oratore non ha mai avuto cura o attenzione verso la persona a cui si rivolge.",
+    "L'affermazione indica che la persona non ha mai ritenuto l'altro importante o in considerazione.",
+    "La frase indica che la persona non ha mai avuto interesse o preoccupazione per l'altro individuo.",
+    "La frase indica che la persona non ha mai avuto interesse o preoccupazione per l'altro individuo.",
+    "La frase indica che la persona non ha mai avuto interesse o preoccupazione per l'altro individuo."
+  ],
+  "wer": 0.2,
+  "u_asr": 0.3245,
+  "wer_gt1": 0.2
+}

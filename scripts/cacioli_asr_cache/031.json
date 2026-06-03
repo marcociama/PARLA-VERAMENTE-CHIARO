@@ -1,0 +1,79 @@
+{
+  "transcription": "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?",
+  "words": [
+    {
+      "word": "Eh",
+      "start": 0.877,
+      "end": 1.038,
+      "confidence": 0.646
+    },
+    {
+      "word": "sì,",
+      "start": 1.078,
+      "end": 1.158,
+      "confidence": 0.39
+    },
+    {
+      "word": "io",
+      "start": 1.238,
+      "end": 1.339,
+      "confidence": 0.564
+    },
+    {
+      "word": "stavo",
+      "start": 1.379,
+      "end": 1.68,
+      "confidence": 0.698
+    },
+    {
+      "word": "purendo",
+      "start": 1.72,
+      "end": 2.141,
+      "confidence": 0.649
+    },
+    {
+      "word": "veramente.",
+      "start": 2.161,
+      "end": 2.723,
+      "confidence": 0.935
+    },
+    {
+      "word": "Tu",
+      "start": 2.803,
+      "end": 2.863,
+      "confidence": 0.857
+    },
+    {
+      "word": "che",
+      "start": 2.903,
+      "end": 2.983,
+      "confidence": 0.555
+    },
+    {
+      "word": "stavi",
+      "start": 3.043,
+      "end": 3.364,
+      "confidence": 0.881
+    },
+    {
+      "word": "sto",
+      "start": 3.425,
+      "end": 3.565,
+      "confidence": 0.685
+    },
+    {
+      "word": "fatto?",
+      "start": 3.605,
+      "end": 3.906,
+      "confidence": 0.589
+    }
+  ],
+  "top3": [
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6771818181818183,
+  "u_asr": 0.32281818181818167
+}

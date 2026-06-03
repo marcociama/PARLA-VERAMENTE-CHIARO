@@ -1,0 +1,49 @@
+{
+  "transcription": "Hanno essere uguali tutti e tre.",
+  "words": [
+    {
+      "word": "Hanno",
+      "start": 0.702,
+      "end": 0.963,
+      "confidence": 0.633
+    },
+    {
+      "word": "essere",
+      "start": 0.983,
+      "end": 1.345,
+      "confidence": 0.686
+    },
+    {
+      "word": "uguali",
+      "start": 1.385,
+      "end": 1.726,
+      "confidence": 0.554
+    },
+    {
+      "word": "tutti",
+      "start": 1.767,
+      "end": 1.967,
+      "confidence": 0.692
+    },
+    {
+      "word": "e",
+      "start": 2.028,
+      "end": 2.048,
+      "confidence": 0.494
+    },
+    {
+      "word": "tre.",
+      "start": 2.108,
+      "end": 2.248,
+      "confidence": 0.57
+    }
+  ],
+  "top3": [
+    "Hanno essere uguali tutti e tre.",
+    "Hanno essuto uguali tutti e tre.",
+    "Hanno essere uguali tutti e tre."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6048333333333333,
+  "u_asr": 0.39516666666666667
+}

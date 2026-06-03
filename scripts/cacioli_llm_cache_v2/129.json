@@ -1,0 +1,29 @@
+{
+  "filename": "129",
+  "neapolitan_text": "Nu mumento... Io nun me so' sbagliata.",
+  "domain": "Play",
+  "gt_variants": [
+    "Un momento... Io non mi sono sbagliata.",
+    "Un attimo... Non ho sbagliato io.",
+    "Un momento... Non sono io quella che ha sbagliato."
+  ],
+  "inputs": [
+    "Un momento... Io non mi sono sbagliata.",
+    "Un attimo... Non ho sbagliato io.",
+    "Un momento... Non sono io quella che ha sbagliato.",
+    "Nel momento io non mi sono sbagliato.",
+    "Nel momento io non mi sono sbagliato.",
+    "Nel momento io non mi sono sbagliato."
+  ],
+  "responses": [
+    "La dichiarazione indica che l'interlocutore non ha commesso un errore.",
+    "La frase \"Un attimo... Non ho sbagliato io\" può essere riassunta come \"In un momento... Ho fatto ciò che credevo giusto.\"",
+    "La dichiarazione implica che l'altro è colpevole di aver commesso un errore, non l'interlocutore stesso.",
+    "Nella frase \"Nel momento io non mi sono sbagliato\", l'autore afferma che nel determinato momento, non ha commesso un errore.",
+    "Nella frase \"Nel momento io non mi sono sbagliato\", l'autore afferma che nel determinato momento, non ha commesso un errore.",
+    "Nella frase \"Nel momento io non mi sono sbagliato\", l'autore afferma che nel determinato momento, non ha commesso un errore."
+  ],
+  "wer": 0.428571,
+  "u_asr": 0.302,
+  "wer_gt1": 0.428571
+}

@@ -1,0 +1,55 @@
+{
+  "transcription": "Cent'anni al re di Carviva. Va, va.",
+  "words": [
+    {
+      "word": "Cent'anni",
+      "start": 0.385,
+      "end": 0.909,
+      "confidence": 0.82
+    },
+    {
+      "word": "al",
+      "start": 0.99,
+      "end": 1.03,
+      "confidence": 0.425
+    },
+    {
+      "word": "re",
+      "start": 1.111,
+      "end": 1.252,
+      "confidence": 0.876
+    },
+    {
+      "word": "di",
+      "start": 1.292,
+      "end": 1.373,
+      "confidence": 0.481
+    },
+    {
+      "word": "Carviva.",
+      "start": 1.413,
+      "end": 2.078,
+      "confidence": 0.782
+    },
+    {
+      "word": "Va,",
+      "start": 2.26,
+      "end": 2.401,
+      "confidence": 0.583
+    },
+    {
+      "word": "va.",
+      "start": 2.441,
+      "end": 2.522,
+      "confidence": 0.392
+    }
+  ],
+  "top3": [
+    "Cent'anni al re di Carviva. Va, va.",
+    "Cent'anni al re di Carviva. Va, va.",
+    "Cent'anni al re di Carviva. Va, va."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6227142857142857,
+  "u_asr": 0.37728571428571434
+}

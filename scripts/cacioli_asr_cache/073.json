@@ -1,0 +1,61 @@
+{
+  "transcription": "che a mano a mano trovano una lanza.",
+  "words": [
+    {
+      "word": "che",
+      "start": 1.335,
+      "end": 1.396,
+      "confidence": 0.287
+    },
+    {
+      "word": "a",
+      "start": 1.456,
+      "end": 1.476,
+      "confidence": 0.755
+    },
+    {
+      "word": "mano",
+      "start": 1.536,
+      "end": 1.736,
+      "confidence": 0.69
+    },
+    {
+      "word": "a",
+      "start": 1.756,
+      "end": 1.797,
+      "confidence": 0.787
+    },
+    {
+      "word": "mano",
+      "start": 1.877,
+      "end": 2.137,
+      "confidence": 0.47
+    },
+    {
+      "word": "trovano",
+      "start": 2.298,
+      "end": 2.719,
+      "confidence": 0.63
+    },
+    {
+      "word": "una",
+      "start": 2.739,
+      "end": 2.859,
+      "confidence": 0.721
+    },
+    {
+      "word": "lanza.",
+      "start": 2.96,
+      "end": 3.401,
+      "confidence": 0.68
+    }
+  ],
+  "top3": [
+    "che a mano a mano trovano una lanza.",
+    "che a mano a mano trovano una lanza.",
+    "che a mano a mano trovando una lanza."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6275000000000001,
+  "u_asr": 0.37249999999999994
+}

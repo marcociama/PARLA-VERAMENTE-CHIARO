@@ -1,0 +1,29 @@
+{
+  "filename": "115",
+  "neapolitan_text": "A cucina piccerella fa la casa granne.",
+  "domain": "Blog",
+  "gt_variants": [
+    "La cucina piccola rende la casa grande.",
+    "Una cucina piccola fa sembrare la casa grande.",
+    "La cucina modesta rende la casa grande."
+  ],
+  "inputs": [
+    "La cucina piccola rende la casa grande.",
+    "Una cucina piccola fa sembrare la casa grande.",
+    "La cucina modesta rende la casa grande.",
+    "La cucina piccerella fa la casa grande.",
+    "La cucina piccerella fa la casa grande.",
+    "La cucina pitch red la fa a casa grande."
+  ],
+  "responses": [
+    "La frase \"La cucina piccola rende la casa grande\" implica che una cucina ben progettata e funzionale può aumentare il valore della casa, rendendola più amena e confortevole per vivere.",
+    "La cucina piccola può dare l'impressione di avere una casa spaziosa e ben arredata.",
+    "Questa frase significa che una cucina semplice e funzionale può contribuire a rendere una casa più amena e confortevole per gli abitanti.",
+    "La cucina piccherella è una tradizione culinaria tipica della Calabria, che ha contribuito a rendere famosa questa regione per i suoi piatti. La sua preparazione può dare un tocco di sapore e originalità alla tavola.",
+    "La cucina piccherella è una tradizione culinaria tipica della Calabria, che ha contribuito a rendere famosa questa regione per i suoi piatti. La sua preparazione può dare un tocco di sapore e originalità alla tavola.",
+    "La cucina Pitch Red è una ricetta casereccia, che viene preparata a casa."
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.386,
+  "wer_gt1": 0.285714
+}

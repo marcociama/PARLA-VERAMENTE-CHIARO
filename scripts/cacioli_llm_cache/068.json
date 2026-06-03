@@ -1,0 +1,29 @@
+{
+  "filename": "068",
+  "neapolitan_text": "Ma chi te cride d’essere, nu ddio? Cca dinto, ‘o vvuò capì ca simmo eguae?",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Ma chi ti credi di essere, un dio? Qui dentro, lo vuoi capire che siamo uguali?",
+    "Ma chi credi di essere, un dio? Qui dentro, vuoi capire che siamo pari?",
+    "Ma chi ti credi di essere, un dio? Qui dentro, vuoi metterti in testa che siamo uguali?"
+  ],
+  "inputs": [
+    "Ma chi ti credi di essere, un dio? Qui dentro, lo vuoi capire che siamo uguali?",
+    "Ma chi credi di essere, un dio? Qui dentro, vuoi capire che siamo pari?",
+    "Ma chi ti credi di essere, un dio? Qui dentro, vuoi metterti in testa che siamo uguali?",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali.",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali.",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali."
+  ],
+  "responses": [
+    "Non sono un dio, sono un assistente creato da un sistema informatico. Siamo tutti differenti e uguali in quanto esseri umani.",
+    "Non sono un dio, sono un assistente informatico creato per aiutarti. Siamo tutti uguali, non importa da dove veniamo o cosa facciamo.",
+    "Non sono un dio, sono un assistente creato da un sistema informatico. Sono solo programmato per aiutarti e non ho sensazioni o sentimenti personali.",
+    "Non esiste alcun criterio universale per decidere chi sia un Dio. La nozione di divinità varia a seconda delle culture e delle credenze. In generale, però, si può dire che la parità tra gli esseri umani è una caratteristica comune nella maggior parte delle religioni.",
+    "Non esiste alcun criterio universale per decidere chi sia un Dio. La nozione di divinità varia a seconda delle culture e delle credenze. In generale, però, si può dire che la parità tra gli esseri umani è una caratteristica comune nella maggior parte delle religioni.",
+    "Non esiste alcun criterio universale per decidere chi sia un Dio. La nozione di divinità varia a seconda delle culture e delle credenze. In generale, però, si può dire che la parità tra gli esseri umani è una caratteristica comune nella maggior parte delle religioni."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.358154,
+  "wer_gt1": 0.5625
+}

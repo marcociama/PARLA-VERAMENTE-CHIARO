@@ -1,0 +1,43 @@
+{
+  "transcription": "Marona, quando mi fai schifo.",
+  "words": [
+    {
+      "word": "Marona,",
+      "start": 0.833,
+      "end": 1.516,
+      "confidence": 0.641
+    },
+    {
+      "word": "quando",
+      "start": 1.536,
+      "end": 1.857,
+      "confidence": 0.813
+    },
+    {
+      "word": "mi",
+      "start": 1.897,
+      "end": 1.978,
+      "confidence": 0.622
+    },
+    {
+      "word": "fai",
+      "start": 2.018,
+      "end": 2.199,
+      "confidence": 0.733
+    },
+    {
+      "word": "schifo.",
+      "start": 2.219,
+      "end": 2.801,
+      "confidence": 0.628
+    }
+  ],
+  "top3": [
+    "Marona, quando mi fai schifo.",
+    "Marron, quando mi fai schifo.",
+    "Marron, quando mi fai schifo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6874,
+  "u_asr": 0.3126
+}

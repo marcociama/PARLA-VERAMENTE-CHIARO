@@ -1,0 +1,29 @@
+{
+  "filename": "007",
+  "neapolitan_text": "Ce ha creduto pur'isso, e ce avev' 'a credere!",
+  "domain": "Play",
+  "gt_variants": [
+    "C'ha creduto anche lui. E ci doveva credere",
+    "Anche lui ci ha creduto. E doveva crederci",
+    "C'ha creduto pure lui. E doveva crederci."
+  ],
+  "inputs": [
+    "C'ha creduto anche lui. E ci doveva credere",
+    "Anche lui ci ha creduto. E doveva crederci",
+    "C'ha creduto pure lui. E doveva crederci.",
+    "Ci ha creduto Purissa e ci aveva creduto.",
+    "Ciao a tutti e ciao a tutti.",
+    "Ciao a tutti e ciao a tutti."
+  ],
+  "responses": [
+    "Egli ha avuto la stessa opinione e aveva bisogno di credere nello stesso. (In questo contesto, \"credere\" potrebbe riferirsi a una convinzione o una fede.)",
+    "Egli aveva fiducia nella nostra affermazione e dovette farlo.",
+    "Egli ha avuto fiducia anche lui e dovette credere a noi. (Translation: He also believed and had to believe in us.)",
+    "La frase \"Ci ha creduto Purissa e ci aveva creduto\" può essere riassunta come \"Purissa ci ha creduto e ci ha fidato\".",
+    "La frase \"Ciao a tutti e ciao a tutti\" è un saluto generico rivolto a tutte le persone presenti.",
+    "La frase \"Ciao a tutti e ciao a tutti\" è un saluto generico rivolto a tutte le persone presenti."
+  ],
+  "wer": 0.75,
+  "u_asr": 0.360375,
+  "wer_gt1": 0.75
+}

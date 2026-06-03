@@ -1,0 +1,55 @@
+{
+  "transcription": "Se per la via la femmina passava.",
+  "words": [
+    {
+      "word": "Se",
+      "start": 0.944,
+      "end": 1.005,
+      "confidence": 0.804
+    },
+    {
+      "word": "per",
+      "start": 1.045,
+      "end": 1.165,
+      "confidence": 0.688
+    },
+    {
+      "word": "la",
+      "start": 1.206,
+      "end": 1.286,
+      "confidence": 0.86
+    },
+    {
+      "word": "via",
+      "start": 1.326,
+      "end": 1.446,
+      "confidence": 0.799
+    },
+    {
+      "word": "la",
+      "start": 1.507,
+      "end": 1.567,
+      "confidence": 0.929
+    },
+    {
+      "word": "femmina",
+      "start": 1.607,
+      "end": 1.948,
+      "confidence": 0.647
+    },
+    {
+      "word": "passava.",
+      "start": 2.009,
+      "end": 2.551,
+      "confidence": 0.868
+    }
+  ],
+  "top3": [
+    "Se per la via la femmina passava.",
+    "se per la via la femmina passava.",
+    "Se per la via la femmina passava."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7992857142857144,
+  "u_asr": 0.20071428571428562
+}

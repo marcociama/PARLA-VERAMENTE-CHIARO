@@ -1,0 +1,49 @@
+{
+  "transcription": "E questo capisci tu, i denari.",
+  "words": [
+    {
+      "word": "E",
+      "start": 0.172,
+      "end": 0.213,
+      "confidence": 0.31
+    },
+    {
+      "word": "questo",
+      "start": 0.293,
+      "end": 0.596,
+      "confidence": 0.535
+    },
+    {
+      "word": "capisci",
+      "start": 0.657,
+      "end": 1.101,
+      "confidence": 0.835
+    },
+    {
+      "word": "tu,",
+      "start": 1.161,
+      "end": 1.242,
+      "confidence": 0.355
+    },
+    {
+      "word": "i",
+      "start": 1.424,
+      "end": 1.464,
+      "confidence": 0.957
+    },
+    {
+      "word": "denari.",
+      "start": 1.525,
+      "end": 1.989,
+      "confidence": 0.68
+    }
+  ],
+  "top3": [
+    "E questo capisci tu, i denari.",
+    "E questo capisci tu, i denari.",
+    "E questo capisci tu, i denari."
+  ],
+  "language": "it",
+  "mean_confidence": 0.612,
+  "u_asr": 0.388
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "043",
+  "neapolitan_text": "Filume', tu afforza me vuo pògnere?",
+  "domain": "Play",
+  "gt_variants": [
+    "Filomena, tu per forza mi vuoi pungere?",
+    "Filomena, tu a tutti i costi mi vuoi pungere?",
+    "Filomena, tu per forza mi vuoi ferire?"
+  ],
+  "inputs": [
+    "Filomena, tu per forza mi vuoi pungere?",
+    "Filomena, tu a tutti i costi mi vuoi pungere?",
+    "Filomena, tu per forza mi vuoi ferire?",
+    "Filome, è tua forza ma vuoi buonare?",
+    "Filome, è tua forza ma va buonera.",
+    "Filome, è tua forza ma vuoi buonare?"
+  ],
+  "responses": [
+    "La frase implica che Filomena potrebbe voler mordermi o pungermi.",
+    "La frase indica che Filomena desidera ferire o pungere l'altro interlocutore con forza.",
+    "La frase implica che Filomena potrebbe voler ferirlo, forzatamente.",
+    "La frase indica che Filome ha una qualità o capacità particolare (sua \"forza\"), ma l'interlocutore chiede se vuole mostrarla o migliorarla (\"buonare\").",
+    "La frase \"Filome, è tua forza ma va buonera\" significa che la tua abilità o talento (Filome) è una forza positiva, ma bisogna usarla con prudenza e rispetto.",
+    "La frase indica che Filome ha una qualità o capacità particolare (sua \"forza\"), ma l'interlocutore chiede se vuole mostrarla o migliorarla (\"buonare\")."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.385286,
+  "wer_gt1": 0.714286
+}

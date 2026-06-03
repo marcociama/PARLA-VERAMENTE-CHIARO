@@ -1,0 +1,55 @@
+{
+  "transcription": "Chi è capace di morire di osito?",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.377,
+      "end": 0.519,
+      "confidence": 0.681
+    },
+    {
+      "word": "è",
+      "start": 0.58,
+      "end": 0.6,
+      "confidence": 0.009
+    },
+    {
+      "word": "capace",
+      "start": 0.641,
+      "end": 1.17,
+      "confidence": 0.671
+    },
+    {
+      "word": "di",
+      "start": 1.19,
+      "end": 1.231,
+      "confidence": 0.0
+    },
+    {
+      "word": "morire",
+      "start": 1.251,
+      "end": 1.495,
+      "confidence": 0.366
+    },
+    {
+      "word": "di",
+      "start": 1.536,
+      "end": 1.637,
+      "confidence": 0.414
+    },
+    {
+      "word": "osito?",
+      "start": 1.698,
+      "end": 2.125,
+      "confidence": 0.788
+    }
+  ],
+  "top3": [
+    "Chi è capace di morire di osito?",
+    "Chi lo capisce morirà.",
+    "Chi è capace di morire così?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.4184285714285715,
+  "u_asr": 0.5815714285714285
+}

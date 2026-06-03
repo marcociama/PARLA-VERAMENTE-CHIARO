@@ -1,0 +1,49 @@
+{
+  "transcription": "Chi è l'uomo? Chi è l'uomo?",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.031,
+      "end": 0.092,
+      "confidence": 0.024
+    },
+    {
+      "word": "è",
+      "start": 0.112,
+      "end": 0.132,
+      "confidence": 0.001
+    },
+    {
+      "word": "l'uomo?",
+      "start": 0.214,
+      "end": 0.457,
+      "confidence": 0.281
+    },
+    {
+      "word": "Chi",
+      "start": 0.478,
+      "end": 0.559,
+      "confidence": 0.652
+    },
+    {
+      "word": "è",
+      "start": 0.579,
+      "end": 0.599,
+      "confidence": 0.0
+    },
+    {
+      "word": "l'uomo?",
+      "start": 0.66,
+      "end": 1.046,
+      "confidence": 0.64
+    }
+  ],
+  "top3": [
+    "Chi è l'uomo? Chi è l'uomo?",
+    "Chi è l'uomo? Chi è l'uomo?",
+    "Chi è l'uomo? Chi è l'uomo?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.26633333333333337,
+  "u_asr": 0.7336666666666667
+}

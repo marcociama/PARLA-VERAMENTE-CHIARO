@@ -1,0 +1,43 @@
+{
+  "transcription": "Era tenuto per galle razza.",
+  "words": [
+    {
+      "word": "Era",
+      "start": 0.726,
+      "end": 0.868,
+      "confidence": 0.262
+    },
+    {
+      "word": "tenuto",
+      "start": 0.908,
+      "end": 1.151,
+      "confidence": 0.297
+    },
+    {
+      "word": "per",
+      "start": 1.211,
+      "end": 1.353,
+      "confidence": 0.323
+    },
+    {
+      "word": "galle",
+      "start": 1.393,
+      "end": 1.676,
+      "confidence": 0.593
+    },
+    {
+      "word": "razza.",
+      "start": 1.757,
+      "end": 2.201,
+      "confidence": 0.723
+    }
+  ],
+  "top3": [
+    "Era tenuto per galle razza.",
+    "Era tenuto per galle razza.",
+    "Era tenuto per galle razza."
+  ],
+  "language": "it",
+  "mean_confidence": 0.4396,
+  "u_asr": 0.5604
+}

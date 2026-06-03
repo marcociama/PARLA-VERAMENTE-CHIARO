@@ -1,0 +1,29 @@
+{
+  "filename": "086",
+  "neapolitan_text": "Tutte le bon’ausanze so’ lassate!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Tutte le buone usanze sono state abbandonate!",
+    "Tutte le buone abitudini sono andate perdute!",
+    "Tutte le sane consuetudini sono ormai lasciate indietro!"
+  ],
+  "inputs": [
+    "Tutte le buone usanze sono state abbandonate!",
+    "Tutte le buone abitudini sono andate perdute!",
+    "Tutte le sane consuetudini sono ormai lasciate indietro!",
+    "Tutte le buone usanze sono passate.",
+    "Tutte le buone usanze sono passate.",
+    "Tutte le buone usanze sono passate."
+  ],
+  "responses": [
+    "Tutte le buone abitudini sono state interrotte o abbandonate!",
+    "Tutte le buone abitudini che si hanno solitamente sono scomparse o non vengono più mantenute.",
+    "Le antiche abitudini sane sono state superate o ormai non si applicano più!",
+    "Tutte le buone abitudini del passato sono scomparse. (L'affermazione implica che non ci sono più buone abitudini presenti.)",
+    "Tutte le buone abitudini del passato sono scomparse. (L'affermazione implica che non ci sono più buone abitudini presenti.)",
+    "Tutte le buone abitudini del passato sono scomparse. (L'affermazione implica che non ci sono più buone abitudini presenti.)"
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.236833,
+  "wer_gt1": 0.285714
+}

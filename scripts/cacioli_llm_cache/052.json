@@ -1,0 +1,29 @@
+{
+  "filename": "052",
+  "neapolitan_text": "panzera, lanza longa e toracone,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Pancione, lancia lunga e toracione",
+    "Panza grossa, lancia lunga e torace grande",
+    "Pancione, asta lunga e torace massiccio"
+  ],
+  "inputs": [
+    "Pancione, lancia lunga e toracione",
+    "Panza grossa, lancia lunga e torace grande",
+    "Pancione, asta lunga e torace massiccio",
+    "Panzer, Lanzalong e Torracor.",
+    "Panzer, Lanzalong e Torracor.",
+    "Panzer, Lanzalong e Torracor."
+  ],
+  "responses": [
+    "Il \"pancione\" è una parte del corpo di un animale simile a un maiale, la \"lancia lunga\" potrebbe riferirsi ad oggetti come armi o strumenti lunghi, mentre il \"toracione\" rappresenta la parte superiore del torso, cioè la zona compresa tra le spalle e il petto.",
+    "Rappresenta una descrizione di un drago, con il corpo grosso (panza), la coda lunga (lancia) e il petto ampio (torace grande).",
+    "Il pancione è una parte anatomica del corpo di un animale simile ad un sacco gonfiabile, come quello dei maiali o dei cinghiali. L'asta lunga e il torace massiccio fanno pensare a un animale terrestre come un elefante o un rinoceronte.",
+    "I Panzer, Lanzalong e Torracor sono tre tipi di armi bianche medievali tedesche, rispettivamente una spada, un lancia e un martello.",
+    "I Panzer, Lanzalong e Torracor sono tre tipi di armi bianche medievali tedesche, rispettivamente una spada, un lancia e un martello.",
+    "I Panzer, Lanzalong e Torracor sono tre tipi di armi bianche medievali tedesche, rispettivamente una spada, un lancia e un martello."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.22675,
+  "wer_gt1": 0.8
+}

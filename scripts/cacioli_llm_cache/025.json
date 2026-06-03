@@ -1,0 +1,29 @@
+{
+  "filename": "025",
+  "neapolitan_text": "Che te cride ca nun l'avevo capito?",
+  "domain": "Play",
+  "gt_variants": [
+    "Che ti credi, che non l'avevo capito?",
+    "Che pensi, che non l'avevo capito?",
+    "Che ti immagini, che non l'avevo capito?"
+  ],
+  "inputs": [
+    "Che ti credi, che non l'avevo capito?",
+    "Che pensi, che non l'avevo capito?",
+    "Che ti immagini, che non l'avevo capito?",
+    "Questa critica non l'aveva capita.",
+    "Questa critica non l'aveva capita.",
+    "Questa critica non l'aveva capita."
+  ],
+  "responses": [
+    "Mi dispiace se ho difficoltà a farlo chiaro. Potresti ripetere la domanda o il testo su cui stai lavorando?",
+    "Potrebbe essere utile che tu ripeta o spieghi meglio la parte che non hai capito.",
+    "Non ho capito bene la tua domanda. Potresti chiarire meglio il tema o il contesto?",
+    "La critica non ha compreso il significato della opera.",
+    "La critica non ha compreso il significato della opera.",
+    "La critica non ha compreso il significato della opera."
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.3646,
+  "wer_gt1": 0.857143
+}

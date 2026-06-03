@@ -1,0 +1,29 @@
+{
+  "filename": "032",
+  "neapolitan_text": "Ma pecché, tu murive e io nun avev' 'a magnà cchiu?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma perché, tu morivi e io non dovevo mangiare più?",
+    "M perché, tu crepavi e io non dovevo mangiare più?",
+    "Ma perché, tu trapassavi e io non dovevo mangiare più?"
+  ],
+  "inputs": [
+    "Ma perché, tu morivi e io non dovevo mangiare più?",
+    "M perché, tu crepavi e io non dovevo mangiare più?",
+    "Ma perché, tu trapassavi e io non dovevo mangiare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più."
+  ],
+  "responses": [
+    "La frase implica che la morte dell'altro ha reso necessario che l'interlocutore non mangiasse più. In altre parole, il morto era una fonte di cibo per l'interlocutore e ora che è morto, quest'ultimo non può più nutrirsi da lui.",
+    "La frase implica che l'azione di rompersi (crepare) da parte di qualcuno ha impedito all'altro di mangiare ulteriormente.",
+    "La frase implica che l'autore si lamenta del fatto che qualcuno è morto (trapassato), pertanto egli non può più mangiare.",
+    "Perché tu muoivi e io non dovrò più lavarti più? (Traduzione letterale)",
+    "Perché tu muoivi e io non dovrò più lavarti più? (Traduzione letterale)",
+    "La frase implica che l'autore non dovrà più dover lavare la persona morta."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.369,
+  "wer_gt1": 0.5
+}

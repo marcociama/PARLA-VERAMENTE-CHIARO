@@ -1,0 +1,55 @@
+{
+  "transcription": "Filome, è tua forza ma vuoi buonare?",
+  "words": [
+    {
+      "word": "Filome,",
+      "start": 1.037,
+      "end": 1.48,
+      "confidence": 0.713
+    },
+    {
+      "word": "è",
+      "start": 1.864,
+      "end": 1.884,
+      "confidence": 0.564
+    },
+    {
+      "word": "tua",
+      "start": 2.005,
+      "end": 2.207,
+      "confidence": 0.71
+    },
+    {
+      "word": "forza",
+      "start": 2.328,
+      "end": 2.691,
+      "confidence": 0.852
+    },
+    {
+      "word": "ma",
+      "start": 2.751,
+      "end": 2.832,
+      "confidence": 0.342
+    },
+    {
+      "word": "vuoi",
+      "start": 2.872,
+      "end": 2.973,
+      "confidence": 0.576
+    },
+    {
+      "word": "buonare?",
+      "start": 3.054,
+      "end": 3.518,
+      "confidence": 0.546
+    }
+  ],
+  "top3": [
+    "Filome, è tua forza ma vuoi buonare?",
+    "Filome, è tua forza ma va buonera.",
+    "Filome, è tua forza ma vuoi buonare?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6147142857142857,
+  "u_asr": 0.38528571428571434
+}

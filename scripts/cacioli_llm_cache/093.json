@@ -1,0 +1,29 @@
+{
+  "filename": "093",
+  "neapolitan_text": "cchiù ghianche e rosse che le mmela-diece",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Più bianche e rosse che le mele annurche",
+    "Più bianche e rosse che le mele a dieci",
+    "Più bianche e rosse di una mela annurca"
+  ],
+  "inputs": [
+    "Più bianche e rosse che le mele annurche",
+    "Più bianche e rosse che le mele a dieci",
+    "Più bianche e rosse di una mela annurca",
+    "Che le ghiance rose che maledice.",
+    "Che le ghiance rose che maledice.",
+    "Che le ghiance rose che maledice."
+  ],
+  "responses": [
+    "Le parole fanno riferimento a un tipo di mela, precisamente alle Annurca, che sono note per la loro colorazione bianca e rossastra.",
+    "Le parole \"più bianche e rosse\" richiamano probabilmente i colori della carne e del sangue, non sembra riferirsi a mele o frutta. Tuttavia, la frase \"a dieci\" potrebbe essere un riferimento alla canzone \"O Sole Mio\", dove si canta di donne \"più bianche che la neve e rosse come il sangue\".",
+    "La frase fa riferimento a un colore, precisamente al rosso e al bianco. Non è possibile identificare un oggetto specifico in base alla descrizione data.",
+    "Le ghiance rosse sono simboli di potere e prosperità nella mitologia celtica. Tuttavia, nel contesto della frase, sembra riferirsi ad una maledizione.",
+    "Le ghiance rosse sono simboli di potere e prosperità nella mitologia celtica. Tuttavia, nel contesto della frase, sembra riferirsi ad una maledizione.",
+    "Le ghiance rosse sono simboli di potere e prosperità nella mitologia celtica. Tuttavia, nel contesto della frase, sembra riferirsi ad una maledizione."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.372333,
+  "wer_gt1": 0.875
+}

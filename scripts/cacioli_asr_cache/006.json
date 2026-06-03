@@ -1,0 +1,43 @@
+{
+  "transcription": "ovviere che non sapeva niente.",
+  "words": [
+    {
+      "word": "ovviere",
+      "start": 1.115,
+      "end": 1.399,
+      "confidence": 0.842
+    },
+    {
+      "word": "che",
+      "start": 1.439,
+      "end": 1.521,
+      "confidence": 0.851
+    },
+    {
+      "word": "non",
+      "start": 1.561,
+      "end": 1.683,
+      "confidence": 0.884
+    },
+    {
+      "word": "sapeva",
+      "start": 1.723,
+      "end": 2.068,
+      "confidence": 0.704
+    },
+    {
+      "word": "niente.",
+      "start": 2.129,
+      "end": 2.312,
+      "confidence": 0.178
+    }
+  ],
+  "top3": [
+    "ovviere che non sapeva niente.",
+    "ovviere che non sapeva niente.",
+    "ovviere che non sapeva niente."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6918,
+  "u_asr": 0.30820000000000003
+}

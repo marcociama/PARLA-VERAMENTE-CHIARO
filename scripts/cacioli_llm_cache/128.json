@@ -1,0 +1,29 @@
+{
+  "filename": "128",
+  "neapolitan_text": "E pecché avess' 'a ji' malamente?",
+  "domain": "Play",
+  "gt_variants": [
+    "E perché dovrebbe andare male?",
+    "E per quale motivo dovrebbe andare male?",
+    "E perché mai le cose dovrebbero andare per il verso sbagliato?"
+  ],
+  "inputs": [
+    "E perché dovrebbe andare male?",
+    "E per quale motivo dovrebbe andare male?",
+    "E perché mai le cose dovrebbero andare per il verso sbagliato?",
+    "È perché avessai malamento.",
+    "È perché avessai malamento.",
+    "È perché avessai malamento."
+  ],
+  "responses": [
+    "Non dovrebbe andare male, tutto sembra essere sotto controllo.",
+    "Non dovrebbe andare male, poiché non ho informazioni su una situazione specifica.",
+    "Le cose non devono andare per il verso sbagliato perché la natura e la logica ci portano a seguire un ordine preciso.",
+    "Il motivo è che hai avuto una malattia.",
+    "Il motivo è che hai avuto una malattia.",
+    "Il motivo è che hai avuto una malattia."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.2755,
+  "wer_gt1": 0.8
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "005",
+  "neapolitan_text": "E ancora he 'a correre, ancora he 'a iettà 'o sango a capi comme se campa e se prucede 'a galantomo!",
+  "domain": "Play",
+  "gt_variants": [
+    "E ancora devi correre, devi ancora buttare il sangue e capire come si campa, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come si vive, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come vivere, e si procede a galantuomo."
+  ],
+  "inputs": [
+    "E ancora devi correre, devi ancora buttare il sangue e capire come si campa, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come si vive, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come vivere, e si procede a galantuomo.",
+    "Ancora è a correre, ancora c'è il tuo sangue a capire come si campa e si procede a gallantovere.",
+    "Ancora a correre, ancora a dare il tuo sangue, a capire come si campa e si procede a galantuolo.",
+    "Ancora è a correre, ancora c'è il tuo sangue a capire come si campa e si procede a gallantovere."
+  ],
+  "responses": [
+    "Devi continuare a correre, a lottare e a dimostrare la tua virilità, e dovresti comportarsi come un gentiluomo.",
+    "Devi continuare a correre, a sacrificarti e a comprendere come vivere e come procedere come un gentiluomo.",
+    "La frase implica che per continuare a progredire o a essere gentiluomini, è necessario ancora correre, sacrificarsi e capire come vivere.",
+    "La frase indica che ci sono ancora eventi in corso e la tua capacità di comprendere e agire per superarli continua esistendo.",
+    "Continua a combattere, continua a donare la tua vita, impara come si combatte e si procede in battaglia.",
+    "La frase indica che ci sono ancora eventi in corso e la tua capacità di comprendere e agire per superarli continua esistendo."
+  ],
+  "wer": 0.473684,
+  "u_asr": 0.404105,
+  "wer_gt1": 0.473684
+}

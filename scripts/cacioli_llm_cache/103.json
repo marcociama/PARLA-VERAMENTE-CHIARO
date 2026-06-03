@@ -1,0 +1,29 @@
+{
+  "filename": "103",
+  "neapolitan_text": "Tutte 'e cristiane nasceno libbere e pare pe degnetà e jusse; teneno cereviello e cuscienza e hanno 'a faticà ll'une cu ll'ate cu nu spireto 'e fraternetà.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Tutti gli esseri umani nascono liberi ed eguali in dignità e diritti",
+    "sono dotati di ragione e di coscienza e devono agire gli uni verso gli altri in spirito di fratellanza.",
+    "Tutti gli individui nascono liberi e uguali in dignità e diritti"
+  ],
+  "inputs": [
+    "Tutti gli esseri umani nascono liberi ed eguali in dignità e diritti",
+    "sono dotati di ragione e di coscienza e devono agire gli uni verso gli altri in spirito di fratellanza.",
+    "Tutti gli individui nascono liberi e uguali in dignità e diritti",
+    "Tutto il cristiano nasce libero e pare per dignità esso, tenendo il cervello e la coscienza e andando a faticare l'uno con l'altro con lo spirito di fraternità.",
+    "Tutto il cristiano nasce libero e pare per dignità essa, tenendo il cervello e la coscienza, e andando a faticare l'uno con l'altro con lo spirito di fraternità.",
+    "Tutto il cristiano nasce libero e pare per dignità esso, tenendo il cervello e la coscienza e andando a faticare l'uno con l'altro con lo spirito di fraternità."
+  ],
+  "responses": [
+    "Gli esseri umani hanno natura libera e pari in dignità e diritti, concetto fondamentale della Dichiarazione Universale dei Diritti Umani.",
+    "Gli esseri umani sono dotati di ragione e coscienza e dovrebbero agire reciprocamente con spirito di solidarietà e amicizia.",
+    "Gli individui hanno diritto a essere liberi e uguali in dignità, come affermato nella Dichiarazione dei Diritti dell'Uomo.",
+    "Il cristianesimo insegna che ogni persona nasce libera e dignitosa. L'obiettivo è lavorare insieme con spirito di fratellanza.",
+    "Il cristianesimo insegna che ogni persona nasce libera e dignitosa, ed è il cervello e la coscienza a determinare le azioni, basate sulla fraternità.",
+    "Il cristianesimo insegna che ogni persona nasce libera e dignitosa. L'obiettivo è lavorare insieme con spirito di fratellanza."
+  ],
+  "wer": 1.210526,
+  "u_asr": 0.417036,
+  "wer_gt1": 2.25
+}

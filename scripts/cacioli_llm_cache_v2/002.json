@@ -1,0 +1,29 @@
+{
+  "filename": "002",
+  "neapolitan_text": "E chesto capisce tu: 'e denare!",
+  "domain": "Play",
+  "gt_variants": [
+    "E questo capisci tu. I denari",
+    "E questo capisci tu, il denaro",
+    "Questo tu capisci: il denaro."
+  ],
+  "inputs": [
+    "E questo capisci tu. I denari",
+    "E questo capisci tu, il denaro",
+    "Questo tu capisci: il denaro.",
+    "E questo capisci tu, i denari.",
+    "E questo capisci tu, i denari.",
+    "E questo capisci tu, i denari."
+  ],
+  "responses": [
+    "Questa affermazione indica che l'interlocutore chiede se la persona a cui parla riesce ad apprendere o comprenderlo, e si riferisce ai soldi.",
+    "Questa affermazione indica che si sta parlando del denaro.",
+    "La frase indica che l'argomento discusso è il denaro, e l'interlocutore chiede se la persona a cui si rivolge lo comprenda.",
+    "Questa affermazione significa \"E questo ti capisci, il denaro.\" In altre parole, l'affermazione indica che qualcosa è facile da comprendere per chi ha denaro o ricchezza.",
+    "Questa affermazione significa \"E questo ti capisci, il denaro.\" In altre parole, l'affermazione indica che qualcosa è facile da comprendere per chi ha denaro o ricchezza.",
+    "Questa affermazione significa \"E questo ti capisci, il denaro.\" In altre parole, l'affermazione indica che qualcosa è facile da comprendere per chi ha denaro o ricchezza."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.388,
+  "wer_gt1": 0.333333
+}

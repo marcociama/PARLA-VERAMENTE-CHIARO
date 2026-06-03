@@ -1,0 +1,55 @@
+{
+  "transcription": "In denare, e non te la regalite.",
+  "words": [
+    {
+      "word": "In",
+      "start": 1.263,
+      "end": 1.303,
+      "confidence": 0.436
+    },
+    {
+      "word": "denare,",
+      "start": 1.343,
+      "end": 1.785,
+      "confidence": 0.677
+    },
+    {
+      "word": "e",
+      "start": 2.208,
+      "end": 2.248,
+      "confidence": 0.489
+    },
+    {
+      "word": "non",
+      "start": 2.288,
+      "end": 2.409,
+      "confidence": 0.805
+    },
+    {
+      "word": "te",
+      "start": 2.449,
+      "end": 2.55,
+      "confidence": 0.692
+    },
+    {
+      "word": "la",
+      "start": 2.59,
+      "end": 2.63,
+      "confidence": 0.478
+    },
+    {
+      "word": "regalite.",
+      "start": 2.711,
+      "end": 3.354,
+      "confidence": 0.653
+    }
+  ],
+  "top3": [
+    "In denare, e non te la regalite.",
+    "E denare, e non te la regalite.",
+    "E denare, e non te la regalite."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6042857142857143,
+  "u_asr": 0.3957142857142857
+}

@@ -1,0 +1,37 @@
+{
+  "transcription": "Taggia fatta a servo.",
+  "words": [
+    {
+      "word": "Taggia",
+      "start": 1.165,
+      "end": 1.509,
+      "confidence": 0.528
+    },
+    {
+      "word": "fatta",
+      "start": 1.55,
+      "end": 1.833,
+      "confidence": 0.864
+    },
+    {
+      "word": "a",
+      "start": 1.854,
+      "end": 1.874,
+      "confidence": 0.139
+    },
+    {
+      "word": "servo.",
+      "start": 1.935,
+      "end": 2.34,
+      "confidence": 0.615
+    }
+  ],
+  "top3": [
+    "Taggia fatta a servo.",
+    "Taggia fatta serva.",
+    "Taggia fatta serva."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5365,
+  "u_asr": 0.4635
+}

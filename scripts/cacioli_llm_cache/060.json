@@ -1,0 +1,29 @@
+{
+  "filename": "060",
+  "neapolitan_text": "le dicevano: “Ddio la benedica!”.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Le dicevano: 'Dio la benedica!'",
+    "Le dicevano: 'Che Dio la benedica!'",
+    "Le venivano a dire: 'Dio la benedica!'"
+  ],
+  "inputs": [
+    "Le dicevano: 'Dio la benedica!'",
+    "Le dicevano: 'Che Dio la benedica!'",
+    "Le venivano a dire: 'Dio la benedica!'",
+    "La dicevano Dio la benedica.",
+    "ricevono Dio la benedica.",
+    "La dicevano Dio la benedica."
+  ],
+  "responses": [
+    "La frase significa \"Gli dicevano: 'Dio ti benedica!'\"",
+    "La frase significa \"Pregate per lei\" o \"Dio la benedica\".",
+    "Grazie per il complimento! La mia opera è un'opera d'arte e mi piace pensare che possa essere considerata come qualcosa di sacro.",
+    "Questa frase fa riferimento a una preghiera cristiana, precisamente alla benedizione del Padre nostro. \"La\" si riferisce probabilmente al pane e \"Dio la benedica\" è la parte della preghiera in cui si chiede che il pane sia benedetto da Dio.",
+    "La frase \"ricevono Dio la benedica\" è un'espressione di preghiera che significa \"Dio li benedica\".",
+    "Questa frase fa riferimento a una preghiera cristiana, precisamente alla benedizione del Padre nostro. \"La\" si riferisce probabilmente al pane e \"Dio la benedica\" è la parte della preghiera in cui si chiede che il pane sia benedetto da Dio."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.232,
+  "wer_gt1": 0.8
+}

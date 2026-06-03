@@ -1,0 +1,61 @@
+{
+  "transcription": "O vieti a chi lo tiene per zetella.",
+  "words": [
+    {
+      "word": "O",
+      "start": 1.119,
+      "end": 1.139,
+      "confidence": 0.866
+    },
+    {
+      "word": "vieti",
+      "start": 1.18,
+      "end": 1.485,
+      "confidence": 0.543
+    },
+    {
+      "word": "a",
+      "start": 1.546,
+      "end": 1.567,
+      "confidence": 0.964
+    },
+    {
+      "word": "chi",
+      "start": 1.648,
+      "end": 1.75,
+      "confidence": 0.562
+    },
+    {
+      "word": "lo",
+      "start": 1.832,
+      "end": 1.893,
+      "confidence": 0.312
+    },
+    {
+      "word": "tiene",
+      "start": 1.933,
+      "end": 2.157,
+      "confidence": 0.47
+    },
+    {
+      "word": "per",
+      "start": 2.219,
+      "end": 2.381,
+      "confidence": 0.732
+    },
+    {
+      "word": "zetella.",
+      "start": 2.524,
+      "end": 3.033,
+      "confidence": 0.652
+    }
+  ],
+  "top3": [
+    "O vieti a chi lo tiene per zetella.",
+    "ovecchi a chi lo tiene per zetella.",
+    "ovecchi a chi lo tiene per zetella."
+  ],
+  "language": "it",
+  "mean_confidence": 0.637625,
+  "u_asr": 0.362375
+}

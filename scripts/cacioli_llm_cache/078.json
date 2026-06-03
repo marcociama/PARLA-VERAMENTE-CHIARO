@@ -1,0 +1,29 @@
+{
+  "filename": "078",
+  "neapolitan_text": "co le brache stringate e ‘n jopponciello.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con le braghe strette e un giubboncino",
+    "Con i calzoni attillati e un piccolo giubbetto",
+    "Con le braghe a coscia e un giubbetto di panno"
+  ],
+  "inputs": [
+    "Con le braghe strette e un giubboncino",
+    "Con i calzoni attillati e un piccolo giubbetto",
+    "Con le braghe a coscia e un giubbetto di panno",
+    "Che i braga stringate e ne appungierlo.",
+    "Che braga stringata e gnappunciello.",
+    "Che i braga stringate e ne appungirlo."
+  ],
+  "responses": [
+    "Indossa i pantaloni stretti e una giubba corta.",
+    "Indossa una divisa sportiva informale o casual.",
+    "Il testo descrive una persona vestita con una camicia aperta e una giubba di tela.",
+    "Le bretelle strette e appuntite servono per chiudere meglio il vestito o l'abbigliamento.",
+    "La frase \"Che braga stringata e gnappunciello\" sembra essere una descrizione di qualcosa che è stretto e serrato, come un cinturino o un guanto. Il termine \"gnappunciello\" potrebbe riferirsi a qualcosa che ha un aspetto irregolare o non perfetto.",
+    "Le bretelle strette e legate con cordini."
+  ],
+  "wer": 0.75,
+  "u_asr": 0.421429,
+  "wer_gt1": 0.857143
+}

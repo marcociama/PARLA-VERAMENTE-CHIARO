@@ -1,0 +1,37 @@
+{
+  "transcription": "Vi renavola il pomore.",
+  "words": [
+    {
+      "word": "Vi",
+      "start": 0.608,
+      "end": 0.669,
+      "confidence": 0.722
+    },
+    {
+      "word": "renavola",
+      "start": 0.689,
+      "end": 1.135,
+      "confidence": 0.594
+    },
+    {
+      "word": "il",
+      "start": 1.175,
+      "end": 1.236,
+      "confidence": 0.613
+    },
+    {
+      "word": "pomore.",
+      "start": 1.297,
+      "end": 1.823,
+      "confidence": 0.748
+    }
+  ],
+  "top3": [
+    "Vi renavola il pomore.",
+    "Viranabla e Pomor.",
+    "Viranable Pomor."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6692499999999999,
+  "u_asr": 0.3307500000000001
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "056",
+  "neapolitan_text": "co chillo doce vivere a l’antica!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con quel dolce vivere all'antica!",
+    "Con quel dolce modo di vivere di una volta!",
+    "Con quel dolce vivere secondo l'usanza antica!"
+  ],
+  "inputs": [
+    "Con quel dolce vivere all'antica!",
+    "Con quel dolce modo di vivere di una volta!",
+    "Con quel dolce vivere secondo l'usanza antica!",
+    "Cucchillo dove si vive l'antica.",
+    "Occhillo dove si vive l'antica.",
+    "Un chilo dove si vive l'antica."
+  ],
+  "responses": [
+    "Vivere con la semplice e antica gioia della vita!",
+    "Con quell'antico stile di vita tranquillo e gioioso!",
+    "Vivi con quella antica abitudine dolcemente!",
+    "La frase \"Cucchillo dove si vive l'antica\" può essere riassunta come \"Luogo dove si vive in modo antico\".",
+    "L'affermazione indica un occhio, o punto di vista, che offre una visione della vita antica.",
+    "La frase \"Un chilo dove si vive l'antica\" può essere riassunta come \"Una località che conserva la tradizione antica\"."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.3808,
+  "wer_gt1": 1.0
+}

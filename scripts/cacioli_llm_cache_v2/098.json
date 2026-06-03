@@ -1,0 +1,29 @@
+{
+  "filename": "098",
+  "neapolitan_text": "Melito 'e Napule (ditto Mêlito d''a ggente) è nu comune 'e 38.062 crestiane d''a pruvincia 'e Napule.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Melito di Napoli (detto Mêlito dalla gente) è un comune di 38.062 abitanti della provincia di Napoli.",
+    "Melito di Napoli (chiamato Mêlito dalla gente) rappresenta un comune di 38.062 persone della provincia di Napoli.",
+    "Melito di Napoli (noto come Mêlito tra la gente) è un comune di 38.062 anime della provincia di Napoli."
+  ],
+  "inputs": [
+    "Melito di Napoli (detto Mêlito dalla gente) è un comune di 38.062 abitanti della provincia di Napoli.",
+    "Melito di Napoli (chiamato Mêlito dalla gente) rappresenta un comune di 38.062 persone della provincia di Napoli.",
+    "Melito di Napoli (noto come Mêlito tra la gente) è un comune di 38.062 anime della provincia di Napoli.",
+    "Merite Napola, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli.",
+    "Merite Napoli, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli.",
+    "Merite Napola, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli."
+  ],
+  "responses": [
+    "Il comune di Melito di Napoli, noto come Mêlito dai locali, ha una popolazione di circa 38.062 abitanti e si trova nella provincia di Napoli.",
+    "Il comune di Melito di Napoli, noto anche come Mêlito dai suoi abitanti, ha una popolazione di circa 38.062 persone e fa parte della provincia di Napoli.",
+    "Melito di Napoli, noto anche come Mêlito, è un comune abitato da 38.062 persone appartenente alla provincia di Napoli.",
+    "La comunità di Merite Napola è una comune cristiana composta da circa 3.860 persone, situata nella provincia di Napoli.",
+    "La città di Napoli merita l'affermazione, essa è una comunità di circa 3.860 cristiani che appartiene alla provincia di Napoli.",
+    "La comunità di Merite Napola è una comune cristiana composta da circa 3.860 persone, situata nella provincia di Napoli."
+  ],
+  "wer": 0.631579,
+  "u_asr": 0.303118,
+  "wer_gt1": 0.647059
+}

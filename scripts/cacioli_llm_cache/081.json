@@ -1,0 +1,29 @@
+{
+  "filename": "081",
+  "neapolitan_text": "non c’era n’ommo ch’avesse parlato,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "\"Non c’era un uomo che avesse parlato",
+    "Non esisteva un uomo che avesse fiatato",
+    "Non c'era uomo che osasse parlare"
+  ],
+  "inputs": [
+    "\"Non c’era un uomo che avesse parlato",
+    "Non esisteva un uomo che avesse fiatato",
+    "Non c'era uomo che osasse parlare",
+    "Non c'era nomma che avesse parlato.",
+    "Non c'era nomma che avesse parlato.",
+    "Non c'era nomma che avesse parlato."
+  ],
+  "responses": [
+    "Il testo non menziona esplicitamente una persona femminile, pertanto non è possibile rispondere con riferimento a una donna. Tuttavia, si può affermare che non c'era nessuna persona che avesse parlato.",
+    "Il termine \"fiatare\" non è utilizzato nella lingua italiana in questo contesto. Potrebbe essere stato confuso con il verbo \"creare\", ma nel linguaggio comune non esiste una persona che abbia creato un uomo.",
+    "La frase \"Non c'era uomo che osasse parlare\" significa che non esisteva alcuno che avesse il coraggio di parlare. Questa frase è tratta dal Libro della Genesi, dove si riferisce alla paura dei figli di Israele di parlare con Mosè dopo aver visto Dio.",
+    "Nessuno sembra aver parlato.",
+    "Nessuno sembra aver parlato.",
+    "Nessuno sembra aver parlato."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.3035,
+  "wer_gt1": 0.714286
+}

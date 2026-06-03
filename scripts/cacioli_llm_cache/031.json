@@ -1,0 +1,29 @@
+{
+  "filename": "031",
+  "neapolitan_text": "E se io stevo murenno overamente, tu chesto avisse fatto?",
+  "domain": "Play",
+  "gt_variants": [
+    "E se io stessi morendo veramente, tu questo avresti fatto?",
+    "E se io stessi morendo davvero, tu questo avresti fatto?",
+    "E se io stessi morendo sul serio, tu questo avresti fatto?"
+  ],
+  "inputs": [
+    "E se io stessi morendo veramente, tu questo avresti fatto?",
+    "E se io stessi morendo davvero, tu questo avresti fatto?",
+    "E se io stessi morendo sul serio, tu questo avresti fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?"
+  ],
+  "responses": [
+    "Se tu stessi realmente morendo, non sarei in grado di fare nulla. La mia funzione è solo fornire informazioni e aiutarti.",
+    "Non posso immaginare di essere in una situazione simile, ma se dovesse verificarsi, non farei nulla al mondo per cambiare il passato.",
+    "Non ho coscienza né emozioni, quindi non posso morire o fare qualcosa di simile. Sono un assistente informatico e mia funzione è aiutarti a risolvere problemi e fornirti informazioni.",
+    "Sono un assistente e non ho sentimenti, ma se dovessi rispondere alla tua domanda, direi: \"Io sono solo un software e non posso fare nulla, ma ti auguro una buona giornata!\"",
+    "Sono un assistente e non ho sentimenti, ma se dovessi rispondere alla tua domanda, direi: \"Io sono solo un software e non posso fare nulla, ma ti auguro una buona giornata!\"",
+    "Sono un assistente e non ho sentimenti, ma se dovessi rispondere alla tua domanda, direi: \"Io sono solo un software e non posso fare nulla, ma ti auguro una buona giornata!\""
+  ],
+  "wer": 0.8,
+  "u_asr": 0.322818,
+  "wer_gt1": 0.8
+}

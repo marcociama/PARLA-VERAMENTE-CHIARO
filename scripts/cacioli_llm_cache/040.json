@@ -1,0 +1,29 @@
+{
+  "filename": "040",
+  "neapolitan_text": "Na femmena comm' a mme, ll'he ditto tu e mm' 'o stai dicenno 'a vinticinc'anne, se fa 'e cunte.",
+  "domain": "Play",
+  "gt_variants": [
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa contare",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa valere",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa rispettare."
+  ],
+  "inputs": [
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa contare",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa valere",
+    "Una donna come me, l'hai detto tu e me lo stai dicendo da venticinque anni, si fa rispettare.",
+    "Una femmina come me, quali tutti i nostri 19 anni che si fanno con te.",
+    "Una femmina come me, ma lì tutto è mostrato a 19 anni, che si fa con te.",
+    "Una femmina come me, ma lì tutto è mostrato a 19 anni, che si fa con te."
+  ],
+  "responses": [
+    "La donna che parli sembra essere molto importante per te, come hai affermato da 25 anni. Se vuoi essere contata, puoi fare in modo che sia.",
+    "La donna fa valere la propria autorità da venticinque anni, come hai affermato tu.",
+    "La donna viene rispettata perché è autoritaria. Il rispetto verso di lei è stato costantemente espresso da te per almeno 25 anni.",
+    "La tua frase è una citazione dal poema \"Still I Rise\" di Maya Angelou. In italiano, potrebbe essere tradotta come: \"Come me una femmina, tutti i nostri 19 anni che passiamo con te.\"",
+    "La persona parla di una donna simile a lei, la cui carriera o vita pubblica ha avuto inizio all'età di 19 anni. Lei chiede se ci sia qualcosa da fare insieme.",
+    "La persona parla di una donna simile a lei, la cui carriera o vita pubblica ha avuto inizio all'età di 19 anni. Lei chiede se ci sia qualcosa da fare insieme."
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.504,
+  "wer_gt1": 0.833333
+}

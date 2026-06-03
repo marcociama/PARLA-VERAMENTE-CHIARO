@@ -1,0 +1,29 @@
+{
+  "filename": "012",
+  "neapolitan_text": "E avev' 'a chiagnere pe' te?",
+  "domain": "Play",
+  "gt_variants": [
+    "E dovevo piangere per te",
+    "E avrei dovuto piangere per te",
+    "E dovevo mettermi a piangere per te."
+  ],
+  "inputs": [
+    "E dovevo piangere per te",
+    "E avrei dovuto piangere per te",
+    "E dovevo mettermi a piangere per te.",
+    "E avevo cagno di buttare.",
+    "E avevo cagno di buttare.",
+    "E avevo cagno da buttare."
+  ],
+  "responses": [
+    "La frase \"E dovevo piangere per te\" esprime profonda tristezza e affetto, indicando che qualcuno ha dovuto lamentarsi per te.",
+    "Ti dispiace aver dovuto provare dolore per me. Spero che tu possa trovare pace e serenità.",
+    "Sono triste che ti siano dolori, ma non ho bisogno che tu sii duro su sé stesso per me. Ti amo comunque sempre.",
+    "Il tuo cane ha bisogno di andare fuori a defecare.",
+    "Il tuo cane ha bisogno di andare fuori a defecare.",
+    "Il cagnolo è morto o non è più utile? In tal caso, è necessario trovare un modo appropriato per farlo seppellire."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.5048,
+  "wer_gt1": 0.8
+}

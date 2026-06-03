@@ -1,0 +1,29 @@
+{
+  "filename": "102",
+  "neapolitan_text": "O nomme Gianturco vene d''a via prencepale d''o rione: via Emanuele Gianturco.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il nome Gianturco deriva dalla via principale del rione: via Emanuele Gianturco.",
+    "Il nome Gianturco trae origine dalla strada principale del quartiere: via Emanuele Gianturco.",
+    "Il nome Gianturco proviene dalla via principale di questo rione: via Emanuele Gianturco."
+  ],
+  "inputs": [
+    "Il nome Gianturco deriva dalla via principale del rione: via Emanuele Gianturco.",
+    "Il nome Gianturco trae origine dalla strada principale del quartiere: via Emanuele Gianturco.",
+    "Il nome Gianturco proviene dalla via principale di questo rione: via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale d'Oriona, via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale d'Oriona, via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale di Oriona, via Emanuele Gianturco."
+  ],
+  "responses": [
+    "Il cognome Gianturco deriva dal nome della strada principale del rione, via Emanuele Gianturco. L'uomo che dà il nome alla via è probabilmente di quel rione.",
+    "Il cognome Gianturco deriva dal nome della principale via del quartiere, ossia via Emanuele Gianturco. Questo cognome potrebbe essere stato preso in prestito dalla strada stessa.",
+    "Via Emanuele Gianturco è la strada principale del rione Gianturco, da cui deriva il suo nome.",
+    "L'indirizzo si trova sulla via principale di Orione, chiamata via Emanuele Gianturco, in onore di un noto politico e avvocato italiano di origine siciliana.",
+    "L'indirizzo si trova sulla via principale di Orione, chiamata via Emanuele Gianturco, in onore di un noto politico e avvocato italiano di origine siciliana.",
+    "L'indirizzo si trova a Oriona, sulla via principale chiamata via Emanuele Gianturco, che è stata dedicata ad un uomo di origine Gianturco."
+  ],
+  "wer": 0.583333,
+  "u_asr": 0.2841,
+  "wer_gt1": 0.583333
+}

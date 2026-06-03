@@ -1,0 +1,29 @@
+{
+  "filename": "142",
+  "neapolitan_text": "Hann’ ‘a essere eguale tutt' 'e tre!",
+  "domain": "Play",
+  "gt_variants": [
+    "Devono essere uguali tutte e tre!",
+    "Devono essere tutte e tre uguali!",
+    "Devono tutte e tre essere uguali!"
+  ],
+  "inputs": [
+    "Devono essere uguali tutte e tre!",
+    "Devono essere tutte e tre uguali!",
+    "Devono tutte e tre essere uguali!",
+    "Hanno essere uguali tutti e tre.",
+    "Hanno essuto uguali tutti e tre.",
+    "Hanno essere uguali tutti e tre."
+  ],
+  "responses": [
+    "Le tre cose devono essere identiche.",
+    "Sì, devono essere identiche per essere uguali.",
+    "Le tre devono essere identiche per essere uguali.",
+    "Sono uguali tra di loro tutti e tre.",
+    "Tutti e tre hanno avuto la stessa cosa.",
+    "Sono uguali tra di loro tutti e tre."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.395167,
+  "wer_gt1": 0.5
+}

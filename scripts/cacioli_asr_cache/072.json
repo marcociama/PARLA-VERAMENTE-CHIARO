@@ -1,0 +1,49 @@
+{
+  "transcription": "Mio marito si aggarrò alla moglie.",
+  "words": [
+    {
+      "word": "Mio",
+      "start": 0.797,
+      "end": 0.918,
+      "confidence": 0.317
+    },
+    {
+      "word": "marito",
+      "start": 0.938,
+      "end": 1.2,
+      "confidence": 0.66
+    },
+    {
+      "word": "si",
+      "start": 1.24,
+      "end": 1.321,
+      "confidence": 0.72
+    },
+    {
+      "word": "aggarrò",
+      "start": 1.341,
+      "end": 1.703,
+      "confidence": 0.601
+    },
+    {
+      "word": "alla",
+      "start": 1.763,
+      "end": 1.904,
+      "confidence": 0.514
+    },
+    {
+      "word": "moglie.",
+      "start": 2.005,
+      "end": 2.387,
+      "confidence": 0.502
+    }
+  ],
+  "top3": [
+    "Mio marito si aggarrò alla moglie.",
+    "Un marito si aggarrò alla mogliera.",
+    "Un marito si ingarrò alla moglie."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5523333333333333,
+  "u_asr": 0.44766666666666666
+}

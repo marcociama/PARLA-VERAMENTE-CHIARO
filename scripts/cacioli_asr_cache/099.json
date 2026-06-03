@@ -1,0 +1,313 @@
+{
+  "transcription": "Il regno di Napoli, il nuovo ufficiale regno di Sicilia e Citerone, è un uomo con cui è conosciuto lo Stato indipendente, che esisteva tra il XIII e il XIX secoli e che corrispondeva all'attuale regione e all'Italia meridionale, incluso all'Abruzzo e a parte l'Orazia, ma che lasciava fuori Sicilia.",
+  "words": [
+    {
+      "word": "Il",
+      "start": 0.945,
+      "end": 1.045,
+      "confidence": 0.3
+    },
+    {
+      "word": "regno",
+      "start": 1.085,
+      "end": 1.285,
+      "confidence": 0.241
+    },
+    {
+      "word": "di",
+      "start": 1.425,
+      "end": 1.485,
+      "confidence": 0.143
+    },
+    {
+      "word": "Napoli,",
+      "start": 1.625,
+      "end": 1.965,
+      "confidence": 0.128
+    },
+    {
+      "word": "il",
+      "start": 1.985,
+      "end": 2.025,
+      "confidence": 0.034
+    },
+    {
+      "word": "nuovo",
+      "start": 2.045,
+      "end": 2.206,
+      "confidence": 0.29
+    },
+    {
+      "word": "ufficiale",
+      "start": 2.266,
+      "end": 2.746,
+      "confidence": 0.572
+    },
+    {
+      "word": "regno",
+      "start": 2.826,
+      "end": 3.286,
+      "confidence": 0.748
+    },
+    {
+      "word": "di",
+      "start": 3.306,
+      "end": 3.526,
+      "confidence": 0.711
+    },
+    {
+      "word": "Sicilia",
+      "start": 3.586,
+      "end": 4.026,
+      "confidence": 0.749
+    },
+    {
+      "word": "e",
+      "start": 4.046,
+      "end": 4.066,
+      "confidence": 0.188
+    },
+    {
+      "word": "Citerone,",
+      "start": 4.146,
+      "end": 4.787,
+      "confidence": 0.884
+    },
+    {
+      "word": "è",
+      "start": 5.727,
+      "end": 5.787,
+      "confidence": 0.361
+    },
+    {
+      "word": "un",
+      "start": 5.867,
+      "end": 5.947,
+      "confidence": 0.654
+    },
+    {
+      "word": "uomo",
+      "start": 5.967,
+      "end": 6.427,
+      "confidence": 0.62
+    },
+    {
+      "word": "con",
+      "start": 6.628,
+      "end": 6.788,
+      "confidence": 0.634
+    },
+    {
+      "word": "cui",
+      "start": 6.988,
+      "end": 7.168,
+      "confidence": 0.907
+    },
+    {
+      "word": "è",
+      "start": 7.188,
+      "end": 7.208,
+      "confidence": 0.0
+    },
+    {
+      "word": "conosciuto",
+      "start": 7.248,
+      "end": 8.088,
+      "confidence": 0.872
+    },
+    {
+      "word": "lo",
+      "start": 8.528,
+      "end": 8.648,
+      "confidence": 0.796
+    },
+    {
+      "word": "Stato",
+      "start": 8.668,
+      "end": 9.009,
+      "confidence": 0.774
+    },
+    {
+      "word": "indipendente,",
+      "start": 9.069,
+      "end": 9.889,
+      "confidence": 0.868
+    },
+    {
+      "word": "che",
+      "start": 10.029,
+      "end": 10.109,
+      "confidence": 0.319
+    },
+    {
+      "word": "esisteva",
+      "start": 10.169,
+      "end": 10.949,
+      "confidence": 0.971
+    },
+    {
+      "word": "tra",
+      "start": 11.89,
+      "end": 12.03,
+      "confidence": 0.873
+    },
+    {
+      "word": "il",
+      "start": 12.27,
+      "end": 12.35,
+      "confidence": 0.406
+    },
+    {
+      "word": "XIII",
+      "start": 12.39,
+      "end": 13.09,
+      "confidence": 0.681
+    },
+    {
+      "word": "e",
+      "start": 13.11,
+      "end": 13.13,
+      "confidence": 0.022
+    },
+    {
+      "word": "il",
+      "start": 13.31,
+      "end": 13.491,
+      "confidence": 0.372
+    },
+    {
+      "word": "XIX",
+      "start": 13.971,
+      "end": 14.351,
+      "confidence": 0.628
+    },
+    {
+      "word": "secoli",
+      "start": 14.411,
+      "end": 14.911,
+      "confidence": 0.926
+    },
+    {
+      "word": "e",
+      "start": 15.511,
+      "end": 15.551,
+      "confidence": 0.667
+    },
+    {
+      "word": "che",
+      "start": 15.611,
+      "end": 15.692,
+      "confidence": 0.354
+    },
+    {
+      "word": "corrispondeva",
+      "start": 15.792,
+      "end": 16.612,
+      "confidence": 0.876
+    },
+    {
+      "word": "all'attuale",
+      "start": 16.632,
+      "end": 17.292,
+      "confidence": 0.854
+    },
+    {
+      "word": "regione",
+      "start": 17.392,
+      "end": 18.053,
+      "confidence": 0.858
+    },
+    {
+      "word": "e",
+      "start": 18.273,
+      "end": 18.313,
+      "confidence": 0.925
+    },
+    {
+      "word": "all'Italia",
+      "start": 18.333,
+      "end": 18.833,
+      "confidence": 0.655
+    },
+    {
+      "word": "meridionale,",
+      "start": 18.933,
+      "end": 19.573,
+      "confidence": 0.751
+    },
+    {
+      "word": "incluso",
+      "start": 19.633,
+      "end": 20.214,
+      "confidence": 0.884
+    },
+    {
+      "word": "all'Abruzzo",
+      "start": 20.234,
+      "end": 20.994,
+      "confidence": 0.78
+    },
+    {
+      "word": "e",
+      "start": 21.014,
+      "end": 21.034,
+      "confidence": 0.012
+    },
+    {
+      "word": "a",
+      "start": 21.594,
+      "end": 21.654,
+      "confidence": 0.356
+    },
+    {
+      "word": "parte",
+      "start": 21.774,
+      "end": 22.094,
+      "confidence": 0.885
+    },
+    {
+      "word": "l'Orazia,",
+      "start": 22.114,
+      "end": 22.855,
+      "confidence": 0.827
+    },
+    {
+      "word": "ma",
+      "start": 23.535,
+      "end": 23.615,
+      "confidence": 0.835
+    },
+    {
+      "word": "che",
+      "start": 23.655,
+      "end": 23.755,
+      "confidence": 0.859
+    },
+    {
+      "word": "lasciava",
+      "start": 23.875,
+      "end": 24.455,
+      "confidence": 0.749
+    },
+    {
+      "word": "fuori",
+      "start": 24.535,
+      "end": 24.916,
+      "confidence": 0.481
+    },
+    {
+      "word": "Sicilia.",
+      "start": 24.996,
+      "end": 25.556,
+      "confidence": 0.793
+    }
+  ],
+  "top3": [
+    "Il regno di Napoli, il nuovo ufficiale regno di Sicilia e Citerone, è un uomo con cui è conosciuto lo Stato indipendente, che esisteva tra il XIII e il XIX secoli e che corrispondeva all'attuale regione e all'Italia meridionale, incluso all'Abruzzo e a parte l'Orazia, ma che lasciava fuori Sicilia.",
+    "Il regno di Napoli, il nuovo ufficiale regno di Sicilia e Citerone, è un uomo con cui è conosciuto lo Stato indipendente, che esisteva tra il XIII e il XIX secoli e che corrispondeva all'attuale regione dell'Italia meridionale, incluso l'Abruzzo e parte dell'Orazia, ma che lasciava fuori Sicilia.",
+    "Il regno di Napoli, il nuovo ufficiale regno di Sicilia e Citerone, è un uomo con cui è conosciuto lo Stato indipendente, che esisteva tra il XIII e il XIX secoli e che corrispondeva all'attuale regione dell'Italia meridionale, incluso l'Abruzzo e partono razze, ma che lasciava fuori Sicilia."
+  ],
+  "language": "it",
+  "mean_confidence": 0.60146,
+  "u_asr": 0.39854
+}

@@ -1,0 +1,67 @@
+{
+  "transcription": "C'è un taccio luzzo e un tronco di figa.",
+  "words": [
+    {
+      "word": "C'è",
+      "start": 1.519,
+      "end": 1.579,
+      "confidence": 0.334
+    },
+    {
+      "word": "un",
+      "start": 1.6,
+      "end": 1.68,
+      "confidence": 0.38
+    },
+    {
+      "word": "taccio",
+      "start": 1.741,
+      "end": 2.083,
+      "confidence": 0.734
+    },
+    {
+      "word": "luzzo",
+      "start": 2.164,
+      "end": 2.688,
+      "confidence": 0.783
+    },
+    {
+      "word": "e",
+      "start": 2.889,
+      "end": 2.929,
+      "confidence": 0.516
+    },
+    {
+      "word": "un",
+      "start": 2.97,
+      "end": 3.071,
+      "confidence": 0.516
+    },
+    {
+      "word": "tronco",
+      "start": 3.131,
+      "end": 3.514,
+      "confidence": 0.782
+    },
+    {
+      "word": "di",
+      "start": 3.534,
+      "end": 3.615,
+      "confidence": 0.294
+    },
+    {
+      "word": "figa.",
+      "start": 3.675,
+      "end": 4.038,
+      "confidence": 0.707
+    }
+  ],
+  "top3": [
+    "C'è un taccio luzzo e un tronco di figa.",
+    "Centaccioluzza e nutronchefica.",
+    "Centaccioluzza e nutronchefica."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5606666666666666,
+  "u_asr": 0.43933333333333335
+}

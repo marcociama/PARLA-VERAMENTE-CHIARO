@@ -1,0 +1,29 @@
+{
+  "filename": "072",
+  "neapolitan_text": "Lo marito sì ccaro a la mogliera,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Il marito sì caro alla moglie",
+    "Il marito così caro alla moglie",
+    "Il marito è molto amato dalla moglie"
+  ],
+  "inputs": [
+    "Il marito sì caro alla moglie",
+    "Il marito così caro alla moglie",
+    "Il marito è molto amato dalla moglie",
+    "Mio marito si aggarrò alla moglie.",
+    "Un marito si aggarrò alla mogliera.",
+    "Un marito si ingarrò alla moglie."
+  ],
+  "responses": [
+    "La moglie ama molto il marito.",
+    "La moglie ama molto il marito.",
+    "La moglie ama molto il marito.",
+    "La mia moglie è stata tenuta a forza da mio marito.",
+    "Il marito ha tenuto strettamente la moglie.",
+    "Il marito si preoccupò particolarmente per la moglie."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.447667,
+  "wer_gt1": 0.666667
+}

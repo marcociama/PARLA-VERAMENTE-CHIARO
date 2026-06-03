@@ -1,0 +1,29 @@
+{
+  "filename": "062",
+  "neapolitan_text": "Chi te pienze che ssia? Monna Maruzza.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Chi ti pensi che sia? Monna Maruzza",
+    "Chi credi che sia? Monna Maruzza",
+    "Chi t'immagini che sia? Monna Maruzza"
+  ],
+  "inputs": [
+    "Chi ti pensi che sia? Monna Maruzza",
+    "Chi credi che sia? Monna Maruzza",
+    "Chi t'immagini che sia? Monna Maruzza",
+    "Chi ti pensa che sì, nonna Maruzzo?",
+    "Chi ti pensa che si? Nonna Maruzzo?",
+    "Chi ti pensa che si? Nonna Maruzzo?"
+  ],
+  "responses": [
+    "La frase \"Chi ti pensi che sia? Monna Maruzza\" vuol dire \"Chi crede che tu sia? Monna Maruzza\". In altre parole, si chiede chi qualcuno ritiene che l'individuo sia, facendo riferimento a una persona di nome Monna Maruzza.",
+    "La frase \"Chi credi che sia? Monna Maruzza\" indica chi si riferisce a Monna Maruzza, chiedendo a qualcuno di identificarla.",
+    "La frase \"Chi t'immagini che sia? Monna Maruzza\" vuole dire \"Chi ti immagina che sia? È Monna Maruzza?\" e si riferisce a qualcuno che chiede chi è l'identità di una persona, in questo caso Monna Maruzza.",
+    "La frase indica che qualcuno ha pensato sì a chi cercava conferma. In questo caso, \"chi\" si riferisce a qualcuno che ha dato una risposta affermativa alla domanda di chiunque stesse chiedendo qualcosa a nonna Maruzzo.",
+    "La frase indica che qualcuno ha pensato a Nonna Maruzzo (o al suo parere).",
+    "La frase indica che qualcuno ha pensato a Nonna Maruzzo (o al suo parere)."
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.306857,
+  "wer_gt1": 0.571429
+}

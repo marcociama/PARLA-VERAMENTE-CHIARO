@@ -1,0 +1,29 @@
+{
+  "filename": "039",
+  "neapolitan_text": "Ma io nun te curo, nun t'aggio maie curato.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma io non ti curo. Non ti ho mai curato",
+    "Ma io non ti bado, non ti ho mai badato",
+    "Ma io non ti considero, non ti ho mai considerato."
+  ],
+  "inputs": [
+    "Ma io non ti curo. Non ti ho mai curato",
+    "Ma io non ti bado, non ti ho mai badato",
+    "Ma io non ti considero, non ti ho mai considerato.",
+    "Ma io non ti curo, non ti ho mai curato.",
+    "Ma io non ti curo, non ti ho mai curato.",
+    "Ma io non ti curo, non ti ho mai curato."
+  ],
+  "responses": [
+    "Sembra che la persona stia dicendo di non aver mai preoccupato l'altro. La sua indifferenza è chiarissima.",
+    "Questa frase sembra essere una citazione dal brano musicale \"Voglio andare al mare\" di Lucio Battisti. In questo contesto, l'espressione \"non ti ho mai badato\" significica che non si ha avuto alcun tipo di relazione romantica con qualcuno.",
+    "L'interlocutore non ha mai riconosciuto o valutato te.",
+    "Sembra che la persona stia dicendo di non aver mai preoccupato l'altro.",
+    "Sembra che la persona stia dicendo di non aver mai preoccupato l'altro.",
+    "Sembra che la persona stia dicendo di non aver mai preoccupato l'altro."
+  ],
+  "wer": 0.2,
+  "u_asr": 0.3245,
+  "wer_gt1": 0.2
+}

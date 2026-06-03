@@ -1,0 +1,85 @@
+{
+  "transcription": "Tu, Bucci, non ne sai riuscire. E questo è il tuo difetto.",
+  "words": [
+    {
+      "word": "Tu,",
+      "start": 0.804,
+      "end": 0.925,
+      "confidence": 0.651
+    },
+    {
+      "word": "Bucci,",
+      "start": 0.985,
+      "end": 1.307,
+      "confidence": 0.739
+    },
+    {
+      "word": "non",
+      "start": 1.368,
+      "end": 1.489,
+      "confidence": 0.66
+    },
+    {
+      "word": "ne",
+      "start": 1.529,
+      "end": 1.61,
+      "confidence": 0.456
+    },
+    {
+      "word": "sai",
+      "start": 1.67,
+      "end": 1.831,
+      "confidence": 0.627
+    },
+    {
+      "word": "riuscire.",
+      "start": 1.892,
+      "end": 2.355,
+      "confidence": 0.636
+    },
+    {
+      "word": "E",
+      "start": 2.658,
+      "end": 2.718,
+      "confidence": 0.524
+    },
+    {
+      "word": "questo",
+      "start": 2.799,
+      "end": 3.0,
+      "confidence": 0.513
+    },
+    {
+      "word": "è",
+      "start": 3.021,
+      "end": 3.041,
+      "confidence": 0.0
+    },
+    {
+      "word": "il",
+      "start": 3.061,
+      "end": 3.101,
+      "confidence": 0.418
+    },
+    {
+      "word": "tuo",
+      "start": 3.121,
+      "end": 3.202,
+      "confidence": 0.139
+    },
+    {
+      "word": "difetto.",
+      "start": 3.242,
+      "end": 3.585,
+      "confidence": 0.847
+    }
+  ],
+  "top3": [
+    "Tu, Bucci, non ne sai riuscire. E questo è il tuo difetto.",
+    "Tu, Buccio, non ne sai riuscire. È questo il difetto tuo?",
+    "Tu Buccia non ne sai riuscire, è questo il difetto tuo?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.5175000000000001,
+  "u_asr": 0.48249999999999993
+}

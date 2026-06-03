@@ -1,0 +1,29 @@
+{
+  "filename": "085",
+  "neapolitan_text": "“Chillo che passa mo, chill’è lo zito!”",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quello che passa ora, quello è lo sposo!",
+    "Quello che sta passando adesso, proprio lui è lo sposo!",
+    "Quello che passa ora, è lui lo sposo!"
+  ],
+  "inputs": [
+    "Quello che passa ora, quello è lo sposo!",
+    "Quello che sta passando adesso, proprio lui è lo sposo!",
+    "Quello che passa ora, è lui lo sposo!",
+    "Chi è capace di morire di osito?",
+    "Chi lo capisce morirà.",
+    "Chi è capace di morire così?"
+  ],
+  "responses": [
+    "L'uomo che sta passando ora è il sposo! (L'uomo attuale è il futuro marito nella cerimonia di matrimonio)",
+    "L'uomo attuale è il sposo! (La persona attuale è il marito!)",
+    "L'uomo che sta passando ora è il sposo! (Literally: What is passing now, he is the groom!)",
+    "L'affermazione indica che solo un osso può morire di osso, poiché non è un essere vivente e quindi non può morire come un animale o una persona.",
+    "Colui che lo comprende morirà.",
+    "Questa affermazione esprime incredulità o shock per la morte di qualcuno, implicando che la morte sia avvenuta in modo improvviso o prematuro."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.581571,
+  "wer_gt1": 1.0
+}

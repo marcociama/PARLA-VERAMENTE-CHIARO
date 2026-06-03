@@ -1,0 +1,29 @@
+{
+  "filename": "112",
+  "neapolitan_text": "Museciste e judece, chianchiere e barriste sciuliéano assaje spisso int''o ddialetto lucale.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Musicisti e giudici, macellai e baristi scivolavano molto spesso nel dialetto locale.",
+    "Musicisti e magistrati, macellai e gestori di bar cadevano assai spesso nel dialetto locale.",
+    "Musicisti e giudici, macellai e baristi si lasciavano andare molto spesso al dialetto locale."
+  ],
+  "inputs": [
+    "Musicisti e giudici, macellai e baristi scivolavano molto spesso nel dialetto locale.",
+    "Musicisti e magistrati, macellai e gestori di bar cadevano assai spesso nel dialetto locale.",
+    "Musicisti e giudici, macellai e baristi si lasciavano andare molto spesso al dialetto locale.",
+    "musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale.",
+    "Musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale.",
+    "musicista e giudice, cancere e barrista, scegliano assai spesso il dialetto locale."
+  ],
+  "responses": [
+    "Musicians, judges, butchers, and bartenders frequently used the local dialect.",
+    "Nella frase, si fa riferimento al fatto che musicisti, magistrati, macellai e gestori di bar erano molto comuni a livello locale nella parlata regionale.",
+    "Musici, giudici, macellai e baristi solitamente parlano il dialetto locale molto spesso.",
+    "Musici, giudici, cantanti, baristi e altre professioni scelgono spesso il dialetto locale.",
+    "Musici, giudici, cantanti e baristi tendono a preferire spesso l'uso del dialetto locale.",
+    "Musici, giudici, cantanti, baristi e altre professioni scelgono spesso il dialetto locale."
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.260583,
+  "wer_gt1": 0.583333
+}

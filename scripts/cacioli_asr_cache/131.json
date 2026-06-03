@@ -1,0 +1,67 @@
+{
+  "transcription": "Voi che sto trattando una cosa seria da giurito.",
+  "words": [
+    {
+      "word": "Voi",
+      "start": 0.594,
+      "end": 0.896,
+      "confidence": 0.267
+    },
+    {
+      "word": "che",
+      "start": 0.916,
+      "end": 1.037,
+      "confidence": 0.315
+    },
+    {
+      "word": "sto",
+      "start": 1.097,
+      "end": 1.238,
+      "confidence": 0.266
+    },
+    {
+      "word": "trattando",
+      "start": 1.258,
+      "end": 1.54,
+      "confidence": 0.27
+    },
+    {
+      "word": "una",
+      "start": 1.58,
+      "end": 1.681,
+      "confidence": 0.509
+    },
+    {
+      "word": "cosa",
+      "start": 1.721,
+      "end": 1.922,
+      "confidence": 0.851
+    },
+    {
+      "word": "seria",
+      "start": 2.003,
+      "end": 2.345,
+      "confidence": 0.552
+    },
+    {
+      "word": "da",
+      "start": 2.365,
+      "end": 2.405,
+      "confidence": 0.407
+    },
+    {
+      "word": "giurito.",
+      "start": 2.486,
+      "end": 2.949,
+      "confidence": 0.764
+    }
+  ],
+  "top3": [
+    "Voi che sto trattando una cosa seria da giurito.",
+    "Voi che sto trattando una cosa seria da giurito.",
+    "Uè, questo tratta è una cosa seria da giurito."
+  ],
+  "language": "it",
+  "mean_confidence": 0.46677777777777785,
+  "u_asr": 0.5332222222222222
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "076",
+  "neapolitan_text": "co chell’antica e semprece manera!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con quella antica e semplice maniera!",
+    "Con quel modo antico e semplice!",
+    "Con quella maniera antica e sempre semplice!"
+  ],
+  "inputs": [
+    "Con quella antica e semplice maniera!",
+    "Con quel modo antico e semplice!",
+    "Con quella maniera antica e sempre semplice!",
+    "che l'antica e semplice maniera.",
+    "che l'antica e semplice maniera.",
+    "che l'antica e semplice maniera."
+  ],
+  "responses": [
+    "La frase \"Con quella antica e semplice maniera!\" esprime una grande eleganza e semplicità nel modo di fare qualcosa.",
+    "Il testo esprime una grande semplicità e eleganza nel linguaggio. È un'espressione che evoca un'atmosfera arcaica ma carina.",
+    "La frase si riferisce a qualcosa che mantiene un'antica semplicità.",
+    "L'espressione \"che l'antica e semplice maniera\" si riferisce a un stile di vita o di esecuzione artigianale tradizionale, caratterizzato da semplicità e autenticità.",
+    "L'espressione \"che l'antica e semplice maniera\" si riferisce a un stile di vita o di esecuzione artigianale tradizionale, caratterizzato da semplicità e autenticità.",
+    "L'espressione \"che l'antica e semplice maniera\" si riferisce a un stile di vita o di esecuzione artigianale tradizionale, caratterizzato da semplicità e autenticità."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.3796,
+  "wer_gt1": 0.666667
+}

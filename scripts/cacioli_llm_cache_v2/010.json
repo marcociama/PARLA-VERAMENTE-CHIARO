@@ -1,0 +1,29 @@
+{
+  "filename": "010",
+  "neapolitan_text": "A serva ll'aggio fatta pè vinticinc'anne, e vuie 'o ssapite.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ho fatto la serva per venticinque anni, e voi lo sapete",
+    "La serva l'ho fatta per 25 anni, e voi lo sapete",
+    "La schiava l'ho fatta per venticinque anni, e lo sapete."
+  ],
+  "inputs": [
+    "Ho fatto la serva per venticinque anni, e voi lo sapete",
+    "La serva l'ho fatta per 25 anni, e voi lo sapete",
+    "La schiava l'ho fatta per venticinque anni, e lo sapete.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo."
+  ],
+  "responses": [
+    "Ho lavorato come cameriera per venticinque anni, e questo è un fatto che sappiate voi.",
+    "Ho lavorato come servitore per 25 anni, e questo è un fatto che sappiate voi.",
+    "Ho avuto una schiava per venticinque anni, e questo è un fatto noto.",
+    "L'affermazione indica che la serva ha già svolto un compito per 25 anni e l'informazione è stata appresa dal locutore.",
+    "L'affermazione indica che la serva ha già svolto un compito per 25 anni e l'informazione è stata appresa dal locutore.",
+    "L'affermazione indica che la serva ha già svolto un compito per 25 anni e l'informazione è stata appresa dal locutore."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.398727,
+  "wer_gt1": 0.909091
+}

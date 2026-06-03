@@ -1,0 +1,121 @@
+{
+  "transcription": "Perché aveva speso tutta la giornata a studiare per l'esame? Era troppo stanco per celebrare che era finito.",
+  "words": [
+    {
+      "word": "Perché",
+      "start": 1.047,
+      "end": 1.287,
+      "confidence": 0.488
+    },
+    {
+      "word": "aveva",
+      "start": 1.327,
+      "end": 1.568,
+      "confidence": 0.443
+    },
+    {
+      "word": "speso",
+      "start": 1.648,
+      "end": 1.948,
+      "confidence": 0.666
+    },
+    {
+      "word": "tutta",
+      "start": 1.968,
+      "end": 2.068,
+      "confidence": 0.033
+    },
+    {
+      "word": "la",
+      "start": 2.108,
+      "end": 2.228,
+      "confidence": 0.734
+    },
+    {
+      "word": "giornata",
+      "start": 2.268,
+      "end": 2.909,
+      "confidence": 0.58
+    },
+    {
+      "word": "a",
+      "start": 3.59,
+      "end": 3.61,
+      "confidence": 0.934
+    },
+    {
+      "word": "studiare",
+      "start": 3.69,
+      "end": 4.091,
+      "confidence": 0.584
+    },
+    {
+      "word": "per",
+      "start": 4.111,
+      "end": 4.171,
+      "confidence": 0.001
+    },
+    {
+      "word": "l'esame?",
+      "start": 4.211,
+      "end": 4.791,
+      "confidence": 0.827
+    },
+    {
+      "word": "Era",
+      "start": 5.492,
+      "end": 5.612,
+      "confidence": 0.781
+    },
+    {
+      "word": "troppo",
+      "start": 5.672,
+      "end": 5.893,
+      "confidence": 0.846
+    },
+    {
+      "word": "stanco",
+      "start": 5.973,
+      "end": 6.473,
+      "confidence": 0.791
+    },
+    {
+      "word": "per",
+      "start": 6.513,
+      "end": 6.593,
+      "confidence": 0.198
+    },
+    {
+      "word": "celebrare",
+      "start": 6.694,
+      "end": 7.154,
+      "confidence": 0.585
+    },
+    {
+      "word": "che",
+      "start": 7.174,
+      "end": 7.234,
+      "confidence": 0.12
+    },
+    {
+      "word": "era",
+      "start": 7.274,
+      "end": 7.374,
+      "confidence": 0.557
+    },
+    {
+      "word": "finito.",
+      "start": 7.454,
+      "end": 7.875,
+      "confidence": 0.495
+    }
+  ],
+  "top3": [
+    "Perché aveva speso tutta la giornata a studiare per l'esame? Era troppo stanco per celebrare che era finito.",
+    "Perché aveva speso tutta la giornata a studiare per l'esame? Era troppo stanco per celebrare che era finito.",
+    "Perché aveva speso tutta la giornata a studiare per l'esame? Era troppo stanco per celebrare che era finito."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5368333333333334,
+  "u_asr": 0.4631666666666666
+}

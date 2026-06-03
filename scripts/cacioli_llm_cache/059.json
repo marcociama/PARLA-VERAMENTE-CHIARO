@@ -1,0 +1,29 @@
+{
+  "filename": "059",
+  "neapolitan_text": "Si pe la via na femmena passava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Se per la via una femmina passava",
+    "Se per strada una donna passava",
+    "Se lungo la via passava una donna"
+  ],
+  "inputs": [
+    "Se per la via una femmina passava",
+    "Se per strada una donna passava",
+    "Se lungo la via passava una donna",
+    "Se per la via la femmina passava.",
+    "se per la via la femmina passava.",
+    "Se per la via la femmina passava."
+  ],
+  "responses": [
+    "La frase sembra essere tratta da un poema o da una canzone tradizionale italiana. \"Se per la via una femmina passava\" significa letteralmente \"se attraverso la strada una donna passasse\". Tuttavia, nella lingua poetica italiana, questa frase può avere un significato più simbolico o allegorico. Ad esempio, potrebbe rappresentare l'arrivo di qualcosa di nuovo e inaspettato, oppure la presenza di una donna",
+    "Una donna cammina sulla strada.",
+    "Sì, potrebbe trattarsi di qualcuno che sta camminando lungo la strada.",
+    "La frase \"Se per la via la femmina passava\" è tratta da Dante Alighieri nella Divina Commedia, Inferno (canto I, verso 65). Significa approssimativamente \"Se una donna passava per strada\".",
+    "La frase sembra essere tratta da una poesia o un testo antico. \"Se per la via la femmina passava\" potrebbe significare che qualcosa (una persona, un evento, una situazione) avveniva se una donna camminava lungo una strada o un sentiero. Tuttavia, per comprendere meglio il contesto e la sua interpretazione esatta, è necessario considerare l'opera completa da cui proviene questa frase.",
+    "La frase \"Se per la via la femmina passava\" è tratta da Dante Alighieri nella Divina Commedia, Inferno (canto I, verso 65). Significa approssimativamente \"Se una donna passava per strada\"."
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.200714,
+  "wer_gt1": 0.285714
+}

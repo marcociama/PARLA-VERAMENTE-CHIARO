@@ -1,0 +1,29 @@
+{
+  "filename": "053",
+  "neapolitan_text": "e po’ jeva a ttrovà li Mammalucche",
+  "domain": "Poetry",
+  "gt_variants": [
+    "E poi andava a trovare i Mamelucchi",
+    "E dopo andava a cercare i Mamelucchi",
+    "E poi si recava a trovare i Mammalucchi"
+  ],
+  "inputs": [
+    "E poi andava a trovare i Mamelucchi",
+    "E dopo andava a cercare i Mamelucchi",
+    "E poi si recava a trovare i Mammalucchi",
+    "E poi va trova ma lupo.",
+    "E poi va a trovare malutti.",
+    "E poi va a trovare malutti."
+  ],
+  "responses": [
+    "Il testo fa riferimento ai Mamelucchi, una dinastia di soldati schiavi turco-mongoli che governarono l'Egitto e la Siria tra il XIII e il XV secolo. Non è chiaro se si tratti di un viaggio storico o di un riferimento a un'opera letteraria o cinematografica.",
+    "I Mamelucchi erano una dinastia di schiavi militari egiziani che governarono l'Egitto dal XIII al XV secolo. La ricerca dei Mamelucchi si riferisce probabilmente a studi storici o ricerche archeologiche su questa antica dinastia.",
+    "Il personaggio si reca a cercare gli abitanti della tribù dei Mammalucchi.",
+    "Il testo sembra essere una frase tratta da un racconto popolare o da una fiaba, dove \"lupo\" è probabilmente il nome di un personaggio. Non ho accesso a informazioni specifiche su questa frase, ma potrebbe significare che si deve cercare il lupo.",
+    "Il personaggio andrà a cercare i bambini malati.",
+    "Il personaggio andrà a cercare i bambini malati."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.240167,
+  "wer_gt1": 0.714286
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "140",
+  "neapolitan_text": "No una, ma ciento vote, me l'avarrisse fatto accidere!",
+  "domain": "Play",
+  "gt_variants": [
+    "Non una, ma cento volte, me l'avresti fatto uccidere!",
+    "Non una, ma cento volte, me lo avresti fatto ammazzare!",
+    "Non una, ma cento volte, mi avresti fatto uccidere lui!"
+  ],
+  "inputs": [
+    "Non una, ma cento volte, me l'avresti fatto uccidere!",
+    "Non una, ma cento volte, me lo avresti fatto ammazzare!",
+    "Non una, ma cento volte, mi avresti fatto uccidere lui!",
+    "Non una, ma cento volte me l'avessi fatta uccidere.",
+    "No una, ma cento volte me l'avessi fatta uccidere.",
+    "No una, ma cento volte me l'avessi fatta uccidere."
+  ],
+  "responses": [
+    "La frase implica un atteggiamento di violenza e minaccia verso qualcuno. In questo contesto, significa che la persona avrebbe voluto far uccidere qualcun altro più di cento volte.",
+    "La frase implica un'espressione di rabbia o disprezzo molto forte. L'interlocutore ha espresso il desiderio di far uccidere qualcuno cento volte.",
+    "La frase implica un'intensa rabbia o odio verso qualcuno. L'interlocutore sarebbe pronto a farlo morire più di cento volte se avesse la possibilità.",
+    "La frase esprime un sentimento di profonda rabbia o disprezzo verso qualcuno. In altre parole, l'utente immagina averlo ucciso cento volte.",
+    "La frase esprime un forte desiderio di vendetta. L'utente immagina di aver fatto morire qualcuno più di una volta.",
+    "La frase esprime un forte desiderio di vendetta. L'utente immagina di aver fatto morire qualcuno più di una volta."
+  ],
+  "wer": 0.444444,
+  "u_asr": 0.253778,
+  "wer_gt1": 0.444444
+}

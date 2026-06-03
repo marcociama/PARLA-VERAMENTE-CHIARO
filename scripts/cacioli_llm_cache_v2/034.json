@@ -1,0 +1,29 @@
+{
+  "filename": "034",
+  "neapolitan_text": "Ch'e rrose mmiez' 'a tavula?",
+  "domain": "Play",
+  "gt_variants": [
+    "Con le rose in mezzo alla tavola",
+    "Con le rose al centro della tavola",
+    "Con le rose in mezzo al tavolo."
+  ],
+  "inputs": [
+    "Con le rose in mezzo alla tavola",
+    "Con le rose al centro della tavola",
+    "Con le rose in mezzo al tavolo.",
+    "che il rosa è in mezzo alla tavola.",
+    "Che il rosa mi è già tavola.",
+    "che il rosa è in mezzo alla tavola."
+  ],
+  "responses": [
+    "Le rose sono posizionate al centro della tavola.",
+    "Le rose sono posizionate al centro della tavola.",
+    "Le rose sono posizionate nel mezzo del tavolo.",
+    "La rosa si trova al centro della tavola.",
+    "La frase indica che la persona ha già utilizzato o possiede un oggetto chiamato \"rosa\" come una tavola.",
+    "La rosa si trova al centro della tavola."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.557375,
+  "wer_gt1": 0.714286
+}

@@ -1,0 +1,277 @@
+{
+  "transcription": "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili.",
+  "words": [
+    {
+      "word": "Solitamente",
+      "start": 1.441,
+      "end": 2.022,
+      "confidence": 0.793
+    },
+    {
+      "word": "però",
+      "start": 2.062,
+      "end": 2.322,
+      "confidence": 0.986
+    },
+    {
+      "word": "sono",
+      "start": 2.662,
+      "end": 2.782,
+      "confidence": 0.578
+    },
+    {
+      "word": "chiamato",
+      "start": 2.883,
+      "end": 3.343,
+      "confidence": 0.654
+    },
+    {
+      "word": "così",
+      "start": 3.443,
+      "end": 3.703,
+      "confidence": 0.664
+    },
+    {
+      "word": "tutti",
+      "start": 3.784,
+      "end": 4.024,
+      "confidence": 0.811
+    },
+    {
+      "word": "i",
+      "start": 4.044,
+      "end": 4.064,
+      "confidence": 0.271
+    },
+    {
+      "word": "dialetti",
+      "start": 4.104,
+      "end": 4.785,
+      "confidence": 0.819
+    },
+    {
+      "word": "che",
+      "start": 5.045,
+      "end": 5.165,
+      "confidence": 0.67
+    },
+    {
+      "word": "si",
+      "start": 5.305,
+      "end": 5.385,
+      "confidence": 0.703
+    },
+    {
+      "word": "parlano",
+      "start": 5.445,
+      "end": 5.966,
+      "confidence": 0.887
+    },
+    {
+      "word": "sul",
+      "start": 5.986,
+      "end": 6.306,
+      "confidence": 0.664
+    },
+    {
+      "word": "sud",
+      "start": 6.366,
+      "end": 6.647,
+      "confidence": 0.909
+    },
+    {
+      "word": "continentale,",
+      "start": 6.707,
+      "end": 7.588,
+      "confidence": 0.899
+    },
+    {
+      "word": "Campania,",
+      "start": 7.648,
+      "end": 8.208,
+      "confidence": 0.895
+    },
+    {
+      "word": "Abruzzo,",
+      "start": 8.228,
+      "end": 8.829,
+      "confidence": 0.623
+    },
+    {
+      "word": "Lucania,",
+      "start": 8.889,
+      "end": 9.53,
+      "confidence": 0.859
+    },
+    {
+      "word": "nord",
+      "start": 9.65,
+      "end": 9.95,
+      "confidence": 0.984
+    },
+    {
+      "word": "di",
+      "start": 9.97,
+      "end": 10.03,
+      "confidence": 0.239
+    },
+    {
+      "word": "Cavrea,",
+      "start": 10.07,
+      "end": 11.031,
+      "confidence": 0.887
+    },
+    {
+      "word": "nord",
+      "start": 11.612,
+      "end": 11.812,
+      "confidence": 0.751
+    },
+    {
+      "word": "di",
+      "start": 11.872,
+      "end": 11.972,
+      "confidence": 0.56
+    },
+    {
+      "word": "Puglia,",
+      "start": 12.032,
+      "end": 12.453,
+      "confidence": 0.758
+    },
+    {
+      "word": "Molise,",
+      "start": 12.493,
+      "end": 13.114,
+      "confidence": 0.735
+    },
+    {
+      "word": "sud",
+      "start": 13.194,
+      "end": 13.354,
+      "confidence": 0.904
+    },
+    {
+      "word": "di",
+      "start": 13.474,
+      "end": 13.654,
+      "confidence": 0.836
+    },
+    {
+      "word": "Lazio",
+      "start": 13.734,
+      "end": 14.295,
+      "confidence": 0.809
+    },
+    {
+      "word": "e",
+      "start": 14.895,
+      "end": 14.935,
+      "confidence": 0.171
+    },
+    {
+      "word": "nella",
+      "start": 14.955,
+      "end": 15.116,
+      "confidence": 0.298
+    },
+    {
+      "word": "parte",
+      "start": 15.156,
+      "end": 15.436,
+      "confidence": 0.939
+    },
+    {
+      "word": "di",
+      "start": 15.476,
+      "end": 15.596,
+      "confidence": 0.774
+    },
+    {
+      "word": "Barca.",
+      "start": 15.696,
+      "end": 16.217,
+      "confidence": 0.987
+    },
+    {
+      "word": "E",
+      "start": 17.338,
+      "end": 17.378,
+      "confidence": 0.192
+    },
+    {
+      "word": "parlate",
+      "start": 17.518,
+      "end": 18.119,
+      "confidence": 0.889
+    },
+    {
+      "word": "e",
+      "start": 18.459,
+      "end": 18.519,
+      "confidence": 0.678
+    },
+    {
+      "word": "sentendo",
+      "start": 18.639,
+      "end": 19.5,
+      "confidence": 0.749
+    },
+    {
+      "word": "l'uno",
+      "start": 19.52,
+      "end": 19.841,
+      "confidence": 0.883
+    },
+    {
+      "word": "con",
+      "start": 19.881,
+      "end": 20.021,
+      "confidence": 0.761
+    },
+    {
+      "word": "l'altro",
+      "start": 20.081,
+      "end": 20.461,
+      "confidence": 0.745
+    },
+    {
+      "word": "e",
+      "start": 20.722,
+      "end": 20.802,
+      "confidence": 0.717
+    },
+    {
+      "word": "tenendo",
+      "start": 20.982,
+      "end": 21.342,
+      "confidence": 0.763
+    },
+    {
+      "word": "certe",
+      "start": 21.442,
+      "end": 21.803,
+      "confidence": 0.871
+    },
+    {
+      "word": "regole",
+      "start": 21.963,
+      "end": 22.323,
+      "confidence": 0.628
+    },
+    {
+      "word": "simili.",
+      "start": 22.383,
+      "end": 22.744,
+      "confidence": 0.744
+    }
+  ],
+  "top3": [
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili."
+  ],
+  "language": "it",
+  "mean_confidence": 0.725840909090909,
+  "u_asr": 0.27415909090909096
+}

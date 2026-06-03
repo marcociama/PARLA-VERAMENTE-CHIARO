@@ -1,0 +1,29 @@
+{
+  "filename": "066",
+  "neapolitan_text": "cient’aucelluzze a no trunco de fico!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Cento uccellini su un tronco di fico!",
+    "Cento uccelletti su un ceppo di fico!",
+    "Cento aluccelli su un ramo di fico!"
+  ],
+  "inputs": [
+    "Cento uccellini su un tronco di fico!",
+    "Cento uccelletti su un ceppo di fico!",
+    "Cento aluccelli su un ramo di fico!",
+    "C'è un taccio luzzo e un tronco di figa.",
+    "Centaccioluzza e nutronchefica.",
+    "Centaccioluzza e nutronchefica."
+  ],
+  "responses": [
+    "Il testo descrive una scena dove cento uccelli sono posati su un tronco di fico. Questa frase è un esempio di poesia popolare italiana, che ha un significato simbolico e viene spesso usata per esprimere la felicità o l'armonia in una scena naturale.",
+    "Sono cento uccelli che si trovano su un ramo di fico.",
+    "Questa frase è una metafora che significa \"molti\" o \"tanti\". In questo caso, \"cento alluccelli su un ramo di fico\" indica molta gente.",
+    "Il taccio luzzo è una pianta caratterizzata da fiori rossi e foglie verdi, mentre il tronco di figa è la parte principale della pianta da frutto della figa.",
+    "\"Centaccioluzza\" è una forma di luce a bassa intensità, mentre \"nutronchefica\" non è un termine comune nella lingua italiana. Potrebbe essere un errore di ortografia o un neologismo.",
+    "\"Centaccioluzza\" è una forma di luce a bassa intensità, mentre \"nutronchefica\" non è un termine comune nella lingua italiana. Potrebbe essere un errore di ortografia o un neologismo."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.439333,
+  "wer_gt1": 0.857143
+}

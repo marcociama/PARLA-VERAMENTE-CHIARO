@@ -1,0 +1,29 @@
+{
+  "filename": "024",
+  "neapolitan_text": "Appriesso a chella schifosa!",
+  "domain": "Play",
+  "gt_variants": [
+    "Appresso a quella schifosa",
+    "Dietro a quella schifosa",
+    "Inseguendo quella schifosa."
+  ],
+  "inputs": [
+    "Appresso a quella schifosa",
+    "Dietro a quella schifosa",
+    "Inseguendo quella schifosa.",
+    "Appressa quella schifosa.",
+    "appresso a quella schifosa.",
+    "Appressa quella schifosa."
+  ],
+  "responses": [
+    "Dietro a quello sporco o a quel luogo sporco.",
+    "Quello che si vede dietro è sporco o sgradevole.",
+    "La persona sta cercando qualcosa che è sporco o disgustoso.",
+    "Avanti, ma con cura per non toccare oggetti sporchi.",
+    "Quello che si trova vicino è sporco o sgradevole.",
+    "Avanti, ma con cura per non toccare oggetti sporchi."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.208,
+  "wer_gt1": 0.75
+}

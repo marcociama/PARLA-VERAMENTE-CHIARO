@@ -1,0 +1,67 @@
+{
+  "transcription": "e fin per la strada di Mesa a Ghiaccio.",
+  "words": [
+    {
+      "word": "e",
+      "start": 2.035,
+      "end": 2.095,
+      "confidence": 0.489
+    },
+    {
+      "word": "fin",
+      "start": 2.196,
+      "end": 2.356,
+      "confidence": 0.555
+    },
+    {
+      "word": "per",
+      "start": 2.397,
+      "end": 2.597,
+      "confidence": 0.612
+    },
+    {
+      "word": "la",
+      "start": 2.617,
+      "end": 2.657,
+      "confidence": 0.418
+    },
+    {
+      "word": "strada",
+      "start": 2.738,
+      "end": 3.139,
+      "confidence": 0.632
+    },
+    {
+      "word": "di",
+      "start": 3.159,
+      "end": 3.199,
+      "confidence": 0.004
+    },
+    {
+      "word": "Mesa",
+      "start": 3.28,
+      "end": 3.52,
+      "confidence": 0.884
+    },
+    {
+      "word": "a",
+      "start": 3.54,
+      "end": 3.561,
+      "confidence": 0.063
+    },
+    {
+      "word": "Ghiaccio.",
+      "start": 3.701,
+      "end": 4.122,
+      "confidence": 0.452
+    }
+  ],
+  "top3": [
+    "e fin per la strada di Mesa a Ghiaccio.",
+    "e fermare la strada delle mie saggazze.",
+    "e fin per la strada di Mesa a Ghiaccio."
+  ],
+  "language": "it",
+  "mean_confidence": 0.45655555555555555,
+  "u_asr": 0.5434444444444444
+}

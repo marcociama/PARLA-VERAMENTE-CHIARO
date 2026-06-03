@@ -1,0 +1,29 @@
+{
+  "filename": "136",
+  "neapolitan_text": "E chi si' tu, ca me vuò mpedì 'e dicere, vicin' 'e figlie mieie, ca me so' ffiglie?",
+  "domain": "Play",
+  "gt_variants": [
+    "E chi sei tu, che mi vuoi impedire di dire, vicino ai miei figli, che sono figli miei?",
+    "E chi sei tu, che pretendi di vietarmi di dire, davanti ai miei figli, che sono miei figli?",
+    "E chi ti credi di essere per impedirmi di dire, in presenza dei miei figli, che sono figli miei?"
+  ],
+  "inputs": [
+    "E chi sei tu, che mi vuoi impedire di dire, vicino ai miei figli, che sono figli miei?",
+    "E chi sei tu, che pretendi di vietarmi di dire, davanti ai miei figli, che sono miei figli?",
+    "E chi ti credi di essere per impedirmi di dire, in presenza dei miei figli, che sono figli miei?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono figlio?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono mio figlio?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono mio figlio?"
+  ],
+  "responses": [
+    "L'affermazione implica una protesta contro qualcuno che si presume voglia limitare la libertà di parola dell'interlocutore, impedendogli di dichiarare pubblicamente che i bambini sono suoi figli.",
+    "La frase implica un'affermazione di indignazione verso qualcuno che ha tentato di impedire al locutore di rivelare la sua relazione familiare con i suoi figli.",
+    "L'affermazione implica che qualcuno ha tentato di negare o nascondere la paternità del parlante nei confronti dei suoi figli.",
+    "L'affermazione indica un conflitto, dove qualcuno si sente ostacolato nella dichiarazione della propria identità genitoriale nei confronti dei propri figli.",
+    "Chi sei a tentare di impedirmi di dire ai miei figli che sono il mio figlio? (La frase implica una protesta o un'indignazione verso qualcuno che cerca di interferire con la relazione tra il padre e i suoi figli.)",
+    "Chi sei a tentare di impedirmi di dire ai miei figli che sono il mio figlio? (La frase implica una protesta o un'indignazione verso qualcuno che cerca di interferire con la relazione tra il padre e i suoi figli.)"
+  ],
+  "wer": 0.277778,
+  "u_asr": 0.486353,
+  "wer_gt1": 0.277778
+}

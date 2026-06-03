@@ -1,0 +1,49 @@
+{
+  "transcription": "Chi bello bovarei, pene guai andabate.",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.648,
+      "end": 0.749,
+      "confidence": 0.785
+    },
+    {
+      "word": "bello",
+      "start": 0.87,
+      "end": 1.152,
+      "confidence": 0.983
+    },
+    {
+      "word": "bovarei,",
+      "start": 1.192,
+      "end": 1.675,
+      "confidence": 0.826
+    },
+    {
+      "word": "pene",
+      "start": 2.178,
+      "end": 2.4,
+      "confidence": 0.838
+    },
+    {
+      "word": "guai",
+      "start": 2.581,
+      "end": 2.883,
+      "confidence": 0.812
+    },
+    {
+      "word": "andabate.",
+      "start": 2.963,
+      "end": 3.406,
+      "confidence": 0.707
+    }
+  ],
+  "top3": [
+    "Chi bello bovarei, pene guai andabate.",
+    "Chi bello bovarei, pene guai andapate.",
+    "Chi bello bovarei, pene guai andabate."
+  ],
+  "language": "it",
+  "mean_confidence": 0.8251666666666666,
+  "u_asr": 0.1748333333333334
+}

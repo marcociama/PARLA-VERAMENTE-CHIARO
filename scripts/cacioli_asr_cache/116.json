@@ -1,0 +1,37 @@
+{
+  "transcription": "Cari shoot and face.",
+  "words": [
+    {
+      "word": "Cari",
+      "start": 0.676,
+      "end": 0.859,
+      "confidence": 0.729
+    },
+    {
+      "word": "shoot",
+      "start": 0.879,
+      "end": 1.102,
+      "confidence": 0.348
+    },
+    {
+      "word": "and",
+      "start": 1.163,
+      "end": 1.224,
+      "confidence": 0.046
+    },
+    {
+      "word": "face.",
+      "start": 1.244,
+      "end": 1.447,
+      "confidence": 0.524
+    }
+  ],
+  "top3": [
+    "Cari shoot and face.",
+    "Cari studenti, grazie.",
+    "Cari shoot and face."
+  ],
+  "language": "it",
+  "mean_confidence": 0.41175,
+  "u_asr": 0.5882499999999999
+}

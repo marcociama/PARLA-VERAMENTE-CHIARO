@@ -1,0 +1,29 @@
+{
+  "filename": "022",
+  "neapolitan_text": "Ma mo, all'urdemo all'urdemo, a cinquantaduie anne, se retira cu' 'e fazzulette spuorche 'e russetto, ca me fanno schifo.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma ora, alla fin fine, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma adesso, all'ultimo, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma ora, alla fine dei conti, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo."
+  ],
+  "inputs": [
+    "Ma ora, alla fin fine, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma adesso, all'ultimo, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma ora, alla fine dei conti, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo.",
+    "Ma ora, all'ultimo, all'ultimo, a cinquantadue anni, sarei tira che i vazzoletti sporchi e russetti che mi fanno schifo.",
+    "Ma ora, all'ultimo, all'ultimo, a cinquantadue anni, si ritira che i vazzoletti sporchi e russetti che mi fanno schifo.",
+    "Ma ora, per l'ultimo, per l'ultimo, a cinquantadue anni sarei tornato con le mazzolette sporche e russette che mi fanno schifo."
+  ],
+  "responses": [
+    "Il personaggio sembra aver raggiunto un'età avanzata e si sta ritirando. L'immagine dei fazzoletti sporchi di rossetto potrebbe indicare una carriera impegnativa o artista, ma l'espressione di disgusto suggerisce che il personaggio non ha apprezzato questa parte della sua vita.",
+    "Il personaggio sembra sentire un senso di disgusto verso qualcosa. Potrebbe trattarsi della rassegna delle sue attività o del suo ritiro, che lo porta a ricordare eventi passati con una certa emozione forte.",
+    "Il personaggio ha deciso di ritirarsi all'età di 52 anni, lasciando dietro di sé i fazzoletti macchiati di rossetto, che sembrano disgustosi.",
+    "Sembra che la persona stia esprimendo una sensazione di disgusto verso qualcosa che ha avuto un impatto negativo sulla sua vita per circa cinquantadue anni. Non è chiaro cosa si riferisca con \"i vazzoletti sporchi e russetti\", ma potrebbe trattarsi di una situazione o relazione che ora vuole lasciare dietro di sé.",
+    "L'utente sembra esprimere una sensazione di disgusto verso qualcosa che ha raggiunto i suoi sessantadue anni. Non è chiaro cosa si riferisca con \"i vazzoletti sporchi e russetti\". Potrebbe trattarsi di qualcosa o qualcuno che l'utente non desidera più avere intorno a sé.",
+    "Questa frase sembra provenire da un brano di poesia o canzone. L'autore pare esprimere una sensazione di rimpianto per aver raggiunto i cinquantadue anni e non aver ancora realizzato alcun obiettivo, come suggerisce l'immagine delle \"mazzette sporche e russette\" che lo fanno schifo."
+  ],
+  "wer": 0.47619,
+  "u_asr": 0.327684,
+  "wer_gt1": 0.5
+}

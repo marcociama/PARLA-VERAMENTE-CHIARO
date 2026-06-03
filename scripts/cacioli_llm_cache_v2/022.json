@@ -1,0 +1,29 @@
+{
+  "filename": "022",
+  "neapolitan_text": "Ma mo, all'urdemo all'urdemo, a cinquantaduie anne, se retira cu' 'e fazzulette spuorche 'e russetto, ca me fanno schifo.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma ora, alla fin fine, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma adesso, all'ultimo, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma ora, alla fine dei conti, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo."
+  ],
+  "inputs": [
+    "Ma ora, alla fin fine, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma adesso, all'ultimo, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo",
+    "Ma ora, alla fine dei conti, a cinquantadue anni, si ritira con i fazzoletti sporchi di rossetto, che mi fanno schifo.",
+    "Ma ora, all'ultimo, all'ultimo, a cinquantadue anni, sarei tira che i vazzoletti sporchi e russetti che mi fanno schifo.",
+    "Ma ora, all'ultimo, all'ultimo, a cinquantadue anni, si ritira che i vazzoletti sporchi e russetti che mi fanno schifo.",
+    "Ma ora, per l'ultimo, per l'ultimo, a cinquantadue anni sarei tornato con le mazzolette sporche e russette che mi fanno schifo."
+  ],
+  "responses": [
+    "Alla fine, all'età di 52 anni, si ritira con il viso macchiato da rossetto, che mi fa sentire disgustato.",
+    "Alla fine, a cinquantadue anni, si ritira con la faccia macchiata di rossetto, che mi fa sentire disgustato.",
+    "Alla fine dei suoi cinquantaquattro anni, si ritira con una faccia macchiata di rossetto, che lo fa sentire imbarazzato.",
+    "Alla fine, a cinquantadue anni, sentiremi disgustato dai vecchi abiti sporchi e ruggenti.",
+    "Alla fine, a cinquantadue anni, si ritira qualcuno dalle mani sporche e ruggenti che mi disgustano. (Traduzione letterale)",
+    "Alla fine, all'età di cinquanta due anni, ritornerei con le mani sporche e ruggenti, cose che mi vergognerei."
+  ],
+  "wer": 0.47619,
+  "u_asr": 0.327684,
+  "wer_gt1": 0.5
+}

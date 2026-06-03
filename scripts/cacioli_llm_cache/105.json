@@ -1,0 +1,29 @@
+{
+  "filename": "105",
+  "neapolitan_text": "Soletamente, però, so' cchiammate accussí tutt' 'e dialette ca se parlano ô Sud cuntinentale (Campania, Abruzzo, Lucania, nord d'a Calavrea, nord d'a Puglia, Molise, sudd d\"o Lazzio e na pparte d\"e Marche) e parlate ca se ntenneno ll'une cu ll'ate e teneno cierte rréole símmele.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Solitamente, però, sono chiamati così tutti i dialetti che si parlano nel Sud continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e una parte delle Marche) e parlate che si comprendono l'una con l'altra e hanno certe regole simili.",
+    "Di norma, tuttavia, vengono definiti in questo modo tutti i dialetti parlati nel Sud continentale (Campania, Abruzzo, Lucania, settentrione calabrese, settentrione pugliese, Molise, meridione laziale e una parte delle Marche) e idiomi che risultano mutuamente intelligibili e possiedono alcune regole comuni.",
+    "Solitamente, comunque, vengono così denominati tutti i dialetti parlati nel Meridione continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e parte delle Marche) e le parlate che si intendono tra loro e presentano determinate regole simili."
+  ],
+  "inputs": [
+    "Solitamente, però, sono chiamati così tutti i dialetti che si parlano nel Sud continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e una parte delle Marche) e parlate che si comprendono l'una con l'altra e hanno certe regole simili.",
+    "Di norma, tuttavia, vengono definiti in questo modo tutti i dialetti parlati nel Sud continentale (Campania, Abruzzo, Lucania, settentrione calabrese, settentrione pugliese, Molise, meridione laziale e una parte delle Marche) e idiomi che risultano mutuamente intelligibili e possiedono alcune regole comuni.",
+    "Solitamente, comunque, vengono così denominati tutti i dialetti parlati nel Meridione continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e parte delle Marche) e le parlate che si intendono tra loro e presentano determinate regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili."
+  ],
+  "responses": [
+    "I dialetti meridionali sono quelli parlati nel Sud continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e una parte delle Marche). Essi si comprendono tra di loro e hanno regole simili.",
+    "I dialetti del Sud Italia come quelli della Campania, Abruzzo, Lucania, settentrione calabrese, settentrione pugliese, Molise, meridione laziale e una parte delle Marche sono comunemente definiti come dialetti. Essi sono mutuamente intelligibili e condividono alcune regole comuni.",
+    "I dialetti parlati nel Meridione continentale, come quelli di Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e parte delle Marche, sono comunemente chiamati dialetti meridionali. Questi dialetti si intendono tra loro e presentano regole simili, caratterizzandosi per differenze rispetto alla lingua standard italiana.",
+    "I dialetti parlati sul continente meridionale, come quelli della Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e nella parte settentrionale della Sardegna, sono comunemente chiamati \"dialetti meridionali italiani\". Questi dialetti si distinguono per le loro caratteristiche comuni, come regole grammaticali simili e vocaboli connessi.",
+    "I dialetti parlati sul continente meridionale, come quelli della Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e nella parte settentrionale della Sardegna, sono comunemente chiamati \"dialetti meridionali italiani\". Questi dialetti si distinguono per le loro caratteristiche comuni, come regole grammaticali simili e vocaboli connessi.",
+    "I dialetti parlati sul continente meridionale, come quelli della Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e nella parte settentrionale della Sardegna, sono comunemente chiamati \"dialetti meridionali italiani\". Questi dialetti si distinguono per le loro caratteristiche comuni, come regole grammaticali simili e vocaboli connessi."
+  ],
+  "wer": 0.422222,
+  "u_asr": 0.274159,
+  "wer_gt1": 0.422222
+}

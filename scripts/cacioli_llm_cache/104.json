@@ -1,0 +1,29 @@
+{
+  "filename": "104",
+  "neapolitan_text": "O nnapulitano è na lengua rumanza ca se parla 'n Campania e all'ate parte d\"o Sud-Italia.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il napoletano è una lingua romanza che si parla in Campania e in altre parti del Sud Italia.",
+    "Il napoletano è un idioma romanzo parlato in Campania e in diverse zone dell'Italia meridionale.",
+    "Il napoletano costituisce una lingua romanza diffusa in Campania e in altre aree del Mezzogiorno d'Italia."
+  ],
+  "inputs": [
+    "Il napoletano è una lingua romanza che si parla in Campania e in altre parti del Sud Italia.",
+    "Il napoletano è un idioma romanzo parlato in Campania e in diverse zone dell'Italia meridionale.",
+    "Il napoletano costituisce una lingua romanza diffusa in Campania e in altre aree del Mezzogiorno d'Italia.",
+    "Una politica è una lingua e un romanzo che si parla in Campania e altre parti del sud Italia.",
+    "Una politica nella lingua è un romanzo che si parla in Campania e altre parti del sud Italia.",
+    "Una politica nella lingua è un romanzo che si parla in Campania e altre parti del sud Italia."
+  ],
+  "responses": [
+    "La lingua napoletana appartiene al gruppo delle lingue romanze ed è parlata principalmente nella regione della Campania, nonché in alcune zone del sud Italia.",
+    "Il napoletano appartiene alla famiglia delle lingue romanze ed è parlato principalmente nella regione della Campania, nonché in altre aree del Sud Italia.",
+    "La lingua napoletana appartiene alla famiglia delle lingue romanze ed è parlata principalmente nella regione della Campania, nonché in alcune zone del Mezzogiorno italiano.",
+    "La politica può essere paragonata a una lingua e a un romanzo perché, come la lingua, esprime le idee e i valori di una comunità, e come il romanzo, racconta storie e avventure della società. In Campania e nel sud Italia, questa politica ha caratteristiche particolari dovute alle tradizioni culturali e storiche locali.",
+    "La politica in lingua italiana può essere paragonata a un romanzo, poiché spesso presenta trame complessi e personaggi caratteristici. In particolare, nella Campania e nel Sud Italia, la politica è nota per essere molto dinamica e caratterizzata da una forte tradizione locale.",
+    "La politica in lingua italiana può essere paragonata a un romanzo, poiché spesso presenta trame complessi e personaggi caratteristici. In particolare, nella Campania e nel Sud Italia, la politica è nota per essere molto dinamica e caratterizzata da una forte tradizione locale."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.391737,
+  "wer_gt1": 0.333333
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "074",
+  "neapolitan_text": "co chella ciaramella tant’allera!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con quella ciaramella tanto allegra!",
+    "Con quella ciaramella così gioiosa!",
+    "Con quella zampogna così festante!"
+  ],
+  "inputs": [
+    "Con quella ciaramella tanto allegra!",
+    "Con quella ciaramella così gioiosa!",
+    "Con quella zampogna così festante!",
+    "con quella caramella d'antallera.",
+    "Cucca e la chiaramella da Antallena.",
+    "Cucchella Chiarabella d'Antalena."
+  ],
+  "responses": [
+    "La frase \"Con quella ciaramella tanto allegra!\" implica che qualcosa o qualcuno è caratterizzato da un'atmosfera molto allegra e vivace.",
+    "La frase \"Con quella ciaramella così gioiosa!\" implica che qualcosa o qualcuno è caratterizzato da una grande allegria o spirito divertente.",
+    "La zampogna è suonata con grande allegria!",
+    "La frase \"con quella caramella d'antallera\" implica che si sta mangiando una caramella tipica dell'infanzia, probabilmente di forma a bastoncino o a forma di antellera.",
+    "La cucca e la chiaramella appartengono ad Antallena (un personaggio della mitologia siciliana).",
+    "La frase \"Cucchella Chiarabella d'Antalena\" sembra essere un nome completo, forse di una persona o personaggio immaginario, proveniente dalla cultura italiana."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.4975,
+  "wer_gt1": 0.6
+}

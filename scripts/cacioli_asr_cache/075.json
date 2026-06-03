@@ -1,0 +1,55 @@
+{
+  "transcription": "Vivere a chioppa a chioppa la balanza.",
+  "words": [
+    {
+      "word": "Vivere",
+      "start": 1.138,
+      "end": 1.381,
+      "confidence": 0.662
+    },
+    {
+      "word": "a",
+      "start": 1.462,
+      "end": 1.502,
+      "confidence": 0.576
+    },
+    {
+      "word": "chioppa",
+      "start": 1.603,
+      "end": 1.927,
+      "confidence": 0.888
+    },
+    {
+      "word": "a",
+      "start": 1.948,
+      "end": 1.968,
+      "confidence": 0.032
+    },
+    {
+      "word": "chioppa",
+      "start": 2.069,
+      "end": 2.515,
+      "confidence": 0.76
+    },
+    {
+      "word": "la",
+      "start": 2.596,
+      "end": 2.656,
+      "confidence": 0.734
+    },
+    {
+      "word": "balanza.",
+      "start": 2.737,
+      "end": 3.365,
+      "confidence": 0.741
+    }
+  ],
+  "top3": [
+    "Vivere a chioppa a chioppa la balanza.",
+    "Vivere a chioppa chioppa la balanza.",
+    "Vivere a chioppa a chioppa la balanza."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6275714285714286,
+  "u_asr": 0.37242857142857144
+}

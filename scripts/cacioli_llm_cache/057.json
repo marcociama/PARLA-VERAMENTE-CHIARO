@@ -1,0 +1,29 @@
+{
+  "filename": "057",
+  "neapolitan_text": "Portave brache, e nullo delleggiava!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Portava brache, e nessuno dileggiava!",
+    "Indossava le brache, e nessuno lo scherniva!",
+    "Portava calzoni, e nessuno lo prendeva in giro!"
+  ],
+  "inputs": [
+    "Portava brache, e nessuno dileggiava!",
+    "Indossava le brache, e nessuno lo scherniva!",
+    "Portava calzoni, e nessuno lo prendeva in giro!",
+    "portava i bracchi e nulla galleggiava.",
+    "portava i bracchi e nulla galleggiava.",
+    "portava i bracchi e nulla galleggiava."
+  ],
+  "responses": [
+    "La frase indica che la persona portava bracciali e nessuno faceva scherzi o battute su di essi.",
+    "La frase \"Indossava le brache, e nessuno lo scherniva!\" fa riferimento a un personaggio che indossava una divisa particolare (le brache) senza essere schernito da nessuno.",
+    "La persona indossava calzoni e non veniva preso in giro perché era accettato l'abbigliamento diverso da quello tradizionale.",
+    "L'espressione \"portare i braccia\" significa avere paura o essere timoroso. \"Nulla galleggiava\" implica che non c'era niente di positivo o di speranza in vista. In altre parole, l'espressione indica una situazione di ansia e desolazione.",
+    "L'espressione \"portare i braccia\" significa avere paura o essere timoroso. \"Nulla galleggiava\" implica che non c'era niente di positivo o di speranza in vista. In altre parole, l'espressione indica una situazione di ansia e desolazione.",
+    "L'espressione \"portare i braccia\" significa avere paura o essere timoroso. \"Nulla galleggiava\" implica che non c'era niente di positivo o di speranza in vista. In altre parole, l'espressione indica una situazione di ansia e desolazione."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.429833,
+  "wer_gt1": 0.8
+}

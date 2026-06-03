@@ -1,0 +1,29 @@
+{
+  "filename": "058",
+  "neapolitan_text": "Ogn’anno, il due novembre, c’è l’usanza per i defunti andare al Cimitero,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Ogni anno, il due novembre, c'è l'usanza per i defunti di andare al Cimitero",
+    "Ogni anno, il due novembre, vige l'usanza di recarsi al Cimitero per i defunti",
+    "Ogni anno, il giorno dei morti, è usanza andare al Cimitero per i propri defunti"
+  ],
+  "inputs": [
+    "Ogni anno, il due novembre, c'è l'usanza per i defunti di andare al Cimitero",
+    "Ogni anno, il due novembre, vige l'usanza di recarsi al Cimitero per i defunti",
+    "Ogni anno, il giorno dei morti, è usanza andare al Cimitero per i propri defunti",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero.",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero.",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero."
+  ],
+  "responses": [
+    "Il 2 novembre si celebra la tradizionale usanza del Riscatto dei Morti, durante la quale si visita il cimitero.",
+    "Il 2 novembre si celebra la festa dei morti, durante la quale si visita il cimitero in onore dei defunti.",
+    "Il Giorno dei Morti è una tradizione durante la quale si visita il cimitero in onore dei defunti.",
+    "Il 2 novembre si celebra la Festa dei Morti, durante la quale si visita il cimitero in onore dei defunti.",
+    "Il 2 novembre si celebra la Festa dei Morti, durante la quale si visita il cimitero in onore dei defunti.",
+    "Il 2 novembre si celebra la Festa dei Morti, durante la quale si visita il cimitero in onore dei defunti."
+  ],
+  "wer": 0.357143,
+  "u_asr": 0.282385,
+  "wer_gt1": 0.357143
+}

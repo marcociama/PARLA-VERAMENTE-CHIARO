@@ -1,0 +1,37 @@
+{
+  "transcription": "Cerrore Marocca e Sarmava.",
+  "words": [
+    {
+      "word": "Cerrore",
+      "start": 1.086,
+      "end": 1.629,
+      "confidence": 0.453
+    },
+    {
+      "word": "Marocca",
+      "start": 1.649,
+      "end": 2.031,
+      "confidence": 0.654
+    },
+    {
+      "word": "e",
+      "start": 2.151,
+      "end": 2.192,
+      "confidence": 0.885
+    },
+    {
+      "word": "Sarmava.",
+      "start": 2.272,
+      "end": 2.815,
+      "confidence": 0.893
+    }
+  ],
+  "top3": [
+    "Cerrore Marocca e Sarmava.",
+    "Cerrore Marocca e Sarmava.",
+    "Cerrore, Marocca e Sarmava."
+  ],
+  "language": "it",
+  "mean_confidence": 0.72125,
+  "u_asr": 0.27875000000000005
+}

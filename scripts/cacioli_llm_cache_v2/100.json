@@ -1,0 +1,29 @@
+{
+  "filename": "100",
+  "neapolitan_text": "O gurfo 'e Napule è na 'nzenatura d''o Mar Tirreno meriddionale, cumprèsce 'nfra 'a penisula flegrea a nord-ovest (capo Miseno) e 'a penisula surrientina a sud-est (punta Campanella)",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il Golfo di Napoli è un'insenatura del Mar Tirreno meridionale, compresa tra la penisola flegrea a nord-ovest (Capo Miseno) e la penisola sorrentina a sud-est (Punta Campanella).",
+    "Il Golfo di Napoli è una rientranza del Mar Tirreno meridionale, situata tra la penisola flegrea a nord-ovest (Capo Miseno) e la penisola sorrentina a sud-est (Punta Campanella).",
+    "Il Golfo di Napoli costituisce un'insenatura del Mar Tirreno meridionale che si estende tra la penisola flegrea a nord-ovest (Capo Miseno) e la penisola sorrentina a sud-est (Punta Campanella)."
+  ],
+  "inputs": [
+    "Il Golfo di Napoli è un'insenatura del Mar Tirreno meridionale, compresa tra la penisola flegrea a nord-ovest (Capo Miseno) e la penisola sorrentina a sud-est (Punta Campanella).",
+    "Il Golfo di Napoli è una rientranza del Mar Tirreno meridionale, situata tra la penisola flegrea a nord-ovest (Capo Miseno) e la penisola sorrentina a sud-est (Punta Campanella).",
+    "Il Golfo di Napoli costituisce un'insenatura del Mar Tirreno meridionale che si estende tra la penisola flegrea a nord-ovest (Capo Miseno) e la penisola sorrentina a sud-est (Punta Campanella).",
+    "Il Golfo di Napoli è la serratura del mare di rena meridionale. Comprende la peninsola flagrea a nord-ovest Capo Miseno e la peninsola sorrentina a sud-est. Punta Campanella.",
+    "Il Golfo di Napoli è la serratura del mare di rena meridionale. Comprende la peninsola flagrea a nord-ovest Capo Miseno e la peninsola sorrentina a sud-est. Punta Campanella.",
+    "Il Golfo di Napoli è la serratura del mare di rena meridionale. Comprende la peninsola flagrea a nord-ovest Capo Miseno e la peninsola sorrentina a sud-est. Punta Campanella."
+  ],
+  "responses": [
+    "Il Golfo di Napoli è una baia del Mar Tirreno situata a sud, racchiusa tra la Penisola Flegrea a nord-ovest e la Penisola Sorrentina a sud-est.",
+    "Il Golfo di Napoli è una baia del Mar Tirreno meridionale, posizionata tra la Penisola Flegrea a nord-ovest e la Penisola Sorrentina a sud-est.",
+    "Il Golfo di Napoli è una baia del Mar Tirreno meridionale, situata tra la Penisola Flegrea a nord-ovest (Capo Miseno) e la Penisola Sorrentina a sud-est (Punta Campanella).",
+    "Il Golfo di Napoli è considerato come la serratura del Mar Tirreno meridionale, comprende la Penisola Flegrea a nord-ovest, Capo Miseno e la Penisola Sorrentina a sud-est, con Punta Campanella all'interno.",
+    "Il Golfo di Napoli è considerato come la serratura del Mar Tirreno meridionale, comprende la Penisola Flegrea a nord-ovest, Capo Miseno e la Penisola Sorrentina a sud-est, con Punta Campanella all'interno.",
+    "Il Golfo di Napoli è considerato come la serratura del Mar Tirreno meridionale, comprende la Penisola Flegrea a nord-ovest, Capo Miseno e la Penisola Sorrentina a sud-est, con Punta Campanella all'interno."
+  ],
+  "wer": 0.535714,
+  "u_asr": 0.294821,
+  "wer_gt1": 0.555556
+}

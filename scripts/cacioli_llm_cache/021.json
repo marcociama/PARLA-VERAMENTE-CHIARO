@@ -1,0 +1,29 @@
+{
+  "filename": "021",
+  "neapolitan_text": "Comm' all'ultima femmena m' he trattato, sempe!",
+  "domain": "Play",
+  "gt_variants": [
+    "Come l'ultima donna mi hai trattato, sempre",
+    "Come l'ultima donna mi hai trattato, continuamente",
+    "Come l'ultima femmina mi hai trattato, sempre."
+  ],
+  "inputs": [
+    "Come l'ultima donna mi hai trattato, sempre",
+    "Come l'ultima donna mi hai trattato, continuamente",
+    "Come l'ultima femmina mi hai trattato, sempre.",
+    "come l'ultima femmina mi ha trattato, sempre.",
+    "come l'ultima femmina mi ha trattato, sempre.",
+    "come l'ultima femmina mi ha trattato, sempre."
+  ],
+  "responses": [
+    "L'ultima volta ti ho trattato con rispetto e cortesia, come sempre.",
+    "L'ultima volta non ho trattato nessuna donna, quindi non posso rispondere alla tua domanda.",
+    "La risposta non è chiara a causa della mancanza di contesto. Tuttavia, se si presume che si stia discutendo di un personaggio immaginario o di una storia, potrebbe significare che il personaggio ha sempre trattato la femmina in questione con lo stesso atteggiamento dell'ultimo momento.",
+    "L'ultima donna ti ha trattato sempre così.",
+    "L'ultima donna ti ha trattato sempre così.",
+    "L'ultima donna ti ha trattato sempre così."
+  ],
+  "wer": 0.142857,
+  "u_asr": 0.453143,
+  "wer_gt1": 0.428571
+}

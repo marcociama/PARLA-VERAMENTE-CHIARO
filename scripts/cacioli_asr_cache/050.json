@@ -1,0 +1,61 @@
+{
+  "transcription": "a tempo che squagliai lo schiatto a mone.",
+  "words": [
+    {
+      "word": "a",
+      "start": 1.433,
+      "end": 1.474,
+      "confidence": 0.925
+    },
+    {
+      "word": "tempo",
+      "start": 1.574,
+      "end": 1.875,
+      "confidence": 0.71
+    },
+    {
+      "word": "che",
+      "start": 1.895,
+      "end": 1.976,
+      "confidence": 0.188
+    },
+    {
+      "word": "squagliai",
+      "start": 2.056,
+      "end": 2.839,
+      "confidence": 0.724
+    },
+    {
+      "word": "lo",
+      "start": 2.939,
+      "end": 3.04,
+      "confidence": 0.769
+    },
+    {
+      "word": "schiatto",
+      "start": 3.12,
+      "end": 3.602,
+      "confidence": 0.828
+    },
+    {
+      "word": "a",
+      "start": 3.622,
+      "end": 3.642,
+      "confidence": 0.056
+    },
+    {
+      "word": "mone.",
+      "start": 3.722,
+      "end": 4.044,
+      "confidence": 0.765
+    }
+  ],
+  "top3": [
+    "a tempo che squagliai lo schiatto a mone.",
+    "a tempo che squagliai lo schiatto a mone.",
+    "a tempo che squagliai lo schiatto a mone."
+  ],
+  "language": "it",
+  "mean_confidence": 0.620625,
+  "u_asr": 0.379375
+}

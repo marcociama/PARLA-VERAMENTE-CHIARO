@@ -1,0 +1,43 @@
+{
+  "transcription": "che l'antica e semplice maniera.",
+  "words": [
+    {
+      "word": "che",
+      "start": 0.597,
+      "end": 0.677,
+      "confidence": 0.767
+    },
+    {
+      "word": "l'antica",
+      "start": 0.758,
+      "end": 1.121,
+      "confidence": 0.808
+    },
+    {
+      "word": "e",
+      "start": 1.141,
+      "end": 1.161,
+      "confidence": 0.002
+    },
+    {
+      "word": "semplice",
+      "start": 1.282,
+      "end": 1.745,
+      "confidence": 0.815
+    },
+    {
+      "word": "maniera.",
+      "start": 1.806,
+      "end": 2.229,
+      "confidence": 0.71
+    }
+  ],
+  "top3": [
+    "che l'antica e semplice maniera.",
+    "che l'antica e semplice maniera.",
+    "che l'antica e semplice maniera."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6204000000000001,
+  "u_asr": 0.37959999999999994
+}

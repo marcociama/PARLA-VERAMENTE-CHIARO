@@ -1,0 +1,29 @@
+{
+  "filename": "019",
+  "neapolitan_text": "Ma Filumena Marturano bene nun ne cunosce... e quanno se cunosce sulo 'o mmale nun se chiagne.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si piange",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si versa una lacrima",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non ci si mette a piangere."
+  ],
+  "inputs": [
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si piange",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non si versa una lacrima",
+    "Ma Filumena Marturano bene non ne conosce... e quando si conosce solo il male non ci si mette a piangere.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga.",
+    "Ma Filumena Madurana bene non conosce e quando si conosce solo mare non si chiaga."
+  ],
+  "responses": [
+    "La commedia \"Filumena Marturano\" è una opera di Eduardo De Filippo, non conosciuta dalla persona che ha fatto la domanda. Quando si conosce solo il male, non si piange significa che si deve cercare di vedere anche le buone qualità in una situazione difficile.",
+    "La commedia \"Filumena Marturano\" è scritta da Eduardo De Filippo. Non conoscere la sua storia significa perdere un'opera teatrale ricca di umorismo e profondità. Se si conosce solo il male, non si apprezzano le bellezza e la complessità dei personaggi e della trama.",
+    "La filumena Marturano è un personaggio della commedia \"Filumena Marturano\" di Eduardo De Filippo, che non viene bene conosciuta se non si ha familiarità con la sua opera. Quando solo il male di una situazione è evidente, non ci si mette a piangere, ma forse cerca di trovare soluzioni o di superarlo.",
+    "La Filumena Madurana non ha una profonda conoscenza della cultura, e solo quando si avvicina a essa, si scopre che ci sono tante cose da imparare.",
+    "La Filumena Madurana non ha una profonda conoscenza della cultura, e solo quando si avvicina a essa, si scopre che ci sono tante cose da imparare.",
+    "La Filumena Madurana non ha una profonda conoscenza della cultura, e solo quando si avvicina a essa, si scopre che ci sono tante cose da imparare."
+  ],
+  "wer": 0.352941,
+  "u_asr": 0.2338,
+  "wer_gt1": 0.352941
+}

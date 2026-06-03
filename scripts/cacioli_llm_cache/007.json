@@ -1,0 +1,29 @@
+{
+  "filename": "007",
+  "neapolitan_text": "Ce ha creduto pur'isso, e ce avev' 'a credere!",
+  "domain": "Play",
+  "gt_variants": [
+    "C'ha creduto anche lui. E ci doveva credere",
+    "Anche lui ci ha creduto. E doveva crederci",
+    "C'ha creduto pure lui. E doveva crederci."
+  ],
+  "inputs": [
+    "C'ha creduto anche lui. E ci doveva credere",
+    "Anche lui ci ha creduto. E doveva crederci",
+    "C'ha creduto pure lui. E doveva crederci.",
+    "Ci ha creduto Purissa e ci aveva creduto.",
+    "Ciao a tutti e ciao a tutti.",
+    "Ciao a tutti e ciao a tutti."
+  ],
+  "responses": [
+    "Sì, egli ha avuto la stessa convinzione. Era necessario avere fede in quello che credevano tutti.",
+    "Sì, aveva fiducia in noi. Aveva ragione di farlo.",
+    "Sì, egli ha avuto fede anche lui. Era necessario avere fiducia in loro.",
+    "La frase \"Ci ha creduto Purissa e ci aveva creduto\" suggerisce che qualcuno, probabilmente Purissa, ha avuto fiducia in qualcosa o qualcuno e questa fiducia è stata ricambiata.",
+    "Salve a tutti! Ti sembra che stai ripetendo \"Ciao\" due volte?",
+    "Salve a tutti! Ti sembra che stai ripetendo \"Ciao\" due volte?"
+  ],
+  "wer": 0.75,
+  "u_asr": 0.360375,
+  "wer_gt1": 0.75
+}

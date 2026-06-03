@@ -1,0 +1,29 @@
+{
+  "filename": "141",
+  "neapolitan_text": "Me mettette appaura 'e t' 'o ddicere! Sulo per me, è vivo 'o figlio tuio!",
+  "domain": "Play",
+  "gt_variants": [
+    "Mi mise paura di dirtelo! Solo per me, è vivo il figlio tuo!",
+    "Ebbi paura di dirtelo! Soltanto per me, tuo figlio è vivo!",
+    "Ho avuto paura di dirtelo! Solo per me, tuo figlio è ancora vivo!"
+  ],
+  "inputs": [
+    "Mi mise paura di dirtelo! Solo per me, è vivo il figlio tuo!",
+    "Ebbi paura di dirtelo! Soltanto per me, tuo figlio è vivo!",
+    "Ho avuto paura di dirtelo! Solo per me, tuo figlio è ancora vivo!",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua.",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua.",
+    "Ma te te paure ti ho dicere, solo per me, evvivo figlia tua."
+  ],
+  "responses": [
+    "L'affermazione implica che l'individuo ha avuto una grande paura a rivelare qualcosa, e quello che ha paura di dire è che il figlio dell'altro è ancora vivo.",
+    "Ho avuto paura di dirlo, ma solo per me, il tuo figlio è in vita! (La persona ha avuto paura di rivelare che il figlio del locutore è ancora vivo.)",
+    "La persona ha avuto paura di rivelare qualcosa, ovvero che il loro figlio è ancora in vita.",
+    "La dichiarazione implica che l'oratore è un fantasma e rivolge le parole a qualcuno che ha perso una figlia, affermando di essere la stessa figlia resuscitata.",
+    "La dichiarazione implica che l'oratore è un fantasma e rivolge le parole a qualcuno che ha perso una figlia, affermando di essere la stessa figlia resuscitata.",
+    "La dichiarazione implica che l'oratore è un fantasma e rivolge le parole a qualcuno che ha perso una figlia, affermando di essere la stessa figlia resuscitata."
+  ],
+  "wer": 0.923077,
+  "u_asr": 0.325538,
+  "wer_gt1": 0.923077
+}

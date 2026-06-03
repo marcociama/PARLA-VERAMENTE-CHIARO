@@ -1,0 +1,29 @@
+{
+  "filename": "045",
+  "neapolitan_text": "Qua sta 'a cena.",
+  "domain": "Play",
+  "gt_variants": [
+    "Qua sta la cena",
+    "Qui ci sta la cena",
+    "Qua c'è la cena."
+  ],
+  "inputs": [
+    "Qua sta la cena",
+    "Qui ci sta la cena",
+    "Qua c'è la cena.",
+    "Castagena.",
+    "Castagena.",
+    "Castagena."
+  ],
+  "responses": [
+    "La cena si trova qui.",
+    "La cena è pronta a essere servita. Attendete il vostro turno.",
+    "Sì, qui è la sala da pranzo o la tavola da cena.",
+    "Castagna è il nome comune del nocciolo, una drupa commestibile di colore marrone scuro.",
+    "Castagna è il nome comune del nocciolo, una drupa commestibile di colore marrone scuro.",
+    "Castagna è il nome comune del nocciolo, una drupa commestibile di colore marrone scuro."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.169,
+  "wer_gt1": 1.0
+}

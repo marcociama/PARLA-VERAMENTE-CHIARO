@@ -1,0 +1,37 @@
+{
+  "transcription": "con quella caramella d'antallera.",
+  "words": [
+    {
+      "word": "con",
+      "start": 0.962,
+      "end": 1.084,
+      "confidence": 0.182
+    },
+    {
+      "word": "quella",
+      "start": 1.104,
+      "end": 1.306,
+      "confidence": 0.481
+    },
+    {
+      "word": "caramella",
+      "start": 1.367,
+      "end": 1.852,
+      "confidence": 0.702
+    },
+    {
+      "word": "d'antallera.",
+      "start": 1.872,
+      "end": 2.58,
+      "confidence": 0.645
+    }
+  ],
+  "top3": [
+    "con quella caramella d'antallera.",
+    "Cucca e la chiaramella da Antallena.",
+    "Cucchella Chiarabella d'Antalena."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5025,
+  "u_asr": 0.49750000000000005
+}

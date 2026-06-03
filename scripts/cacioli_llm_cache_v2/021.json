@@ -1,0 +1,29 @@
+{
+  "filename": "021",
+  "neapolitan_text": "Comm' all'ultima femmena m' he trattato, sempe!",
+  "domain": "Play",
+  "gt_variants": [
+    "Come l'ultima donna mi hai trattato, sempre",
+    "Come l'ultima donna mi hai trattato, continuamente",
+    "Come l'ultima femmina mi hai trattato, sempre."
+  ],
+  "inputs": [
+    "Come l'ultima donna mi hai trattato, sempre",
+    "Come l'ultima donna mi hai trattato, continuamente",
+    "Come l'ultima femmina mi hai trattato, sempre.",
+    "come l'ultima femmina mi ha trattato, sempre.",
+    "come l'ultima femmina mi ha trattato, sempre.",
+    "come l'ultima femmina mi ha trattato, sempre."
+  ],
+  "responses": [
+    "L'affermazione implica che la maniera in cui si è trattato l'ultima volta con una donna sarà sempre la stessa.",
+    "La dichiarazione indica che l'ultimo trattamento ricevuto dalla donna è stato costante.",
+    "La dichiarazione implica che l'ultimo trattamento ricevuto dalla donna è stato quello che le è stato riservato in tutte le occasioni precedenti.",
+    "L'affermazione indica che la donna ha trattato l'interlocutore in modo costante attraverso il tempo.",
+    "L'affermazione indica che la donna ha trattato l'interlocutore in modo costante attraverso il tempo.",
+    "L'affermazione indica che la donna ha trattato l'interlocutore in modo costante attraverso il tempo."
+  ],
+  "wer": 0.142857,
+  "u_asr": 0.453143,
+  "wer_gt1": 0.428571
+}

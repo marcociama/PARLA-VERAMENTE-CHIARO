@@ -1,0 +1,29 @@
+{
+  "filename": "035",
+  "neapolitan_text": "Ma pecché, nun ero padrone d' 'e mmettere?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma perché, non ero in diritto di metterle?",
+    "Ma perché, non ero padrone di metterle?",
+    "Ma perché, non ero libero di metterle?"
+  ],
+  "inputs": [
+    "Ma perché, non ero in diritto di metterle?",
+    "Ma perché, non ero padrone di metterle?",
+    "Ma perché, non ero libero di metterle?",
+    "Ma perché non era patrono del mettere?",
+    "Ma perché? Non era padrone del mettere.",
+    "Ma perché non era padrone del mettere?"
+  ],
+  "responses": [
+    "La frase implica che la persona si chiede perché avesse il diritto di fare qualcosa a qualcuno o qualcosa.",
+    "La frase implica che l'oratore non aveva il controllo o la capacità di far qualcosa specifico riguardo a qualcuno o qualcosa.",
+    "La frase indica che l'oratore si sente limitato o vincolato a fare qualcosa, in questo caso mettere qualcosa.",
+    "La frase indica una domanda sulla ragione per cui qualcuno non ha preso la decisione di prendere il controllo o gestire qualcosa.",
+    "La frase implica che l'individuo non aveva il controllo o la capacità di gestire una situazione.",
+    "Perché non aveva abilità o competenza nel mettere qualcosa a posto."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.334429,
+  "wer_gt1": 0.75
+}

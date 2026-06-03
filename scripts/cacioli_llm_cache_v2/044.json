@@ -1,0 +1,29 @@
+{
+  "filename": "044",
+  "neapolitan_text": "Ma pecché nun avev' 'a mangià, secondo voi?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma perché non dovevo mangiare, secondo voi?",
+    "E perché non dovevo mangiare, secondo voi?",
+    "Ma perché non dovevo nutrirmi, secondo voi?"
+  ],
+  "inputs": [
+    "Ma perché non dovevo mangiare, secondo voi?",
+    "E perché non dovevo mangiare, secondo voi?",
+    "Ma perché non dovevo nutrirmi, secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?"
+  ],
+  "responses": [
+    "La frase indica che l'interlocutore chiede perché, secondo l'altro interlocutore, dovrebbe mangiare.",
+    "Perché non dovrei mangiare, secondo te? (L'affermazione implica che qualcuno ha detto al soggetto di non mangiare e il soggetto chiede perché.)",
+    "La frase implica che l'interlocutore ha espresso un'opinione su cosa l'altro dovrebbe fare in merito alla sua alimentazione.",
+    "La frase indica che qualcuno ha fatto una domanda su perché l'altro non ha mangiato come loro avevano previsto o desiderato.",
+    "La frase indica che qualcuno ha fatto una domanda su perché l'altro non ha mangiato come loro avevano previsto o desiderato.",
+    "La frase indica che qualcuno ha fatto una domanda su perché l'altro non ha mangiato come loro avevano previsto o desiderato."
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.260571,
+  "wer_gt1": 0.285714
+}

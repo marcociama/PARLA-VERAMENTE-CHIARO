@@ -1,0 +1,29 @@
+{
+  "filename": "049",
+  "neapolitan_text": "dicea no cierto che l’auciello arava",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Diceva non è certo che l'uccellino arasse",
+    "Diceva non è vero che l'uccello arava",
+    "Diceva non è sicuro che l'uccellino stava arando"
+  ],
+  "inputs": [
+    "Diceva non è certo che l'uccellino arasse",
+    "Diceva non è vero che l'uccello arava",
+    "Diceva non è sicuro che l'uccellino stava arando",
+    "Dicevo, no, certo che la voce la rava.",
+    "Dicevo, no, certo che la voce la rava.",
+    "Dicevo no, certo che la uccella erava."
+  ],
+  "responses": [
+    "L'espressione \"Diceva non è certo che l'uccellino arasse\" deriva da un verso di una poesia di Giuseppe Ungaretti, dove l'autore esprime la sua incertezza sulla natura della realtà. In questo caso, l'uccellino rappresenta il mondo reale e l'arasse simboleggia la possibilità che ci sia qualcosa di più profondo o misterioso al di là del nostro percepire diretto.",
+    "L'uccello Araba Fenice era una leggenda e non un uccello reale, quindi la frase \"l'uccello Arava\" non ha senso.",
+    "L'uccellino non era un topo, quindi non poteva arare. La frase è una citazione dalla commedia di Aristofane \"Le Rane\".",
+    "La persona afferma di aver sentito il suono della voce. Sì, è vero.",
+    "La persona afferma di aver sentito il suono della voce. Sì, è vero.",
+    "La persona ha detto di aver visto un uccello. Sì, è vero."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.258375,
+  "wer_gt1": 1.0
+}

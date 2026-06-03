@@ -1,0 +1,29 @@
+{
+  "filename": "133",
+  "neapolitan_text": "Statte zitto, ca manco tu he capito.",
+  "domain": "Play",
+  "gt_variants": [
+    "Statti zitto, che nemmeno tu hai capito.",
+    "Sta' zitto, che neanche tu ci hai capito niente.",
+    "Taci, che nemmeno tu hai compreso."
+  ],
+  "inputs": [
+    "Statti zitto, che nemmeno tu hai capito.",
+    "Sta' zitto, che neanche tu ci hai capito niente.",
+    "Taci, che nemmeno tu hai compreso.",
+    "Stato sito che ha mancato i capiti.",
+    "Stato sito che ha mancato i capiti.",
+    "Stato sito che a manga tu hai capito."
+  ],
+  "responses": [
+    "Sono solo un assistente e non posso comprendere o interpretare le emozioni. Tuttavia, la tua frase suggerisce una richiesta di silenzio a causa della difficoltà nell'essere compreso.",
+    "Sì, ho capito la tua frase. Ti suggerisco di rimanere paziente e di continuare a cercare di comprendere meglio il tema in questione.",
+    "Ho capito che non ho fornito una risposta adeguata alla tua richiesta. Mi dispiace se non sono riuscito a soddisfare le tue esigenze.",
+    "Il termine \"Stato sito\" non è comune nella terminologia architettonica o urbanistica. Tuttavia, se si intende come un edificio o un complesso architettonico, il significato potrebbe essere quello di una costruzione che manca di elementi essenziali per la sua integrità strutturale o funzionale, come ad esempio i capitelli.",
+    "Il termine \"Stato sito\" non è comune nella terminologia architettonica o urbanistica. Tuttavia, se si intende come un edificio o un complesso architettonico, il significato potrebbe essere quello di una costruzione che manca di elementi essenziali per la sua integrità strutturale o funzionale, come ad esempio i capitelli.",
+    "Sì, ho capito che stai chiedendo dove si trova lo stato di cui parli. Tuttavia, per fornire una risposta precisa, mi serve un po' più di informazioni. Potresti specificare il nome dello stato?"
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.502857,
+  "wer_gt1": 0.857143
+}

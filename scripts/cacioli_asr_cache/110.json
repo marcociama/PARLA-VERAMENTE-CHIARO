@@ -1,0 +1,79 @@
+{
+  "transcription": "Non ci sta per dire che questo fatto succeda a Napoli.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 0.459,
+      "end": 0.58,
+      "confidence": 0.608
+    },
+    {
+      "word": "ci",
+      "start": 0.64,
+      "end": 0.701,
+      "confidence": 0.446
+    },
+    {
+      "word": "sta",
+      "start": 0.781,
+      "end": 1.003,
+      "confidence": 0.888
+    },
+    {
+      "word": "per",
+      "start": 1.063,
+      "end": 1.224,
+      "confidence": 0.853
+    },
+    {
+      "word": "dire",
+      "start": 1.324,
+      "end": 1.526,
+      "confidence": 0.336
+    },
+    {
+      "word": "che",
+      "start": 1.546,
+      "end": 1.606,
+      "confidence": 0.436
+    },
+    {
+      "word": "questo",
+      "start": 1.667,
+      "end": 1.888,
+      "confidence": 0.385
+    },
+    {
+      "word": "fatto",
+      "start": 1.948,
+      "end": 2.29,
+      "confidence": 0.876
+    },
+    {
+      "word": "succeda",
+      "start": 2.351,
+      "end": 2.773,
+      "confidence": 0.749
+    },
+    {
+      "word": "a",
+      "start": 2.793,
+      "end": 2.834,
+      "confidence": 0.771
+    },
+    {
+      "word": "Napoli.",
+      "start": 2.914,
+      "end": 3.276,
+      "confidence": 0.756
+    }
+  ],
+  "top3": [
+    "Non ci sta per dire che questo fatto succeda a Napoli.",
+    "Non ci sta per dire che questo fatto succeda a Napoli.",
+    "Non ci sta per dire che questo fatto succeda a Napoli."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6458181818181818,
+  "u_asr": 0.35418181818181815
+}

@@ -1,0 +1,91 @@
+{
+  "transcription": "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero.",
+  "words": [
+    {
+      "word": "Ogni",
+      "start": 0.592,
+      "end": 0.792,
+      "confidence": 0.821
+    },
+    {
+      "word": "anno",
+      "start": 0.832,
+      "end": 1.152,
+      "confidence": 0.738
+    },
+    {
+      "word": "il",
+      "start": 1.172,
+      "end": 1.212,
+      "confidence": 0.0
+    },
+    {
+      "word": "2",
+      "start": 1.373,
+      "end": 1.493,
+      "confidence": 0.51
+    },
+    {
+      "word": "novembre",
+      "start": 1.553,
+      "end": 2.073,
+      "confidence": 0.85
+    },
+    {
+      "word": "c'è",
+      "start": 2.093,
+      "end": 2.294,
+      "confidence": 0.414
+    },
+    {
+      "word": "l'usanza",
+      "start": 2.414,
+      "end": 2.994,
+      "confidence": 0.877
+    },
+    {
+      "word": "per",
+      "start": 3.075,
+      "end": 3.175,
+      "confidence": 0.715
+    },
+    {
+      "word": "i",
+      "start": 3.195,
+      "end": 3.235,
+      "confidence": 0.886
+    },
+    {
+      "word": "defunti",
+      "start": 3.295,
+      "end": 4.056,
+      "confidence": 0.946
+    },
+    {
+      "word": "andare",
+      "start": 4.456,
+      "end": 4.897,
+      "confidence": 0.823
+    },
+    {
+      "word": "al",
+      "start": 4.937,
+      "end": 5.037,
+      "confidence": 0.921
+    },
+    {
+      "word": "cimitero.",
+      "start": 5.157,
+      "end": 5.758,
+      "confidence": 0.828
+    }
+  ],
+  "top3": [
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero.",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero.",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7176153846153845,
+  "u_asr": 0.28238461538461546
+}

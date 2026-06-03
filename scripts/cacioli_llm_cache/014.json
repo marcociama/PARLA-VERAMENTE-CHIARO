@@ -1,0 +1,29 @@
+{
+  "filename": "014",
+  "neapolitan_text": "E quanno me vulive vedé 'e durmi, tu?",
+  "domain": "Play",
+  "gt_variants": [
+    "E quando mi volevi vedere dormire, tu?",
+    "E quando avevi voglia di vedermi dormire, tu?",
+    "E quando volevi vedere me dormire, tu?"
+  ],
+  "inputs": [
+    "E quando mi volevi vedere dormire, tu?",
+    "E quando avevi voglia di vedermi dormire, tu?",
+    "E quando volevi vedere me dormire, tu?",
+    "E quando mi volevi dire un miso?",
+    "E quando mi volevo riedere un minuto,",
+    "E quando mi volevo di esumirsi,"
+  ],
+  "responses": [
+    "Quando hai bisogno di dormire, non ho paura di guardarti.",
+    "Quando ho voglia di dormire, non ti vedo. Io dormo solitario.",
+    "Mi dispiace, ma non posso dormire. Sono un assistente culturale e non ho bisogno di dormire come gli esseri umani.",
+    "Mi dissi un miso ieri stesso, ma non lo ho ancora preparato.",
+    "Mi dispiace, ma non sono un orologio e non posso aiutarti a misurare il tempo. Tuttavia, se stai cercando di riprenderti un momento per rilassarti, mi suggerirei di prendere una pausa breve e riprenderti quando ti sentirai pronto.",
+    "Quando si vuole esprimersi in modo più formale, si può dire \"esprimere i propri pensieri\"."
+  ],
+  "wer": 0.428571,
+  "u_asr": 0.331286,
+  "wer_gt1": 0.428571
+}

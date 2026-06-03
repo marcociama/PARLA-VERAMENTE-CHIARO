@@ -1,0 +1,29 @@
+{
+  "filename": "115",
+  "neapolitan_text": "A cucina piccerella fa la casa granne.",
+  "domain": "Blog",
+  "gt_variants": [
+    "La cucina piccola rende la casa grande.",
+    "Una cucina piccola fa sembrare la casa grande.",
+    "La cucina modesta rende la casa grande."
+  ],
+  "inputs": [
+    "La cucina piccola rende la casa grande.",
+    "Una cucina piccola fa sembrare la casa grande.",
+    "La cucina modesta rende la casa grande.",
+    "La cucina piccerella fa la casa grande.",
+    "La cucina piccerella fa la casa grande.",
+    "La cucina pitch red la fa a casa grande."
+  ],
+  "responses": [
+    "La cucina piccola fa sembrare la casa più grande.",
+    "Una cucina piccola rende la casa apparente più grande.",
+    "Una cucina modesta contribuisce a rendere la casa sembrare più grande.",
+    "La cucina piccerella rende la casa più accogliente o invitante.",
+    "La cucina piccerella rende la casa più accogliente o invitante.",
+    "La cucina Pitch Red è preparata a casa da grandi dimensioni."
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.386,
+  "wer_gt1": 0.285714
+}

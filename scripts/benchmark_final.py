@@ -23,8 +23,6 @@ from pathlib import Path
 import numpy as np
 from scipy.stats import pearsonr
 from sentence_transformers import SentenceTransformer
-from sklearn.preprocessing import normalize as sk_normalize
-from sklearn.svm import LinearSVC
 
 BASE       = Path(__file__).parent.parent
 LLM_DIR    = BASE / "daws" / "results" / "llm_cache"
@@ -86,20 +84,69 @@ print(f"E_sem_top:   mean={E_sem_top.mean():.4f}  "
 print(f"E_sem_cross: mean={E_sem_cross.mean():.4f}  "
       f"range=[{E_sem_cross.min():.4f}, {E_sem_cross.max():.4f}]")
 
-# ── 4. Due assi SVM separati (input / output) ─────────────────────────────────
-labels = np.array([0] * 150 + [1] * 150)
+# ── 4. Direzione di drift ─────────────────────────────────────────────────────
+from sklearn.svm import LinearSVC
+from sklearn.preprocessing import normalize as sk_normalize
+
+emb_in_slots  = [X_in [k * N:(k + 1) * N] for k in range(6)]
+emb_out_slots_all = [X_out[k * N:(k + 1) * N] for k in range(6)]
+
+# ── 4a. SVM raw (GT=0, W=1) su 300 embedding — metodo produzione ──────────────
+labels = np.array([0] * (3 * N) + [1] * (3 * N))
 
 svm_in  = LinearSVC(C=1.0, max_iter=10_000, dual=True)
-svm_in.fit(X_in, labels)
-w_drift_in  = sk_normalize(svm_in.coef_)[0]
-acc_in = float((svm_in.predict(X_in) == labels).mean())
+svm_in.fit(X_in,  labels)
+w_drift_in_svm  = sk_normalize(svm_in.coef_)[0]
+acc_in  = float((svm_in.predict(X_in)  == labels).mean())
 
 svm_out = LinearSVC(C=1.0, max_iter=10_000, dual=True)
 svm_out.fit(X_out, labels)
-w_drift_out = sk_normalize(svm_out.coef_)[0]
+w_drift_out_svm = sk_normalize(svm_out.coef_)[0]
 acc_out = float((svm_out.predict(X_out) == labels).mean())
+print(f"SVM-raw  accuracy — input: {acc_in:.3f}  |  output: {acc_out:.3f}")
 
-print(f"SVM accuracy — input: {acc_in:.3f}  |  output: {acc_out:.3f}")
+# ── 4b. SVM su PC1 locali — ablation ──────────────────────────────────────────
+# Per ogni sample: PCA locale sui 6 punti → v_i (sign: W>GT).
+# SVM con classe +1={v_i} e classe -1={-v_i}: trova la direzione che massimizza
+# il margine tra i vettori di drift locali e i loro opposti.
+def _local_pc1_vectors(emb_slots, n_samples):
+    vecs = []
+    for i in range(n_samples):
+        pts = np.stack([emb_slots[s][i] for s in range(6)])
+        pts_c = pts - pts.mean(axis=0)
+        _, _, Vt = np.linalg.svd(pts_c, full_matrices=False)
+        v = Vt[0]
+        w_proj  = np.mean([pts[s] @ v for s in range(3, 6)])
+        gt_proj = np.mean([pts[s] @ v for s in range(3)])
+        if w_proj < gt_proj:
+            v = -v
+        vecs.append(v)
+    return np.stack(vecs)   # (N, 768)
+
+pc1_in  = _local_pc1_vectors(emb_in_slots,    N)  # (50, 768)
+pc1_out = _local_pc1_vectors(emb_out_slots_all, N)  # (50, 768)
+
+# train set: v_i (+1) e -v_i (-1)
+X_pc1_in  = np.vstack([pc1_in,  -pc1_in ])
+X_pc1_out = np.vstack([pc1_out, -pc1_out])
+y_pc1     = np.array([1] * N + [-1] * N)
+
+svm_pc1_in  = LinearSVC(C=1.0, max_iter=10_000, dual=True)
+svm_pc1_in.fit(X_pc1_in, y_pc1)
+w_drift_in_pc1  = sk_normalize(svm_pc1_in.coef_)[0]
+
+svm_pc1_out = LinearSVC(C=1.0, max_iter=10_000, dual=True)
+svm_pc1_out.fit(X_pc1_out, y_pc1)
+w_drift_out_pc1 = sk_normalize(svm_pc1_out.coef_)[0]
+
+cos_svm_vs_raw_in  = float(w_drift_in_pc1  @ w_drift_in_svm)
+cos_svm_vs_raw_out = float(w_drift_out_pc1 @ w_drift_out_svm)
+print(f"SVM-PC1  cos vs SVM-raw — input: {cos_svm_vs_raw_in:.4f}  "
+      f"|  output: {cos_svm_vs_raw_out:.4f}")
+
+# Assi produzione = SVM raw (invariato)
+w_drift_in  = w_drift_in_svm
+w_drift_out = w_drift_out_svm
 
 proj_in  = X_in  @ w_drift_in
 proj_out = X_out @ w_drift_out
@@ -139,29 +186,49 @@ def _spectral_H(pts_in, pts_out, sig_in, sig_out):
     e = e[e > 1e-12]
     return float(-np.sum(e * np.log(e)))
 
-# ── 6. Calcolo i 3 metodi ─────────────────────────────────────────────────────
+# ── 6. Calcolo metodi — SVM-raw (produzione) + SVM-PC1 (ablation) ─────────────
 
 # Metodo 1: Inv-Entropy H_k1 (già caricato)
 
-# Metodo 2: 1D Markov Spettrale ORACLE (proiezioni GT reali per-sample)
-H_spectral_oracle = np.array([
-    _spectral_H(
-        np.array([proj_in_slots[s][i]  for s in range(6)]),
-        np.array([proj_out_slots[s][i] for s in range(6)]),
-        sigma_in, sigma_out,
-    )
-    for i in range(N)
-])
+def _run_online(w_in, w_out, label):
+    """Calcola ORACLE e ONLINE dato un asse di drift, ricalcolando sigma e anchors."""
+    pi  = X_in  @ w_in
+    po  = X_out @ w_out
+    pi_s = [pi[k * N:(k + 1) * N] for k in range(6)]
+    po_s = [po[k * N:(k + 1) * N] for k in range(6)]
+    sig_i = _median_sigma(pi)
+    sig_o = _median_sigma(po)
+    anc_i = [float(pi_s[s].mean()) for s in range(3)]
+    anc_o = [float(po_s[s].mean()) for s in range(3)]
+    print(f"  [{label}] sigma_in={sig_i:.5f}  sigma_out={sig_o:.5f}")
+    print(f"  [{label}] anchors_in ={[f'{a:.4f}' for a in anc_i]}")
+    print(f"  [{label}] anchors_out={[f'{a:.4f}' for a in anc_o]}")
+    oracle = np.array([
+        _spectral_H(
+            np.array([pi_s[s][i] for s in range(6)]),
+            np.array([po_s[s][i] for s in range(6)]),
+            sig_i, sig_o,
+        ) for i in range(N)
+    ])
+    online = np.array([
+        _spectral_H(
+            np.array(anc_i + [pi_s[3][i], pi_s[4][i], pi_s[5][i]]),
+            np.array(anc_o + [po_s[3][i], po_s[4][i], po_s[5][i]]),
+            sig_i, sig_o,
+        ) for i in range(N)
+    ])
+    return oracle, online, sig_i, sig_o, anc_i, anc_o, pi_s, po_s
 
-# Metodo 3: 1D Markov Spettrale ONLINE (ancoraggi congelati, no GT a runtime)
-H_spectral_online = np.array([
-    _spectral_H(
-        np.array(anchors_in  + [proj_in_slots[3][i],  proj_in_slots[4][i],  proj_in_slots[5][i]]),
-        np.array(anchors_out + [proj_out_slots[3][i], proj_out_slots[4][i], proj_out_slots[5][i]]),
-        sigma_in, sigma_out,
-    )
-    for i in range(N)
-])
+# SVM-raw (produzione)
+H_oracle_svm, H_online_svm, sigma_in, sigma_out, anchors_in, anchors_out, proj_in_slots, proj_out_slots = \
+    _run_online(w_drift_in_svm, w_drift_out_svm, "SVM-raw")
+
+# SVM-PC1 (ablation)
+H_oracle_pc1, H_online_pc1, *_ = _run_online(w_drift_in_pc1, w_drift_out_pc1, "SVM-PC1")
+
+# alias per il resto del codice (calibrazione usa SVM-raw = produzione)
+H_spectral_oracle = H_oracle_svm
+H_spectral_online = H_online_svm
 
 # ── 7. Tabella Pearson ────────────────────────────────────────────────────────
 targets = [
@@ -171,9 +238,11 @@ targets = [
 ]
 
 archs = [
-    ("Inv-Entropy H_k1 (offline UB)", H_ie_k1,           "sì"),
-    ("1D Markov Spettrale ORACLE",    H_spectral_oracle,  "sì"),
-    ("1D Markov Spettrale ONLINE",    H_spectral_online,  "no"),
+    ("Inv-Entropy H_k1 (offline UB)",       H_ie_k1,          "sì"),
+    ("1D Markov ORACLE  [SVM-raw]",          H_oracle_svm,     "sì"),
+    ("1D Markov ORACLE  [SVM-PC1 ablation]", H_oracle_pc1,     "sì"),
+    ("1D Markov ONLINE  [SVM-raw] ★PROD",    H_online_svm,     "no"),
+    ("1D Markov ONLINE  [SVM-PC1 ablation]", H_online_pc1,     "no"),
 ]
 
 W, C = 36, 26
@@ -232,10 +301,10 @@ cfg_out = {
     "h_spectral_min":     float(H_spectral_online.min()),
     "h_spectral_max":     float(H_spectral_online.max()),
     # Metriche di diagnostica
-    "pearson_H_wer":      pearson_online_wer,
-    "svm_train_acc_out":  acc_out,
-    "svm_train_acc_in":   acc_in,
-    "n_samples":          N,
+    "pearson_H_wer":           pearson_online_wer,
+    "svm_train_acc_in":        acc_in,
+    "svm_train_acc_out":       acc_out,
+    "n_samples":               N,
 }
 
 CFG_OUT.parent.mkdir(parents=True, exist_ok=True)

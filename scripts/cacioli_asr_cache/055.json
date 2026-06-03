@@ -1,0 +1,55 @@
+{
+  "transcription": "Che il fu tempo che Bert fuiava.",
+  "words": [
+    {
+      "word": "Che",
+      "start": 0.766,
+      "end": 0.887,
+      "confidence": 0.718
+    },
+    {
+      "word": "il",
+      "start": 0.907,
+      "end": 1.028,
+      "confidence": 0.658
+    },
+    {
+      "word": "fu",
+      "start": 1.088,
+      "end": 1.148,
+      "confidence": 0.905
+    },
+    {
+      "word": "tempo",
+      "start": 1.209,
+      "end": 1.51,
+      "confidence": 0.626
+    },
+    {
+      "word": "che",
+      "start": 1.57,
+      "end": 1.671,
+      "confidence": 0.762
+    },
+    {
+      "word": "Bert",
+      "start": 1.772,
+      "end": 2.133,
+      "confidence": 0.887
+    },
+    {
+      "word": "fuiava.",
+      "start": 2.234,
+      "end": 2.737,
+      "confidence": 0.683
+    }
+  ],
+  "top3": [
+    "Che il fu tempo che Bert fuiava.",
+    "che il fu tempo che Bert fuiava.",
+    "che il fu tempo che Bert fuiava."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7484285714285713,
+  "u_asr": 0.25157142857142867
+}

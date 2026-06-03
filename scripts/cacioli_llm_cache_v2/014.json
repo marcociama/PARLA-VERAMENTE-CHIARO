@@ -1,0 +1,29 @@
+{
+  "filename": "014",
+  "neapolitan_text": "E quanno me vulive vedé 'e durmi, tu?",
+  "domain": "Play",
+  "gt_variants": [
+    "E quando mi volevi vedere dormire, tu?",
+    "E quando avevi voglia di vedermi dormire, tu?",
+    "E quando volevi vedere me dormire, tu?"
+  ],
+  "inputs": [
+    "E quando mi volevi vedere dormire, tu?",
+    "E quando avevi voglia di vedermi dormire, tu?",
+    "E quando volevi vedere me dormire, tu?",
+    "E quando mi volevi dire un miso?",
+    "E quando mi volevo riedere un minuto,",
+    "E quando mi volevo di esumirsi,"
+  ],
+  "responses": [
+    "Quando vuoi vedermi dormire? (L'affermazione implica che qualcuno ha chiesto a qualcun altro se desidera osservarlo mentre dorme.)",
+    "Questa affermazione indica che l'interlocutore si ricorda di un momento in cui qualcuno desiderava guardare il dormire dell'oratore.",
+    "Questa affermazione indica che l'interlocutore si aspettava che qualcuno volesse guardarlo dormire in un determinato momento.",
+    "La frase \"E quando mi volevi dire un miso?\" vuol dire \"E quando ti eravamo stato detto che avrei voluto del miso?\" In altre parole, chiede se qualcuno ha fatto una domanda o ha detto qualcosa riguardo al miso in un momento precedente.",
+    "Mi volsi a riposare per un minuto.",
+    "Quando mi sentivo desideroso di uscire dalla situazione attuale."
+  ],
+  "wer": 0.428571,
+  "u_asr": 0.331286,
+  "wer_gt1": 0.428571
+}

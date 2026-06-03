@@ -1,0 +1,29 @@
+{
+  "filename": "041",
+  "neapolitan_text": "Me sierve... Tu, me sierve!",
+  "domain": "Play",
+  "gt_variants": [
+    "Mi servi... Tu, mi servi!",
+    "Mi occorri... Tu, mi occorri!",
+    "Mi sei utile... Tu, mi sei utile!"
+  ],
+  "inputs": [
+    "Mi servi... Tu, mi servi!",
+    "Mi occorri... Tu, mi occorri!",
+    "Mi sei utile... Tu, mi sei utile!",
+    "Masserva, tu Masserva.",
+    "Masserva, tu Masserva.",
+    "Masserva, tu Masserva."
+  ],
+  "responses": [
+    "La frase \"Mi servi... Tu, mi servi!\" è un'espressione di reciproca necessità o solidarietà, che può essere tradotta come \"Io ti serve... Tu mi serve!\". In questo contesto, indica una situazione in cui ciascuno dei due interlocutori ha bisogno dell'altro.",
+    "La frase \"Mi occorri... Tu, mi occorri!\" sembra essere una espressione emotiva di bisogno o necessità reciproca. In italiano moderno, potrebbe essere tradotta come \"Io ho bisogno... Tu mi hai bisogno!\". Tuttavia, è importante notare che questa frase può avere significati differenti in contesti diversi e potrebbe essere usata anche per esprimere un sentimento di affetto o amore.",
+    "Grazie per la tua gentilezza! Sono qui a tuo servizio.",
+    "\"Masserva\" è una canzone famosa del cantautore italiano Fabrizio De André. La traduzione della frase sarebbe \"Servi, servi, io sono il tuo padrone\".",
+    "\"Masserva\" è una canzone famosa del cantautore italiano Fabrizio De André. La traduzione della frase sarebbe \"Servi, servi, io sono il tuo padrone\".",
+    "\"Masserva\" è una canzone famosa del cantautore italiano Fabrizio De André. La traduzione della frase sarebbe \"Servi, servi, io sono il tuo padrone\"."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.294,
+  "wer_gt1": 1.0
+}

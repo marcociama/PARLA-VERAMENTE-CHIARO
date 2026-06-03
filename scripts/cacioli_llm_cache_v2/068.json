@@ -1,0 +1,29 @@
+{
+  "filename": "068",
+  "neapolitan_text": "Ma chi te cride d’essere, nu ddio? Cca dinto, ‘o vvuò capì ca simmo eguae?",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Ma chi ti credi di essere, un dio? Qui dentro, lo vuoi capire che siamo uguali?",
+    "Ma chi credi di essere, un dio? Qui dentro, vuoi capire che siamo pari?",
+    "Ma chi ti credi di essere, un dio? Qui dentro, vuoi metterti in testa che siamo uguali?"
+  ],
+  "inputs": [
+    "Ma chi ti credi di essere, un dio? Qui dentro, lo vuoi capire che siamo uguali?",
+    "Ma chi credi di essere, un dio? Qui dentro, vuoi capire che siamo pari?",
+    "Ma chi ti credi di essere, un dio? Qui dentro, vuoi metterti in testa che siamo uguali?",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali.",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali.",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali."
+  ],
+  "responses": [
+    "L'affermazione implica che l'interlocutore è offeso dal fatto che qualcuno lo consideri come un dio, e che invece crede nell'uguaglianza tra le persone.",
+    "La frase implica che l'interlocutore è offeso perché l'altro lo considera superiore o divino, e gli chiede se non conosca bene la loro uguaglianza.",
+    "L'affermazione implica che l'interlocutore è offeso dal fatto che l'altro si consideri superiore o divino e lo invita a ricordare che tutti sono uguali.",
+    "L'affermazione suggerisce che nessuno è in grado di definirsi come un dio, poiché tutti noi sono uguali.",
+    "L'affermazione suggerisce che nessuno è in grado di definirsi come un dio, poiché tutti noi sono uguali.",
+    "L'affermazione suggerisce che nessuno è in grado di definirsi come un dio, poiché tutti noi sono uguali."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.358154,
+  "wer_gt1": 0.5625
+}

@@ -1,0 +1,79 @@
+{
+  "transcription": "La serva l'ha già fatta per 25 anni, vi ho saputo.",
+  "words": [
+    {
+      "word": "La",
+      "start": 1.002,
+      "end": 1.083,
+      "confidence": 0.674
+    },
+    {
+      "word": "serva",
+      "start": 1.103,
+      "end": 1.426,
+      "confidence": 0.753
+    },
+    {
+      "word": "l'ha",
+      "start": 1.466,
+      "end": 1.567,
+      "confidence": 0.432
+    },
+    {
+      "word": "già",
+      "start": 1.628,
+      "end": 1.708,
+      "confidence": 0.485
+    },
+    {
+      "word": "fatta",
+      "start": 1.748,
+      "end": 2.172,
+      "confidence": 0.765
+    },
+    {
+      "word": "per",
+      "start": 2.232,
+      "end": 2.555,
+      "confidence": 0.35
+    },
+    {
+      "word": "25",
+      "start": 2.696,
+      "end": 2.757,
+      "confidence": 0.754
+    },
+    {
+      "word": "anni,",
+      "start": 2.817,
+      "end": 3.099,
+      "confidence": 0.801
+    },
+    {
+      "word": "vi",
+      "start": 3.2,
+      "end": 3.321,
+      "confidence": 0.518
+    },
+    {
+      "word": "ho",
+      "start": 3.341,
+      "end": 3.422,
+      "confidence": 0.532
+    },
+    {
+      "word": "saputo.",
+      "start": 3.543,
+      "end": 3.966,
+      "confidence": 0.55
+    }
+  ],
+  "top3": [
+    "La serva l'ha già fatta per 25 anni, vi ho saputo.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6012727272727273,
+  "u_asr": 0.3987272727272727
+}

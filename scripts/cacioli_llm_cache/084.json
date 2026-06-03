@@ -1,0 +1,29 @@
+{
+  "filename": "084",
+  "neapolitan_text": "Ll’uno co ll’autro lo mostrav’a dito:",
+  "domain": "Poetry",
+  "gt_variants": [
+    "L'uno con l'altro lo mostravano a dito:",
+    "L'un con l'altro se lo indicavano a dito:",
+    "Tra loro lo additavano l'un l'altro:"
+  ],
+  "inputs": [
+    "L'uno con l'altro lo mostravano a dito:",
+    "L'un con l'altro se lo indicavano a dito:",
+    "Tra loro lo additavano l'un l'altro:",
+    "l'una con l'altra la mostrava detta.",
+    "l'una con l'altra la mostrava detta.",
+    "l'una con l'altra la mostrava detta."
+  ],
+  "responses": [
+    "Essi mostravano oggetti uno all'altro utilizzando il gesto della mano.",
+    "Indicare qualcosa a dito significa fare riferimento a qualcosa, quindi la frase \"L'uno con l'altro se lo indicavano a dito\" potrebbe essere tradotta come \"Gli uni gli altri si facevano riferimento a qualcosa\".",
+    "Essi si indicavano a vicenda.",
+    "La parola \"mostrava\" indica che qualcosa è stato fatto per far vedere qualcosa all'altro. In questo caso, \"l'una con l'altra\" fa riferimento a due o più persone. Così, la frase significa: \"Le mostrava una cosa l'una all'altra.\"",
+    "La parola \"mostrava\" indica che qualcosa è stato fatto per far vedere qualcosa all'altro. In questo caso, \"l'una con l'altra\" fa riferimento a due o più persone. Così, la frase significa: \"Le mostrava una cosa l'una all'altra.\"",
+    "La parola \"mostrava\" indica che qualcosa è stato fatto per far vedere qualcosa all'altro. In questo caso, \"l'una con l'altra\" fa riferimento a due o più persone. Così, la frase significa: \"Le mostrava una cosa l'una all'altra.\""
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.231333,
+  "wer_gt1": 0.857143
+}

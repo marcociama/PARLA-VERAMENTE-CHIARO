@@ -1,0 +1,29 @@
+{
+  "filename": "002",
+  "neapolitan_text": "E chesto capisce tu: 'e denare!",
+  "domain": "Play",
+  "gt_variants": [
+    "E questo capisci tu. I denari",
+    "E questo capisci tu, il denaro",
+    "Questo tu capisci: il denaro."
+  ],
+  "inputs": [
+    "E questo capisci tu. I denari",
+    "E questo capisci tu, il denaro",
+    "Questo tu capisci: il denaro.",
+    "E questo capisci tu, i denari.",
+    "E questo capisci tu, i denari.",
+    "E questo capisci tu, i denari."
+  ],
+  "responses": [
+    "Sì, comprendo. Il termine \"denari\" indica monete di bronzo romane utilizzate come valuta durante il periodo repubblicano e imperiale.",
+    "Sì, ho compreso. Ti riferisci al denaro.",
+    "Sì, ho compreso: il tema è il denaro.",
+    "Sì, ho compreso. Ti riferisci ai soldi.",
+    "Sì, ho compreso. Ti riferisci ai soldi.",
+    "Sì, ho compreso. Ti riferisci ai soldi."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.388,
+  "wer_gt1": 0.333333
+}

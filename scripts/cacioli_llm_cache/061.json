@@ -1,0 +1,29 @@
+{
+  "filename": "061",
+  "neapolitan_text": "Mo, s’uno parla, e chella se corruzza.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Adesso, se uno parla, e quella si corruccia",
+    "Ora, se qualcuno parla, quella si offende",
+    "Adesso, se uno apre bocca, lei si indispettisce"
+  ],
+  "inputs": [
+    "Adesso, se uno parla, e quella si corruccia",
+    "Ora, se qualcuno parla, quella si offende",
+    "Adesso, se uno apre bocca, lei si indispettisce",
+    "Non se ne parla, che lo si carruzza.",
+    "Non se lo parla, che lo si carruzza.",
+    "Non se ne parla, che lo si carruzza."
+  ],
+  "responses": [
+    "L'espressione \"se uno parla, e quella si corruccia\" sembra essere una metafora o un gioco di parole. Potrebbe significare che quando qualcuno parla, la situazione o la persona a cui si riferisce diventa nervosa o imbarazzata. Tuttavia, per capire il contesto esatto è necessario considerare il contesto in cui questa frase è stata utilizzata.",
+    "La frase \"Ora, se qualcuno parla, quella si offende\" sembra essere una metafora o un'espressione idiomatica. In italiano, potrebbe tradursi come \"Ormai, se qualcuno parla, lei si sente offesa\". Tuttavia, per capire la vera intenzione della frase, è necessario considerare il contesto in cui è stata pronunciata.",
+    "Sono un assistente e non posso indispettirmi, ma certo non è cortesia aprire la bocca senza motivo.",
+    "L'espressione \"Non se ne parla, che lo si carruzza\" significa che qualcosa non è discusso o menzionato, ma viene comunque presunto o accettato come vero.",
+    "Questa frase sembra essere una metafora. \"Non se lo parla\" significa non lo menziona o non lo discute, mentre \"che lo si carruzza\" può riferirsi a qualcosa che viene trasportato o portato con cura. In generale, potrebbe significare che qualcuno non lo fa parlare ma lo tratta con cura e attenzione.",
+    "L'espressione \"Non se ne parla, che lo si carruzza\" significa che qualcosa non è discusso o menzionato, ma viene comunque presunto o accettato come vero."
+  ],
+  "wer": 0.625,
+  "u_asr": 0.37225,
+  "wer_gt1": 0.625
+}

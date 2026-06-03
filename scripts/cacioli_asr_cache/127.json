@@ -1,0 +1,43 @@
+{
+  "transcription": "Ciao, ma faceva male opera.",
+  "words": [
+    {
+      "word": "Ciao,",
+      "start": 0.77,
+      "end": 0.951,
+      "confidence": 0.28
+    },
+    {
+      "word": "ma",
+      "start": 0.971,
+      "end": 1.012,
+      "confidence": 0.094
+    },
+    {
+      "word": "faceva",
+      "start": 1.032,
+      "end": 1.294,
+      "confidence": 0.64
+    },
+    {
+      "word": "male",
+      "start": 1.375,
+      "end": 1.536,
+      "confidence": 0.431
+    },
+    {
+      "word": "opera.",
+      "start": 1.617,
+      "end": 2.02,
+      "confidence": 0.691
+    }
+  ],
+  "top3": [
+    "Ciao, ma faceva male opera.",
+    "Ciao, ma faceva male opera.",
+    "Ciao, ma faceva male opera."
+  ],
+  "language": "it",
+  "mean_confidence": 0.4272,
+  "u_asr": 0.5728
+}

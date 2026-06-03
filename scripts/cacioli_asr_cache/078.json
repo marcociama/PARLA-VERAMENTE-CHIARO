@@ -1,0 +1,55 @@
+{
+  "transcription": "Che i braga stringate e ne appungierlo.",
+  "words": [
+    {
+      "word": "Che",
+      "start": 1.462,
+      "end": 1.542,
+      "confidence": 0.819
+    },
+    {
+      "word": "i",
+      "start": 1.562,
+      "end": 1.582,
+      "confidence": 0.002
+    },
+    {
+      "word": "braga",
+      "start": 1.623,
+      "end": 1.884,
+      "confidence": 0.764
+    },
+    {
+      "word": "stringate",
+      "start": 1.965,
+      "end": 2.569,
+      "confidence": 0.732
+    },
+    {
+      "word": "e",
+      "start": 2.589,
+      "end": 2.609,
+      "confidence": 0.215
+    },
+    {
+      "word": "ne",
+      "start": 2.67,
+      "end": 2.791,
+      "confidence": 0.69
+    },
+    {
+      "word": "appungierlo.",
+      "start": 2.811,
+      "end": 3.576,
+      "confidence": 0.828
+    }
+  ],
+  "top3": [
+    "Che i braga stringate e ne appungierlo.",
+    "Che braga stringata e gnappunciello.",
+    "Che i braga stringate e ne appungirlo."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5785714285714285,
+  "u_asr": 0.4214285714285715
+}

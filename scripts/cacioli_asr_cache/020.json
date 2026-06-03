@@ -1,0 +1,79 @@
+{
+  "transcription": "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto.",
+  "words": [
+    {
+      "word": "La",
+      "start": 0.817,
+      "end": 0.857,
+      "confidence": 0.48
+    },
+    {
+      "word": "soddisfazione",
+      "start": 0.897,
+      "end": 1.559,
+      "confidence": 0.739
+    },
+    {
+      "word": "che",
+      "start": 1.579,
+      "end": 1.639,
+      "confidence": 0.007
+    },
+    {
+      "word": "ha",
+      "start": 1.68,
+      "end": 2.221,
+      "confidence": 0.6
+    },
+    {
+      "word": "il",
+      "start": 2.261,
+      "end": 2.321,
+      "confidence": 0.218
+    },
+    {
+      "word": "Filumena",
+      "start": 2.382,
+      "end": 2.823,
+      "confidence": 0.856
+    },
+    {
+      "word": "Madurana",
+      "start": 2.863,
+      "end": 3.404,
+      "confidence": 0.724
+    },
+    {
+      "word": "non",
+      "start": 3.465,
+      "end": 3.625,
+      "confidence": 0.877
+    },
+    {
+      "word": "l'ha",
+      "start": 3.765,
+      "end": 3.866,
+      "confidence": 0.592
+    },
+    {
+      "word": "mai",
+      "start": 3.886,
+      "end": 3.946,
+      "confidence": 0.029
+    },
+    {
+      "word": "avuto.",
+      "start": 4.026,
+      "end": 4.247,
+      "confidence": 0.752
+    }
+  ],
+  "top3": [
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5339999999999999,
+  "u_asr": 0.4660000000000001
+}

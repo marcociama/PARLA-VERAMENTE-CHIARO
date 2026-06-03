@@ -1,0 +1,29 @@
+{
+  "filename": "091",
+  "neapolitan_text": "Si ddoce comme ‘o zucchero",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Sei dolce come lo zucchero",
+    "Sei dolce come zucchero",
+    "Sei dolce al pari dello zucchero"
+  ],
+  "inputs": [
+    "Sei dolce come lo zucchero",
+    "Sei dolce come zucchero",
+    "Sei dolce al pari dello zucchero",
+    "Si doscia con molto zucchero.",
+    "Si doscia con molto zucchero.",
+    "Si doscia con molto zucchero."
+  ],
+  "responses": [
+    "Sono felice di aiutarti! La tua frase significa \"Sei dolce come lo zucchero\", che vuol dire che hai un carattere gentile e amabile, come il sapore del zucchero.",
+    "Sono felice di poter aiutarti! La tua frase significa \"Sei dolce come lo zucchero\". Questo è un modo gentile per dire che qualcuno ha caratteristiche dolci e amabili.",
+    "Sono simile allo zucchero per la sua dolcezza.",
+    "La frase \"Si doscia con molto zucchero\" non ha un significato chiaro nella lingua italiana. Il verbo \"dosciare\" non è usato comunemente in questo contesto e il suo significato più comune è quello di \"piovere\". Se si vuole dire che qualcosa è molto dolce, potresti dire \"È molto zucchero\" o \"Ha molta zucchera\".",
+    "La frase \"Si doscia con molto zucchero\" non ha un significato chiaro nella lingua italiana. Il verbo \"dosciare\" non è usato comunemente in questo contesto e il suo significato più comune è quello di \"piovere\". Se si vuole dire che qualcosa è molto dolce, potresti dire \"È molto zucchero\" o \"Ha molta zucchera\".",
+    "La frase \"Si doscia con molto zucchero\" non ha un significato chiaro nella lingua italiana. Il verbo \"dosciare\" non è usato comunemente in questo contesto e il suo significato più comune è quello di \"piovere\". Se si vuole dire che qualcosa è molto dolce, potresti dire \"È molto zucchero\" o \"Ha molta zucchera\"."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.2662,
+  "wer_gt1": 1.0
+}

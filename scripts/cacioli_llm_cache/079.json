@@ -1,0 +1,29 @@
+{
+  "filename": "079",
+  "neapolitan_text": "Chillo non era tiempo ammagagnato!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quello non era tempo corrotto!",
+    "Quello non era un tempo malato",
+    "Quello non era un tempo pieno di magagne!"
+  ],
+  "inputs": [
+    "Quello non era tempo corrotto!",
+    "Quello non era un tempo malato",
+    "Quello non era un tempo pieno di magagne!",
+    "Chi non è la mia mamma ha cagnato.",
+    "Chi non è la mia mamma ha cagnato.",
+    "Chi non è la mia mamma ha cagnato."
+  ],
+  "responses": [
+    "Non sembra che si stia riferendo a una definizione precisa di \"tempo\". Potrebbe trattarsi di un'espressione figurata per indicare una situazione o circostanza sfavorevole.",
+    "Quello non era una persona malata, almeno non a quanto sembrava.",
+    "Quello non era un'epoca caratterizzata da carestie di grano. L'espressione \"magagna\" si riferisce alla farina di grano duro, quindi l'affermazione implica che ci fosse abbondanza di cibo.",
+    "L'espressione \"Chi non è la mia mamma ha cagnato\" è una metafora colloquiale che indica qualcosa o qualcuno che non è buono, inadatto o deludente.",
+    "L'espressione \"Chi non è la mia mamma ha cagnato\" è una metafora colloquiale che indica qualcosa o qualcuno che non è buono, inadatto o deludente.",
+    "L'espressione \"Chi non è la mia mamma ha cagnato\" è una metafora colloquiale che indica qualcosa o qualcuno che non è buono, inadatto o deludente."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.478625,
+  "wer_gt1": 1.4
+}

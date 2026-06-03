@@ -1,0 +1,29 @@
+{
+  "filename": "120",
+  "neapolitan_text": "Tutto 'o lassato è perduto.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Tutto ciò che si lascia è perduto.",
+    "Tutto quel che viene abbandonato è perduto.",
+    "Tutto quello che si lascia è perso."
+  ],
+  "inputs": [
+    "Tutto ciò che si lascia è perduto.",
+    "Tutto quel che viene abbandonato è perduto.",
+    "Tutto quello che si lascia è perso.",
+    "Tutto passato è perduto.",
+    "Tutto passato è perduto.",
+    "Tutto passato è perduto."
+  ],
+  "responses": [
+    "Ogni cosa che si abbandona viene persa. Questa affermazione fa riferimento al fatto che le cose non conservate o mantenute possono andare perdute nel tempo.",
+    "Ogni cosa che si lascia indietro può essere persa.",
+    "Ogni cosa che non si tiene a mano viene perduta. Questo detto esprime la necessità di mantenere il controllo su ciò che si considera importante.",
+    "La frase \"Tutto passato è perduto\" significa che tutto ciò che è accaduto nel tempo passato non può più essere recuperato o ripetuto. Questa affermazione fa riferimento alla natura irreversibile del tempo e alla sua continua evoluzione.",
+    "La frase \"Tutto passato è perduto\" significa che tutto ciò che è accaduto nel tempo passato non può più essere recuperato o ripetuto. Questa affermazione fa riferimento alla natura irreversibile del tempo e alla sua continua evoluzione.",
+    "La frase \"Tutto passato è perduto\" significa che tutto ciò che è accaduto nel tempo passato non può più essere recuperato o ripetuto. Questa affermazione fa riferimento alla natura irreversibile del tempo e alla sua continua evoluzione."
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.407,
+  "wer_gt1": 0.571429
+}

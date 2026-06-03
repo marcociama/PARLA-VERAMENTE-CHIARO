@@ -1,0 +1,29 @@
+{
+  "filename": "053",
+  "neapolitan_text": "e po’ jeva a ttrovà li Mammalucche",
+  "domain": "Poetry",
+  "gt_variants": [
+    "E poi andava a trovare i Mamelucchi",
+    "E dopo andava a cercare i Mamelucchi",
+    "E poi si recava a trovare i Mammalucchi"
+  ],
+  "inputs": [
+    "E poi andava a trovare i Mamelucchi",
+    "E dopo andava a cercare i Mamelucchi",
+    "E poi si recava a trovare i Mammalucchi",
+    "E poi va trova ma lupo.",
+    "E poi va a trovare malutti.",
+    "E poi va a trovare malutti."
+  ],
+  "responses": [
+    "Andava a visitare i Mamelucchi (va a cercare o a incontrare i Mamelucchi)",
+    "Dopo di ciò, andava a cercare i Mamelucchi (dopo qualcosa o qualcuno specifico)",
+    "Andava a visitare i Mammalucchi (traduzione letterale: andava a cercare i Mammalucchi)",
+    "La frase \"E poi va trova ma lupo\" implica che qualcuno deve andare a cercare qualcosa o qualcuno, ma con un'implicazione di difficoltà o pericolo, come se ci fosse un lupo (simbolo di pericolo) da affrontare.",
+    "Va a visitare i bambini ammalati.",
+    "Va a visitare i bambini ammalati."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.240167,
+  "wer_gt1": 0.714286
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "064",
+  "neapolitan_text": "Pecchè non tuorne, o doce tiempo antico?",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Perché non torni, o dolce tempo antico?",
+    "Perché non ritorni, o dolce tempo passato?",
+    "Perché non fai ritorno, o dolce epoca antica?"
+  ],
+  "inputs": [
+    "Perché non torni, o dolce tempo antico?",
+    "Perché non ritorni, o dolce tempo passato?",
+    "Perché non fai ritorno, o dolce epoca antica?",
+    "Perché non tuorno dolce di empantica?",
+    "Perché non tuorno dolce di empantica?",
+    "Perché non tuorlo dolce di ampantica?"
+  ],
+  "responses": [
+    "La frase \"Perché non torni, o dolce tempo antico?\" richiede che qualcuno ritorni in un tempo passato considerato felice.",
+    "La frase suggerisce un richiamo al tempo passato felice e desiderio di ripetere quell'esperienza.",
+    "La frase suggerisce un desiderio di tornare a un'epoca passata, caratterizzata da una maggiore semplicità e bellezza.",
+    "La frase \"Perché non tuorno dolce di empantica?\" vuole dire perché non torni dolce come la mela cotta in una frittata.",
+    "La frase \"Perché non tuorno dolce di empantica?\" vuole dire perché non torni dolce come la mela cotta in una frittata.",
+    "La frase \"Perché non tuorlo dolce di ampantica?\" significa \"Perché non lo fai cuocere dolce con zucchero di canna?\" In italiano, questa frase è una domanda che chiede se qualcuno sta cucinando un piatto dolce con zucchero di canna."
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.2485,
+  "wer_gt1": 0.571429
+}

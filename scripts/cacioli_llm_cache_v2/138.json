@@ -1,0 +1,29 @@
+{
+  "filename": "138",
+  "neapolitan_text": "Dimane me manno a piglià 'a rrobba mia.",
+  "domain": "Play",
+  "gt_variants": [
+    "Domani mi mando a prendere la roba mia.",
+    "Domani mando qualcuno a ritirare le mie cose.",
+    "Domani faccio venire a prendere la mia roba."
+  ],
+  "inputs": [
+    "Domani mi mando a prendere la roba mia.",
+    "Domani mando qualcuno a ritirare le mie cose.",
+    "Domani faccio venire a prendere la mia roba.",
+    "Dammi una mano a prendere roba mia.",
+    "Dammi una mano a prendere roba mia.",
+    "Dammi una mano a prendere roba mia."
+  ],
+  "responses": [
+    "Oggi andrò a prendere i miei averi domani. (In italiano, \"Domani mi mando a prendere la roba mia\" significa che l'individuo si recerà domani per prendere le sue cose.)",
+    "Oggi invierò qualcuno per prendere i miei oggetti domani.",
+    "Oggi mi preparo a far portare via la mia proprietà domani. (L'affermazione indica che la persona ha intenzione di mandare qualcuno ad ottenere le sue cose il giorno dopo.)",
+    "Chiede aiuto per prendere qualcosa che è suo proprietà.",
+    "Chiede aiuto per prendere qualcosa che è suo proprietà.",
+    "Chiede aiuto per prendere qualcosa che è suo proprietà."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.436143,
+  "wer_gt1": 0.5
+}

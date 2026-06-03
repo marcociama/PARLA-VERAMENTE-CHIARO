@@ -1,0 +1,55 @@
+{
+  "transcription": "Nel momento io non mi sono sbagliato.",
+  "words": [
+    {
+      "word": "Nel",
+      "start": 0.922,
+      "end": 1.043,
+      "confidence": 0.353
+    },
+    {
+      "word": "momento",
+      "start": 1.063,
+      "end": 1.608,
+      "confidence": 0.852
+    },
+    {
+      "word": "io",
+      "start": 1.628,
+      "end": 1.83,
+      "confidence": 0.656
+    },
+    {
+      "word": "non",
+      "start": 1.871,
+      "end": 2.032,
+      "confidence": 0.842
+    },
+    {
+      "word": "mi",
+      "start": 2.072,
+      "end": 2.133,
+      "confidence": 0.67
+    },
+    {
+      "word": "sono",
+      "start": 2.173,
+      "end": 2.375,
+      "confidence": 0.781
+    },
+    {
+      "word": "sbagliato.",
+      "start": 2.416,
+      "end": 3.082,
+      "confidence": 0.732
+    }
+  ],
+  "top3": [
+    "Nel momento io non mi sono sbagliato.",
+    "Nel momento io non mi sono sbagliato.",
+    "Nel momento io non mi sono sbagliato."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6980000000000001,
+  "u_asr": 0.30199999999999994
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "134",
+  "neapolitan_text": "Io nun saccio leggere e po' carte nun n'accetto!",
+  "domain": "Play",
+  "gt_variants": [
+    "Io non so leggere e poi carte non ne accetto!",
+    "Io non so leggere e in più non accetto carte!",
+    "Io non so leggere e per di più non accetto carte!"
+  ],
+  "inputs": [
+    "Io non so leggere e poi carte non ne accetto!",
+    "Io non so leggere e in più non accetto carte!",
+    "Io non so leggere e per di più non accetto carte!",
+    "Io non so leggere, poca arte non accetto.",
+    "Io non so leggere, poca arte non accetto.",
+    "Io non so leggere, poca arte non accetto."
+  ],
+  "responses": [
+    "Non hai problemi a cercare soluzioni alternative per ottenere informazioni, ad esempio utilizzando strumenti audio o visivi. Tuttavia, è importante essere aperto alla lettura e all'accettazione di documenti per poter approfondire la conoscenza.",
+    "Non hai problemi a cercare soluzioni alternative per comunicare o ricevere informazioni, ad esempio utilizzando strumenti audio o visivi. Evita l'uso di carta se non è necessario per proteggere la salute e l'ambiente.",
+    "Non hai problemi a cercare soluzioni alternative, come ad esempio l'ascolto di libri audio o la lettura con un software di lettura alta fedeltà. Tuttavia, è importante essere aperto alla lettura tradizionale per approfondire il proprio bagaglio culturale.",
+    "Non hai problemi a godere dell'arte senza leggerla. Esistono molti modi per apprezzarla, come ad esempio attraverso l'ascolto o la visione di opere d'arte.",
+    "Non hai problemi a godere dell'arte senza leggerla. Esistono molti modi per apprezzarla, come ad esempio attraverso l'ascolto o la visione di opere d'arte.",
+    "Non hai problemi a godere dell'arte senza leggerla. Esistono molti modi per apprezzarla, come ad esempio attraverso l'ascolto o la visione di opere d'arte."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.346875,
+  "wer_gt1": 0.6
+}

@@ -1,0 +1,181 @@
+{
+  "transcription": "Tutto il cristiano nasce libero e pare per dignità esso, tenendo il cervello e la coscienza e andando a faticare l'uno con l'altro con lo spirito di fraternità.",
+  "words": [
+    {
+      "word": "Tutto",
+      "start": 1.191,
+      "end": 1.432,
+      "confidence": 0.726
+    },
+    {
+      "word": "il",
+      "start": 1.452,
+      "end": 1.492,
+      "confidence": 0.34
+    },
+    {
+      "word": "cristiano",
+      "start": 1.532,
+      "end": 2.053,
+      "confidence": 0.791
+    },
+    {
+      "word": "nasce",
+      "start": 2.133,
+      "end": 2.533,
+      "confidence": 0.685
+    },
+    {
+      "word": "libero",
+      "start": 2.614,
+      "end": 3.114,
+      "confidence": 0.902
+    },
+    {
+      "word": "e",
+      "start": 3.936,
+      "end": 3.996,
+      "confidence": 0.452
+    },
+    {
+      "word": "pare",
+      "start": 4.156,
+      "end": 4.437,
+      "confidence": 0.729
+    },
+    {
+      "word": "per",
+      "start": 4.457,
+      "end": 4.517,
+      "confidence": 0.081
+    },
+    {
+      "word": "dignità",
+      "start": 4.617,
+      "end": 5.098,
+      "confidence": 0.706
+    },
+    {
+      "word": "esso,",
+      "start": 5.158,
+      "end": 5.779,
+      "confidence": 0.804
+    },
+    {
+      "word": "tenendo",
+      "start": 6.44,
+      "end": 6.66,
+      "confidence": 0.407
+    },
+    {
+      "word": "il",
+      "start": 6.68,
+      "end": 6.781,
+      "confidence": 0.261
+    },
+    {
+      "word": "cervello",
+      "start": 6.841,
+      "end": 7.422,
+      "confidence": 0.856
+    },
+    {
+      "word": "e",
+      "start": 7.442,
+      "end": 7.462,
+      "confidence": 0.003
+    },
+    {
+      "word": "la",
+      "start": 7.602,
+      "end": 7.662,
+      "confidence": 0.01
+    },
+    {
+      "word": "coscienza",
+      "start": 7.742,
+      "end": 8.584,
+      "confidence": 0.829
+    },
+    {
+      "word": "e",
+      "start": 9.285,
+      "end": 9.305,
+      "confidence": 0.867
+    },
+    {
+      "word": "andando",
+      "start": 9.365,
+      "end": 9.565,
+      "confidence": 0.485
+    },
+    {
+      "word": "a",
+      "start": 9.585,
+      "end": 9.605,
+      "confidence": 0.415
+    },
+    {
+      "word": "faticare",
+      "start": 9.665,
+      "end": 10.026,
+      "confidence": 0.723
+    },
+    {
+      "word": "l'uno",
+      "start": 10.106,
+      "end": 10.326,
+      "confidence": 0.746
+    },
+    {
+      "word": "con",
+      "start": 10.367,
+      "end": 10.487,
+      "confidence": 0.421
+    },
+    {
+      "word": "l'altro",
+      "start": 10.567,
+      "end": 11.128,
+      "confidence": 0.67
+    },
+    {
+      "word": "con",
+      "start": 11.909,
+      "end": 12.049,
+      "confidence": 0.989
+    },
+    {
+      "word": "lo",
+      "start": 12.069,
+      "end": 12.19,
+      "confidence": 0.38
+    },
+    {
+      "word": "spirito",
+      "start": 12.25,
+      "end": 12.57,
+      "confidence": 0.488
+    },
+    {
+      "word": "di",
+      "start": 12.59,
+      "end": 12.71,
+      "confidence": 0.836
+    },
+    {
+      "word": "fraternità.",
+      "start": 12.751,
+      "end": 13.291,
+      "confidence": 0.721
+    }
+  ],
+  "top3": [
+    "Tutto il cristiano nasce libero e pare per dignità esso, tenendo il cervello e la coscienza e andando a faticare l'uno con l'altro con lo spirito di fraternità.",
+    "Tutto il cristiano nasce libero e pare per dignità essa, tenendo il cervello e la coscienza, e andando a faticare l'uno con l'altro con lo spirito di fraternità.",
+    "Tutto il cristiano nasce libero e pare per dignità esso, tenendo il cervello e la coscienza e andando a faticare l'uno con l'altro con lo spirito di fraternità."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5829642857142857,
+  "u_asr": 0.4170357142857143
+}

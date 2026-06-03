@@ -1,0 +1,29 @@
+{
+  "filename": "138",
+  "neapolitan_text": "Dimane me manno a piglià 'a rrobba mia.",
+  "domain": "Play",
+  "gt_variants": [
+    "Domani mi mando a prendere la roba mia.",
+    "Domani mando qualcuno a ritirare le mie cose.",
+    "Domani faccio venire a prendere la mia roba."
+  ],
+  "inputs": [
+    "Domani mi mando a prendere la roba mia.",
+    "Domani mando qualcuno a ritirare le mie cose.",
+    "Domani faccio venire a prendere la mia roba.",
+    "Dammi una mano a prendere roba mia.",
+    "Dammi una mano a prendere roba mia.",
+    "Dammi una mano a prendere roba mia."
+  ],
+  "responses": [
+    "Domani andrà a recuperare le proprie cose.",
+    "Domani qualcuno andrà a prendere le tue cose.",
+    "Domani sarai qui per prendere la tua roba?",
+    "Mi dispiace, ma non posso aiutarti fisicamente. Tuttavia, ti suggerisco di cercare la tua roba in un luogo più sicuro o chiedere aiuto ad altri se hai bisogno di qualcuno per aiutarti.",
+    "Mi dispiace, ma non posso aiutarti fisicamente. Tuttavia, ti suggerisco di cercare la tua roba in un luogo più sicuro o chiedere aiuto ad altri se hai bisogno di qualcuno per aiutarti.",
+    "Mi dispiace, ma non posso aiutarti fisicamente. Tuttavia, ti suggerisco di cercare la tua roba in un luogo più sicuro o chiedere aiuto ad altri se hai bisogno di qualcuno per aiutarti."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.436143,
+  "wer_gt1": 0.5
+}

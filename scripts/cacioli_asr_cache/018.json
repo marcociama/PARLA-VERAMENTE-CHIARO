@@ -1,0 +1,67 @@
+{
+  "transcription": "Quando si conosce bene e non si può avere.",
+  "words": [
+    {
+      "word": "Quando",
+      "start": 0.8,
+      "end": 1.022,
+      "confidence": 0.793
+    },
+    {
+      "word": "si",
+      "start": 1.082,
+      "end": 1.123,
+      "confidence": 0.851
+    },
+    {
+      "word": "conosce",
+      "start": 1.163,
+      "end": 1.606,
+      "confidence": 0.85
+    },
+    {
+      "word": "bene",
+      "start": 1.727,
+      "end": 2.15,
+      "confidence": 0.923
+    },
+    {
+      "word": "e",
+      "start": 2.311,
+      "end": 2.351,
+      "confidence": 0.805
+    },
+    {
+      "word": "non",
+      "start": 2.391,
+      "end": 2.553,
+      "confidence": 0.578
+    },
+    {
+      "word": "si",
+      "start": 2.613,
+      "end": 2.694,
+      "confidence": 0.346
+    },
+    {
+      "word": "può",
+      "start": 2.734,
+      "end": 2.814,
+      "confidence": 0.344
+    },
+    {
+      "word": "avere.",
+      "start": 2.875,
+      "end": 3.137,
+      "confidence": 0.472
+    }
+  ],
+  "top3": [
+    "Quando si conosce bene e non si può avere.",
+    "Quando si conosce bene e non si può avere.",
+    "Quando si conosce bene e non si può avere."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6624444444444444,
+  "u_asr": 0.3375555555555556
+}

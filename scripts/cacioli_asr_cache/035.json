@@ -1,0 +1,55 @@
+{
+  "transcription": "Ma perché non era patrono del mettere?",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 0.657,
+      "end": 0.737,
+      "confidence": 0.861
+    },
+    {
+      "word": "perché",
+      "start": 0.757,
+      "end": 1.058,
+      "confidence": 0.68
+    },
+    {
+      "word": "non",
+      "start": 1.138,
+      "end": 1.359,
+      "confidence": 0.674
+    },
+    {
+      "word": "era",
+      "start": 1.399,
+      "end": 1.519,
+      "confidence": 0.753
+    },
+    {
+      "word": "patrono",
+      "start": 1.559,
+      "end": 1.92,
+      "confidence": 0.734
+    },
+    {
+      "word": "del",
+      "start": 1.94,
+      "end": 2.02,
+      "confidence": 0.24
+    },
+    {
+      "word": "mettere?",
+      "start": 2.1,
+      "end": 2.501,
+      "confidence": 0.717
+    }
+  ],
+  "top3": [
+    "Ma perché non era patrono del mettere?",
+    "Ma perché? Non era padrone del mettere.",
+    "Ma perché non era padrone del mettere?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6655714285714286,
+  "u_asr": 0.3344285714285714
+}

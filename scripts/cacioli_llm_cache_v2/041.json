@@ -1,0 +1,29 @@
+{
+  "filename": "041",
+  "neapolitan_text": "Me sierve... Tu, me sierve!",
+  "domain": "Play",
+  "gt_variants": [
+    "Mi servi... Tu, mi servi!",
+    "Mi occorri... Tu, mi occorri!",
+    "Mi sei utile... Tu, mi sei utile!"
+  ],
+  "inputs": [
+    "Mi servi... Tu, mi servi!",
+    "Mi occorri... Tu, mi occorri!",
+    "Mi sei utile... Tu, mi sei utile!",
+    "Masserva, tu Masserva.",
+    "Masserva, tu Masserva.",
+    "Masserva, tu Masserva."
+  ],
+  "responses": [
+    "\"I serve you... You, serve me!\" (This statement implies a reversal of roles or a mutual dependence.)",
+    "La frase \"Mi occorri... Tu, mi occorri!\" implica un sentimento di necessità o bisogno reciproco tra le due persone.",
+    "La tua utilità è importante per me... Tu sei utile per me! (In italiano)",
+    "\"Masserva, tu Masserva\" significa \"Guardiamo, guardiamo\" in lingua italiana.",
+    "\"Masserva, tu Masserva\" significa \"Guardiamo, guardiamo\" in lingua italiana.",
+    "\"Masserva, tu Masserva\" significa \"Guardiamo, guardiamo\" in lingua italiana."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.294,
+  "wer_gt1": 1.0
+}

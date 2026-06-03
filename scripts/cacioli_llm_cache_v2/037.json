@@ -1,0 +1,29 @@
+{
+  "filename": "037",
+  "neapolitan_text": "Ma che me ne mporta 'e te, d' 'a figliola che t'ha fatto perdere 'a capa, 'e tutto chello ca me dice?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la testa, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la ragione, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere il senno, di tutto quello che mi dici?"
+  ],
+  "inputs": [
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la testa, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere la ragione, di tutto quello che mi dici?",
+    "Ma che me ne importa di te, della ragazza che ti ha fatto perdere il senno, di tutto quello che mi dici?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?"
+  ],
+  "responses": [
+    "La frase implica l'indifferenza dell'interlocutore verso le preoccupazioni o i problemi dell'altro interlocutore.",
+    "La frase implica l'indifferenza dell'interlocutore verso le preoccupazioni o problemi dell'altro interlocutore.",
+    "La frase implica l'indifferenza dell'interlocutore verso la persona che l'ha turbato o distratto, nonostante le parole che questa gli abbia detto.",
+    "La frase implica che l'interlocutore non si preoccupa di quanto succede a qualcuno altro, in questo caso il ragazzo che ha perso la sua giubba, e non gli importano le parole che lui dice.",
+    "La frase implica che l'interlocutore non si preoccupa di quanto succede a qualcuno altro, in questo caso il ragazzo che ha perso la sua giubba, e non gli importano le parole che lui dice.",
+    "La frase implica che l'interlocutore non si preoccupa di quanto succede a qualcuno altro, in questo caso il ragazzo che ha perso la sua giubba, e non gli importano le parole che lui dice."
+  ],
+  "wer": 0.272727,
+  "u_asr": 0.433476,
+  "wer_gt1": 0.272727
+}

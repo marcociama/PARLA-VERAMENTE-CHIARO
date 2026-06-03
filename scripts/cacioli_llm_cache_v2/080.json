@@ -1,0 +1,29 @@
+{
+  "filename": "080",
+  "neapolitan_text": "Le ffemmene assettate mmiezo chiazza,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Le femmine sedute in mezzo alla piazza",
+    "Le donne sedute in mezzo alla piazza",
+    "Le donne accomodate al centro della piazza"
+  ],
+  "inputs": [
+    "Le femmine sedute in mezzo alla piazza",
+    "Le donne sedute in mezzo alla piazza",
+    "Le donne accomodate al centro della piazza",
+    "e fin per la strada di Mesa a Ghiaccio.",
+    "e fermare la strada delle mie saggazze.",
+    "e fin per la strada di Mesa a Ghiaccio."
+  ],
+  "responses": [
+    "Le femmine sono sedute al centro della piazza.",
+    "Donne si trovano a sedere nella piazza.",
+    "Le donne sono posizionate al centro della piazza (le donne si trovano al centro della piazza)",
+    "La frase \"e fin per la strada di Mesa a Ghiaccio\" indica che si sta andando verso il Mare di Ghiaccio attraverso una strada.",
+    "L'affermazione vuole dire \"e fermare il mio corso di azioni sagge.\"",
+    "La frase \"e fin per la strada di Mesa a Ghiaccio\" indica che si sta andando verso il Mare di Ghiaccio attraverso una strada."
+  ],
+  "wer": 1.285714,
+  "u_asr": 0.543444,
+  "wer_gt1": 1.285714
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "012",
+  "neapolitan_text": "E avev' 'a chiagnere pe' te?",
+  "domain": "Play",
+  "gt_variants": [
+    "E dovevo piangere per te",
+    "E avrei dovuto piangere per te",
+    "E dovevo mettermi a piangere per te."
+  ],
+  "inputs": [
+    "E dovevo piangere per te",
+    "E avrei dovuto piangere per te",
+    "E dovevo mettermi a piangere per te.",
+    "E avevo cagno di buttare.",
+    "E avevo cagno di buttare.",
+    "E avevo cagno da buttare."
+  ],
+  "responses": [
+    "Ho dovuto lamentarmi o piangere per te (ho avuto un sentimento di tristezza o dolore a causa di te)",
+    "Ho dovuto o dovrei aver pianto per te, significa che l'oratore ha provato o deve ancora provare dolore a causa della tua perdita.",
+    "Ho dovuto pianto per te. (L'affermazione implica che la persona ha provato dolore o tristezza per qualcosa riguardante l'altra persona.)",
+    "Ho avuto l'intenzione di gettare qualcosa.",
+    "Ho avuto l'intenzione di gettare qualcosa.",
+    "Ho bisogno di gettare un cane."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.5048,
+  "wer_gt1": 0.8
+}

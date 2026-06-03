@@ -1,0 +1,49 @@
+{
+  "transcription": "Tanto che fosse un altomeno coglione.",
+  "words": [
+    {
+      "word": "Tanto",
+      "start": 1.028,
+      "end": 1.169,
+      "confidence": 0.396
+    },
+    {
+      "word": "che",
+      "start": 1.209,
+      "end": 1.329,
+      "confidence": 0.656
+    },
+    {
+      "word": "fosse",
+      "start": 1.469,
+      "end": 1.95,
+      "confidence": 0.905
+    },
+    {
+      "word": "un",
+      "start": 1.97,
+      "end": 2.05,
+      "confidence": 0.494
+    },
+    {
+      "word": "altomeno",
+      "start": 2.07,
+      "end": 2.651,
+      "confidence": 0.867
+    },
+    {
+      "word": "coglione.",
+      "start": 2.712,
+      "end": 3.253,
+      "confidence": 0.626
+    }
+  ],
+  "top3": [
+    "Tanto che fosse un altomeno coglione.",
+    "Tanto che fosse un altomeno coglione.",
+    "Tanto che fosse un altomeno coglione."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6573333333333333,
+  "u_asr": 0.3426666666666667
+}

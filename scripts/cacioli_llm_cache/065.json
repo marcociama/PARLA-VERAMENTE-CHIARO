@@ -1,0 +1,29 @@
+{
+  "filename": "065",
+  "neapolitan_text": "Pigliave co lo bisco, a na chiammata,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Prendeva con il bisco, a una chiamata",
+    "Afferrava con il bisco, a un richiamo",
+    "Acchiappava con il bisco, a un cenno"
+  ],
+  "inputs": [
+    "Prendeva con il bisco, a una chiamata",
+    "Afferrava con il bisco, a un richiamo",
+    "Acchiappava con il bisco, a un cenno",
+    "pigliavolo brischi e nagiamata.",
+    "i diavolo brischi e una chiamata.",
+    "pigliavolo briscana e amata."
+  ],
+  "responses": [
+    "Ricevuto una telefonata con il biscotto (in riferimento al gioco \"Biscotto e Palline\").",
+    "Il personaggio prende qualcosa con le dita della mano (il \"bisco\"), in risposta ad una chiamata.",
+    "L'uomo stava catturando un pesce con una zampa, al solo segnale di qualcuno.",
+    "Il testo sembra essere una frase dialettale, probabilmente di origine italiana. \"Pigliavolo brischi\" potrebbe tradursi come \"prendimi un po' in giro\", mentre \"nagiamata\" potrebbe significare \"abbigliato\". Tuttavia, per una risposta più precisa, è necessario considerare il contesto e la regione geografica in cui viene utilizzata questa frase.",
+    "Il Diavolo Bruscico è un personaggio della fiaba popolare italiana, noto per essere un piccolo demone che fa scherzi e fa paura ai bambini. Una \"chiamata\" potrebbe riferirsi a una telefonata o qualcosa di simile, ma nella maggior parte dei casi non è collegato al personaggio del Diavolo Bruscico.",
+    "Il termine \"pigliavolo\" fa riferimento a un oggetto da cucina, probabilmente un'impugnatura o un maniglione. \"Briscana\" è una parte della carne di maiale, mentre \"amata\" indica che l'oggetto è amato o apprezzato. In altre parole, il pigliavolo per la briscana è molto amato o apprezzato."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.492,
+  "wer_gt1": 1.0
+}

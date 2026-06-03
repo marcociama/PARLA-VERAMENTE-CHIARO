@@ -1,0 +1,29 @@
+{
+  "filename": "063",
+  "neapolitan_text": "O bell’ausanza, e ddove si’ squagliata?",
+  "domain": "Poetry",
+  "gt_variants": [
+    "O bella usanza, e dove ti sei sciolta?",
+    "O bella abitudine, e dove sei svanita?",
+    "O bell’usanza, e dove sei finita?"
+  ],
+  "inputs": [
+    "O bella usanza, e dove ti sei sciolta?",
+    "O bella abitudine, e dove sei svanita?",
+    "O bell’usanza, e dove sei finita?",
+    "Oh bello Sanze, dove sei squagliata?",
+    "Ho belle usanze dove si è squagliata.",
+    "Oh bello Sanze, dove sei squagliata?"
+  ],
+  "responses": [
+    "Dove si è persa la bella costume o tradizione?",
+    "Dove si è persa la bella abitudine? (traduzione letterale)",
+    "Dove si è persa la bella tradizione o usanza?",
+    "Dove si trovi la città di Sanze? (L'espressione \"squagliata\" indica che ci si riferisce alla posizione geografica della città)",
+    "La casa ha buone tradizioni, ma ora sono disordinate.",
+    "Dove si trovi la città di Sanze? (L'espressione \"squagliata\" indica che ci si riferisce alla posizione geografica della città)"
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.311333,
+  "wer_gt1": 0.75
+}

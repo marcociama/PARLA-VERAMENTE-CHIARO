@@ -1,0 +1,29 @@
+{
+  "filename": "137",
+  "neapolitan_text": "E va bbuono, mo basta!",
+  "domain": "Play",
+  "gt_variants": [
+    "E va bene, adesso basta!",
+    "E va bene, ora basta!",
+    "E va bene, finiamola qui!"
+  ],
+  "inputs": [
+    "E va bene, adesso basta!",
+    "E va bene, ora basta!",
+    "E va bene, finiamola qui!",
+    "E va buono, basta.",
+    "E va buono, basta.",
+    "E va buono, basta."
+  ],
+  "responses": [
+    "La frase \"E va bene, adesso basta!\" significa \"È tutto bene ora basta!\" ossia \"Tutto è a posto ora basta\".",
+    "È sufficiente ora, fermati! (L'affermazione implica che ci si aspetta un arresto o una fine a qualcosa.)",
+    "La frase \"E va bene, finiamola qui!\" significa \"È bene, possiamo concludere qui\".",
+    "La frase \"E va buono, basta\" significa \"È sufficiente, basta\".",
+    "La frase \"E va buono, basta\" significa \"È sufficiente, basta\".",
+    "La frase \"E va buono, basta\" significa \"È sufficiente, basta\"."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.182,
+  "wer_gt1": 0.6
+}

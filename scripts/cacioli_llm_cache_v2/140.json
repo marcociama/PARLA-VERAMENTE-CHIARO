@@ -1,0 +1,29 @@
+{
+  "filename": "140",
+  "neapolitan_text": "No una, ma ciento vote, me l'avarrisse fatto accidere!",
+  "domain": "Play",
+  "gt_variants": [
+    "Non una, ma cento volte, me l'avresti fatto uccidere!",
+    "Non una, ma cento volte, me lo avresti fatto ammazzare!",
+    "Non una, ma cento volte, mi avresti fatto uccidere lui!"
+  ],
+  "inputs": [
+    "Non una, ma cento volte, me l'avresti fatto uccidere!",
+    "Non una, ma cento volte, me lo avresti fatto ammazzare!",
+    "Non una, ma cento volte, mi avresti fatto uccidere lui!",
+    "Non una, ma cento volte me l'avessi fatta uccidere.",
+    "No una, ma cento volte me l'avessi fatta uccidere.",
+    "No una, ma cento volte me l'avessi fatta uccidere."
+  ],
+  "responses": [
+    "La frase implica che qualcuno avrebbe voluto fare morire qualcun altro almeno cento volte.",
+    "Hai avuto l'intenzione di farlo uccidere cento volte! (La frase implica che qualcuno ha voluto fare del male a qualcun altro in modo ripetuto)",
+    "La dichiarazione implica che l'individuo sarebbe stato disposto a farlo uccidere cento volte l'altro individuo.",
+    "L'affermazione indica che la persona avrebbe voluto fare morire qualcuno almeno cento volte di più rispetto a quanto fatto.",
+    "La persona avrebbe voluto farlo uccidere cento volte invece che una sola volta.",
+    "La persona avrebbe voluto farlo uccidere cento volte invece che una sola volta."
+  ],
+  "wer": 0.444444,
+  "u_asr": 0.253778,
+  "wer_gt1": 0.444444
+}

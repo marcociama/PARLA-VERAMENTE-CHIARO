@@ -1,0 +1,29 @@
+{
+  "filename": "031",
+  "neapolitan_text": "E se io stevo murenno overamente, tu chesto avisse fatto?",
+  "domain": "Play",
+  "gt_variants": [
+    "E se io stessi morendo veramente, tu questo avresti fatto?",
+    "E se io stessi morendo davvero, tu questo avresti fatto?",
+    "E se io stessi morendo sul serio, tu questo avresti fatto?"
+  ],
+  "inputs": [
+    "E se io stessi morendo veramente, tu questo avresti fatto?",
+    "E se io stessi morendo davvero, tu questo avresti fatto?",
+    "E se io stessi morendo sul serio, tu questo avresti fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?",
+    "Eh sì, io stavo purendo veramente. Tu che stavi sto fatto?"
+  ],
+  "responses": [
+    "La frase implica che l'interlocutore si chiede se l'altro avrebbe agito in modo simile se fosse stato davvero a morire.",
+    "La frase implica che l'interlocutore si chiede se l'altro avrebbe fatto ciò che sta facendo se fosse veramente in pericolo di morte.",
+    "La frase implica che l'interlocutore sta facendo qualcosa che potrebbe essere considerato inappropriato o crudele, e chiede se lo farebbe anche se la persona stesse morendo.",
+    "Sì, io stavo davvero andando bene. E tu, come stai occupandoti?",
+    "Sì, io stavo davvero andando bene. E tu, come stai occupandoti?",
+    "Sì, io stavo davvero andando bene. E tu, come stai occupandoti?"
+  ],
+  "wer": 0.8,
+  "u_asr": 0.322818,
+  "wer_gt1": 0.8
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "117",
+  "neapolitan_text": "Chi nun sape chiagnere nun sape manco rirere",
+  "domain": "Blog",
+  "gt_variants": [
+    "Chi non sa piangere non sa nemmeno ridere.",
+    "Chi non è capace di piangere non sa neanche ridere.",
+    "Chi non sa piangere non conosce neppure il modo di ridere"
+  ],
+  "inputs": [
+    "Chi non sa piangere non sa nemmeno ridere.",
+    "Chi non è capace di piangere non sa neanche ridere.",
+    "Chi non sa piangere non conosce neppure il modo di ridere",
+    "Chi non sa peggiorare non sa bemancare.",
+    "Chi non sa peggiorare non sa bemancare.",
+    "Chi non sapeva giangere non sapeva ancora girare."
+  ],
+  "responses": [
+    "Questa frase significa che chi non sa provare dolore non può mai provare gioia. In altre parole, la capacità di ridere è strettamente connessa alla capacità di piangere.",
+    "Questa frase significa che chi non può piangere, non riesce a ridere facilmente. In altre parole, la capacità di esprimere dolore può essere correlata alla capacità di godersi il umorismo.",
+    "Questa frase significa che chi non sa piangere, non conosce nemmeno il modo di ridere. In altre parole, la capacità di piangere è spesso correlata alla capacità di sentire emozioni positive come il riso.",
+    "Colui che non sa peggiorare non sa nemmeno lamentarsi. Questa frase significa che chi non è in grado di fare male a qualcuno, non ha nulla da lamentarsi.",
+    "Colui che non sa peggiorare non sa nemmeno lamentarsi. Questa frase significa che chi non è in grado di fare male a qualcuno, non ha nulla da lamentarsi.",
+    "Questa frase significa che chi non conosceva il gioco del giuoco della palla (giangere) non conosceva ancora il modo di giocare a qualunque altro gioco."
+  ],
+  "wer": 0.375,
+  "u_asr": 0.280286,
+  "wer_gt1": 0.375
+}

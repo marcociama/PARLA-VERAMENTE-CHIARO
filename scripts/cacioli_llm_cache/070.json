@@ -1,0 +1,29 @@
+{
+  "filename": "070",
+  "neapolitan_text": "Madonna, si ce penzo che paura! ma po’ facett’ un’anema ‘e curaggio",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Madonna, se ci penso che paura! Ma poi feci un'anima di coraggio",
+    "Madonna, se ci ripenso, che spavento! Ma poi mi feci animo e coraggio",
+    "Madonna, a pensarci che paura! Ma poi presi un'anima di coraggio"
+  ],
+  "inputs": [
+    "Madonna, se ci penso che paura! Ma poi feci un'anima di coraggio",
+    "Madonna, se ci ripenso, che spavento! Ma poi mi feci animo e coraggio",
+    "Madonna, a pensarci che paura! Ma poi presi un'anima di coraggio",
+    "Madonna, se ci pensa che ho paura, ma può facerti l'anima e il coraggio.",
+    "Madonna, se ci pensi che ho paura, ma puoi accettare il mio coraggio.",
+    "Madonna, se ci penso che ho paura, ma poi faccio attirare il mio coraggio."
+  ],
+  "responses": [
+    "La frase \"Madonna, se ci penso che paura! Ma poi feci un'anima di coraggio\" esprime una situazione in cui la Madonna ha avuto paura, ma poi ha mostrato coraggio.",
+    "La Madonna è un'immagine carica di simbolismo e significato nella cultura occidentale. Il suo aspetto potrebbe sembrare spaventoso all'inizio, ma poi ha la capacità di ispirare coraggio e animo.",
+    "La frase \"Madonna, a pensarci che paura!\" significa \"Oh Madonna, mi fa paura pensare a questo!\" Invece, \"Ma poi presi un'anima di coraggio\" significa \"Ma poi ho preso un po' di coraggio\".",
+    "La Madonna ti rassicura che non hai da temere, lei ti darà forza e coraggio.",
+    "La tua fiducia mi rassicura. Sono orgogliosa del tuo coraggio.",
+    "La frase descrive come la Madonna affronta i propri timori, raccogliendo il proprio coraggio. In altre parole, quando ha paura, pensa a ciò ma poi si fa forza per attirare il suo coraggio."
+  ],
+  "wer": 0.692308,
+  "u_asr": 0.327,
+  "wer_gt1": 0.75
+}

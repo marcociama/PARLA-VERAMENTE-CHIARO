@@ -1,0 +1,29 @@
+{
+  "filename": "075",
+  "neapolitan_text": "Vedive, a chioppa a chioppa, na paranza",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Vedevi, a gruppi a gruppi, una paranza",
+    "Vedevi, a schiere a schiere, una paranza",
+    "Vedevi, a gruppi compatti, una paranza"
+  ],
+  "inputs": [
+    "Vedevi, a gruppi a gruppi, una paranza",
+    "Vedevi, a schiere a schiere, una paranza",
+    "Vedevi, a gruppi compatti, una paranza",
+    "Vivere a chioppa a chioppa la balanza.",
+    "Vivere a chioppa chioppa la balanza.",
+    "Vivere a chioppa a chioppa la balanza."
+  ],
+  "responses": [
+    "Sì, ho visto un gruppo di persone che si muovevano insieme.",
+    "Sì, sembra che si stia riferendo ad un gruppo di navi o barche disposte in fila.",
+    "Sì, ho visto un gruppo di persone che si muovevano insieme, una mandra.",
+    "La frase \"Vivere a chioppa a chioppa la balanza\" non ha un significato chiaro, poiché \"chioppa\" non è una parola comune in italiano. Potrebbe essere un gioco di parole o un'espressione dialettale locale. Tuttavia, se si intende come \"vivere in modo precario e instabile\", la traduzione potrebbe essere: \"Vivere in modo precario e instabile la bilancia\".",
+    "Questa frase sembra essere una metafora che indica un equilibrio precario o una situazione instabile. \"Vivere a chioppa chioppa\" potrebbe significare vivere in modo precario o instabile, mentre \"la balanza\" rappresenta l'equilibrio. In altre parole, la frase potrebbe essere tradotta come \"vivere in una situazione di equilibrio precario\".",
+    "La frase \"Vivere a chioppa a chioppa la balanza\" non ha un significato chiaro, poiché \"chioppa\" non è una parola comune in italiano. Potrebbe essere un gioco di parole o un'espressione dialettale locale. Tuttavia, se si intende come \"vivere in modo precario e instabile\", la traduzione potrebbe essere: \"Vivere in modo precario e instabile la bilancia\"."
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.372429,
+  "wer_gt1": 0.714286
+}

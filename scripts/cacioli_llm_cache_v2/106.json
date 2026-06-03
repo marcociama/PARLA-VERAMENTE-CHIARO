@@ -1,0 +1,29 @@
+{
+  "filename": "106",
+  "neapolitan_text": "Chesta idea nun è 'a stessa pe tutte 'e lenguiste; cierte diceno mméce ca, cu tutte 'e ddifferenze ca ce stanno nfra chisti dialette e p' 'o fatto ca nun ce sta nisciuna standardizzazione, nun se pô parlà 'e na \"lengua napulitana\" e parlano mméce 'e nu cuntinuo 'e \"dialette taliane meridiunale ntermedie\".",
+  "domain": "Blog",
+  "gt_variants": [
+    "Questa idea non è la stessa per tutti i linguisti",
+    "alcuni sostengono invece che, nonostante le differenze presenti tra questi dialetti e per il fatto che non esiste alcuna standardizzazione, non si possa parlare di una \"lingua napoletana\" e parlano invece di un continuo di \"dialetti italiani meridionali intermedi\".",
+    "Tale visione non è condivisa da tutti i linguisti"
+  ],
+  "inputs": [
+    "Questa idea non è la stessa per tutti i linguisti",
+    "alcuni sostengono invece che, nonostante le differenze presenti tra questi dialetti e per il fatto che non esiste alcuna standardizzazione, non si possa parlare di una \"lingua napoletana\" e parlano invece di un continuo di \"dialetti italiani meridionali intermedi\".",
+    "Tale visione non è condivisa da tutti i linguisti",
+    "Questa idea non è la stessa per tutti i linguisti. Certo dicono che c'è tutta la differenza che c'è tra questi dialetti e poi il fatto che non c'è nessuna standardizzazione. Non si può parlare la lingua napolitana e parlano perché non continuano i dialetti italiani meridionali in terra.",
+    "Questa idea non è la stessa per tutti i linguisti. Certo dicono che c'è tutta la differenza che c'è tra questi dialetti e poi il fatto che non c'è nessuna standardizzazione. Non si può parlare la lingua napolitana e parlano perché non continuano i dialetti italiani meridionali in terra.",
+    "Questa idea non è la stessa per tutti i linguisti. Certo dicono che c'è tutta la differenza che c'è tra questi dialetti e poi il fatto che non c'è nessuna standardizzazione. Non si può parlare la lingua napolitana e parlano perché non continuano i dialetti italiani meridionali in terra."
+  ],
+  "responses": [
+    "Questa idea non ha lo stesso significato per tutti gli studiosi della lingua (questa idea non è universale tra tutti i linguisti)",
+    "La frase afferma che alcuni credono che, a causa delle differenze tra i dialetti e della mancanza di standardizzazione, non si possa parlare di una \"lingua napoletana\", ma piuttosto di un continuum di \"dialetti italiani meridionali intermedi\".",
+    "Questa affermazione indica che la visione in questione non è accettata o concordata da tutti gli studiosi di lingua.",
+    "Questa affermazione indica che l'idea su come dovrebbe essere definita la lingua napoletana non è unanimemente condivisa tra tutti i linguisti, poiché esistono differenze significative tra i dialetti e nessuna standardizzazione. Inoltre, si suggerisce che il continuare a parlare i dialetti italiani meridionali invece della lingua napoletana non sia possibile.",
+    "Questa affermazione indica che l'idea su come dovrebbe essere definita la lingua napoletana non è unanimemente condivisa tra tutti i linguisti, poiché esistono differenze significative tra i dialetti e nessuna standardizzazione. Inoltre, si suggerisce che il continuare a parlare i dialetti italiani meridionali invece della lingua napoletana non sia possibile.",
+    "Questa affermazione indica che l'idea su come dovrebbe essere definita la lingua napoletana non è unanimemente condivisa tra tutti i linguisti, poiché esistono differenze significative tra i dialetti e nessuna standardizzazione. Inoltre, si suggerisce che il continuare a parlare i dialetti italiani meridionali invece della lingua napoletana non sia possibile."
+  ],
+  "wer": 0.923077,
+  "u_asr": 0.254408,
+  "wer_gt1": 4.0
+}

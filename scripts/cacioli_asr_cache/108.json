@@ -1,0 +1,37 @@
+{
+  "transcription": "Io parlo e addo.",
+  "words": [
+    {
+      "word": "Io",
+      "start": 0.605,
+      "end": 0.645,
+      "confidence": 0.086
+    },
+    {
+      "word": "parlo",
+      "start": 0.665,
+      "end": 0.766,
+      "confidence": 0.031
+    },
+    {
+      "word": "e",
+      "start": 0.786,
+      "end": 0.807,
+      "confidence": 0.105
+    },
+    {
+      "word": "addo.",
+      "start": 0.827,
+      "end": 0.927,
+      "confidence": 0.153
+    }
+  ],
+  "top3": [
+    "Io parlo e addo.",
+    "Chi lo parla è addome.",
+    "Chi lo parla è addome."
+  ],
+  "language": "it",
+  "mean_confidence": 0.09375,
+  "u_asr": 0.90625
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "045",
+  "neapolitan_text": "Qua sta 'a cena.",
+  "domain": "Play",
+  "gt_variants": [
+    "Qua sta la cena",
+    "Qui ci sta la cena",
+    "Qua c'è la cena."
+  ],
+  "inputs": [
+    "Qua sta la cena",
+    "Qui ci sta la cena",
+    "Qua c'è la cena.",
+    "Castagena.",
+    "Castagena.",
+    "Castagena."
+  ],
+  "responses": [
+    "Questa affermazione indica che la cena è qui, ovvero si trova in questo luogo.",
+    "Questa affermazione indica che qui si sta preparando o sta per avvenire la cena.",
+    "Qui si serve la cena. (Literally: Here is the dinner.)",
+    "La parola \"Castagena\" indica qualcosa o qualcuno che è riferito alla castagna, al suo albero o alla sua città natale.",
+    "La parola \"Castagena\" indica qualcosa o qualcuno che è riferito alla castagna, al suo albero o alla sua città natale.",
+    "La parola \"Castagena\" indica qualcosa o qualcuno che è riferito alla castagna, al suo albero o alla sua città natale."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.169,
+  "wer_gt1": 1.0
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "132",
+  "neapolitan_text": "Nun tene 'o curaggio d'ascì ccà fore. Iammo nnanze, avvoca'.",
+  "domain": "Play",
+  "gt_variants": [
+    "Non ha il coraggio di uscire qui fuori. Andiamo avanti, avvocato!",
+    "Non possiede il coraggio di venire fuori. Proseguiamo, avvocato!",
+    "Non ha il fegato di uscire allo scoperto. Andiamo avanti, avvocato!"
+  ],
+  "inputs": [
+    "Non ha il coraggio di uscire qui fuori. Andiamo avanti, avvocato!",
+    "Non possiede il coraggio di venire fuori. Proseguiamo, avvocato!",
+    "Non ha il fegato di uscire allo scoperto. Andiamo avanti, avvocato!",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato."
+  ],
+  "responses": [
+    "L'uomo non ha il coraggio di uscire al di fuori di questo luogo. Avanti, avvocato! (L'uomo non ha il coraggio di uscire da qui, continuiamo, avvocato!)",
+    "L'affermazione indica che la persona non ha il coraggio per mostrare le proprie vere opinioni o azioni. Continua, avvocato! (In questo contesto, \"avvocato\" potrebbe riferirsi a qualcuno che sta difendendo una causa.)",
+    "La frase indica che l'avvocato non deve rivelare informazioni sensibili o segrete riguardo al suo cliente, in questo caso il fegato (simbolo di qualcosa che è nascosto o segreto).",
+    "La frase \"Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.\" significa che l'avvocato non desidera buone condizioni meteorologiche esterne (scicchi) perché potrebbero compromettere il corso delle sue attività legali (ammannare).",
+    "La frase \"Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.\" significa che l'avvocato non desidera buone condizioni meteorologiche esterne (scicchi) perché potrebbero compromettere il corso delle sue attività legali (ammannare).",
+    "La frase \"Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.\" significa che l'avvocato non desidera buone condizioni meteorologiche esterne (scicchi) perché potrebbero compromettere il corso delle sue attività legali (ammannare)."
+  ],
+  "wer": 0.909091,
+  "u_asr": 0.325,
+  "wer_gt1": 0.909091
+}

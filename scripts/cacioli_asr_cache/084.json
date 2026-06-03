@@ -1,0 +1,49 @@
+{
+  "transcription": "l'una con l'altra la mostrava detta.",
+  "words": [
+    {
+      "word": "l'una",
+      "start": 0.402,
+      "end": 0.604,
+      "confidence": 0.458
+    },
+    {
+      "word": "con",
+      "start": 0.645,
+      "end": 0.766,
+      "confidence": 0.806
+    },
+    {
+      "word": "l'altra",
+      "start": 0.847,
+      "end": 1.211,
+      "confidence": 0.909
+    },
+    {
+      "word": "la",
+      "start": 1.413,
+      "end": 1.474,
+      "confidence": 0.864
+    },
+    {
+      "word": "mostrava",
+      "start": 1.514,
+      "end": 2.02,
+      "confidence": 0.84
+    },
+    {
+      "word": "detta.",
+      "start": 2.101,
+      "end": 2.445,
+      "confidence": 0.735
+    }
+  ],
+  "top3": [
+    "l'una con l'altra la mostrava detta.",
+    "l'una con l'altra la mostrava detta.",
+    "l'una con l'altra la mostrava detta."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7686666666666667,
+  "u_asr": 0.23133333333333328
+}

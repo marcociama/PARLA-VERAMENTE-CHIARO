@@ -1,0 +1,29 @@
+{
+  "filename": "056",
+  "neapolitan_text": "co chillo doce vivere a l’antica!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con quel dolce vivere all'antica!",
+    "Con quel dolce modo di vivere di una volta!",
+    "Con quel dolce vivere secondo l'usanza antica!"
+  ],
+  "inputs": [
+    "Con quel dolce vivere all'antica!",
+    "Con quel dolce modo di vivere di una volta!",
+    "Con quel dolce vivere secondo l'usanza antica!",
+    "Cucchillo dove si vive l'antica.",
+    "Occhillo dove si vive l'antica.",
+    "Un chilo dove si vive l'antica."
+  ],
+  "responses": [
+    "Questo espressione significa \"con quella vita antica e semplice ma piacevole\".",
+    "Ritorna al sapore della vita passata!",
+    "Vivi con gusto la tradizione antica!",
+    "Il cucchillo \"Cucchiaio dove si vive l'antica\" è un film del regista Federico Fellini, uscito nel 1953. Rappresenta una satira della società italiana dell'epoca e la sua ipocrisia morale.",
+    "L'occhio dove si vive l'antica è Roma, città che conserva una ricca storia e numerosi monumenti antichi.",
+    "Il \"chilo\" è una località della Toscana nota per la sua antichità e la conservazione del suo patrimonio culturale. Vi si trovano numerose abitazioni medievali, chiese e mura ancora intatte."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.3808,
+  "wer_gt1": 1.0
+}

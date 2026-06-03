@@ -1,0 +1,49 @@
+{
+  "transcription": "Danzano tutta anch'ieta. O buona fede.",
+  "words": [
+    {
+      "word": "Danzano",
+      "start": 0.132,
+      "end": 0.574,
+      "confidence": 0.709
+    },
+    {
+      "word": "tutta",
+      "start": 0.594,
+      "end": 0.895,
+      "confidence": 0.888
+    },
+    {
+      "word": "anch'ieta.",
+      "start": 0.915,
+      "end": 1.599,
+      "confidence": 0.767
+    },
+    {
+      "word": "O",
+      "start": 2.242,
+      "end": 2.282,
+      "confidence": 0.961
+    },
+    {
+      "word": "buona",
+      "start": 2.383,
+      "end": 2.584,
+      "confidence": 0.84
+    },
+    {
+      "word": "fede.",
+      "start": 2.684,
+      "end": 3.026,
+      "confidence": 0.761
+    }
+  ],
+  "top3": [
+    "Danzano tutta anch'ieta. O buona fede.",
+    "Danzano tutta anch'ieta. O buona fede.",
+    "Danzano tutta anch'ieta. O buona fede."
+  ],
+  "language": "it",
+  "mean_confidence": 0.8210000000000001,
+  "u_asr": 0.17899999999999994
+}

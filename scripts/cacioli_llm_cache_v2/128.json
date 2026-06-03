@@ -1,0 +1,29 @@
+{
+  "filename": "128",
+  "neapolitan_text": "E pecché avess' 'a ji' malamente?",
+  "domain": "Play",
+  "gt_variants": [
+    "E perché dovrebbe andare male?",
+    "E per quale motivo dovrebbe andare male?",
+    "E perché mai le cose dovrebbero andare per il verso sbagliato?"
+  ],
+  "inputs": [
+    "E perché dovrebbe andare male?",
+    "E per quale motivo dovrebbe andare male?",
+    "E perché mai le cose dovrebbero andare per il verso sbagliato?",
+    "È perché avessai malamento.",
+    "È perché avessai malamento.",
+    "È perché avessai malamento."
+  ],
+  "responses": [
+    "Perché dovrebbe andare male è una domanda che implica che qualcosa potrebbe andare a pezzi o non funzionare come previsto.",
+    "Perché dovrebbe andare male? Questa affermazione suggerisce che ci sia qualcosa che potrebbe causare problemi o difficoltà.",
+    "Perché le cose non dovrebbero andare in modo contrario al normale?",
+    "La dichiarazione indica che qualcuno ha malattia o non si sente bene.",
+    "La dichiarazione indica che qualcuno ha malattia o non si sente bene.",
+    "La dichiarazione indica che qualcuno ha malattia o non si sente bene."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.2755,
+  "wer_gt1": 0.8
+}

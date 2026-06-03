@@ -1,0 +1,115 @@
+{
+  "transcription": "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono figlio?",
+  "words": [
+    {
+      "word": "E",
+      "start": 0.472,
+      "end": 0.512,
+      "confidence": 0.521
+    },
+    {
+      "word": "chi",
+      "start": 0.652,
+      "end": 0.772,
+      "confidence": 0.762
+    },
+    {
+      "word": "sei",
+      "start": 0.873,
+      "end": 0.953,
+      "confidence": 0.356
+    },
+    {
+      "word": "tu",
+      "start": 1.093,
+      "end": 1.213,
+      "confidence": 0.726
+    },
+    {
+      "word": "che",
+      "start": 1.253,
+      "end": 1.334,
+      "confidence": 0.455
+    },
+    {
+      "word": "mi",
+      "start": 1.414,
+      "end": 1.494,
+      "confidence": 0.65
+    },
+    {
+      "word": "vuoi",
+      "start": 1.534,
+      "end": 1.634,
+      "confidence": 0.212
+    },
+    {
+      "word": "impedire",
+      "start": 1.694,
+      "end": 2.175,
+      "confidence": 0.703
+    },
+    {
+      "word": "di",
+      "start": 2.195,
+      "end": 2.235,
+      "confidence": 0.006
+    },
+    {
+      "word": "dire",
+      "start": 2.376,
+      "end": 2.757,
+      "confidence": 0.726
+    },
+    {
+      "word": "vicino",
+      "start": 2.817,
+      "end": 3.117,
+      "confidence": 0.75
+    },
+    {
+      "word": "ai",
+      "start": 3.137,
+      "end": 3.197,
+      "confidence": 0.156
+    },
+    {
+      "word": "miei",
+      "start": 3.318,
+      "end": 3.578,
+      "confidence": 0.468
+    },
+    {
+      "word": "figli",
+      "start": 3.678,
+      "end": 4.139,
+      "confidence": 0.524
+    },
+    {
+      "word": "che",
+      "start": 4.48,
+      "end": 4.741,
+      "confidence": 0.577
+    },
+    {
+      "word": "sono",
+      "start": 4.781,
+      "end": 4.901,
+      "confidence": 0.516
+    },
+    {
+      "word": "figlio?",
+      "start": 5.001,
+      "end": 5.342,
+      "confidence": 0.624
+    }
+  ],
+  "top3": [
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono figlio?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono mio figlio?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono mio figlio?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.5136470588235295,
+  "u_asr": 0.48635294117647054
+}

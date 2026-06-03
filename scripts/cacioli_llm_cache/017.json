@@ -1,0 +1,29 @@
+{
+  "filename": "017",
+  "neapolitan_text": "Saie quanno se chiagne?",
+  "domain": "Play",
+  "gt_variants": [
+    "Sai quando si piange?",
+    "Lo sai quando si piange?",
+    "Tu sai quando si piange?"
+  ],
+  "inputs": [
+    "Sai quando si piange?",
+    "Lo sai quando si piange?",
+    "Tu sai quando si piange?",
+    "Saiguan na sayanya.",
+    "Saiguan na sayanya.",
+    "Saiguan na sayanya."
+  ],
+  "responses": [
+    "Si piange quando si prova dolore o tristezza.",
+    "Sì, quando si piange significa che qualcuno è triste o soffre.",
+    "Sì, so quando si piange: è quando si prova profonda tristezza o dolore.",
+    "Il testo \"Saiguan na sayanya\" è una frase filippina che significa \"Va bene, arrivederci\".",
+    "Il testo \"Saiguan na sayanya\" è una frase filippina che significa \"Va bene, arrivederci\".",
+    "Il testo \"Saiguan na sayanya\" è una frase filippina che significa \"Va bene, arrivederci\"."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.380333,
+  "wer_gt1": 1.0
+}

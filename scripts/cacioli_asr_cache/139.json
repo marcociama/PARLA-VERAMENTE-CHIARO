@@ -1,0 +1,109 @@
+{
+  "transcription": "Tu potevi dire che tutta e tre era una figlia. Ce l'aveste creduta. Tu facevi credere.",
+  "words": [
+    {
+      "word": "Tu",
+      "start": 0.567,
+      "end": 0.648,
+      "confidence": 0.396
+    },
+    {
+      "word": "potevi",
+      "start": 0.668,
+      "end": 0.949,
+      "confidence": 0.666
+    },
+    {
+      "word": "dire",
+      "start": 0.989,
+      "end": 1.311,
+      "confidence": 0.583
+    },
+    {
+      "word": "che",
+      "start": 1.331,
+      "end": 1.471,
+      "confidence": 0.532
+    },
+    {
+      "word": "tutta",
+      "start": 1.532,
+      "end": 2.074,
+      "confidence": 0.939
+    },
+    {
+      "word": "e",
+      "start": 2.275,
+      "end": 2.335,
+      "confidence": 0.867
+    },
+    {
+      "word": "tre",
+      "start": 2.516,
+      "end": 2.797,
+      "confidence": 0.912
+    },
+    {
+      "word": "era",
+      "start": 3.118,
+      "end": 3.259,
+      "confidence": 0.955
+    },
+    {
+      "word": "una",
+      "start": 3.279,
+      "end": 3.4,
+      "confidence": 0.82
+    },
+    {
+      "word": "figlia.",
+      "start": 3.46,
+      "end": 3.922,
+      "confidence": 0.857
+    },
+    {
+      "word": "Ce",
+      "start": 4.906,
+      "end": 4.986,
+      "confidence": 0.433
+    },
+    {
+      "word": "l'aveste",
+      "start": 5.027,
+      "end": 5.469,
+      "confidence": 0.661
+    },
+    {
+      "word": "creduta.",
+      "start": 5.529,
+      "end": 6.051,
+      "confidence": 0.882
+    },
+    {
+      "word": "Tu",
+      "start": 6.292,
+      "end": 6.433,
+      "confidence": 0.501
+    },
+    {
+      "word": "facevi",
+      "start": 6.573,
+      "end": 6.955,
+      "confidence": 0.804
+    },
+    {
+      "word": "credere.",
+      "start": 6.995,
+      "end": 7.397,
+      "confidence": 0.679
+    }
+  ],
+  "top3": [
+    "Tu potevi dire che tutta e tre era una figlia. Ce l'aveste creduta. Tu facevi credere.",
+    "Tu potevi dire che tutta e tre era una figlia. Ce l'aveste creduta. Tu facevi credere.",
+    "Tu potevi dire che tutti e tre erano figli. Ce l'aveste creduto. Tu facevi credere."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7179375,
+  "u_asr": 0.2820625
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "004",
+  "neapolitan_text": "Ma Filumena Marturano ha fatto correre essa a te! E currive senza ca te n'addunave.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma Filumena Marturano ha fatto correre lei a te, e correvi senza che te accorgevi",
+    "Però Filumena ti faceva correre. E correvi senza che te accorgessi",
+    "Ma Filumena Marturano ti ha fatto correre, e correvi senza accorgertene."
+  ],
+  "inputs": [
+    "Ma Filumena Marturano ha fatto correre lei a te, e correvi senza che te accorgevi",
+    "Però Filumena ti faceva correre. E correvi senza che te accorgessi",
+    "Ma Filumena Marturano ti ha fatto correre, e correvi senza accorgertene.",
+    "Ma Filomena Marturana ha fatto correre essa a te e corriva senza che te ne accorgiva.",
+    "Ma Filomena Marturana ha fatto correre essa a te e corriva senza che te ne accorgiva.",
+    "Ma Filomena Marturana ha fatto correre essa a te e corrivo senza che te ne accorgiva."
+  ],
+  "responses": [
+    "La dichiarazione indica che Filumena Marturano ti fece correre, ma tu non ti accorgesti di esserlo stato.",
+    "La dichiarazione implica che Filumena lo spingeva a correre, e lui corse senza rendersene conto.",
+    "La frase indica che Filumena Marturano ha in qualche modo provocato qualcuno a correre, ma quest'ultimo non si è reso conto di esserlo stato fatto.",
+    "La frase indica che Filomena Marturana aveva informato qualcuno di qualcosa, ma quest'ultimo non era a conoscenza della notizia.",
+    "La frase indica che Filomena Marturana aveva informato qualcuno di qualcosa, ma quest'ultimo non era a conoscenza della notizia.",
+    "La dichiarazione implica che Filomena Marturana ha informato qualcuno di qualcosa, ma in modo discreto, al punto da farlo passare inosservato."
+  ],
+  "wer": 0.466667,
+  "u_asr": 0.298813,
+  "wer_gt1": 0.466667
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "049",
+  "neapolitan_text": "dicea no cierto che l’auciello arava",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Diceva non è certo che l'uccellino arasse",
+    "Diceva non è vero che l'uccello arava",
+    "Diceva non è sicuro che l'uccellino stava arando"
+  ],
+  "inputs": [
+    "Diceva non è certo che l'uccellino arasse",
+    "Diceva non è vero che l'uccello arava",
+    "Diceva non è sicuro che l'uccellino stava arando",
+    "Dicevo, no, certo che la voce la rava.",
+    "Dicevo, no, certo che la voce la rava.",
+    "Dicevo no, certo che la uccella erava."
+  ],
+  "responses": [
+    "L'affermazione indica che non si può essere sicuri se l'uccellino abbia effettivamente arato qualcosa.",
+    "L'affermazione implica che la frase \"l'uccello arava\" non è corretta o non è il nome corretto di un uccello.",
+    "L'affermazione indica che l'uccellino non era certo impegnato nell'attività dell'aratura.",
+    "La persona afferma che ha detto sì a qualcosa che è stato chiesto.",
+    "La persona afferma che ha detto sì a qualcosa che è stato chiesto.",
+    "La persona ha detto no, ma è stato chiaro che l'uccello era presente."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.258375,
+  "wer_gt1": 1.0
+}

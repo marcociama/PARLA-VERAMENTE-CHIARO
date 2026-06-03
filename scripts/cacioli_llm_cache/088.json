@@ -1,0 +1,29 @@
+{
+  "filename": "088",
+  "neapolitan_text": "Lo vicenato, ‘n chietta e ‘n lebertate,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Il vicinato, in fila e in libertà",
+    "Il vicinato, in schiera e in libertà",
+    "La comunità, in ordine e in piena libertà"
+  ],
+  "inputs": [
+    "Il vicinato, in fila e in libertà",
+    "Il vicinato, in schiera e in libertà",
+    "La comunità, in ordine e in piena libertà",
+    "Avvicinati e chiesto la libertà.",
+    "Avvicinati e chiesto di libertà.",
+    "Avvicinati e chiesto la libertà."
+  ],
+  "responses": [
+    "La locazione è composta da case disposte in fila e con ampiezza libera intorno a ciascuna di esse.",
+    "La locuzione \"Il vicinato, in schiera e in libertà\" indica un quartiere o comunità che vive uniti ma con una certa autonomia e libertà individuale.",
+    "La comunità implica una collettività organizzata, mentre \"in ordine e in piena libertà\" suggerisce un'organizzazione strutturata ma con rispetto per la libertà individuale.",
+    "Richiedere la libertà significa chiedere di essere liberi da qualche forma di controllo o restrizione. In questo contesto, potrebbe riferirsi ad una richiesta di indipendenza politica o sociale.",
+    "Richiedi di essere liberato, per favore.",
+    "Richiedere la libertà significa chiedere di essere liberi da qualche forma di controllo o restrizione. In questo contesto, potrebbe riferirsi ad una richiesta di indipendenza politica o sociale."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.377,
+  "wer_gt1": 1.0
+}

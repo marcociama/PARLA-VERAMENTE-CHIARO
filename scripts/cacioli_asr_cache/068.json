@@ -1,0 +1,91 @@
+{
+  "transcription": "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.127,
+      "end": 1.228,
+      "confidence": 0.592
+    },
+    {
+      "word": "chi",
+      "start": 1.288,
+      "end": 1.388,
+      "confidence": 0.772
+    },
+    {
+      "word": "decrierà",
+      "start": 1.408,
+      "end": 1.869,
+      "confidence": 0.633
+    },
+    {
+      "word": "essere",
+      "start": 1.889,
+      "end": 2.31,
+      "confidence": 0.617
+    },
+    {
+      "word": "un",
+      "start": 2.33,
+      "end": 2.471,
+      "confidence": 0.6
+    },
+    {
+      "word": "Dio?",
+      "start": 2.591,
+      "end": 2.972,
+      "confidence": 0.883
+    },
+    {
+      "word": "C'è",
+      "start": 3.573,
+      "end": 3.734,
+      "confidence": 0.83
+    },
+    {
+      "word": "dentro",
+      "start": 3.834,
+      "end": 4.175,
+      "confidence": 0.684
+    },
+    {
+      "word": "voi",
+      "start": 4.235,
+      "end": 4.375,
+      "confidence": 0.533
+    },
+    {
+      "word": "capire",
+      "start": 4.415,
+      "end": 4.837,
+      "confidence": 0.726
+    },
+    {
+      "word": "che",
+      "start": 4.877,
+      "end": 4.957,
+      "confidence": 0.196
+    },
+    {
+      "word": "siamo",
+      "start": 4.977,
+      "end": 5.177,
+      "confidence": 0.497
+    },
+    {
+      "word": "uguali.",
+      "start": 5.197,
+      "end": 5.618,
+      "confidence": 0.781
+    }
+  ],
+  "top3": [
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali.",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali.",
+    "Ma chi decrierà essere un Dio? C'è dentro voi capire che siamo uguali."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6418461538461538,
+  "u_asr": 0.35815384615384616
+}

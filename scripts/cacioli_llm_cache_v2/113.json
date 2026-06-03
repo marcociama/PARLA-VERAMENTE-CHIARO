@@ -1,0 +1,29 @@
+{
+  "filename": "113",
+  "neapolitan_text": "Pe tutte ll'anne ca io songo stata a Napule, aggio cercato 'e tutt' 'e mmanere, ma quase sempe a vvacante, comm'avevo 'a fa' pe trasì int' 'a suggità secreta d''a ggente che parlano 'o Nnapulitano.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Per tutti gli anni che sono stata a Napoli, ho cercato in ogni modo, ma quasi sempre a vuoto, come dovevo fare per entrare nella società segreta della gente che parla il napoletano.",
+    "In tutti gli anni che ho trascorso a Napoli, ho provato in tutti i modi, ma quasi sempre invano, a capire come fare per accedere alla società segreta di chi parla napoletano.",
+    "Durante tutti gli anni in cui sono rimasta a Napoli, ho tentato in ogni maniera, sebbene quasi sempre inutilmente, di scoprire come entrare nella società segreta di coloro che parlano il napoletano."
+  ],
+  "inputs": [
+    "Per tutti gli anni che sono stata a Napoli, ho cercato in ogni modo, ma quasi sempre a vuoto, come dovevo fare per entrare nella società segreta della gente che parla il napoletano.",
+    "In tutti gli anni che ho trascorso a Napoli, ho provato in tutti i modi, ma quasi sempre invano, a capire come fare per accedere alla società segreta di chi parla napoletano.",
+    "Durante tutti gli anni in cui sono rimasta a Napoli, ho tentato in ogni maniera, sebbene quasi sempre inutilmente, di scoprire come entrare nella società segreta di coloro che parlano il napoletano.",
+    "Tutto l'anno che sono stato a Napoli, ho cercato tutte le maniere, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?",
+    "Per tutto l'anno che sono stato a Napoli, ho cercato di tutto in maniera, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?",
+    "Per tutto l'anno che sono stato a Napoli, ho cercato tutte le maniere, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?"
+  ],
+  "responses": [
+    "Nell'arco di tutti gli anni trascorsi a Napoli, ho cercato in ogni modo di entrare nella società segreta dei parlanti napoletano, ma quasi sempre senza successo.",
+    "Nell'arco degli anni trascorsi a Napoli, ho tentato in molteplici modi, ma con poca fortuna, di comprendere come entrare nella società segreta di coloro che parlano la lingua napoletana.",
+    "Nell'arco degli anni trascorsi a Napoli, ho cercato in tutti i modi possibili, sebbene quasi sempre invano, di scoprire come entrare nella società segreta dei parlanti napoletano.",
+    "Nonostante abbia cercato tutto l'anno a Napoli, non è riuscito mai ad accedere alla società segreta di persone che parlano napoletano.",
+    "Nonostante abbia cercato tutto durante l'anno a Napoli, non riesco mai a trovare la società segreta di cui si parla. Come avrei potuto entrare in una tale società, composta da persone che parlano napoletano?",
+    "Nonostante abbia cercato tutto l'anno a Napoli, non è riuscito mai a trovare la società segreta di cui ha letto. Come avrebbe potuto entrare in una tale società parlando il napoletano?"
+  ],
+  "wer": 0.606061,
+  "u_asr": 0.27371,
+  "wer_gt1": 0.606061
+}

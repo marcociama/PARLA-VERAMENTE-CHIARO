@@ -1,0 +1,29 @@
+{
+  "filename": "072",
+  "neapolitan_text": "Lo marito sì ccaro a la mogliera,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Il marito sì caro alla moglie",
+    "Il marito così caro alla moglie",
+    "Il marito è molto amato dalla moglie"
+  ],
+  "inputs": [
+    "Il marito sì caro alla moglie",
+    "Il marito così caro alla moglie",
+    "Il marito è molto amato dalla moglie",
+    "Mio marito si aggarrò alla moglie.",
+    "Un marito si aggarrò alla mogliera.",
+    "Un marito si ingarrò alla moglie."
+  ],
+  "responses": [
+    "La frase \"Il marito sì caro alla moglie\" significa che il marito è molto amato dalla moglie.",
+    "Il marito è molto amato dalla moglie.",
+    "La moglie ama molto il marito. Il marito è carissimo per la moglie.",
+    "L'azione descritta potrebbe essere considerata violenta e non è accettabile. È importante comunicare e risolvere i problemi in modo pacifico.",
+    "L'atto descritto è violento e non rispetta i valori della dignità umana. La violenza domestica è sempre sgradita e deve essere denunciata.",
+    "Il verbo \"ingarro\" implica una forma di gelosia o invidia, che non è positiva nel contesto della relazione coniugale. In questo caso, il marito ha mostrato gelosia verso la moglie."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.447667,
+  "wer_gt1": 0.666667
+}

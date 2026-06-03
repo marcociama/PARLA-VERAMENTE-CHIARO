@@ -1,0 +1,29 @@
+{
+  "filename": "089",
+  "neapolitan_text": "a chillo tiempo jevano a li vagne,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "A quel tempo andavano ai bagni",
+    "In quei tempi si andava ai bagni",
+    "A quel tempo si recavano ai bagni"
+  ],
+  "inputs": [
+    "A quel tempo andavano ai bagni",
+    "In quei tempi si andava ai bagni",
+    "A quel tempo si recavano ai bagni",
+    "a chi l'udì ebbe venato di bagna.",
+    "A chi l'udì e beve un'aldivagna.",
+    "a chi lo dia e beve nell'aldivagna."
+  ],
+  "responses": [
+    "All'epoca frequentavano i bagni pubblici",
+    "Nelle quelle epoche, le persone frequentavano i bagni pubblici o balneari.",
+    "All'epoca andavano al bagno pubblico",
+    "L'affermazione indica che chi l'ha sentito è stato colpito da un senso di paura o shock, come se fosse stato bagnato.",
+    "Chi ascolta la dichiarazione e poi beve un bicchiere di vino. (Traduzione letterale)",
+    "Chi lo prende e lo beve nella birra. (L'aldivagna è un termine dialettale italiano che significa birra.)"
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.418571,
+  "wer_gt1": 1.0
+}

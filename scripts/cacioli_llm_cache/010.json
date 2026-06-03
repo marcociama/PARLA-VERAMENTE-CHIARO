@@ -1,0 +1,29 @@
+{
+  "filename": "010",
+  "neapolitan_text": "A serva ll'aggio fatta pè vinticinc'anne, e vuie 'o ssapite.",
+  "domain": "Play",
+  "gt_variants": [
+    "Ho fatto la serva per venticinque anni, e voi lo sapete",
+    "La serva l'ho fatta per 25 anni, e voi lo sapete",
+    "La schiava l'ho fatta per venticinque anni, e lo sapete."
+  ],
+  "inputs": [
+    "Ho fatto la serva per venticinque anni, e voi lo sapete",
+    "La serva l'ho fatta per 25 anni, e voi lo sapete",
+    "La schiava l'ho fatta per venticinque anni, e lo sapete.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo.",
+    "La serva l'ha già fatta per 25 anni, vi ho saputo."
+  ],
+  "responses": [
+    "Sono spiacente che abbia trascorso tanti anni lavorando come servitore. Ti offro informazioni su altre opportunità di lavoro o studi per migliorare la propria situazione?",
+    "Ho lavorato come servitore per 25 anni, è vero.",
+    "Sono state venticinque le annate durante le quali la persona ha avuto una schiava. Si è trattato di un periodo lungo della loro vita.",
+    "Il servitore ha lavorato per questo compito da almeno 25 anni, come mi è stato detto.",
+    "Il servitore ha lavorato per questo compito da almeno 25 anni, come mi è stato detto.",
+    "Il servitore ha lavorato per questo compito da almeno 25 anni, come mi è stato detto."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.398727,
+  "wer_gt1": 0.909091
+}

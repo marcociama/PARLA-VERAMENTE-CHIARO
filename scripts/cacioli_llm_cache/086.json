@@ -1,0 +1,29 @@
+{
+  "filename": "086",
+  "neapolitan_text": "Tutte le bon’ausanze so’ lassate!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Tutte le buone usanze sono state abbandonate!",
+    "Tutte le buone abitudini sono andate perdute!",
+    "Tutte le sane consuetudini sono ormai lasciate indietro!"
+  ],
+  "inputs": [
+    "Tutte le buone usanze sono state abbandonate!",
+    "Tutte le buone abitudini sono andate perdute!",
+    "Tutte le sane consuetudini sono ormai lasciate indietro!",
+    "Tutte le buone usanze sono passate.",
+    "Tutte le buone usanze sono passate.",
+    "Tutte le buone usanze sono passate."
+  ],
+  "responses": [
+    "Sembra che stia lamentando la perdita di buone usanze tradizionali. La conservazione e il rispetto delle antiche pratiche sono importantissimi per mantenere la cultura viva.",
+    "Sono delusi che le buone abitudini siano andate perdute, è importante cercare di mantenerle e incoraggiarne la pratica.",
+    "Le tradizionali abitudini sono ormai superate, si sta vivendo un momento di cambiamento rapido.",
+    "Le buone usanze sono cambiate nel tempo, ma la gentilezza e il rispetto per gli altri rimangono importanti.",
+    "Le buone usanze sono cambiate nel tempo, ma la gentilezza e il rispetto per gli altri rimangono importanti.",
+    "Le buone usanze sono cambiate nel tempo, ma la gentilezza e il rispetto per gli altri rimangono importanti."
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.236833,
+  "wer_gt1": 0.285714
+}

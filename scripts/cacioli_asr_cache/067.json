@@ -1,0 +1,43 @@
+{
+  "transcription": "E femmine, addorso e collate.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.735,
+      "end": 1.775,
+      "confidence": 0.524
+    },
+    {
+      "word": "femmine,",
+      "start": 1.896,
+      "end": 2.359,
+      "confidence": 0.695
+    },
+    {
+      "word": "addorso",
+      "start": 2.379,
+      "end": 2.983,
+      "confidence": 0.712
+    },
+    {
+      "word": "e",
+      "start": 3.044,
+      "end": 3.064,
+      "confidence": 0.041
+    },
+    {
+      "word": "collate.",
+      "start": 3.104,
+      "end": 3.507,
+      "confidence": 0.332
+    }
+  ],
+  "top3": [
+    "E femmine, addorso e collate.",
+    "E femmine, addorso e collate.",
+    "e femmina d'orso e collag."
+  ],
+  "language": "it",
+  "mean_confidence": 0.4608,
+  "u_asr": 0.5392
+}

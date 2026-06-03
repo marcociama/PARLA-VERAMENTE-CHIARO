@@ -1,0 +1,43 @@
+{
+  "transcription": "Si doscia con molto zucchero.",
+  "words": [
+    {
+      "word": "Si",
+      "start": 0.424,
+      "end": 0.525,
+      "confidence": 0.792
+    },
+    {
+      "word": "doscia",
+      "start": 0.645,
+      "end": 0.926,
+      "confidence": 0.742
+    },
+    {
+      "word": "con",
+      "start": 0.986,
+      "end": 1.127,
+      "confidence": 0.949
+    },
+    {
+      "word": "molto",
+      "start": 1.187,
+      "end": 1.368,
+      "confidence": 0.557
+    },
+    {
+      "word": "zucchero.",
+      "start": 1.448,
+      "end": 1.97,
+      "confidence": 0.629
+    }
+  ],
+  "top3": [
+    "Si doscia con molto zucchero.",
+    "Si doscia con molto zucchero.",
+    "Si doscia con molto zucchero."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7338,
+  "u_asr": 0.2662
+}

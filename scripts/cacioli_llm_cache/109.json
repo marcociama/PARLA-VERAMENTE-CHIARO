@@ -1,0 +1,29 @@
+{
+  "filename": "109",
+  "neapolitan_text": "E ancora, quanno s'avess' 'a parlà Taliano e quanno 'o dialetto?​",
+  "domain": "Blog",
+  "gt_variants": [
+    "E ancora, quando si dovrebbe parlare italiano e quando il dialetto?",
+    "E inoltre, quando bisognerebbe parlare italiano e quando invece il dialetto?",
+    "E ancora, in quali situazioni si dovrebbe usare l'italiano e in quali il dialetto?"
+  ],
+  "inputs": [
+    "E ancora, quando si dovrebbe parlare italiano e quando il dialetto?",
+    "E inoltre, quando bisognerebbe parlare italiano e quando invece il dialetto?",
+    "E ancora, in quali situazioni si dovrebbe usare l'italiano e in quali il dialetto?",
+    "E ancora, quando sapesse parlare l'italiano e quanto dialetto.",
+    "E ancora, quando sapessi parlare l'italiano e quanto dialetto.",
+    "E ancora, quando sapessi parlare l'italiano e quanto dialetto."
+  ],
+  "responses": [
+    "L'italiano standard è utilizzato nelle comunicazioni formali o internazionali, mentre i dialetti sono tipici delle regioni italiane e possono essere usati in contesti informali tra persone che condividono lo stesso dialetto.",
+    "In generale, si parla italiano nelle situazioni formali o a livello nazionale, mentre i dialetti sono utilizzati nella vita quotidiana nelle diverse regioni d'Italia.",
+    "L'italiano è utilizzato nelle comunicazioni formali o internazionali, mentre i dialetti sono più adatti nelle conversazioni informali tra persone di una stessa regione.",
+    "Sapere parlare l'italiano è importante per comunicare con molte persone in Italia. Il dialetto varia da regione a regione, ma l'italiano standard è la lingua ufficiale del paese.",
+    "Sono un assistente non umano e non posso parlare o imparare lingue, ma sono programmato per generare risposte in italiano. Non ho conoscenza di dialetti italiani specifici.",
+    "Sono un assistente non umano e non posso parlare o imparare lingue, ma sono programmato per generare risposte in italiano. Non ho conoscenza di dialetti italiani specifici."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.337556,
+  "wer_gt1": 0.545455
+}

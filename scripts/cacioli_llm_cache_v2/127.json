@@ -1,0 +1,29 @@
+{
+  "filename": "127",
+  "neapolitan_text": "Già, me faceva male 'o pede.",
+  "domain": "Play",
+  "gt_variants": [
+    "Già, mi faceva male il piede.",
+    "Sì, avevo dolore al piede.",
+    "Già, mi doleva il piede."
+  ],
+  "inputs": [
+    "Già, mi faceva male il piede.",
+    "Sì, avevo dolore al piede.",
+    "Già, mi doleva il piede.",
+    "Ciao, ma faceva male opera.",
+    "Ciao, ma faceva male opera.",
+    "Ciao, ma faceva male opera."
+  ],
+  "responses": [
+    "La frase \"Già, mi faceva male il piede\" significa che il piede del locutore stava provando dolori o discomfort.",
+    "La persona ha avuto dolore al piede.",
+    "La frase \"Già, mi doleva il piede\" significa che il piede del locutore provava dolore.",
+    "La frase \"Ciao, ma faceva male opera\" implica che qualcosa non andava bene o era difficile da fare.",
+    "La frase \"Ciao, ma faceva male opera\" implica che qualcosa non andava bene o era difficile da fare.",
+    "La frase \"Ciao, ma faceva male opera\" implica che qualcosa non andava bene o era difficile da fare."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.5728,
+  "wer_gt1": 0.666667
+}

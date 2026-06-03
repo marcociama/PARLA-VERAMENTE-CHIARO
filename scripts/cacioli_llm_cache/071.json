@@ -1,0 +1,29 @@
+{
+  "filename": "071",
+  "neapolitan_text": "Dove se trova mai tanta lianza!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Dove si trova mai tanta lianza!",
+    "Dove si riesce mai a trovare tanta lianza!",
+    "Dove mai si può trovare così tanta lianza!"
+  ],
+  "inputs": [
+    "Dove si trova mai tanta lianza!",
+    "Dove si riesce mai a trovare tanta lianza!",
+    "Dove mai si può trovare così tanta lianza!",
+    "Dove si trova mai tanta alianza?",
+    "Dove si trova mai tanta alianza?",
+    "Dove si trova mai tanta alianza?"
+  ],
+  "responses": [
+    "La frase \"Dove si trova mai tanta lianza!\" non ha un significato chiaro, poiché \"lianza\" non è una parola comune in italiano. Potrebbe essere un errore di ortografia o un'espressione dialettale sconosciuta. Tuttavia, se si intende come \"luogo dove cresce la liana\", potrebbero esserci molti esempi in varie zone tropicali e subtropicali del mondo.",
+    "La tanta liania si può trovare nelle foreste tropicali o nei boschi umidi.",
+    "La liana è una pianta tropicale, quindi si trova comunemente nelle foreste tropicali e subtropicali. In Italia, invece, non c'è la presenza naturale di questa pianta.",
+    "La parola \"alianza\" non è corretta in italiano. Potrebbe essere stata scritta per errore o tradotta da un altro linguaggio. In italiano, la parola corretta che significa \"alleanza\" è \"alleanza\". Se si vuole sapere dove ci sia sempre una grande alleanza, potrei dire che ci sono molte alleanze politiche e commerciali in tutto il mondo.",
+    "La parola \"alianza\" non è corretta in italiano. Potrebbe essere stata scritta per errore o tradotta da un altro linguaggio. In italiano, la parola corretta che significa \"alleanza\" è \"alleanza\". Se si vuole sapere dove ci sia sempre una grande alleanza, potrei dire che ci sono molte alleanze politiche e commerciali in tutto il mondo.",
+    "La parola \"alianza\" non è corretta in italiano. Potrebbe essere stata scritta per errore o tradotta da un altro linguaggio. In italiano, la parola corretta che significa \"alleanza\" è \"alleanza\". Se si vuole sapere dove ci sia sempre una grande alleanza, potrei dire che ci sono molte alleanze politiche e commerciali in tutto il mondo."
+  ],
+  "wer": 0.166667,
+  "u_asr": 0.388,
+  "wer_gt1": 0.166667
+}

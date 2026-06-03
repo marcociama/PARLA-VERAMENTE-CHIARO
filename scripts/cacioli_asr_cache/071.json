@@ -1,0 +1,49 @@
+{
+  "transcription": "Dove si trova mai tanta alianza?",
+  "words": [
+    {
+      "word": "Dove",
+      "start": 1.59,
+      "end": 1.793,
+      "confidence": 0.454
+    },
+    {
+      "word": "si",
+      "start": 1.833,
+      "end": 1.873,
+      "confidence": 0.473
+    },
+    {
+      "word": "trova",
+      "start": 1.914,
+      "end": 2.136,
+      "confidence": 0.393
+    },
+    {
+      "word": "mai",
+      "start": 2.197,
+      "end": 2.358,
+      "confidence": 0.648
+    },
+    {
+      "word": "tanta",
+      "start": 2.419,
+      "end": 2.661,
+      "confidence": 0.945
+    },
+    {
+      "word": "alianza?",
+      "start": 2.682,
+      "end": 3.227,
+      "confidence": 0.759
+    }
+  ],
+  "top3": [
+    "Dove si trova mai tanta alianza?",
+    "Dove si trova mai tanta alianza?",
+    "Dove si trova mai tanta alianza?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.612,
+  "u_asr": 0.388
+}

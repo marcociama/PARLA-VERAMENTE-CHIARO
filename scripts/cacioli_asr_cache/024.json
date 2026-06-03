@@ -1,0 +1,31 @@
+{
+  "transcription": "Appressa quella schifosa.",
+  "words": [
+    {
+      "word": "Appressa",
+      "start": 0.534,
+      "end": 1.036,
+      "confidence": 0.911
+    },
+    {
+      "word": "quella",
+      "start": 1.057,
+      "end": 1.439,
+      "confidence": 0.644
+    },
+    {
+      "word": "schifosa.",
+      "start": 1.499,
+      "end": 2.444,
+      "confidence": 0.821
+    }
+  ],
+  "top3": [
+    "Appressa quella schifosa.",
+    "appresso a quella schifosa.",
+    "Appressa quella schifosa."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7920000000000001,
+  "u_asr": 0.20799999999999985
+}

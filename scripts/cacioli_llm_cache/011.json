@@ -1,0 +1,29 @@
+{
+  "filename": "011",
+  "neapolitan_text": "E maie ca t'avesse visto sottomessa, che ssaccio?",
+  "domain": "Play",
+  "gt_variants": [
+    "E mai che l'avessi vista sottomessa, che ne so",
+    "E mai che l'avessi vista sottoposta, che ne so",
+    "E mai che l'avessi vista sottomessa, che ne so io."
+  ],
+  "inputs": [
+    "E mai che l'avessi vista sottomessa, che ne so",
+    "E mai che l'avessi vista sottoposta, che ne so",
+    "E mai che l'avessi vista sottomessa, che ne so io.",
+    "E mai che l'avessi visto sottomesso, che saccio.",
+    "E mai che l'avessi visto sottomesso, che saccio.",
+    "E mai che l'avessi visto sottomesso, che saccio."
+  ],
+  "responses": [
+    "Sono una entità digitale e non posso vedere o sentire. Non ho mai visto nessuno sottomesso.",
+    "Sì, ho visto quella opera prima.",
+    "La frase sembra essere un'affermazione di conoscenza personale su qualcosa o qualcuno. \"E mai che l'avessi vista sottomessa\" potrebbe significare che la persona ha visto qualcuno in una posizione di sottomissione, mentre \"che ne so io\" indica che questa informazione è nota a quella persona.",
+    "La frase \"E mai che l'avessi visto sottomesso, che saccio\" implica che la persona ha avuto una certa conoscenza o esperienza del fatto di averlo visto sottoposto.",
+    "La frase \"E mai che l'avessi visto sottomesso, che saccio\" implica che la persona ha avuto una certa conoscenza o esperienza del fatto di averlo visto sottoposto.",
+    "La frase \"E mai che l'avessi visto sottomesso, che saccio\" implica che la persona ha avuto una certa conoscenza o esperienza del fatto di averlo visto sottoposto."
+  ],
+  "wer": 0.444444,
+  "u_asr": 0.22525,
+  "wer_gt1": 0.444444
+}

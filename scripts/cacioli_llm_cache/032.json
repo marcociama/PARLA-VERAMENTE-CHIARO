@@ -1,0 +1,29 @@
+{
+  "filename": "032",
+  "neapolitan_text": "Ma pecché, tu murive e io nun avev' 'a magnà cchiu?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma perché, tu morivi e io non dovevo mangiare più?",
+    "M perché, tu crepavi e io non dovevo mangiare più?",
+    "Ma perché, tu trapassavi e io non dovevo mangiare più?"
+  ],
+  "inputs": [
+    "Ma perché, tu morivi e io non dovevo mangiare più?",
+    "M perché, tu crepavi e io non dovevo mangiare più?",
+    "Ma perché, tu trapassavi e io non dovevo mangiare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più?",
+    "Ma perché tu moriva e io non l'avevo a bagnare più."
+  ],
+  "responses": [
+    "La morte è un evento naturale che avviene a tutti gli esseri viventi. Non c'è alcun legame tra la tua morte e il mio dovere di mangiare o meno.",
+    "Il \"tu\" è un cibo che si rompe facilmente e non è adatto per essere conservato a lungo. Non dovresti aver mangiato di più per evitare il rifiuto del cibo.",
+    "La morte di qualcuno non influisce sulla necessità di nutrirsi degli altri. Il concetto della vita dopo la morte è un tema filosofico complesso e varia a seconda delle culture e delle credenze personali.",
+    "La frase sembra tratta da un testo letterario. In questo caso, \"tu\" si riferisce probabilmente alla persona che scrive o parla, mentre \"io\" è il narratore. L'autore potrebbe voler esprimere una sensazione di colpa o di impotenza nel non essere stato in grado di salvare l'altro. Tuttavia, per fornire una risposta più precisa, occorre considerare il contesto del testo letterario intero.",
+    "La frase sembra tratta da un testo letterario. In questo caso, \"tu\" si riferisce probabilmente alla persona che scrive o parla, mentre \"io\" è il narratore. L'autore potrebbe voler esprimere una sensazione di colpa o di impotenza nel non essere stato in grado di salvare l'altro. Tuttavia, per fornire una risposta più precisa, occorre considerare il contesto del testo letterario intero.",
+    "Questa frase sembra tratta da un testo letterario, potrebbe essere una citazione. La traduzione sarebbe: \"Ma perché tu muorevi e io non ne posso più lavarti\"."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.369,
+  "wer_gt1": 0.5
+}

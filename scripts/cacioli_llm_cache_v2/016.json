@@ -1,0 +1,29 @@
+{
+  "filename": "016",
+  "neapolitan_text": "E mmeglie feste, 'e meglie Natale me ll'aggio passate sola comm' a na cana.",
+  "domain": "Play",
+  "gt_variants": [
+    "Le feste migliori, i Natali migliori, li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali me li ho passati da solo come un cane."
+  ],
+  "inputs": [
+    "Le feste migliori, i Natali migliori, li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali me li ho passati da solo come un cane.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana."
+  ],
+  "responses": [
+    "La persona ha trascorso le migliori festività e natalizie come se fosse un cane, cioè senza gusto o senza partecipare alla festa in modo attivo.",
+    "Ho trascorso le festività più belle della mia vita come se fosse un cane.",
+    "La persona ha trascorso le festività più belle e natalizie migliori da sola, come se fosse un cane. (In altre parole, la persona ha avuto una esperienza isolata e triste durante le feste.)",
+    "La frase implica che la festa natalizia è stata migliore per l'autore quando l'ha trascorso solamente con un cane.",
+    "La frase implica che la festa natalizia è stata migliore per l'autore quando l'ha trascorso solamente con un cane.",
+    "La frase implica che la festa natalizia è stata migliore per l'autore quando l'ha trascorso solamente con un cane."
+  ],
+  "wer": 0.933333,
+  "u_asr": 0.318,
+  "wer_gt1": 1.0
+}

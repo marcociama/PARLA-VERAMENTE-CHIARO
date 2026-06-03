@@ -1,0 +1,29 @@
+{
+  "filename": "122",
+  "neapolitan_text": "Si sí felice, tienetello pe te; ca addó nun arriva l’invidia, arriva 'a sfurtuna.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Se sei felice, tienilo per te",
+    "perché dove non arriva l'invidia, arriva la sfortuna.",
+    "Se sei felice, conservalo per te"
+  ],
+  "inputs": [
+    "Se sei felice, tienilo per te",
+    "perché dove non arriva l'invidia, arriva la sfortuna.",
+    "Se sei felice, conservalo per te",
+    "Se sei felice, tiratelo per te. Quando non arriva l'invidia, arriva la fortuna.",
+    "Se sei felice, tiratelo per te. Quando non arriva l'invidia, arriva la fortuna.",
+    "Se sei felice, tiratelo per te. Quando non arriva l'invidia, arriva la fortuna."
+  ],
+  "responses": [
+    "Sono solo un computer e non posso provare emozioni, ma la traduzione della frase è \"Se sei felice, mantienilo per te\".",
+    "Questa frase esprime un concetto popolare secondo cui, dove non c'è invidia, ci può essere sfortuna. In altre parole, l'assenza di invidia non garantisce necessariamente felicità o successo.",
+    "Mantieni la tua felicità per te stesso. Ridi il tuo sorriso interno ogni giorno.",
+    "Se sei felice, mantienilo per te stesso. Quando non c'è invidia, si può avere maggior fortuna.",
+    "Se sei felice, mantienilo per te stesso. Quando non c'è invidia, si può avere maggior fortuna.",
+    "Se sei felice, mantienilo per te stesso. Quando non c'è invidia, si può avere maggior fortuna."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.308077,
+  "wer_gt1": 1.5
+}

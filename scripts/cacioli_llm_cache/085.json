@@ -1,0 +1,29 @@
+{
+  "filename": "085",
+  "neapolitan_text": "“Chillo che passa mo, chill’è lo zito!”",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Quello che passa ora, quello è lo sposo!",
+    "Quello che sta passando adesso, proprio lui è lo sposo!",
+    "Quello che passa ora, è lui lo sposo!"
+  ],
+  "inputs": [
+    "Quello che passa ora, quello è lo sposo!",
+    "Quello che sta passando adesso, proprio lui è lo sposo!",
+    "Quello che passa ora, è lui lo sposo!",
+    "Chi è capace di morire di osito?",
+    "Chi lo capisce morirà.",
+    "Chi è capace di morire così?"
+  ],
+  "responses": [
+    "Lo sposo sta per arrivare al matrimonio. L'uomo che si vede ora è il futuro marito.",
+    "Sì, l'uomo che sta avvenendo ora è il sposo.",
+    "Sì, l'uomo che sta passando ora è il sposo.",
+    "L'osso non può morire, solo l'animale che lo possiede può morire.",
+    "Questa frase sembra essere una citazione dal film \"Il Signore degli Anelli - La Compagnia dell'Anello\" di J.R.R. Tolkien, dove Bilbo Baggins la dice a Gandalf. In italiano, la traduzione è: \"Chi lo comprende morirà\".",
+    "La morte è una realtà inevitabile per tutti gli esseri viventi. Non c'è nessuno che possa evitarla."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.581571,
+  "wer_gt1": 1.0
+}

@@ -1,0 +1,49 @@
+{
+  "transcription": "Non c'era nomma che avesse parlato.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 0.405,
+      "end": 0.545,
+      "confidence": 0.521
+    },
+    {
+      "word": "c'era",
+      "start": 0.585,
+      "end": 0.846,
+      "confidence": 0.809
+    },
+    {
+      "word": "nomma",
+      "start": 0.887,
+      "end": 1.248,
+      "confidence": 0.797
+    },
+    {
+      "word": "che",
+      "start": 1.288,
+      "end": 1.349,
+      "confidence": 0.456
+    },
+    {
+      "word": "avesse",
+      "start": 1.389,
+      "end": 1.791,
+      "confidence": 0.805
+    },
+    {
+      "word": "parlato.",
+      "start": 1.831,
+      "end": 2.413,
+      "confidence": 0.791
+    }
+  ],
+  "top3": [
+    "Non c'era nomma che avesse parlato.",
+    "Non c'era nomma che avesse parlato.",
+    "Non c'era nomma che avesse parlato."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6965,
+  "u_asr": 0.3035
+}

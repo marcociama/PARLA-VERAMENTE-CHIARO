@@ -1,0 +1,29 @@
+{
+  "filename": "042",
+  "neapolitan_text": "E denare! E nun te l'avarria date?",
+  "domain": "Play",
+  "gt_variants": [
+    "I soldi! E non te lo avrei detto?",
+    "Il denaro! E non te lo avrei detto?",
+    "I soldi! E non te l'avrei confidato?"
+  ],
+  "inputs": [
+    "I soldi! E non te lo avrei detto?",
+    "Il denaro! E non te lo avrei detto?",
+    "I soldi! E non te l'avrei confidato?",
+    "In denare, e non te la regalite.",
+    "E denare, e non te la regalite.",
+    "E denare, e non te la regalite."
+  ],
+  "responses": [
+    "Sì, i soldi sono importanti, ma la tua parola è sempre più preziosa.",
+    "Sì, il denaro è importante per la vita quotidiana, ma non dovrebbe essere l'unico obiettivo della tua esistenza.",
+    "Mi dispiace, ma non posso fornire risposte personalizzate o consigli su questioni finanziarie. Tuttavia, in generale, la fiducia è importante nella relazione umana e la confidenza in qualcuno può essere compromessa se si parla di soldi senza averne prima chiesto il permesso.",
+    "La frase significa \"Non mi doni denaro\". In italiano moderno, si potrebbe dire \"Non mi regali denaro\".",
+    "Il testo sembra essere una citazione dal poema epico \"Orlando Furioso\" di Ludovico Ariosto. La frase significa: \"Non ti darò denaro, non ti lo regalerò.\"",
+    "Il testo sembra essere una citazione dal poema epico \"Orlando Furioso\" di Ludovico Ariosto. La frase significa: \"Non ti darò denaro, non ti lo regalerò.\""
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.395714,
+  "wer_gt1": 0.625
+}

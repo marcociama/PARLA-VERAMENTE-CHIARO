@@ -1,0 +1,29 @@
+{
+  "filename": "069",
+  "neapolitan_text": "danzanno tutte ‘n chietta, (oh bona fede!)",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Danzano tutte in schietta, (oh buona fede!)",
+    "Ballano tutte in fila, (oh santa pazienza/buona fede!)",
+    "Danzano tutte insieme in gruppo, (oh buona fede!)"
+  ],
+  "inputs": [
+    "Danzano tutte in schietta, (oh buona fede!)",
+    "Ballano tutte in fila, (oh santa pazienza/buona fede!)",
+    "Danzano tutte insieme in gruppo, (oh buona fede!)",
+    "Danzano tutta anch'ieta. O buona fede.",
+    "Danzano tutta anch'ieta. O buona fede.",
+    "Danzano tutta anch'ieta. O buona fede."
+  ],
+  "responses": [
+    "Tutti ballano sinceramente, (onorevolmente!).",
+    "Tutti ballano in linea ordinate (oh santissima pazienza/buonissima fede!).",
+    "Tutti ballano insieme in un gruppo (in maniera sincera).",
+    "La farfalla balla tutta anch'essa, o bene onesta. (La farfalla balla come se fosse una persona.)",
+    "La farfalla balla tutta anch'essa, o bene onesta. (La farfalla balla come se fosse una persona.)",
+    "La farfalla balla tutta anch'essa, o bene onesta. (La farfalla balla come se fosse una persona.)"
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.179,
+  "wer_gt1": 0.714286
+}

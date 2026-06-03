@@ -1,0 +1,29 @@
+{
+  "filename": "026",
+  "neapolitan_text": "Tu buscie nun ne saie dicere, e chisto è 'o difetto tuio.",
+  "domain": "Play",
+  "gt_variants": [
+    "Tu bugie non ne sai dire, e questo è il difetto tuo",
+    "Tu menzogne non ne sai dire, e questo è il difetto tuo",
+    "Tu frottole non le sai dire, e questo è il difetto tuo."
+  ],
+  "inputs": [
+    "Tu bugie non ne sai dire, e questo è il difetto tuo",
+    "Tu menzogne non ne sai dire, e questo è il difetto tuo",
+    "Tu frottole non le sai dire, e questo è il difetto tuo.",
+    "Tu, Bucci, non ne sai riuscire. E questo è il tuo difetto.",
+    "Tu, Buccio, non ne sai riuscire. È questo il difetto tuo?",
+    "Tu Buccia non ne sai riuscire, è questo il difetto tuo?"
+  ],
+  "responses": [
+    "La tua parola ingiusta può essere un difetto per te. Ragionare onestamente è importante per mantenere la fiducia degli altri.",
+    "La tua menzogna ti rende incredibile, e la sincerità è il tuo vero difetto.",
+    "La tua capacità di cantare le frottole potrebbe richiedere pratica e impegno per migliorarle. Il tuo difetto è quello di non aver ancora sviluppato abbastanza la propria tecnica vocale.",
+    "Non dovrebbe essere così severo con te stesso, ogni errore rappresenta un'occasione di apprendimento.",
+    "Sì, sembra che hai qualche difficoltà. Tuttavia, non è giusto giudicare un'abilità basandosi su un singolo tentativo.",
+    "Non so esattamente chi si riferisca a \"Tu Buccia\", ma se si tratta di una persona, la risposta potrebbe essere: \"Non ho mai cercato di giudicare i propri difetti, ma forse mi manca qualcosa che ti sembra importante.\""
+  ],
+  "wer": 0.416667,
+  "u_asr": 0.4825,
+  "wer_gt1": 0.416667
+}

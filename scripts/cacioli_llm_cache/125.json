@@ -1,0 +1,29 @@
+{
+  "filename": "125",
+  "neapolitan_text": "Chi bella vo' paré', pene e guaie adda' paté'.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Chi bella vuol apparire, pene e guai deve patire.",
+    "Chi vuol sembrare bella, deve soffrire pene e guai.",
+    "Chi desidera apparire bella, deve sopportare pene e guai."
+  ],
+  "inputs": [
+    "Chi bella vuol apparire, pene e guai deve patire.",
+    "Chi vuol sembrare bella, deve soffrire pene e guai.",
+    "Chi desidera apparire bella, deve sopportare pene e guai.",
+    "Chi bello bovarei, pene guai andabate.",
+    "Chi bello bovarei, pene guai andapate.",
+    "Chi bello bovarei, pene guai andabate."
+  ],
+  "responses": [
+    "Questa frase fa riferimento ad un detto popolare che significa \"chi vuole essere bello deve soffrire per esserlo\". In altre parole, per raggiungere una bellezza ideale si devono superare difficoltà e sofferenze.",
+    "Questa frase fa riferimento ad un detto popolare che suggerisce che la sofferenza o le difficoltà possono contribuire a rendere qualcuno più attraente. Tuttavia, in realtà, l'aspetto fisico non dipende esclusivamente dalle sofferenze ma anche da fattori genetici e di vita sana.",
+    "Questa frase fa riferimento ad una locuzione popolare che significa \"soffrire per essere bella\", implying that la bellezza può richiedere sacrifici o difficoltà.",
+    "Questa frase è una forma di detto popolare che significa \"chi fa bene, non ha problemi\". In altre parole, se qualcuno fa le cose bene, non avrà molti problemi.",
+    "Questa frase sembra essere una forma di dialetto o lingua antica. In italiano moderno, potrebbe tradursi come \"Chi bella va, a male va\" o \"Bella vita, ma non sempre\".",
+    "Questa frase è una forma di detto popolare che significa \"chi fa bene, non ha problemi\". In altre parole, se qualcuno fa le cose bene, non avrà molti problemi."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.174833,
+  "wer_gt1": 0.666667
+}

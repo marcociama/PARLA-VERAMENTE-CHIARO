@@ -1,0 +1,97 @@
+{
+  "transcription": "Madonna, se ci pensa che ho paura, ma può facerti l'anima e il coraggio.",
+  "words": [
+    {
+      "word": "Madonna,",
+      "start": 3.962,
+      "end": 4.564,
+      "confidence": 0.862
+    },
+    {
+      "word": "se",
+      "start": 5.225,
+      "end": 5.325,
+      "confidence": 0.868
+    },
+    {
+      "word": "ci",
+      "start": 5.446,
+      "end": 5.526,
+      "confidence": 0.732
+    },
+    {
+      "word": "pensa",
+      "start": 5.586,
+      "end": 6.007,
+      "confidence": 0.874
+    },
+    {
+      "word": "che",
+      "start": 6.027,
+      "end": 6.127,
+      "confidence": 0.684
+    },
+    {
+      "word": "ho",
+      "start": 6.147,
+      "end": 6.207,
+      "confidence": 0.7
+    },
+    {
+      "word": "paura,",
+      "start": 6.348,
+      "end": 6.869,
+      "confidence": 0.791
+    },
+    {
+      "word": "ma",
+      "start": 7.21,
+      "end": 7.27,
+      "confidence": 0.955
+    },
+    {
+      "word": "può",
+      "start": 7.31,
+      "end": 7.41,
+      "confidence": 0.525
+    },
+    {
+      "word": "facerti",
+      "start": 7.43,
+      "end": 7.891,
+      "confidence": 0.701
+    },
+    {
+      "word": "l'anima",
+      "start": 7.911,
+      "end": 8.232,
+      "confidence": 0.603
+    },
+    {
+      "word": "e",
+      "start": 8.252,
+      "end": 8.272,
+      "confidence": 0.002
+    },
+    {
+      "word": "il",
+      "start": 8.292,
+      "end": 8.332,
+      "confidence": 0.346
+    },
+    {
+      "word": "coraggio.",
+      "start": 8.412,
+      "end": 8.933,
+      "confidence": 0.779
+    }
+  ],
+  "top3": [
+    "Madonna, se ci pensa che ho paura, ma può facerti l'anima e il coraggio.",
+    "Madonna, se ci pensi che ho paura, ma puoi accettare il mio coraggio.",
+    "Madonna, se ci penso che ho paura, ma poi faccio attirare il mio coraggio."
+  ],
+  "language": "it",
+  "mean_confidence": 0.673,
+  "u_asr": 0.32699999999999996
+}

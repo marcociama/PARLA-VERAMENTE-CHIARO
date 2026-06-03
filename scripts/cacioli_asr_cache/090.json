@@ -1,0 +1,115 @@
+{
+  "transcription": "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me.",
+  "words": [
+    {
+      "word": "perché",
+      "start": 0.924,
+      "end": 1.144,
+      "confidence": 0.753
+    },
+    {
+      "word": "in",
+      "start": 1.184,
+      "end": 1.245,
+      "confidence": 0.783
+    },
+    {
+      "word": "coppa",
+      "start": 1.265,
+      "end": 1.465,
+      "confidence": 0.628
+    },
+    {
+      "word": "di",
+      "start": 1.485,
+      "end": 1.545,
+      "confidence": 0.222
+    },
+    {
+      "word": "questa",
+      "start": 1.565,
+      "end": 1.785,
+      "confidence": 0.454
+    },
+    {
+      "word": "terra",
+      "start": 1.845,
+      "end": 2.266,
+      "confidence": 0.744
+    },
+    {
+      "word": "femmine",
+      "start": 2.326,
+      "end": 2.707,
+      "confidence": 0.723
+    },
+    {
+      "word": "come",
+      "start": 2.787,
+      "end": 3.087,
+      "confidence": 0.753
+    },
+    {
+      "word": "te",
+      "start": 3.247,
+      "end": 3.468,
+      "confidence": 0.884
+    },
+    {
+      "word": "non",
+      "start": 4.649,
+      "end": 4.769,
+      "confidence": 0.842
+    },
+    {
+      "word": "ci",
+      "start": 4.829,
+      "end": 4.91,
+      "confidence": 0.894
+    },
+    {
+      "word": "hanno",
+      "start": 4.93,
+      "end": 5.15,
+      "confidence": 0.737
+    },
+    {
+      "word": "stato",
+      "start": 5.25,
+      "end": 5.61,
+      "confidence": 0.71
+    },
+    {
+      "word": "l'uomo",
+      "start": 5.631,
+      "end": 6.051,
+      "confidence": 0.45
+    },
+    {
+      "word": "onesto",
+      "start": 6.151,
+      "end": 6.632,
+      "confidence": 0.853
+    },
+    {
+      "word": "come",
+      "start": 6.692,
+      "end": 6.832,
+      "confidence": 0.542
+    },
+    {
+      "word": "me.",
+      "start": 6.892,
+      "end": 6.992,
+      "confidence": 0.906
+    }
+  ],
+  "top3": [
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me.",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me.",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6987058823529412,
+  "u_asr": 0.3012941176470588
+}

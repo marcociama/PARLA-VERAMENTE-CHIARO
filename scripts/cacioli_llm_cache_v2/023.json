@@ -1,0 +1,29 @@
+{
+  "filename": "023",
+  "neapolitan_text": "A chella chi? .,. A chella chi?",
+  "domain": "Play",
+  "gt_variants": [
+    "A quella chi...a quella chi?",
+    "A chi, a quella? ... A chi, a quella?",
+    "A chi, quella? ... A chi, quella?"
+  ],
+  "inputs": [
+    "A quella chi...a quella chi?",
+    "A chi, a quella? ... A chi, a quella?",
+    "A chi, quella? ... A chi, quella?",
+    "A che le chi? A che le chi?",
+    "A che le chiedi? A che le chiedi?",
+    "A che l'acchi? A che l'acchi?"
+  ],
+  "responses": [
+    "La frase \"A quella chi...a quella chi?\" non ha un significato chiaro a causa della doppia domanda e della mancanza di contesto. Tuttavia, potrebbe essere tradotta come \"Chi è quella per quella chi?\" o \"Per chi è quella per quella?\"",
+    "La frase \"A chi, a quella?\" si traduce come \"Chi è lui/lei, e chi è lei/essa?\" in italiano, ed esprime una domanda che chiede l'identità di due persone.",
+    "La frase \"A chi, quella?\" si riferisce a chi è la persona a cui si sta parlando o che sta venendo menzionata. In altre parole, indica chi è l'oggetto della conversazione.",
+    "La frase \"A che le chi?\" è un espressione dialettale italiana che letteralmente significa \"A cosa ti riferisci?\" o \"A cosa si riferisci?\" e può essere tradotta in inglese come \"What are you referring to?\" o \"To what are you referring?\"",
+    "La frase \"A che le chiedi? A che le chiedi?\" significa \"Cosa mi stai chiedendo? Cosa mi stai chiedendo?\" in italiano.",
+    "La frase \"A che l'acchi? A che l'acchi?\" è un espressione dialettale italiana che significa \"Cosa succede? Cosa succede?\" e viene usata per chiedere cosa sta accadendo o cosa si sta discutendo."
+  ],
+  "wer": 0.777778,
+  "u_asr": 0.339875,
+  "wer_gt1": 1.2
+}

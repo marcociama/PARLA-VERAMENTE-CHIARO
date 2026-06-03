@@ -1,0 +1,61 @@
+{
+  "transcription": "Chi non è la mia mamma ha cagnato.",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.264,
+      "end": 0.344,
+      "confidence": 0.579
+    },
+    {
+      "word": "non",
+      "start": 0.445,
+      "end": 0.627,
+      "confidence": 0.506
+    },
+    {
+      "word": "è",
+      "start": 0.647,
+      "end": 0.667,
+      "confidence": 0.012
+    },
+    {
+      "word": "la",
+      "start": 0.708,
+      "end": 0.788,
+      "confidence": 0.734
+    },
+    {
+      "word": "mia",
+      "start": 0.829,
+      "end": 0.889,
+      "confidence": 0.288
+    },
+    {
+      "word": "mamma",
+      "start": 0.909,
+      "end": 1.111,
+      "confidence": 0.636
+    },
+    {
+      "word": "ha",
+      "start": 1.131,
+      "end": 1.353,
+      "confidence": 0.784
+    },
+    {
+      "word": "cagnato.",
+      "start": 1.394,
+      "end": 1.918,
+      "confidence": 0.632
+    }
+  ],
+  "top3": [
+    "Chi non è la mia mamma ha cagnato.",
+    "Chi non è la mia mamma ha cagnato.",
+    "Chi non è la mia mamma ha cagnato."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5213749999999999,
+  "u_asr": 0.4786250000000001
+}

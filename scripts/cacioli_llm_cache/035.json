@@ -1,0 +1,29 @@
+{
+  "filename": "035",
+  "neapolitan_text": "Ma pecché, nun ero padrone d' 'e mmettere?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma perché, non ero in diritto di metterle?",
+    "Ma perché, non ero padrone di metterle?",
+    "Ma perché, non ero libero di metterle?"
+  ],
+  "inputs": [
+    "Ma perché, non ero in diritto di metterle?",
+    "Ma perché, non ero padrone di metterle?",
+    "Ma perché, non ero libero di metterle?",
+    "Ma perché non era patrono del mettere?",
+    "Ma perché? Non era padrone del mettere.",
+    "Ma perché non era padrone del mettere?"
+  ],
+  "responses": [
+    "Probabilmente stai chiedendo perché avessi il diritto di fare qualcosa specifico. In generale, l'autorizzazione è necessaria per agire su qualcuno o qualcosa che non è tuo.",
+    "Probabilmente stai parlando di qualcosa o qualcuno specifico. In generale, essere padrone significa avere il controllo o la responsabilità. Se non sei padrone di qualcosa, potrebbe significare che non hai il controllo o la responsabilità su quel determinato oggetto o persona.",
+    "Probabilmente hai dimenticato o non hai avuto il permesso di fare ciò.",
+    "Il termine \"patrono\" si riferisce a qualcuno che fornisce sostegno finanziario o morale a un'attività, in questo caso potrebbe essere confuso. Invece di patrono, il termine corretto per quanto riguarda la musica è \"compositore\". Il mettere in questione non ha bisogno di un compositore per essere realizzato.",
+    "Potrebbe trattarsi di una critica sulla mancanza di abilità nel gestire qualcosa, oppure potrebbe essere un commento sul fatto che non aveva il controllo totale su qualcosa.",
+    "Potrebbe trattarsi di una domanda riguardante l'arte, quindi potrebbe significare \"Perché non era maestro nel comporre?\""
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.334429,
+  "wer_gt1": 0.75
+}

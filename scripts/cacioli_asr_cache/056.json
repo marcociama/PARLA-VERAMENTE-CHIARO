@@ -1,0 +1,43 @@
+{
+  "transcription": "Cucchillo dove si vive l'antica.",
+  "words": [
+    {
+      "word": "Cucchillo",
+      "start": 0.986,
+      "end": 1.409,
+      "confidence": 0.7
+    },
+    {
+      "word": "dove",
+      "start": 1.47,
+      "end": 1.571,
+      "confidence": 0.245
+    },
+    {
+      "word": "si",
+      "start": 1.631,
+      "end": 1.712,
+      "confidence": 0.482
+    },
+    {
+      "word": "vive",
+      "start": 1.773,
+      "end": 2.035,
+      "confidence": 0.843
+    },
+    {
+      "word": "l'antica.",
+      "start": 2.076,
+      "end": 2.681,
+      "confidence": 0.826
+    }
+  ],
+  "top3": [
+    "Cucchillo dove si vive l'antica.",
+    "Occhillo dove si vive l'antica.",
+    "Un chilo dove si vive l'antica."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6192,
+  "u_asr": 0.3808
+}

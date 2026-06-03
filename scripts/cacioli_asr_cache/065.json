@@ -1,0 +1,37 @@
+{
+  "transcription": "pigliavolo brischi e nagiamata.",
+  "words": [
+    {
+      "word": "pigliavolo",
+      "start": 1.924,
+      "end": 2.531,
+      "confidence": 0.734
+    },
+    {
+      "word": "brischi",
+      "start": 2.591,
+      "end": 3.117,
+      "confidence": 0.683
+    },
+    {
+      "word": "e",
+      "start": 3.137,
+      "end": 3.157,
+      "confidence": 0.003
+    },
+    {
+      "word": "nagiamata.",
+      "start": 3.178,
+      "end": 3.825,
+      "confidence": 0.612
+    }
+  ],
+  "top3": [
+    "pigliavolo brischi e nagiamata.",
+    "i diavolo brischi e una chiamata.",
+    "pigliavolo briscana e amata."
+  ],
+  "language": "it",
+  "mean_confidence": 0.508,
+  "u_asr": 0.492
+}

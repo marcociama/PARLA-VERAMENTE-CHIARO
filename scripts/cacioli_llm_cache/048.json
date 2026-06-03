@@ -1,0 +1,29 @@
+{
+  "filename": "048",
+  "neapolitan_text": "nnante che ffosse Vartommeo Coglione,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Tanto che fosse Bartolomeo Coglione",
+    "Tanto che era Bartolomeo Coglione",
+    "Tanto che sembrava Bartolomeo Coglione."
+  ],
+  "inputs": [
+    "Tanto che fosse Bartolomeo Coglione",
+    "Tanto che era Bartolomeo Coglione",
+    "Tanto che sembrava Bartolomeo Coglione.",
+    "Tanto che fosse un altomeno coglione.",
+    "Tanto che fosse un altomeno coglione.",
+    "Tanto che fosse un altomeno coglione."
+  ],
+  "responses": [
+    "L'espressione \"Tanto che fosse Bartolomeo Coglione\" è una metafora volgare, utilizzata per indicare qualcosa di molto o troppo. In questo contesto, non è possibile fornire una risposta breve e precisa a causa della natura imprecisa della frase.",
+    "Bartolomeo Coglione è stato un pittore e scultore italiano del XVI secolo, noto per le sue opere di carattere satirico e grottesco.",
+    "L'espressione \"Tanto che sembrava Bartolomeo Coglione\" implica una somiglianza o un'affinità con Bartolomeo Coglione, personaggio famoso per essere stato un uomo molto goffo e imprudente nella commedia dell'arte. In generale, l'espressione viene usata per descrivere qualcuno che agisce in modo goffo o imprudente.",
+    "L'espressione \"un altomeno coglione\" è una parolaccia molto forte e offensiva, non adatta per un contesto formale o riservato ai bambini. Significa qualcuno che ha un carattere spregevole e arrogante.",
+    "L'espressione \"un altomeno coglione\" è una parolaccia molto forte e offensiva, non adatta per un contesto formale o riservato ai bambini. Significa qualcuno che ha un carattere spregevole e arrogante.",
+    "L'espressione \"un altomeno coglione\" è una parolaccia molto forte e offensiva, non adatta per un contesto formale o riservato ai bambini. Significa qualcuno che ha un carattere spregevole e arrogante."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.342667,
+  "wer_gt1": 0.6
+}

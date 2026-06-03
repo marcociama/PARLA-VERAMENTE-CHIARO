@@ -1,0 +1,29 @@
+{
+  "filename": "046",
+  "neapolitan_text": "Quanno site venuto ogge p'urdinà 'a cena, ve ricurdate?",
+  "domain": "Play",
+  "gt_variants": [
+    "Quando siete venuto oggi per ordinare la cena, vi ricordate?",
+    "Quando siete passato oggi per ordinare la cena, vi ricordate?",
+    "Quando siete venuto oggi a ordinare la cena, ve lo ricordate?"
+  ],
+  "inputs": [
+    "Quando siete venuto oggi per ordinare la cena, vi ricordate?",
+    "Quando siete passato oggi per ordinare la cena, vi ricordate?",
+    "Quando siete venuto oggi a ordinare la cena, ve lo ricordate?",
+    "O ne siete venuti oggi per ordinare la cena? Vi ricordate?",
+    "O ne siete venuti oggi per ordinare la cena? Vi ricordate?",
+    "Quando siete venuti oggi per ordinare la cena, vi ricordate?"
+  ],
+  "responses": [
+    "Sono venuti ieri per l'ordine della cena.",
+    "Sì, ho ricordato di ordinare la cena, ma non so se è stato oggi.",
+    "Sì, ricordo di aver ordinato la cena oggi.",
+    "Sì, sono venuti per ordinare la cena. Mi ricordo bene.",
+    "Sì, sono venuti per ordinare la cena. Mi ricordo bene.",
+    "Sono arrivati ieri sera e ho già ordinato la cena."
+  ],
+  "wer": 0.4,
+  "u_asr": 0.534727,
+  "wer_gt1": 0.4
+}

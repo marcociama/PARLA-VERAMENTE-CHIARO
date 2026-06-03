@@ -1,0 +1,55 @@
+{
+  "transcription": "E quando mi volevi dire un miso?",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.495,
+      "end": 1.536,
+      "confidence": 0.86
+    },
+    {
+      "word": "quando",
+      "start": 1.677,
+      "end": 1.978,
+      "confidence": 0.79
+    },
+    {
+      "word": "mi",
+      "start": 2.018,
+      "end": 2.139,
+      "confidence": 0.734
+    },
+    {
+      "word": "volevi",
+      "start": 2.179,
+      "end": 2.602,
+      "confidence": 0.836
+    },
+    {
+      "word": "dire",
+      "start": 2.642,
+      "end": 2.883,
+      "confidence": 0.576
+    },
+    {
+      "word": "un",
+      "start": 2.924,
+      "end": 2.964,
+      "confidence": 0.054
+    },
+    {
+      "word": "miso?",
+      "start": 3.024,
+      "end": 3.326,
+      "confidence": 0.831
+    }
+  ],
+  "top3": [
+    "E quando mi volevi dire un miso?",
+    "E quando mi volevo riedere un minuto,",
+    "E quando mi volevo di esumirsi,"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6687142857142856,
+  "u_asr": 0.3312857142857144
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "052",
+  "neapolitan_text": "panzera, lanza longa e toracone,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Pancione, lancia lunga e toracione",
+    "Panza grossa, lancia lunga e torace grande",
+    "Pancione, asta lunga e torace massiccio"
+  ],
+  "inputs": [
+    "Pancione, lancia lunga e toracione",
+    "Panza grossa, lancia lunga e torace grande",
+    "Pancione, asta lunga e torace massiccio",
+    "Panzer, Lanzalong e Torracor.",
+    "Panzer, Lanzalong e Torracor.",
+    "Panzer, Lanzalong e Torracor."
+  ],
+  "responses": [
+    "Grande animale con corpo grosso, lungo collo e petto ampio (Pancione)",
+    "Grandezza della pancia, lunghezza della lancia e grandezza del torace (in senso figurativo, potenza, capacità di proiettare forza e robustezza fisica)",
+    "Corpo grosso, con lunga coda e petto robusto.",
+    "Armi da fuoco tedesche della seconda guerra mondiale: Panzer (cannone anticarro), Lanzalong (lanciarazzi) e Torracor (mitragliatrice).",
+    "Armi da fuoco tedesche della seconda guerra mondiale: Panzer (cannone anticarro), Lanzalong (lanciarazzi) e Torracor (mitragliatrice).",
+    "Armi da fuoco tedesche della seconda guerra mondiale: Panzer (cannone anticarro), Lanzalong (lanciarazzi) e Torracor (mitragliatrice)."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.22675,
+  "wer_gt1": 0.8
+}

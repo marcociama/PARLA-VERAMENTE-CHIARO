@@ -1,0 +1,29 @@
+{
+  "filename": "011",
+  "neapolitan_text": "E maie ca t'avesse visto sottomessa, che ssaccio?",
+  "domain": "Play",
+  "gt_variants": [
+    "E mai che l'avessi vista sottomessa, che ne so",
+    "E mai che l'avessi vista sottoposta, che ne so",
+    "E mai che l'avessi vista sottomessa, che ne so io."
+  ],
+  "inputs": [
+    "E mai che l'avessi vista sottomessa, che ne so",
+    "E mai che l'avessi vista sottoposta, che ne so",
+    "E mai che l'avessi vista sottomessa, che ne so io.",
+    "E mai che l'avessi visto sottomesso, che saccio.",
+    "E mai che l'avessi visto sottomesso, che saccio.",
+    "E mai che l'avessi visto sottomesso, che saccio."
+  ],
+  "responses": [
+    "Ho già visto che era sottomessa e lo so io stesso.",
+    "Ho già visto qualcosa di simile e sono a conoscenza di esso.",
+    "Ho già visto lei sottoposta, questo è un fatto di cui sono a conoscenza.",
+    "Ho già visto lui sottomettersi, lo so. (Literally: Even if I had seen him submissive, I know it.)",
+    "Ho già visto lui sottomettersi, lo so. (Literally: Even if I had seen him submissive, I know it.)",
+    "Ho già visto lui sottomettersi, lo so. (Literally: Even if I had seen him submissive, I know it.)"
+  ],
+  "wer": 0.444444,
+  "u_asr": 0.22525,
+  "wer_gt1": 0.444444
+}

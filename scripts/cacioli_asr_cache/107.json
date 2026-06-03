@@ -1,0 +1,55 @@
+{
+  "transcription": "una purità nella lingua e nel dialetto.",
+  "words": [
+    {
+      "word": "una",
+      "start": 0.847,
+      "end": 0.968,
+      "confidence": 0.759
+    },
+    {
+      "word": "purità",
+      "start": 1.008,
+      "end": 1.33,
+      "confidence": 0.732
+    },
+    {
+      "word": "nella",
+      "start": 1.411,
+      "end": 1.733,
+      "confidence": 0.575
+    },
+    {
+      "word": "lingua",
+      "start": 1.753,
+      "end": 1.955,
+      "confidence": 0.259
+    },
+    {
+      "word": "e",
+      "start": 1.975,
+      "end": 1.995,
+      "confidence": 0.0
+    },
+    {
+      "word": "nel",
+      "start": 2.015,
+      "end": 2.096,
+      "confidence": 0.306
+    },
+    {
+      "word": "dialetto.",
+      "start": 2.136,
+      "end": 2.579,
+      "confidence": 0.595
+    }
+  ],
+  "top3": [
+    "una purità nella lingua e nel dialetto.",
+    "una purità nella lingua e nel dialetto.",
+    "una purità nella lingua e nel dialetto."
+  ],
+  "language": "it",
+  "mean_confidence": 0.46085714285714285,
+  "u_asr": 0.5391428571428571
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "097",
+  "neapolitan_text": "È uno d''e cchiù mpurtanti puorte d'Europa.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "È uno dei più importanti porti d'Europa.",
+    "Si tratta di uno tra i porti di maggiore rilevanza in Europa.",
+    "È annoverato tra i porti più significativi del continente europeo."
+  ],
+  "inputs": [
+    "È uno dei più importanti porti d'Europa.",
+    "Si tratta di uno tra i porti di maggiore rilevanza in Europa.",
+    "È annoverato tra i porti più significativi del continente europeo.",
+    "È uno dei più importanti award tra Europa.",
+    "E' uno dei più importanti award tra Europa.",
+    "E' uno dei più importanti award tra Europa."
+  ],
+  "responses": [
+    "Il porto è uno dei più importanti della Europa.",
+    "Questa affermazione indica che si tratta di un porto europeo di grande importanza.",
+    "Il porto è considerato uno dei più importanti del continente europeo.",
+    "L'affermazione indica che è uno dei premi più prestigiosi in Europa.",
+    "L'affermazione indica che è uno dei premi più importanti in Europa.",
+    "L'affermazione indica che è uno dei premi più importanti in Europa."
+  ],
+  "wer": 0.428571,
+  "u_asr": 0.404125,
+  "wer_gt1": 0.428571
+}

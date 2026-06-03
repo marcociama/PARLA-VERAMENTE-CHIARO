@@ -1,0 +1,29 @@
+{
+  "filename": "090",
+  "neapolitan_text": "Pecché ‘ncopp’a sta terra femmene comme a te non ce hanna sta pé n’ommo onesto comme a me!…",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Perché su questa terra donne come te non ce ne devono stare per un uomo onesto come me!...",
+    "Perché su questa terra non devono esserci donne come te per un uomo onesto come me!...",
+    "Poiché su questa terra non si devono trovare donne pari a te per un uomo onesto come me!..."
+  ],
+  "inputs": [
+    "Perché su questa terra donne come te non ce ne devono stare per un uomo onesto come me!...",
+    "Perché su questa terra non devono esserci donne come te per un uomo onesto come me!...",
+    "Poiché su questa terra non si devono trovare donne pari a te per un uomo onesto come me!...",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me.",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me.",
+    "perché in coppa di questa terra femmine come te non ci hanno stato l'uomo onesto come me."
+  ],
+  "responses": [
+    "Questa frase sembra esprimere una forma di pregiudizio verso le donne, affermando che esse non dovrebbero essere presenti in un ambiente dove ci sia un uomo onesto. Tuttavia, l'idea che solo gli uomini possano essere onesti è sessista e ingiustificata.",
+    "Questa affermazione sembra esprimere una forma di pregiudizio verso le donne. Un uomo onesto non giudica le persone in base al loro genere, ma alla loro azione e carattere.",
+    "Questa frase sembra essere tratta da \"La Dama di Picche\", opera di Alexandre Dumas. L'uomo che la pronuncia crede di aver incontrato una donna eccezionale, pari a nessuna altra.",
+    "La frase sembra esprimere un senso di superiorezza morale. Tuttavia, è importante ricordare che la giustizia e l'onestà sono qualità universali indipendenti dal genere. In ogni caso, la risposta più appropriata potrebbe essere: \"La onestà non dipende dal genere, ma dall'individuo\".",
+    "La frase sembra esprimere un senso di superiorezza morale. Tuttavia, è importante ricordare che la giustizia e l'onestà sono qualità universali indipendenti dal genere. In ogni caso, la risposta più appropriata potrebbe essere: \"La onestà non dipende dal genere, ma dall'individuo\".",
+    "La frase sembra esprimere un senso di superiorezza morale. Tuttavia, è importante ricordare che la giustizia e l'onestà sono qualità universali indipendenti dal genere. In ogni caso, la risposta più appropriata potrebbe essere: \"La onestà non dipende dal genere, ma dall'individuo\"."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.301294,
+  "wer_gt1": 0.666667
+}

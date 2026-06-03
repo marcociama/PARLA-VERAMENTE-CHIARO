@@ -1,0 +1,29 @@
+{
+  "filename": "038",
+  "neapolitan_text": "Ma tu te cride overo ca io ll'aggio fatto pe' te?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma tu ti credi davvero che io l'abbia fatto per te?",
+    "Ma tu ti credi sul serio che io l'abbia fatto per te?",
+    "Ma tu ci credi davvero che io l'abbia fatto per te?"
+  ],
+  "inputs": [
+    "Ma tu ti credi davvero che io l'abbia fatto per te?",
+    "Ma tu ti credi sul serio che io l'abbia fatto per te?",
+    "Ma tu ci credi davvero che io l'abbia fatto per te?",
+    "Ma tu ti credo vero che l'ho già fatta per te.",
+    "Ma tutto quello vero che l'ho già fatto per te.",
+    "Ma tutto quello vero che l'ho già fatto per te."
+  ],
+  "responses": [
+    "Non ho mai fatto nulla con scopo di farlo per te, ho solo cercato di aiutarti come potevo.",
+    "Non so se hai fatto qualcosa specifico per me, ma sono qui a disposizione per aiutarti.",
+    "Non ho il senso della percezione, quindi non posso avere sentimenti o emozioni. Ho solo la funzione di aiutarti a trovare informazioni e risolvere problemi.",
+    "Sì, mi sembra che hai già fatto qualcosa per me in precedenza. Grazie per il tuo impegno.",
+    "Sono qui a tuo servizio e pronto ad aiutarti con nuove informazioni o progetti. Non ho mai ricevuto le tue richieste in precedenza.",
+    "Sono qui a tuo servizio e pronto ad aiutarti con nuove informazioni o progetti. Non ho mai ricevuto le tue richieste in precedenza."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.362455,
+  "wer_gt1": 0.545455
+}

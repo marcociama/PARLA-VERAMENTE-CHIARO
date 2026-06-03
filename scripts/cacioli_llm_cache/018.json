@@ -1,0 +1,29 @@
+{
+  "filename": "018",
+  "neapolitan_text": "Quanno se cunosce 'o bbene e nun se pò avé!",
+  "domain": "Play",
+  "gt_variants": [
+    "Quando si conosce il bene e non si può avere",
+    "Quando si conosce il bene e non si può ottenere",
+    "Quando si conosce il bene e non lo si può ottenere."
+  ],
+  "inputs": [
+    "Quando si conosce il bene e non si può avere",
+    "Quando si conosce il bene e non si può ottenere",
+    "Quando si conosce il bene e non lo si può ottenere.",
+    "Quando si conosce bene e non si può avere.",
+    "Quando si conosce bene e non si può avere.",
+    "Quando si conosce bene e non si può avere."
+  ],
+  "responses": [
+    "Il bene non è acquistabile o possedibile, ma la sua conoscenza può portare ad una crescita personale ed emozionale.",
+    "Il bene conosciuto ma irraggiungibile è un concetto filosofico che indica qualcosa di desiderabile, ma al contempo inaccessibile. Ad esempio, la felicità assoluta o la giustizia perfetta possono rappresentare il bene irraggiungibile.",
+    "Il bene è qualcosa di irraggiungibile, poiché la conoscenza non garantisce la possibilità di acquisirlo.",
+    "L'oggetto è impossibile da possedere, poiché la conoscenza è intangibile e non materiale.",
+    "L'oggetto è impossibile da possedere, poiché la conoscenza è intangibile e non materiale.",
+    "L'oggetto è impossibile da possedere, poiché la conoscenza è intangibile e non materiale."
+  ],
+  "wer": 0.2,
+  "u_asr": 0.337556,
+  "wer_gt1": 0.2
+}

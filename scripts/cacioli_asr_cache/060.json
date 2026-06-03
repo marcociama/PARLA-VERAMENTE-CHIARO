@@ -1,0 +1,43 @@
+{
+  "transcription": "La dicevano Dio la benedica.",
+  "words": [
+    {
+      "word": "La",
+      "start": 1.218,
+      "end": 1.299,
+      "confidence": 0.304
+    },
+    {
+      "word": "dicevano",
+      "start": 1.34,
+      "end": 1.926,
+      "confidence": 0.905
+    },
+    {
+      "word": "Dio",
+      "start": 2.189,
+      "end": 2.331,
+      "confidence": 0.896
+    },
+    {
+      "word": "la",
+      "start": 2.392,
+      "end": 2.472,
+      "confidence": 0.884
+    },
+    {
+      "word": "benedica.",
+      "start": 2.533,
+      "end": 3.1,
+      "confidence": 0.851
+    }
+  ],
+  "top3": [
+    "La dicevano Dio la benedica.",
+    "ricevono Dio la benedica.",
+    "La dicevano Dio la benedica."
+  ],
+  "language": "it",
+  "mean_confidence": 0.768,
+  "u_asr": 0.23199999999999998
+}

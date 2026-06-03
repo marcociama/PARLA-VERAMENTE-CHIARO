@@ -1,0 +1,29 @@
+{
+  "filename": "006",
+  "neapolitan_text": "O miédeco nun sapeva niente.",
+  "domain": "Play",
+  "gt_variants": [
+    "Il medico non sapeva niente",
+    "Il medico non sapeva nulla",
+    "Il medico non sapeva affatto."
+  ],
+  "inputs": [
+    "Il medico non sapeva niente",
+    "Il medico non sapeva nulla",
+    "Il medico non sapeva affatto.",
+    "ovviere che non sapeva niente.",
+    "ovviere che non sapeva niente.",
+    "ovviere che non sapeva niente."
+  ],
+  "responses": [
+    "Il medico non aveva conoscenza su qualcosa.",
+    "Il medico non aveva alcuna conoscenza.",
+    "La frase indica che il medico non aveva alcuna conoscenza su qualcosa.",
+    "La persona non aveva conoscenza di nulla.",
+    "La persona non aveva conoscenza di nulla.",
+    "La persona non aveva conoscenza di nulla."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.3082,
+  "wer_gt1": 0.6
+}

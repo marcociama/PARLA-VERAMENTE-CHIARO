@@ -1,0 +1,29 @@
+{
+  "filename": "051",
+  "neapolitan_text": "Nc’era lo Rre Marruocco che s’armava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "C’era il Re Marruocco che si armava",
+    "Ci stava il Re Marruocco che si stava armando",
+    "Vi era il Re Marruocco che si preparava in armi"
+  ],
+  "inputs": [
+    "C’era il Re Marruocco che si armava",
+    "Ci stava il Re Marruocco che si stava armando",
+    "Vi era il Re Marruocco che si preparava in armi",
+    "Cerrore Marocca e Sarmava.",
+    "Cerrore Marocca e Sarmava.",
+    "Cerrore, Marocca e Sarmava."
+  ],
+  "responses": [
+    "Il Re del Marocco stava preparandosi per armarsi. Questo avvenimento potrebbe riferirsi a diverse epoche storiche del Marocco, poiché diversi re hanno governato il paese attraverso i secoli.",
+    "Il Re del Marocco si preparava per armarsi.",
+    "Il Re del Marocco stava armando le sue truppe per qualche battaglia.",
+    "Le Cerrore Marocche sono una serie di forti torri costruite nel Medioevo in Marocco, mentre Sarmava è un sito archeologico situato in Crimea, noto per le sue rovine di fortificazioni medievali.",
+    "Le Cerrore Marocche sono una serie di forti torri costruite nel Medioevo in Marocco, mentre Sarmava è un sito archeologico situato in Crimea, noto per le sue rovine di fortificazioni medievali.",
+    "Le cerchie di Cerrore, Marocco e Sarmava sono tre importanti siti archeologici preistorici situati rispettivamente in Italia, Marocco e Russia."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.27875,
+  "wer_gt1": 1.0
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "131",
+  "neapolitan_text": "Guè, ccà se tratta 'e na cosa seria, t'aggio ditto!",
+  "domain": "Play",
+  "gt_variants": [
+    "Guarda, qui si tratta di una cosa seria, te l'ho detto!",
+    "Ehi, qui la faccenda è seria, te l'ho detto!",
+    "Ascolta, stiamo parlando di una cosa seria, te l'ho detto!"
+  ],
+  "inputs": [
+    "Guarda, qui si tratta di una cosa seria, te l'ho detto!",
+    "Ehi, qui la faccenda è seria, te l'ho detto!",
+    "Ascolta, stiamo parlando di una cosa seria, te l'ho detto!",
+    "Voi che sto trattando una cosa seria da giurito.",
+    "Voi che sto trattando una cosa seria da giurito.",
+    "Uè, questo tratta è una cosa seria da giurito."
+  ],
+  "responses": [
+    "Questa affermazione indica che ciò a cui si riferisce è una cosa importante o gravosa e che l'interlocutore ha già avvertito l'altro di questo.",
+    "La dichiarazione implica che la situazione attuale è grave e l'interlocutore ha già avvertito l'altro.",
+    "La dichiarazione indica che si tratta di un argomento importante e che è stato già avvertito.",
+    "La dichiarazione indica che si sta discutendo di un argomento grave e importante, come se fosse in tribunale.",
+    "La dichiarazione indica che si sta discutendo di un argomento grave e importante, come se fosse in tribunale.",
+    "Questa affermazione indica che la situazione o il tema in discussione è molto importante e merita un giuramento."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.533222,
+  "wer_gt1": 0.818182
+}

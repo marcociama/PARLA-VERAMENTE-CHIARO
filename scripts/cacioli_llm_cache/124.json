@@ -1,0 +1,29 @@
+{
+  "filename": "124",
+  "neapolitan_text": "Nun ve 'ntricate tra marito e mugliera.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Non vi immischiate tra marito e moglie.",
+    "Non intromettetevi tra marito e moglie.",
+    "Non prendete parte alle liti tra marito e moglie."
+  ],
+  "inputs": [
+    "Non vi immischiate tra marito e moglie.",
+    "Non intromettetevi tra marito e moglie.",
+    "Non prendete parte alle liti tra marito e moglie.",
+    "Non ventricate tra marito e mogliere.",
+    "Non vi intrigate tra marito e moglie.",
+    "non ventricata tra marito e mogliere"
+  ],
+  "responses": [
+    "Non interferire con i rapporti personali di altri è una regola di buon comportamento. Rispetta la loro privacy.",
+    "Non interferire con i rapporti personali di altre persone è una regola di buon comportamento. Rispetta la loro privacy.",
+    "Evitare di interferire nelle liti tra marito e moglie è importante per mantenere la pace nella relazione.",
+    "Evitare discussioni e mantenere la comunicazione aperta e rispettosa tra marito e moglie.",
+    "Non interferire con i rapporti personali di altri è una regola etica fondamentale. Rispetta la privacy della tua famiglia e dei tuoi amici.",
+    "La frase \"non ventricata tra marito e mogliere\" indica una situazione di armonia o buona relazione tra il marito e la moglie, senza problemi significativi."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.390833,
+  "wer_gt1": 0.428571
+}

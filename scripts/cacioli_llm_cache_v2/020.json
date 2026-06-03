@@ -1,0 +1,29 @@
+{
+  "filename": "020",
+  "neapolitan_text": "A suddisfazione 'e chiagnere, Filumena Marturano, nun l'ha pututa maie avé!",
+  "domain": "Play",
+  "gt_variants": [
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha mai potuta avere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai ottenere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai raggiungere."
+  ],
+  "inputs": [
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha mai potuta avere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai ottenere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai raggiungere.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto."
+  ],
+  "responses": [
+    "Filumena Marturano ha mai avuto la possibilità di provare la soddisfazione di piangere.",
+    "Filumena Marturano non è mai riuscita a trovare la consolazione nel piangere.",
+    "Filumena Marturano non è mai riuscita a trovare la consolazione nel piangere.",
+    "Il personaggio Filumena Madurana non ha mai conosciuto la soddisfazione.",
+    "Il personaggio Filumena Madurana non ha mai conosciuto la soddisfazione.",
+    "Il personaggio Filumena Madurana non ha mai conosciuto la soddisfazione."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.466,
+  "wer_gt1": 0.545455
+}

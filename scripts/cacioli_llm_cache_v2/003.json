@@ -1,0 +1,29 @@
+{
+  "filename": "003",
+  "neapolitan_text": "E cu' 'e denare t'he accattato tutto chello ca he voluto!",
+  "domain": "Play",
+  "gt_variants": [
+    "E con i denari, hai comprato tutto quello che hai voluto",
+    "E con il denaro, hai comprato tutto quello che volevi",
+    "E con il denaro, hai comprato tutto ciò che volevi."
+  ],
+  "inputs": [
+    "E con i denari, hai comprato tutto quello che hai voluto",
+    "E con il denaro, hai comprato tutto quello che volevi",
+    "E con il denaro, hai comprato tutto ciò che volevi.",
+    "E che Donara ti accattate tutte quelle che hai voluto.",
+    "e che Danara ti ha cattato tutto quello che hai voluto.",
+    "E che Donara ti accattate tutte quelle che hai voluto."
+  ],
+  "responses": [
+    "Con i soldi, hai acquistato tutto ciò che desideravi. (In italiano)",
+    "Con il denaro, puoi acquistare tutto ciò che desideri.",
+    "Con il denaro, hai acquistato tutto quello che desideravi. (In italiano)",
+    "La frase indica che Donara ha accettato tutte le persone desiderate da te.",
+    "Danara ha preso tutto ciò che tu desideravi.",
+    "La frase indica che Donara ha accettato tutte le persone desiderate da te."
+  ],
+  "wer": 0.727273,
+  "u_asr": 0.3458,
+  "wer_gt1": 0.727273
+}

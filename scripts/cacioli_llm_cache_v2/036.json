@@ -1,0 +1,29 @@
+{
+  "filename": "036",
+  "neapolitan_text": "Quanto me faie ridere!",
+  "domain": "Play",
+  "gt_variants": [
+    "Quanto mi fai ridere",
+    "Come mi fai ridere",
+    "Ma quanto mi fai ridere."
+  ],
+  "inputs": [
+    "Quanto mi fai ridere",
+    "Come mi fai ridere",
+    "Ma quanto mi fai ridere.",
+    "Qua non mi fai ridere.",
+    "Quando mi fai ridere?",
+    "Qua non mi fai ridere."
+  ],
+  "responses": [
+    "L'affermazione \"Quanto mi fai ridere\" significa quanto ti fa ridere a me. In altre parole, esprime il grado in cui qualcosa o qualcuno è divertente per l'altro.",
+    "La frase \"Come mi fai ridere\" significa \"Cosa mi fa ridere\".",
+    "La frase \"Ma quanto mi fai ridere\" significa \"Oh, come ti faccio ridere molto\".",
+    "Questa affermazione indica che qui non ci sono elementi che lo fanno ridere.",
+    "Quando mi fai ridere significa che mi hai fatto avere una risata.",
+    "Questa affermazione indica che qui non ci sono elementi che lo fanno ridere."
+  ],
+  "wer": 0.4,
+  "u_asr": 0.3646,
+  "wer_gt1": 0.75
+}

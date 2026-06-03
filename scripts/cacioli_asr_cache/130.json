@@ -1,0 +1,79 @@
+{
+  "transcription": "Ma a me mi pare che si abusi della cortesia altrui.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.358,
+      "end": 1.439,
+      "confidence": 0.695
+    },
+    {
+      "word": "a",
+      "start": 1.459,
+      "end": 1.499,
+      "confidence": 0.398
+    },
+    {
+      "word": "me",
+      "start": 1.56,
+      "end": 1.661,
+      "confidence": 0.968
+    },
+    {
+      "word": "mi",
+      "start": 1.681,
+      "end": 1.782,
+      "confidence": 0.396
+    },
+    {
+      "word": "pare",
+      "start": 1.823,
+      "end": 2.106,
+      "confidence": 0.888
+    },
+    {
+      "word": "che",
+      "start": 2.147,
+      "end": 2.268,
+      "confidence": 0.668
+    },
+    {
+      "word": "si",
+      "start": 2.369,
+      "end": 2.49,
+      "confidence": 0.717
+    },
+    {
+      "word": "abusi",
+      "start": 2.511,
+      "end": 2.915,
+      "confidence": 0.935
+    },
+    {
+      "word": "della",
+      "start": 2.976,
+      "end": 3.259,
+      "confidence": 0.87
+    },
+    {
+      "word": "cortesia",
+      "start": 3.32,
+      "end": 3.846,
+      "confidence": 0.863
+    },
+    {
+      "word": "altrui.",
+      "start": 3.906,
+      "end": 4.392,
+      "confidence": 0.727
+    }
+  ],
+  "top3": [
+    "Ma a me mi pare che si abusi della cortesia altrui.",
+    "Ma a me mi pare che si abusi della cortesia altrui.",
+    "Ma a me mi pare che si abusi della cortesia altrui."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7386363636363636,
+  "u_asr": 0.26136363636363635
+}

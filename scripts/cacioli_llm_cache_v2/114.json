@@ -1,0 +1,29 @@
+{
+  "filename": "114",
+  "neapolitan_text": "Ogni scarrafone è bello 'a mamma soja.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Ogni scarafaggio è bello a mamma sua.",
+    "Ogni scarafaggio è bello agli occhi di sua madre.",
+    "Ogni scarafaggio è bello per sua madre."
+  ],
+  "inputs": [
+    "Ogni scarafaggio è bello a mamma sua.",
+    "Ogni scarafaggio è bello agli occhi di sua madre.",
+    "Ogni scarafaggio è bello per sua madre.",
+    "Ogni scarafone bella mamma suia.",
+    "Ogni scarafone bella mamma suia.",
+    "Ogni scarafone bella mamma suia."
+  ],
+  "responses": [
+    "Ogni scarafaggio appare bellissimo agli occhi della propria madre.",
+    "Ogni scarafaggio appare bellissimo agli occhi della propria madre.",
+    "Ogni scarafaggio è considerato bellissimo dalla propria madre.",
+    "Ogni scarafone ha la propria madre bella. (Ogni libellula ha la sua madre bella)",
+    "Ogni scarafone ha la propria madre bella. (Ogni libellula ha la sua madre bella)",
+    "Ogni scarafone ha la propria madre bella. (Ogni libellula ha la sua madre bella)"
+  ],
+  "wer": 0.714286,
+  "u_asr": 0.153,
+  "wer_gt1": 0.714286
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "130",
+  "neapolitan_text": "Ma a me mi pare che si abusi della cortesia altrui!",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma a me mi pare che si abusi della cortesia altrui!",
+    "Mi sembra che si abusi della gentilezza degli altri!",
+    "Ho l'impressione che la cortesia altrui venga spesso sfruttata."
+  ],
+  "inputs": [
+    "Ma a me mi pare che si abusi della cortesia altrui!",
+    "Mi sembra che si abusi della gentilezza degli altri!",
+    "Ho l'impressione che la cortesia altrui venga spesso sfruttata.",
+    "Ma a me mi pare che si abusi della cortesia altrui.",
+    "Ma a me mi pare che si abusi della cortesia altrui.",
+    "Ma a me mi pare che si abusi della cortesia altrui."
+  ],
+  "responses": [
+    "L'affermazione indica che l'altro sembra aver usato la cortesia come pretesto o in modo eccessivo.",
+    "L'affermazione indica che l'interlocutore crede che qualcuno stia sfruttando la sua gentilezza.",
+    "La cortesia degli altri viene spesso utilizzata per fini personali.",
+    "L'affermazione indica che l'altro sembra aver usato la cortesia come pretesto o troppo spesso, potenzialmente in modo ingannevole.",
+    "L'affermazione indica che l'altro sembra aver usato la cortesia come pretesto o troppo spesso, potenzialmente in modo ingannevole.",
+    "L'affermazione indica che l'altro sembra aver usato la cortesia come pretesto o troppo spesso, potenzialmente in modo ingannevole."
+  ],
+  "wer": 0.090909,
+  "u_asr": 0.261364,
+  "wer_gt1": 0.090909
+}

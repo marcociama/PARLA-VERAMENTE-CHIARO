@@ -1,0 +1,29 @@
+{
+  "filename": "087",
+  "neapolitan_text": "Le rose mo deventano papagne!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Le rose ora diventano papaveri!",
+    "Quelle che erano rose, ora sono diventate papaveri!",
+    "Le rose adesso son diventate papaveri!"
+  ],
+  "inputs": [
+    "Le rose ora diventano papaveri!",
+    "Quelle che erano rose, ora sono diventate papaveri!",
+    "Le rose adesso son diventate papaveri!",
+    "Le rose ora diventano papagna.",
+    "Le rose ora diventano papagna.",
+    "Le rose ora diventano papagna."
+  ],
+  "responses": [
+    "I fiori che oggi sono rose diventeranno papaveri! (I fiori che oggi sono rosa diventeranno papavero)",
+    "Le rose originariamente presenti sono ora papaveri! (Le rose sono state sostituite da papaveri)",
+    "Le rose ora sono papaveri, cioè le rose hanno preso l'aspetto dei papaveri.",
+    "La rosa ora è diventata papagallina, cioè le rose hanno preso l'aspetto di papeggioni.",
+    "La rosa ora è diventata papagallina, cioè le rose hanno preso l'aspetto di papeggioni.",
+    "La rosa ora è diventata papagallina, cioè le rose hanno preso l'aspetto di papeggioni."
+  ],
+  "wer": 0.2,
+  "u_asr": 0.3148,
+  "wer_gt1": 0.2
+}

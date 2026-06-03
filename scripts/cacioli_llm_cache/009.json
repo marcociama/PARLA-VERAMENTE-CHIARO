@@ -1,0 +1,29 @@
+{
+  "filename": "009",
+  "neapolitan_text": "T'aggio fatto 'a serva!",
+  "domain": "Play",
+  "gt_variants": [
+    "Ti ho fatto da serva",
+    "Ti ho fatto da schiava",
+    "Ti ho fatto da cameriera."
+  ],
+  "inputs": [
+    "Ti ho fatto da serva",
+    "Ti ho fatto da schiava",
+    "Ti ho fatto da cameriera.",
+    "Taggia fatta a servo.",
+    "Taggia fatta serva.",
+    "Taggia fatta serva."
+  ],
+  "responses": [
+    "La frase \"Ti ho fatto da serva\" è offensiva e non rispetta la dignità della persona a cui viene diretta. In un contesto culturale, è importante evitare di usare espressioni che potrebbero offendere o umiliare qualcuno.",
+    "Questa frase è offensiva e non dovrebbe essere usata. In un contesto culturale, potrebbe riferirsi a una condizione di sottomissione forzata o servitù, ma in generale è meglio evitare espressioni che possono offendere qualcuno.",
+    "Ho ricevuto il tuo commento, ma non sono un essere umano e non posso essere una cameriera. Tuttavia, ti ringrazio per la simpatia.",
+    "La taglia fatta a servo si riferisce ad oggetti o abiti che vengono misurati e realizzati in base alle dimensioni di un modello specifico, solitamente un manichino o una persona.",
+    "La taglia fatta serva significa che la taglia di una tela o un abbigliamento deve essere mantenuta esattamente come misurata, non dovendo essere modificata.",
+    "La taglia fatta serva significa che la taglia di una tela o un abbigliamento deve essere mantenuta esattamente come misurata, non dovendo essere modificata."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.4635,
+  "wer_gt1": 1.0
+}

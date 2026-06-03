@@ -1,0 +1,43 @@
+{
+  "transcription": "Questa critica non l'aveva capita.",
+  "words": [
+    {
+      "word": "Questa",
+      "start": 1.835,
+      "end": 2.056,
+      "confidence": 0.369
+    },
+    {
+      "word": "critica",
+      "start": 2.096,
+      "end": 2.478,
+      "confidence": 0.8
+    },
+    {
+      "word": "non",
+      "start": 2.518,
+      "end": 2.639,
+      "confidence": 0.718
+    },
+    {
+      "word": "l'aveva",
+      "start": 2.679,
+      "end": 2.98,
+      "confidence": 0.672
+    },
+    {
+      "word": "capita.",
+      "start": 3.04,
+      "end": 3.442,
+      "confidence": 0.618
+    }
+  ],
+  "top3": [
+    "Questa critica non l'aveva capita.",
+    "Questa critica non l'aveva capita.",
+    "Questa critica non l'aveva capita."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6354,
+  "u_asr": 0.36460000000000004
+}

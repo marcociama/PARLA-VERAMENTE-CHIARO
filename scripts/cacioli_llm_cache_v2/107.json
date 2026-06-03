@@ -1,0 +1,29 @@
+{
+  "filename": "107",
+  "neapolitan_text": "O Nnapulitano è na lengua o nu dialetto?",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il napoletano è una lingua o un dialetto?",
+    "La natura del napoletano, è una lingua o dialetto?",
+    "Il napoletano come lingua o dialetto?"
+  ],
+  "inputs": [
+    "Il napoletano è una lingua o un dialetto?",
+    "La natura del napoletano, è una lingua o dialetto?",
+    "Il napoletano come lingua o dialetto?",
+    "una purità nella lingua e nel dialetto.",
+    "una purità nella lingua e nel dialetto.",
+    "una purità nella lingua e nel dialetto."
+  ],
+  "responses": [
+    "L'affermazione indica che esiste una domanda sul fatto che il Napoletano sia una lingua o un dialetto.",
+    "L'affermazione indica un dibattito sulla natura della lingua parlata a Napoli, che può essere considerata sia una lingua che un dialetto.",
+    "La dichiarazione indica se il napoletano è considerato una lingua o un dialetto.",
+    "Purezza nella lingua e nel dialetto.",
+    "Purezza nella lingua e nel dialetto.",
+    "Purezza nella lingua e nel dialetto."
+  ],
+  "wer": 0.875,
+  "u_asr": 0.539143,
+  "wer_gt1": 0.875
+}

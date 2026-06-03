@@ -1,0 +1,139 @@
+{
+  "transcription": "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.174,
+      "end": 1.234,
+      "confidence": 0.721
+    },
+    {
+      "word": "che",
+      "start": 1.275,
+      "end": 1.335,
+      "confidence": 0.328
+    },
+    {
+      "word": "me",
+      "start": 1.375,
+      "end": 1.435,
+      "confidence": 0.407
+    },
+    {
+      "word": "ne",
+      "start": 1.475,
+      "end": 1.515,
+      "confidence": 0.549
+    },
+    {
+      "word": "importa",
+      "start": 1.556,
+      "end": 2.017,
+      "confidence": 0.825
+    },
+    {
+      "word": "te,",
+      "start": 2.097,
+      "end": 2.439,
+      "confidence": 0.886
+    },
+    {
+      "word": "la",
+      "start": 2.459,
+      "end": 2.499,
+      "confidence": 0.022
+    },
+    {
+      "word": "figliola",
+      "start": 2.539,
+      "end": 2.92,
+      "confidence": 0.707
+    },
+    {
+      "word": "che",
+      "start": 2.961,
+      "end": 3.021,
+      "confidence": 0.928
+    },
+    {
+      "word": "ti",
+      "start": 3.041,
+      "end": 3.081,
+      "confidence": 0.002
+    },
+    {
+      "word": "ha",
+      "start": 3.141,
+      "end": 3.221,
+      "confidence": 0.573
+    },
+    {
+      "word": "fatto",
+      "start": 3.262,
+      "end": 3.543,
+      "confidence": 0.762
+    },
+    {
+      "word": "perdere",
+      "start": 3.603,
+      "end": 3.904,
+      "confidence": 0.533
+    },
+    {
+      "word": "la",
+      "start": 3.984,
+      "end": 4.044,
+      "confidence": 0.67
+    },
+    {
+      "word": "capa",
+      "start": 4.084,
+      "end": 4.406,
+      "confidence": 0.442
+    },
+    {
+      "word": "e",
+      "start": 4.426,
+      "end": 4.446,
+      "confidence": 0.502
+    },
+    {
+      "word": "tutto",
+      "start": 4.566,
+      "end": 4.827,
+      "confidence": 0.85
+    },
+    {
+      "word": "quello",
+      "start": 4.867,
+      "end": 5.148,
+      "confidence": 0.823
+    },
+    {
+      "word": "che",
+      "start": 5.168,
+      "end": 5.309,
+      "confidence": 0.284
+    },
+    {
+      "word": "mi",
+      "start": 5.369,
+      "end": 5.409,
+      "confidence": 0.496
+    },
+    {
+      "word": "dice?",
+      "start": 5.469,
+      "end": 5.79,
+      "confidence": 0.587
+    }
+  ],
+  "top3": [
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?",
+    "Ma che me ne importa te, la figliola che ti ha fatto perdere la capa e tutto quello che mi dice?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.5665238095238095,
+  "u_asr": 0.43347619047619046
+}

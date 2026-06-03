@@ -1,0 +1,29 @@
+{
+  "filename": "059",
+  "neapolitan_text": "Si pe la via na femmena passava,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Se per la via una femmina passava",
+    "Se per strada una donna passava",
+    "Se lungo la via passava una donna"
+  ],
+  "inputs": [
+    "Se per la via una femmina passava",
+    "Se per strada una donna passava",
+    "Se lungo la via passava una donna",
+    "Se per la via la femmina passava.",
+    "se per la via la femmina passava.",
+    "Se per la via la femmina passava."
+  ],
+  "responses": [
+    "L'affermazione indica che una donna sta camminando o passando attraverso qualcosa.",
+    "L'affermazione indica che una donna cammina o sta andando per la strada.",
+    "L'affermazione indica che c'è qualcosa o qualcuno che sta camminando lungo la strada e, in quel momento, passa una donna.",
+    "La frase indica che se una donna passa attraverso qualcosa.",
+    "Se una donna attraversava per strada.",
+    "La frase indica che se una donna passa attraverso qualcosa."
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.200714,
+  "wer_gt1": 0.285714
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "101",
+  "neapolitan_text": "A Zona Nnustriale (o Gianturco) è nu rione 'e 6082 crestiani d''a part' 'e levante 'e Napule.",
+  "domain": "Blog",
+  "gt_variants": [
+    "La Zona Industriale (o Gianturco) è un rione di 6.082 abitanti della parte orientale di Napoli.",
+    "La Zona Industriale, nota anche come Gianturco, è un quartiere di 6.082 residenti situato nella zona orientale di Napoli.",
+    "La Zona Industriale (o Gianturco) costituisce un rione della parte est di Napoli che conta 6.082 abitanti.s"
+  ],
+  "inputs": [
+    "La Zona Industriale (o Gianturco) è un rione di 6.082 abitanti della parte orientale di Napoli.",
+    "La Zona Industriale, nota anche come Gianturco, è un quartiere di 6.082 residenti situato nella zona orientale di Napoli.",
+    "La Zona Industriale (o Gianturco) costituisce un rione della parte est di Napoli che conta 6.082 abitanti.s",
+    "a zona industriale Ogianturk, in Uriona e i 6.082 cristiani dalla parte elevata di Napoli.",
+    "a zona industriale o Janturk, in Uriona e i 6.082 cristiani da parte levata di Napoli.",
+    "a zona industriale o gianturca, in Uriona e i 6.082 cristiani dalla parte elevata di Napoli."
+  ],
+  "responses": [
+    "Il Gianturco, noto anche come la Zona Industriale, è un quartiere di circa 6.082 abitanti situato nell'est di Napoli.",
+    "Il Gianturco, conosciuto anche come la Zona Industriale, è un quartiere di circa 6.082 abitanti situato nell'area orientale di Napoli.",
+    "Il Gianturco, noto anche come la Zona Industriale, è un quartiere situato nell'est di Napoli e ospita una popolazione di circa 6.082 abitanti.",
+    "La zona industriale Ogianturk si trova ad Uriona, nella parte alta di Napoli. Vi risiedono circa 6.082 cristiani.",
+    "La zona industriale o Janturk si trova ad Uriona. Gli 6.082 cristiani sono stati rimossi dalla parte di Napoli indicata.",
+    "La zona industriale o Gianturco si trova a Napoli. Gli 6.082 cristiani sono nella parte alta della città, ad Uriona."
+  ],
+  "wer": 0.625,
+  "u_asr": 0.285733,
+  "wer_gt1": 0.625
+}

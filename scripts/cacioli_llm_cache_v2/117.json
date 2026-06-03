@@ -1,0 +1,29 @@
+{
+  "filename": "117",
+  "neapolitan_text": "Chi nun sape chiagnere nun sape manco rirere",
+  "domain": "Blog",
+  "gt_variants": [
+    "Chi non sa piangere non sa nemmeno ridere.",
+    "Chi non è capace di piangere non sa neanche ridere.",
+    "Chi non sa piangere non conosce neppure il modo di ridere"
+  ],
+  "inputs": [
+    "Chi non sa piangere non sa nemmeno ridere.",
+    "Chi non è capace di piangere non sa neanche ridere.",
+    "Chi non sa piangere non conosce neppure il modo di ridere",
+    "Chi non sa peggiorare non sa bemancare.",
+    "Chi non sa peggiorare non sa bemancare.",
+    "Chi non sapeva giangere non sapeva ancora girare."
+  ],
+  "responses": [
+    "Colui che non sa piangere, non sa nemmeno ridere significa che chi non è in grado di esprimere dolore non può esprimere anche la gioia.",
+    "Colui che non può piangere, non sa neppure ridere. (Questo significa che se una persona non ha la capacità di esprimere dolore, probabilmente non riesce a godersi il piacere.)",
+    "Colui che non sa piangere non conosce nemmeno il modo di ridere significa che una persona incapace di esprimere dolore non è in grado di capire come ridere.",
+    "Colui che non sa commettere errori non sa pentirsi.",
+    "Colui che non sa commettere errori non sa pentirsi.",
+    "Colui che non conosceva già gire, non conosceva ancora come muoversi. (Traduzione letterale)"
+  ],
+  "wer": 0.375,
+  "u_asr": 0.280286,
+  "wer_gt1": 0.375
+}

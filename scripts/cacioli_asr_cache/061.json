@@ -1,0 +1,61 @@
+{
+  "transcription": "Non se ne parla, che lo si carruzza.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 1.002,
+      "end": 1.224,
+      "confidence": 0.499
+    },
+    {
+      "word": "se",
+      "start": 1.244,
+      "end": 1.304,
+      "confidence": 0.492
+    },
+    {
+      "word": "ne",
+      "start": 1.345,
+      "end": 1.405,
+      "confidence": 0.25
+    },
+    {
+      "word": "parla,",
+      "start": 1.465,
+      "end": 1.828,
+      "confidence": 0.914
+    },
+    {
+      "word": "che",
+      "start": 1.848,
+      "end": 2.069,
+      "confidence": 0.674
+    },
+    {
+      "word": "lo",
+      "start": 2.13,
+      "end": 2.19,
+      "confidence": 0.682
+    },
+    {
+      "word": "si",
+      "start": 2.23,
+      "end": 2.311,
+      "confidence": 0.71
+    },
+    {
+      "word": "carruzza.",
+      "start": 2.351,
+      "end": 2.915,
+      "confidence": 0.801
+    }
+  ],
+  "top3": [
+    "Non se ne parla, che lo si carruzza.",
+    "Non se lo parla, che lo si carruzza.",
+    "Non se ne parla, che lo si carruzza."
+  ],
+  "language": "it",
+  "mean_confidence": 0.62775,
+  "u_asr": 0.37224999999999997
+}

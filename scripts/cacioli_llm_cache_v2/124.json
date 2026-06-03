@@ -1,0 +1,29 @@
+{
+  "filename": "124",
+  "neapolitan_text": "Nun ve 'ntricate tra marito e mugliera.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Non vi immischiate tra marito e moglie.",
+    "Non intromettetevi tra marito e moglie.",
+    "Non prendete parte alle liti tra marito e moglie."
+  ],
+  "inputs": [
+    "Non vi immischiate tra marito e moglie.",
+    "Non intromettetevi tra marito e moglie.",
+    "Non prendete parte alle liti tra marito e moglie.",
+    "Non ventricate tra marito e mogliere.",
+    "Non vi intrigate tra marito e moglie.",
+    "non ventricata tra marito e mogliere"
+  ],
+  "responses": [
+    "Non interferire con il matrimonio o la relazione tra un uomo e una donna.",
+    "Non interferire nella relazione tra marito e moglie.",
+    "Evitare di interferire nelle discussioni matrimoniali tra marito e moglie.",
+    "La frase \"Non ventricate tra marito e mogliere\" significa \"Non litigare tra marito e moglie\".",
+    "Non interferire con i rapporti matrimoniali del marito e della moglie.",
+    "La frase indica che tra marito e moglie non ci sono discussioni o litigi."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.390833,
+  "wer_gt1": 0.428571
+}

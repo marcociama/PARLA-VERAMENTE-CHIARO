@@ -1,0 +1,29 @@
+{
+  "filename": "091",
+  "neapolitan_text": "Si ddoce comme ‘o zucchero",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Sei dolce come lo zucchero",
+    "Sei dolce come zucchero",
+    "Sei dolce al pari dello zucchero"
+  ],
+  "inputs": [
+    "Sei dolce come lo zucchero",
+    "Sei dolce come zucchero",
+    "Sei dolce al pari dello zucchero",
+    "Si doscia con molto zucchero.",
+    "Si doscia con molto zucchero.",
+    "Si doscia con molto zucchero."
+  ],
+  "responses": [
+    "La frase \"Sei dolce come lo zucchero\" significa che la persona è molto dolce o gentile, come lo zucchero.",
+    "La frase \"Sei dolce come zucchero\" significa che la persona è molto dolce o gentile, come lo zucchero.",
+    "La frase \"Sei dolce al pari dello zucchero\" significa che la persona è molto dolce o gentile, come lo zucchero.",
+    "La frase indica che si versa molto zucchero.",
+    "La frase indica che si versa molto zucchero.",
+    "La frase indica che si versa molto zucchero."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.2662,
+  "wer_gt1": 1.0
+}

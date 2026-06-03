@@ -376,7 +376,8 @@ def _diff_heatmap(gt_text: str, w_text: str) -> None:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def _drift_fig(s_w: list[float], cfg: dict,
-               transcript: str = "", llm_response: str = ""):
+               transcript: str = "", llm_response: str = "",
+               h_risk: float = 0.0, risk_level: str = "green"):
     import plotly.graph_objects as go
 
     mu_gt    = [cfg["mu_R_GT1"], cfg["mu_R_GT2"], cfg["mu_R_GT3"]]
@@ -385,36 +386,41 @@ def _drift_fig(s_w: list[float], cfg: dict,
     if gt_span < 1e-6:
         gt_span = max(abs(mu_mean) * 0.1, 0.01)
 
-    # Fixed tolerance zones around mu_mean — absolute, zoom-independent
+    # Zone boundaries — geometric context only (not predictive of H_risk)
     green_half  = 1.5 * gt_span
     yellow_half = 3.5 * gt_span
-    far_pad     = 20.0 * gt_span   # effectively infinite for the red bands
 
-    def _zone_color(v: float) -> str:
-        dist = abs(v - mu_mean)
-        if dist <= green_half:  return _C_GREEN
-        if dist <= yellow_half: return _C_YELLOW
-        return _C_RED
+    # Axis range: fit data + 20% margin; red extends beyond visible range
+    all_x   = list(s_w) + list(mu_gt)
+    x_lo    = min(all_x) - 3 * gt_span
+    x_hi    = max(all_x) + 3 * gt_span
+    far_pad = (x_hi - x_lo) * 50   # extends well beyond axis range → "infinite"
 
-    w_colors = [_zone_color(v) for v in s_w]
+    # Point and spread-bar color = H_risk classification (matches risk badge)
+    risk_color = {
+        "green":  _C_GREEN,
+        "yellow": _C_YELLOW,
+        "red":    _C_RED,
+    }.get(risk_level, _C_RED)
 
     tr_s = (transcript[:65]+"…")   if len(transcript)>65   else transcript
     r_s  = (llm_response[:65]+"…") if len(llm_response)>65 else llm_response
 
     fig = go.Figure()
 
-    # Background risk bands — fixed in data-coordinates, stable under zoom
+    # Background geometric bands (position-based context — may disagree with H_risk)
     fig.add_vrect(x0=mu_mean - far_pad,     x1=mu_mean - yellow_half,
-                  fillcolor=_C_RED,    opacity=0.07, layer="below", line_width=0)
+                  fillcolor=_C_RED,    opacity=0.05, layer="below", line_width=0)
     fig.add_vrect(x0=mu_mean + yellow_half, x1=mu_mean + far_pad,
-                  fillcolor=_C_RED,    opacity=0.07, layer="below", line_width=0)
+                  fillcolor=_C_RED,    opacity=0.05, layer="below", line_width=0)
     fig.add_vrect(x0=mu_mean - yellow_half, x1=mu_mean - green_half,
-                  fillcolor=_C_YELLOW, opacity=0.10, layer="below", line_width=0)
+                  fillcolor=_C_YELLOW, opacity=0.07, layer="below", line_width=0)
     fig.add_vrect(x0=mu_mean + green_half,  x1=mu_mean + yellow_half,
-                  fillcolor=_C_YELLOW, opacity=0.10, layer="below", line_width=0)
+                  fillcolor=_C_YELLOW, opacity=0.07, layer="below", line_width=0)
     fig.add_vrect(x0=mu_mean - green_half,  x1=mu_mean + green_half,
-                  fillcolor=_C_GREEN,  opacity=0.08, layer="below", line_width=0)
+                  fillcolor=_C_GREEN,  opacity=0.06, layer="below", line_width=0)
 
+    # GT anchors
     fig.add_trace(go.Scatter(
         x=mu_gt, y=[0]*3, mode="markers+text",
         marker=dict(size=18, color=_C_BLUE, symbol="circle",
@@ -428,6 +434,22 @@ def _drift_fig(s_w: list[float], cfg: dict,
         hoverinfo="text",
     ))
 
+    # TTA spread bar — width = dispersion of W1/W2/W3, colour = H_risk
+    if len(s_w) >= 2:
+        sw_min, sw_max = min(s_w), max(s_w)
+        sw_mid = float(np.mean(s_w))
+        spread = sw_max - sw_min
+        fig.add_trace(go.Scatter(
+            x=[sw_min, sw_max], y=[0, 0],
+            mode="lines",
+            line=dict(color=risk_color, width=6),
+            name=f"Dispersione TTA  Δ={spread:.5f}  H_risk={h_risk:.3f}",
+            hovertext=[f"Dispersione TTA  Δ={spread:.5f}  H_risk={h_risk:.3f}"] * 2,
+            hoverinfo="text",
+            showlegend=True,
+        ))
+
+    # W projection points — coloured by H_risk (matches badge)
     w_tips = ([
         f"s_W1 — risposta primaria\nScalare: {s_w[0]:.5f}\n{tr_s}\n→ {r_s}",
         f"s_W2 — TTA seed 1\nScalare: {s_w[1]:.5f}",
@@ -436,25 +458,28 @@ def _drift_fig(s_w: list[float], cfg: dict,
 
     fig.add_trace(go.Scatter(
         x=s_w, y=[0]*len(s_w), mode="markers+text",
-        marker=dict(size=15, color=w_colors, symbol="diamond",
-                    line=dict(width=1.5, color="#c0392b")),
+        marker=dict(size=15, color=risk_color, symbol="diamond",
+                    line=dict(width=1.5, color="#555")),
         name="Proiezioni live (s_W)",
         text=[f"s_W{i+1}" for i in range(len(s_w))],
         textposition="bottom center",
-        textfont=dict(size=11, color=_C_RED),
+        textfont=dict(size=11, color=risk_color),
         hovertext=w_tips, hoverinfo="text",
     ))
 
     fig.update_layout(
-        title=dict(text="Proiezione 1D — asse di deriva semantica  GT ↔ ASR",
-                   font=dict(size=13)),
+        title=dict(
+            text="Proiezione 1D — asse di deriva semantica  GT ↔ ASR  "
+                 "(sfondo: distanza geometrica | punti/barra: H_risk)",
+            font=dict(size=12)),
         xaxis=dict(title="Coordinata scalare su w_resp_drift",
-                   showgrid=True, gridcolor="#f0f0f0"),
+                   showgrid=True, gridcolor="#f0f0f0",
+                   range=[x_lo, x_hi]),
         yaxis=dict(visible=False, range=[-0.8, 0.8]),
-        height=230,
+        height=240,
         hovermode="closest",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-        margin=dict(l=10, r=10, t=50, b=40),
+        margin=dict(l=10, r=10, t=55, b=40),
     )
     return fig
 
@@ -716,12 +741,14 @@ def _section_inferenza() -> None:
     if cfg and result.s_w:
         st.subheader("Proiezione 1D — asse di deriva semantica")
         st.plotly_chart(
-            _drift_fig(result.s_w, cfg, result.transcript, result.llm_response),
+            _drift_fig(result.s_w, cfg, result.transcript, result.llm_response,
+                       h_risk=result.h_risk, risk_level=ui_risk),
             use_container_width=True,
         )
         st.caption(
             "Cerchi blu = ancore μ_GT (calibrazione N=50). "
-            "Diamanti = proiezioni live s_W1/W2/W3 (colorati per distanza da μ_GT)."
+            "Diamanti + barra = proiezioni live s_W1/W2/W3, colorati per **H_risk** (coerente col badge). "
+            "Sfondo = distanza geometrica da μ_GT (contesto, non predice H_risk)."
         )
 
     # Token heatmap — WhisperX acoustic alignment only

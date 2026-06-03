@@ -1,0 +1,29 @@
+{
+  "filename": "126",
+  "neapolitan_text": "Se mangiaie duie chile d'uva 'e nascosto d' 'a mamma.",
+  "domain": "Play",
+  "gt_variants": [
+    "Si mangiò due chili d'uva di nascosto dalla mamma.",
+    "Si mangiò due chili d'uva all'insaputa della mamma.",
+    "Mangiò due chili d'uva nascondendosi dalla mamma."
+  ],
+  "inputs": [
+    "Si mangiò due chili d'uva di nascosto dalla mamma.",
+    "Si mangiò due chili d'uva all'insaputa della mamma.",
+    "Mangiò due chili d'uva nascondendosi dalla mamma.",
+    "Se mangiare due chili d'uovo e non scostare la mamma.",
+    "Se mangiare due chili d'uovo non ci costa la mamma.",
+    "Se mangiare due chili d'uovo non ci costa la mamma."
+  ],
+  "responses": [
+    "Fu segretamente consumata una coppia di uve da qualcuno.",
+    "Mangiarono due uvetta senza che la madre ne fosse a conoscenza.",
+    "Il bambino ha mangiato due chili d'uva nascostamente dalla madre.",
+    "Mangiare due uova crude senza toccare la madre.",
+    "Questa affermazione indica che mangiare due uova non richiede l'aiuto della madre. In altre parole, è una cosa che si può fare da soli.",
+    "Questa affermazione indica che mangiare due uova non richiede l'aiuto della madre. In altre parole, è una cosa che si può fare da soli."
+  ],
+  "wer": 0.777778,
+  "u_asr": 0.432,
+  "wer_gt1": 0.777778
+}

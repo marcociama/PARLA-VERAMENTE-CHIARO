@@ -1,0 +1,29 @@
+{
+  "filename": "111",
+  "neapolitan_text": "O fatto è ca ê ffamiglie e ê putecare, pe Napule e 'e pizze vicine, lle piace 'e cchiù 'e parlà Nnapulitano, 'a lengua antica d''o Rregno d''e Ddoje Secilie.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il fatto è che alle famiglie e ai bottegai, per Napoli e le zone vicine, piace di più parlare napoletano, la lingua antica del Regno delle Due Sicilie.",
+    "La questione è che le famiglie e i commercianti, a Napoli e nei dintorni, preferiscono parlare napoletano, l'antica lingua del Regno delle Due Sicilie.",
+    "Il motivo è che le famiglie e gli artigiani, a Napoli e nei paesi limitrofi, prediligono il napoletano, ovvero l'antica lingua del Regno delle Due Sicilie."
+  ],
+  "inputs": [
+    "Il fatto è che alle famiglie e ai bottegai, per Napoli e le zone vicine, piace di più parlare napoletano, la lingua antica del Regno delle Due Sicilie.",
+    "La questione è che le famiglie e i commercianti, a Napoli e nei dintorni, preferiscono parlare napoletano, l'antica lingua del Regno delle Due Sicilie.",
+    "Il motivo è che le famiglie e gli artigiani, a Napoli e nei paesi limitrofi, prediligono il napoletano, ovvero l'antica lingua del Regno delle Due Sicilie.",
+    "Il fatto è che la famiglia è molto cara. Per Napoli è una piazza vicina. Le piace chi parla napolitano, la lingua antica del regno di Sicilia.",
+    "Il fatto è che la famiglia è molto cara. Per Napoli è una piazza vicina. Le piace più parlare napoletano alla lingua antica del regno di Sicilia.",
+    "Il fatto è che la famiglia è molto cara. Per Napoli è una piazza vicina. Le piace più parlare napoletano alla lingua antica del regno di Sicilia."
+  ],
+  "responses": [
+    "Sì, il napoletano è una lingua apprezzata da molte famiglie e bottegai a Napoli e nelle zone circostanti, poiché rappresenta la tradizione linguistica del Regno delle Due Sicilie.",
+    "Sì, la maggior parte delle persone a Napoli e nei dintorni preferisce utilizzare il dialetto napoletano, che è la lingua tradizionale del Regno delle Due Sicilie.",
+    "La preferenza per il napoletano è dovuta alle famiglie e agli artigiani di Napoli e dei paesi limitrofi, che prediligono la lingua antica del Regno delle Due Sicilie.",
+    "Sì, la famiglia ha un grande valore. La Piazza San Domenico Maggiore, a Napoli, è una piazza vicina. Le piace chi parla napoletano, che è la lingua antica del Regno di Sicilia.",
+    "La famiglia ha un grande valore per lei. Per quanto riguarda Napoli, sta parlando della Piazza San Domenico Maggiore, poiché è una piazza vicina. Lei ama parlare napoletano nella forma antica del Regno di Sicilia.",
+    "La famiglia ha un grande valore per lei. Per quanto riguarda Napoli, sta parlando della Piazza San Domenico Maggiore, poiché è una piazza vicina. Lei ama parlare napoletano nella forma antica del Regno di Sicilia."
+  ],
+  "wer": 0.607143,
+  "u_asr": 0.407926,
+  "wer_gt1": 0.607143
+}

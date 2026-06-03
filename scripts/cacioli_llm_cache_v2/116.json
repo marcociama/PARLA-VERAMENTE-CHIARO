@@ -1,0 +1,29 @@
+{
+  "filename": "116",
+  "neapolitan_text": "Ccà nisciuno è fesso.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Qui nessuno è fesso.",
+    "Qui nessuno è ingenuo.",
+    "Qui nessuno è sciocco."
+  ],
+  "inputs": [
+    "Qui nessuno è fesso.",
+    "Qui nessuno è ingenuo.",
+    "Qui nessuno è sciocco.",
+    "Cari shoot and face.",
+    "Cari studenti, grazie.",
+    "Cari shoot and face."
+  ],
+  "responses": [
+    "Nessuno è grasso qui.",
+    "Nessuno qui è naif o non ha esperienza del mondo.",
+    "Nessuno qui è stupido.",
+    "La frase \"Cari shoot and face\" sembra essere un'espressione informale inglese che potrebbe riferirsi a una situazione in cui si parla di una persona che spara e ha faccia dura, cioè è durissima o non si preoccupa delle conseguenze. Tuttavia, senza contesto specifico, la sua interpretazione esatta può variare.",
+    "Grazie cari studenti. (La frase è un ringraziamento rivolto ai cari studenti.)",
+    "La frase \"Cari shoot and face\" sembra essere un'espressione informale inglese che potrebbe riferirsi a una situazione in cui si parla di una persona che spara e ha faccia dura, cioè è durissima o non si preoccupa delle conseguenze. Tuttavia, senza contesto specifico, la sua interpretazione esatta può variare."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.58825,
+  "wer_gt1": 1.0
+}

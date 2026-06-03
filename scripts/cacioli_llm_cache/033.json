@@ -1,0 +1,29 @@
+{
+  "filename": "033",
+  "neapolitan_text": "Nun m'avev' 'a sustené?",
+  "domain": "Play",
+  "gt_variants": [
+    "Non mi dovevo sostenere",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire.",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire."
+  ],
+  "inputs": [
+    "Non mi dovevo sostenere",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire.",
+    "Non mi dovevo sostentare: Non mi dovevo nutrire.",
+    "NUM MA VEVA SUSTA NEI",
+    "NUM MA VEVA SUSTA NEI.",
+    "NUM MA VEVA SUSTA NEI."
+  ],
+  "responses": [
+    "Non hai dovuto prendersi cura di qualcosa, o non hai dovuto fare un impegno?",
+    "La frase implica che l'autosostentamento e l'alimentazione non erano necessarie per la persona a cui si riferisce.",
+    "La frase implica che l'autosostentamento e l'alimentazione non erano necessarie per la persona a cui si riferisce.",
+    "La frase \"Num ma veva susta ne' \" sembra essere una citazione dal sonetto \"La gelosia\" di Dante Alighieri, dove si legge: \"Num ma veggio in me medesmo alterato\". In italiano moderno, potrebbe essere tradotto come \"Non mi vedo più come prima\", ossia l'autore si sente cambiato.",
+    "La frase \"Num ma veva susta ne'i\" sembra essere una citazione dal sonetto \"La vita nuova\" di Dante Alighieri, dove significa \"e se tu avessi vissuto con me\".",
+    "La frase \"Num ma veva susta ne'i\" sembra essere una citazione dal sonetto \"La vita nuova\" di Dante Alighieri, dove significa \"e se tu avessi vissuto con me\"."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.3024,
+  "wer_gt1": 1.25
+}

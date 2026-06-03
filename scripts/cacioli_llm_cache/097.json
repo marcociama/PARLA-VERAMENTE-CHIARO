@@ -1,0 +1,29 @@
+{
+  "filename": "097",
+  "neapolitan_text": "È uno d''e cchiù mpurtanti puorte d'Europa.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "È uno dei più importanti porti d'Europa.",
+    "Si tratta di uno tra i porti di maggiore rilevanza in Europa.",
+    "È annoverato tra i porti più significativi del continente europeo."
+  ],
+  "inputs": [
+    "È uno dei più importanti porti d'Europa.",
+    "Si tratta di uno tra i porti di maggiore rilevanza in Europa.",
+    "È annoverato tra i porti più significativi del continente europeo.",
+    "È uno dei più importanti award tra Europa.",
+    "E' uno dei più importanti award tra Europa.",
+    "E' uno dei più importanti award tra Europa."
+  ],
+  "responses": [
+    "Sì, si tratta del Porto di Amsterdam, uno dei maggiori porti europei per traffico merci e passeggeri.",
+    "Lo specificato è uno dei porti europei più importanti.",
+    "Il porto è considerato tra i più importanti dell'Europa continentale.",
+    "L'Eurovision Song Contest è uno dei premi più importanti in Europa.",
+    "Lo European Film Award è uno dei premi cinematografici più importanti in Europa.",
+    "Lo European Film Award è uno dei premi cinematografici più importanti in Europa."
+  ],
+  "wer": 0.428571,
+  "u_asr": 0.404125,
+  "wer_gt1": 0.428571
+}

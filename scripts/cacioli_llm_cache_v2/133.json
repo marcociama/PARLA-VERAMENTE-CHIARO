@@ -1,0 +1,29 @@
+{
+  "filename": "133",
+  "neapolitan_text": "Statte zitto, ca manco tu he capito.",
+  "domain": "Play",
+  "gt_variants": [
+    "Statti zitto, che nemmeno tu hai capito.",
+    "Sta' zitto, che neanche tu ci hai capito niente.",
+    "Taci, che nemmeno tu hai compreso."
+  ],
+  "inputs": [
+    "Statti zitto, che nemmeno tu hai capito.",
+    "Sta' zitto, che neanche tu ci hai capito niente.",
+    "Taci, che nemmeno tu hai compreso.",
+    "Stato sito che ha mancato i capiti.",
+    "Stato sito che ha mancato i capiti.",
+    "Stato sito che a manga tu hai capito."
+  ],
+  "responses": [
+    "La frase implica che l'ascoltatore non ha compreso correttamente qualcosa.",
+    "\"Sta tacendo, perché non hai capito nulla di questo.\" (Traduzione letterale)",
+    "La frase implica che l'interlocutore non ha capito correttamente ciò che si sta dicendo e quindi è meglio rimanere silenzioso.",
+    "Lo stato è un edificio o costruzione che manca dei pilastri o delle colonne necessarie per mantenere la struttura.",
+    "Lo stato è un edificio o costruzione che manca dei pilastri o delle colonne necessarie per mantenere la struttura.",
+    "Lo stato è un luogo o territorio che si riferisce al paese dove vive una persona."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.502857,
+  "wer_gt1": 0.857143
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "096",
+  "neapolitan_text": "O Puorto 'e Napule è nu puorto mpizzato int''o Gurfo 'e Napule ca se spanne int''a custiera d''a cità 'e Napule.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il Porto di Napoli è un porto incastonato nel Golfo di Napoli che si estende lungo la costa della città di Napoli.",
+    "Il Porto di Napoli è uno scalo incuneato nel Golfo partenopeo, che si distende lungo il litorale cittadino.",
+    "Quello di Napoli è un porto che s'innesta nel cuore del suo Golfo, dispiegandosi ampio lungo la costiera della città."
+  ],
+  "inputs": [
+    "Il Porto di Napoli è un porto incastonato nel Golfo di Napoli che si estende lungo la costa della città di Napoli.",
+    "Il Porto di Napoli è uno scalo incuneato nel Golfo partenopeo, che si distende lungo il litorale cittadino.",
+    "Quello di Napoli è un porto che s'innesta nel cuore del suo Golfo, dispiegandosi ampio lungo la costiera della città.",
+    "La porta a Napoli è una porta impizzata intorno al golfo di Napoli, che si spagna intorno alla costiera della città di Napoli.",
+    "La porta a Napoli è una porta impizzata intorno al Golfo di Napoli, che si spagna intorno alla costiera della città di Napoli.",
+    "La porta a Napoli è una porta impizzata intorno al golfo di Napoli, che si spagna intorno alla costiera della città di Napoli."
+  ],
+  "responses": [
+    "Il Porto di Napoli è un porto situato nel Golfo di Napoli, lungo la costa della città di Napoli.",
+    "Il Porto di Napoli è un porto incavato nel Golfo di Napoli e si estende lungo la costa cittadina.",
+    "Il porto di Napoli si estende ampiamente lungo la costa della città e si inserisce nel suo golfo centrale.",
+    "La porta a Napoli è un'impassabile che circonda il golfo di Napoli e si estende lungo la costa della città di Napoli.",
+    "La porta a Napoli è un'impassabile che circonda il golfo di Napoli e si estende lungo la costa della città di Napoli.",
+    "La porta a Napoli è un'impassabile che circonda il golfo di Napoli e si estende lungo la costa della città di Napoli."
+  ],
+  "wer": 0.590909,
+  "u_asr": 0.471609,
+  "wer_gt1": 0.590909
+}

@@ -1,0 +1,43 @@
+{
+  "transcription": "Qua non mi fai ridere.",
+  "words": [
+    {
+      "word": "Qua",
+      "start": 0.523,
+      "end": 0.664,
+      "confidence": 0.722
+    },
+    {
+      "word": "non",
+      "start": 0.724,
+      "end": 0.805,
+      "confidence": 0.496
+    },
+    {
+      "word": "mi",
+      "start": 0.845,
+      "end": 0.926,
+      "confidence": 0.527
+    },
+    {
+      "word": "fai",
+      "start": 0.966,
+      "end": 1.127,
+      "confidence": 0.752
+    },
+    {
+      "word": "ridere.",
+      "start": 1.168,
+      "end": 1.571,
+      "confidence": 0.68
+    }
+  ],
+  "top3": [
+    "Qua non mi fai ridere.",
+    "Quando mi fai ridere?",
+    "Qua non mi fai ridere."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6354,
+  "u_asr": 0.36460000000000004
+}

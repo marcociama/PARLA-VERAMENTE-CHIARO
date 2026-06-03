@@ -1,0 +1,55 @@
+{
+  "transcription": "Chi ti pensa che sì, nonna Maruzzo?",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.905,
+      "end": 0.965,
+      "confidence": 0.399
+    },
+    {
+      "word": "ti",
+      "start": 0.985,
+      "end": 1.046,
+      "confidence": 0.574
+    },
+    {
+      "word": "pensa",
+      "start": 1.106,
+      "end": 1.388,
+      "confidence": 0.656
+    },
+    {
+      "word": "che",
+      "start": 1.429,
+      "end": 1.509,
+      "confidence": 0.766
+    },
+    {
+      "word": "sì,",
+      "start": 1.651,
+      "end": 1.913,
+      "confidence": 0.95
+    },
+    {
+      "word": "nonna",
+      "start": 2.054,
+      "end": 2.336,
+      "confidence": 0.664
+    },
+    {
+      "word": "Maruzzo?",
+      "start": 2.356,
+      "end": 2.82,
+      "confidence": 0.843
+    }
+  ],
+  "top3": [
+    "Chi ti pensa che sì, nonna Maruzzo?",
+    "Chi ti pensa che si? Nonna Maruzzo?",
+    "Chi ti pensa che si? Nonna Maruzzo?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6931428571428571,
+  "u_asr": 0.30685714285714294
+}

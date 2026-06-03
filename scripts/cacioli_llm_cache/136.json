@@ -1,0 +1,29 @@
+{
+  "filename": "136",
+  "neapolitan_text": "E chi si' tu, ca me vuò mpedì 'e dicere, vicin' 'e figlie mieie, ca me so' ffiglie?",
+  "domain": "Play",
+  "gt_variants": [
+    "E chi sei tu, che mi vuoi impedire di dire, vicino ai miei figli, che sono figli miei?",
+    "E chi sei tu, che pretendi di vietarmi di dire, davanti ai miei figli, che sono miei figli?",
+    "E chi ti credi di essere per impedirmi di dire, in presenza dei miei figli, che sono figli miei?"
+  ],
+  "inputs": [
+    "E chi sei tu, che mi vuoi impedire di dire, vicino ai miei figli, che sono figli miei?",
+    "E chi sei tu, che pretendi di vietarmi di dire, davanti ai miei figli, che sono miei figli?",
+    "E chi ti credi di essere per impedirmi di dire, in presenza dei miei figli, che sono figli miei?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono figlio?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono mio figlio?",
+    "E chi sei tu che mi vuoi impedire di dire vicino ai miei figli che sono mio figlio?"
+  ],
+  "responses": [
+    "Sono un assistente informatico e non ho alcun intento di limitare le tue parole. Tuttavia, è importante mantenere una conversazione rispettosa e appropriata, specialmente quando si riferisce a temi sensibili come la famiglia.",
+    "Io non sono una persona, sono un assistente artificiale. Non ho alcuna intenzione di vietarti di parlare con i tuoi figli o di farvi capire qualcosa che sia contrario alla tua libertà espressiva.",
+    "Non ho alcuna intenzione di teconderti, è solo un assistente e non posso avere figli.",
+    "Sono un assistente informatico e non ho alcun intento di limitare le tue conversazioni con i tuoi figli. Tuttavia, per rispettare la tua privacy, suggerisco di evitare riferimenti personali o sensibili.",
+    "Non so chi stia parlando a te, ma non ho l'intenzione di impedirti di parlare con i tuoi figli. Il tuo figlio è sempre stato e rimarrà il tuo figlio.",
+    "Non so chi stia parlando a te, ma non ho l'intenzione di impedirti di parlare con i tuoi figli. Il tuo figlio è sempre stato e rimarrà il tuo figlio."
+  ],
+  "wer": 0.277778,
+  "u_asr": 0.486353,
+  "wer_gt1": 0.277778
+}

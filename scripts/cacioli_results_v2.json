@@ -1,0 +1,1438 @@
+{
+  "n_parla_chiaro": 50,
+  "n_cacioli": 141,
+  "n_union": 191,
+  "h_spectral_min": 0.122087,
+  "h_spectral_max": 0.849942,
+  "svm_union_acc_in": 0.9538,
+  "svm_union_acc_out": 0.9005,
+  "sigma_in": 0.049081,
+  "sigma_out": 0.045336,
+  "anchors_in_union": [
+    0.024217,
+    0.032386,
+    0.023808
+  ],
+  "anchors_out_union": [
+    -0.004858,
+    -0.004827,
+    -0.007954
+  ],
+  "pearson_pc_wer_union_calibrated": 0.4511,
+  "pearson_wer_in": 0.4236,
+  "pearson_wer_out": 0.1892,
+  "pearson_bleu_out": 0.2766,
+  "pearson_e_sem_top": 0.4338,
+  "per_clip": [
+    {
+      "filename": "002",
+      "domain": "Play",
+      "wer": 0.3333,
+      "wer_out": 1.0909,
+      "bleu_out": 0.977,
+      "e_sem_top": 0.2315,
+      "h_spectral": 0.442219,
+      "h_risk": 0.4398
+    },
+    {
+      "filename": "003",
+      "domain": "Play",
+      "wer": 0.7273,
+      "wer_out": 1.1818,
+      "bleu_out": 0.9845,
+      "e_sem_top": 0.5515,
+      "h_spectral": 0.687651,
+      "h_risk": 0.777
+    },
+    {
+      "filename": "004",
+      "domain": "Play",
+      "wer": 0.4667,
+      "wer_out": 0.8235,
+      "bleu_out": 0.9717,
+      "e_sem_top": 0.3153,
+      "h_spectral": 0.475302,
+      "h_risk": 0.4853
+    },
+    {
+      "filename": "005",
+      "domain": "Play",
+      "wer": 0.4737,
+      "wer_out": 1.0556,
+      "bleu_out": 0.9782,
+      "e_sem_top": 0.5246,
+      "h_spectral": 0.610959,
+      "h_risk": 0.6717
+    },
+    {
+      "filename": "006",
+      "domain": "Play",
+      "wer": 0.6,
+      "wer_out": 0.5714,
+      "bleu_out": 0.8365,
+      "e_sem_top": 0.2315,
+      "h_spectral": 0.372818,
+      "h_risk": 0.3445
+    },
+    {
+      "filename": "007",
+      "domain": "Play",
+      "wer": 0.75,
+      "wer_out": 0.96,
+      "bleu_out": 0.99,
+      "e_sem_top": 0.3912,
+      "h_spectral": 0.743157,
+      "h_risk": 0.8533
+    },
+    {
+      "filename": "008",
+      "domain": "Play",
+      "wer": 0.3158,
+      "wer_out": 0.4286,
+      "bleu_out": 0.4373,
+      "e_sem_top": 0.1847,
+      "h_spectral": 0.561424,
+      "h_risk": 0.6036
+    },
+    {
+      "filename": "009",
+      "domain": "Play",
+      "wer": 1.0,
+      "wer_out": 1.7,
+      "bleu_out": 0.9858,
+      "e_sem_top": 0.781,
+      "h_spectral": 0.682048,
+      "h_risk": 0.7693
+    },
+    {
+      "filename": "010",
+      "domain": "Play",
+      "wer": 0.5455,
+      "wer_out": 1.2,
+      "bleu_out": 0.9856,
+      "e_sem_top": 0.4306,
+      "h_spectral": 0.584169,
+      "h_risk": 0.6349
+    },
+    {
+      "filename": "011",
+      "domain": "Play",
+      "wer": 0.4444,
+      "wer_out": 1.3636,
+      "bleu_out": 0.9426,
+      "e_sem_top": 0.3727,
+      "h_spectral": 0.595825,
+      "h_risk": 0.6509
+    },
+    {
+      "filename": "012",
+      "domain": "Play",
+      "wer": 0.8,
+      "wer_out": 0.8421,
+      "bleu_out": 0.9938,
+      "e_sem_top": 0.596,
+      "h_spectral": 0.614771,
+      "h_risk": 0.6769
+    },
+    {
+      "filename": "013",
+      "domain": "Play",
+      "wer": 0.6,
+      "wer_out": 1.1429,
+      "bleu_out": 0.9554,
+      "e_sem_top": 0.0962,
+      "h_spectral": 0.406358,
+      "h_risk": 0.3906
+    },
+    {
+      "filename": "014",
+      "domain": "Play",
+      "wer": 0.4286,
+      "wer_out": 2.1667,
+      "bleu_out": 0.9892,
+      "e_sem_top": 0.5459,
+      "h_spectral": 0.545293,
+      "h_risk": 0.5814
+    },
+    {
+      "filename": "015",
+      "domain": "Play",
+      "wer": 0.75,
+      "wer_out": 2.6667,
+      "bleu_out": 0.9877,
+      "e_sem_top": 0.5387,
+      "h_spectral": 0.50293,
+      "h_risk": 0.5232
+    },
+    {
+      "filename": "016",
+      "domain": "Play",
+      "wer": 0.9333,
+      "wer_out": 0.96,
+      "bleu_out": 0.9895,
+      "e_sem_top": 0.3451,
+      "h_spectral": 0.607524,
+      "h_risk": 0.6669
+    },
+    {
+      "filename": "017",
+      "domain": "Play",
+      "wer": 1.0,
+      "wer_out": 0.875,
+      "bleu_out": 0.9824,
+      "e_sem_top": 0.6488,
+      "h_spectral": 0.656314,
+      "h_risk": 0.734
+    },
+    {
+      "filename": "018",
+      "domain": "Play",
+      "wer": 0.2,
+      "wer_out": 0.64,
+      "bleu_out": 0.8489,
+      "e_sem_top": 0.3391,
+      "h_spectral": 0.635207,
+      "h_risk": 0.705
+    },
+    {
+      "filename": "019",
+      "domain": "Play",
+      "wer": 0.3529,
+      "wer_out": 0.8438,
+      "bleu_out": 0.9651,
+      "e_sem_top": 0.4083,
+      "h_spectral": 0.665019,
+      "h_risk": 0.7459
+    },
+    {
+      "filename": "020",
+      "domain": "Play",
+      "wer": 0.5455,
+      "wer_out": 0.9231,
+      "bleu_out": 0.9607,
+      "e_sem_top": 0.4435,
+      "h_spectral": 0.626818,
+      "h_risk": 0.6934
+    },
+    {
+      "filename": "021",
+      "domain": "Play",
+      "wer": 0.1429,
+      "wer_out": 0.7895,
+      "bleu_out": 0.9722,
+      "e_sem_top": 0.2702,
+      "h_spectral": 0.385239,
+      "h_risk": 0.3615
+    },
+    {
+      "filename": "022",
+      "domain": "Play",
+      "wer": 0.4762,
+      "wer_out": 0.8421,
+      "bleu_out": 0.9771,
+      "e_sem_top": 0.3384,
+      "h_spectral": 0.381497,
+      "h_risk": 0.3564
+    },
+    {
+      "filename": "023",
+      "domain": "Play",
+      "wer": 0.7778,
+      "wer_out": 0.9,
+      "bleu_out": 0.9659,
+      "e_sem_top": 0.2886,
+      "h_spectral": 0.637788,
+      "h_risk": 0.7085
+    },
+    {
+      "filename": "024",
+      "domain": "Play",
+      "wer": 0.3333,
+      "wer_out": 1.25,
+      "bleu_out": 0.9515,
+      "e_sem_top": 0.2253,
+      "h_spectral": 0.506506,
+      "h_risk": 0.5282
+    },
+    {
+      "filename": "025",
+      "domain": "Play",
+      "wer": 0.8333,
+      "wer_out": 0.9286,
+      "bleu_out": 0.9862,
+      "e_sem_top": 0.3535,
+      "h_spectral": 0.646239,
+      "h_risk": 0.7201
+    },
+    {
+      "filename": "026",
+      "domain": "Play",
+      "wer": 0.4167,
+      "wer_out": 0.4762,
+      "bleu_out": 0.9026,
+      "e_sem_top": 0.4665,
+      "h_spectral": 0.541079,
+      "h_risk": 0.5757
+    },
+    {
+      "filename": "027",
+      "domain": "Play",
+      "wer": 0.8333,
+      "wer_out": 1.7222,
+      "bleu_out": 0.992,
+      "e_sem_top": 0.7102,
+      "h_spectral": 0.629824,
+      "h_risk": 0.6976
+    },
+    {
+      "filename": "028",
+      "domain": "Play",
+      "wer": 0.5,
+      "wer_out": 0.9474,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.4319,
+      "h_spectral": 0.53372,
+      "h_risk": 0.5655
+    },
+    {
+      "filename": "029",
+      "domain": "Play",
+      "wer": 0.4211,
+      "wer_out": 1.0,
+      "bleu_out": 0.9899,
+      "e_sem_top": 0.2828,
+      "h_spectral": 0.413396,
+      "h_risk": 0.4002
+    },
+    {
+      "filename": "030",
+      "domain": "Play",
+      "wer": 0.4,
+      "wer_out": 1.3077,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.3024,
+      "h_spectral": 0.613735,
+      "h_risk": 0.6755
+    },
+    {
+      "filename": "031",
+      "domain": "Play",
+      "wer": 0.8,
+      "wer_out": 1.0,
+      "bleu_out": 0.9917,
+      "e_sem_top": 0.8301,
+      "h_spectral": 0.535864,
+      "h_risk": 0.5685
+    },
+    {
+      "filename": "032",
+      "domain": "Play",
+      "wer": 0.5,
+      "wer_out": 0.9487,
+      "bleu_out": 0.9976,
+      "e_sem_top": 0.6041,
+      "h_spectral": 0.685708,
+      "h_risk": 0.7744
+    },
+    {
+      "filename": "033",
+      "domain": "Play",
+      "wer": 1.0,
+      "wer_out": 0.8947,
+      "bleu_out": 0.9715,
+      "e_sem_top": 0.6721,
+      "h_spectral": 0.672529,
+      "h_risk": 0.7563
+    },
+    {
+      "filename": "034",
+      "domain": "Play",
+      "wer": 0.7143,
+      "wer_out": 0.5,
+      "bleu_out": 0.6543,
+      "e_sem_top": 0.0564,
+      "h_spectral": 0.785774,
+      "h_risk": 0.9118
+    },
+    {
+      "filename": "035",
+      "domain": "Play",
+      "wer": 0.7143,
+      "wer_out": 0.9474,
+      "bleu_out": 0.974,
+      "e_sem_top": 0.3601,
+      "h_spectral": 0.558966,
+      "h_risk": 0.6002
+    },
+    {
+      "filename": "036",
+      "domain": "Play",
+      "wer": 0.4,
+      "wer_out": 1.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.6603,
+      "h_spectral": 0.578117,
+      "h_risk": 0.6265
+    },
+    {
+      "filename": "037",
+      "domain": "Play",
+      "wer": 0.2727,
+      "wer_out": 2.3846,
+      "bleu_out": 0.9709,
+      "e_sem_top": 0.2171,
+      "h_spectral": 0.274126,
+      "h_risk": 0.2089
+    },
+    {
+      "filename": "038",
+      "domain": "Play",
+      "wer": 0.5455,
+      "wer_out": 0.8846,
+      "bleu_out": 0.8389,
+      "e_sem_top": 0.2339,
+      "h_spectral": 0.536743,
+      "h_risk": 0.5697
+    },
+    {
+      "filename": "039",
+      "domain": "Play",
+      "wer": 0.2,
+      "wer_out": 0.4211,
+      "bleu_out": 0.4683,
+      "e_sem_top": 0.1326,
+      "h_spectral": 0.306821,
+      "h_risk": 0.2538
+    },
+    {
+      "filename": "040",
+      "domain": "Play",
+      "wer": 0.8333,
+      "wer_out": 1.2381,
+      "bleu_out": 0.9886,
+      "e_sem_top": 0.529,
+      "h_spectral": 0.555216,
+      "h_risk": 0.5951
+    },
+    {
+      "filename": "041",
+      "domain": "Play",
+      "wer": 1.0,
+      "wer_out": 1.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.7535,
+      "h_spectral": 0.683666,
+      "h_risk": 0.7716
+    },
+    {
+      "filename": "042",
+      "domain": "Play",
+      "wer": 0.5714,
+      "wer_out": 1.2857,
+      "bleu_out": 0.9923,
+      "e_sem_top": 0.4977,
+      "h_spectral": 0.565581,
+      "h_risk": 0.6093
+    },
+    {
+      "filename": "043",
+      "domain": "Play",
+      "wer": 0.7143,
+      "wer_out": 1.8,
+      "bleu_out": 0.9782,
+      "e_sem_top": 0.4941,
+      "h_spectral": 0.666712,
+      "h_risk": 0.7483
+    },
+    {
+      "filename": "044",
+      "domain": "Play",
+      "wer": 0.2857,
+      "wer_out": 1.3333,
+      "bleu_out": 0.8798,
+      "e_sem_top": 0.1634,
+      "h_spectral": 0.368147,
+      "h_risk": 0.3381
+    },
+    {
+      "filename": "045",
+      "domain": "Play",
+      "wer": 1.0,
+      "wer_out": 1.2857,
+      "bleu_out": 0.9873,
+      "e_sem_top": 0.7248,
+      "h_spectral": 0.695402,
+      "h_risk": 0.7877
+    },
+    {
+      "filename": "046",
+      "domain": "Play",
+      "wer": 0.4,
+      "wer_out": 0.5,
+      "bleu_out": 0.7947,
+      "e_sem_top": 0.145,
+      "h_spectral": 0.426961,
+      "h_risk": 0.4189
+    },
+    {
+      "filename": "047",
+      "domain": "Poetry",
+      "wer": 0.8571,
+      "wer_out": 2.9231,
+      "bleu_out": 0.9954,
+      "e_sem_top": 0.6934,
+      "h_spectral": 0.637086,
+      "h_risk": 0.7076
+    },
+    {
+      "filename": "048",
+      "domain": "Poetry",
+      "wer": 0.6,
+      "wer_out": 0.9444,
+      "bleu_out": 0.9894,
+      "e_sem_top": 0.6654,
+      "h_spectral": 0.573743,
+      "h_risk": 0.6205
+    },
+    {
+      "filename": "049",
+      "domain": "Poetry",
+      "wer": 1.0,
+      "wer_out": 1.0,
+      "bleu_out": 0.9856,
+      "e_sem_top": 0.7232,
+      "h_spectral": 0.557239,
+      "h_risk": 0.5979
+    },
+    {
+      "filename": "050",
+      "domain": "Poetry",
+      "wer": 0.8333,
+      "wer_out": 2.7692,
+      "bleu_out": 0.9942,
+      "e_sem_top": 0.5706,
+      "h_spectral": 0.617465,
+      "h_risk": 0.6806
+    },
+    {
+      "filename": "051",
+      "domain": "Poetry",
+      "wer": 1.0,
+      "wer_out": 1.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.7335,
+      "h_spectral": 0.785023,
+      "h_risk": 0.9108
+    },
+    {
+      "filename": "052",
+      "domain": "Poetry",
+      "wer": 0.8,
+      "wer_out": 1.4545,
+      "bleu_out": 0.9877,
+      "e_sem_top": 0.8137,
+      "h_spectral": 0.593696,
+      "h_risk": 0.6479
+    },
+    {
+      "filename": "053",
+      "domain": "Poetry",
+      "wer": 0.7143,
+      "wer_out": 2.5385,
+      "bleu_out": 0.9879,
+      "e_sem_top": 0.5365,
+      "h_spectral": 0.628889,
+      "h_risk": 0.6963
+    },
+    {
+      "filename": "054",
+      "domain": "Poetry",
+      "wer": 0.5,
+      "wer_out": 0.8125,
+      "bleu_out": 0.9908,
+      "e_sem_top": 0.2183,
+      "h_spectral": 0.69384,
+      "h_risk": 0.7855
+    },
+    {
+      "filename": "055",
+      "domain": "Poetry",
+      "wer": 0.7143,
+      "wer_out": 0.9167,
+      "bleu_out": 0.98,
+      "e_sem_top": 0.3797,
+      "h_spectral": 0.461091,
+      "h_risk": 0.4658
+    },
+    {
+      "filename": "056",
+      "domain": "Poetry",
+      "wer": 1.0,
+      "wer_out": 2.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.5442,
+      "h_spectral": 0.594916,
+      "h_risk": 0.6496
+    },
+    {
+      "filename": "057",
+      "domain": "Poetry",
+      "wer": 0.8,
+      "wer_out": 1.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.5782,
+      "h_spectral": 0.572933,
+      "h_risk": 0.6194
+    },
+    {
+      "filename": "058",
+      "domain": "Poetry",
+      "wer": 0.3571,
+      "wer_out": 0.2353,
+      "bleu_out": 0.4826,
+      "e_sem_top": 0.0049,
+      "h_spectral": 0.300849,
+      "h_risk": 0.2456
+    },
+    {
+      "filename": "059",
+      "domain": "Poetry",
+      "wer": 0.2857,
+      "wer_out": 0.6364,
+      "bleu_out": 0.9301,
+      "e_sem_top": 0.1329,
+      "h_spectral": 0.122087,
+      "h_risk": 0.0
+    },
+    {
+      "filename": "060",
+      "domain": "Poetry",
+      "wer": 0.6667,
+      "wer_out": 1.0,
+      "bleu_out": 0.9945,
+      "e_sem_top": 0.3191,
+      "h_spectral": 0.762955,
+      "h_risk": 0.8805
+    },
+    {
+      "filename": "061",
+      "domain": "Poetry",
+      "wer": 0.625,
+      "wer_out": 1.3846,
+      "bleu_out": 0.9885,
+      "e_sem_top": 0.4573,
+      "h_spectral": 0.183511,
+      "h_risk": 0.0844
+    },
+    {
+      "filename": "062",
+      "domain": "Poetry",
+      "wer": 0.5714,
+      "wer_out": 0.9211,
+      "bleu_out": 0.9842,
+      "e_sem_top": 0.2962,
+      "h_spectral": 0.629567,
+      "h_risk": 0.6972
+    },
+    {
+      "filename": "063",
+      "domain": "Poetry",
+      "wer": 0.6667,
+      "wer_out": 1.8889,
+      "bleu_out": 0.9762,
+      "e_sem_top": 0.7556,
+      "h_spectral": 0.686035,
+      "h_risk": 0.7748
+    },
+    {
+      "filename": "064",
+      "domain": "Poetry",
+      "wer": 0.5714,
+      "wer_out": 0.8947,
+      "bleu_out": 0.8742,
+      "e_sem_top": 0.4506,
+      "h_spectral": 0.506204,
+      "h_risk": 0.5277
+    },
+    {
+      "filename": "065",
+      "domain": "Poetry",
+      "wer": 1.0,
+      "wer_out": 2.0,
+      "bleu_out": 0.9849,
+      "e_sem_top": 0.6386,
+      "h_spectral": 0.817629,
+      "h_risk": 0.9556
+    },
+    {
+      "filename": "066",
+      "domain": "Poetry",
+      "wer": 0.8571,
+      "wer_out": 0.9167,
+      "bleu_out": 0.9941,
+      "e_sem_top": 0.5059,
+      "h_spectral": 0.504094,
+      "h_risk": 0.5248
+    },
+    {
+      "filename": "067",
+      "domain": "Poetry",
+      "wer": 0.8,
+      "wer_out": 1.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.6853,
+      "h_spectral": 0.651273,
+      "h_risk": 0.727
+    },
+    {
+      "filename": "068",
+      "domain": "Poetry",
+      "wer": 0.5,
+      "wer_out": 0.7391,
+      "bleu_out": 0.9524,
+      "e_sem_top": 0.3707,
+      "h_spectral": 0.545373,
+      "h_risk": 0.5816
+    },
+    {
+      "filename": "069",
+      "domain": "Poetry",
+      "wer": 0.7143,
+      "wer_out": 4.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.6598,
+      "h_spectral": 0.572293,
+      "h_risk": 0.6185
+    },
+    {
+      "filename": "070",
+      "domain": "Poetry",
+      "wer": 0.6923,
+      "wer_out": 0.9333,
+      "bleu_out": 0.8088,
+      "e_sem_top": 0.1803,
+      "h_spectral": 0.497925,
+      "h_risk": 0.5164
+    },
+    {
+      "filename": "071",
+      "domain": "Poetry",
+      "wer": 0.1667,
+      "wer_out": 0.4167,
+      "bleu_out": 0.4769,
+      "e_sem_top": 0.3305,
+      "h_spectral": 0.531181,
+      "h_risk": 0.5621
+    },
+    {
+      "filename": "072",
+      "domain": "Poetry",
+      "wer": 0.6667,
+      "wer_out": 1.3333,
+      "bleu_out": 0.9752,
+      "e_sem_top": 0.3698,
+      "h_spectral": 0.540284,
+      "h_risk": 0.5746
+    },
+    {
+      "filename": "073",
+      "domain": "Poetry",
+      "wer": 0.3333,
+      "wer_out": 3.8,
+      "bleu_out": 0.9904,
+      "e_sem_top": 0.7914,
+      "h_spectral": 0.683317,
+      "h_risk": 0.7711
+    },
+    {
+      "filename": "074",
+      "domain": "Poetry",
+      "wer": 0.6,
+      "wer_out": 1.0,
+      "bleu_out": 0.9749,
+      "e_sem_top": 0.3972,
+      "h_spectral": 0.671723,
+      "h_risk": 0.7551
+    },
+    {
+      "filename": "075",
+      "domain": "Poetry",
+      "wer": 0.7143,
+      "wer_out": 3.5,
+      "bleu_out": 0.9926,
+      "e_sem_top": 0.7582,
+      "h_spectral": 0.650605,
+      "h_risk": 0.7261
+    },
+    {
+      "filename": "076",
+      "domain": "Poetry",
+      "wer": 0.6667,
+      "wer_out": 1.875,
+      "bleu_out": 0.9877,
+      "e_sem_top": 0.3202,
+      "h_spectral": 0.646956,
+      "h_risk": 0.7211
+    },
+    {
+      "filename": "077",
+      "domain": "Poetry",
+      "wer": 0.875,
+      "wer_out": 1.0,
+      "bleu_out": 0.983,
+      "e_sem_top": 0.7502,
+      "h_spectral": 0.571458,
+      "h_risk": 0.6174
+    },
+    {
+      "filename": "078",
+      "domain": "Poetry",
+      "wer": 0.75,
+      "wer_out": 2.25,
+      "bleu_out": 0.977,
+      "e_sem_top": 0.3219,
+      "h_spectral": 0.581548,
+      "h_risk": 0.6313
+    },
+    {
+      "filename": "079",
+      "domain": "Poetry",
+      "wer": 0.875,
+      "wer_out": 1.0,
+      "bleu_out": 0.9688,
+      "e_sem_top": 0.8046,
+      "h_spectral": 0.604562,
+      "h_risk": 0.6629
+    },
+    {
+      "filename": "080",
+      "domain": "Poetry",
+      "wer": 1.2857,
+      "wer_out": 3.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.9455,
+      "h_spectral": 0.656083,
+      "h_risk": 0.7337
+    },
+    {
+      "filename": "081",
+      "domain": "Poetry",
+      "wer": 0.5,
+      "wer_out": 0.9,
+      "bleu_out": 0.989,
+      "e_sem_top": 0.2706,
+      "h_spectral": 0.50987,
+      "h_risk": 0.5328
+    },
+    {
+      "filename": "082",
+      "domain": "Poetry",
+      "wer": 1.0,
+      "wer_out": 2.25,
+      "bleu_out": 0.9898,
+      "e_sem_top": 1.0055,
+      "h_spectral": 0.55363,
+      "h_risk": 0.5929
+    },
+    {
+      "filename": "083",
+      "domain": "Poetry",
+      "wer": 0.5,
+      "wer_out": 1.375,
+      "bleu_out": 0.9641,
+      "e_sem_top": 0.5485,
+      "h_spectral": 0.561863,
+      "h_risk": 0.6042
+    },
+    {
+      "filename": "084",
+      "domain": "Poetry",
+      "wer": 0.8571,
+      "wer_out": 0.875,
+      "bleu_out": 0.9855,
+      "e_sem_top": 0.4779,
+      "h_spectral": 0.494962,
+      "h_risk": 0.5123
+    },
+    {
+      "filename": "085",
+      "domain": "Poetry",
+      "wer": 1.0,
+      "wer_out": 1.3889,
+      "bleu_out": 0.9908,
+      "e_sem_top": 0.8186,
+      "h_spectral": 0.498085,
+      "h_risk": 0.5166
+    },
+    {
+      "filename": "086",
+      "domain": "Poetry",
+      "wer": 0.2857,
+      "wer_out": 1.4444,
+      "bleu_out": 0.8578,
+      "e_sem_top": 0.1416,
+      "h_spectral": 0.580702,
+      "h_risk": 0.6301
+    },
+    {
+      "filename": "087",
+      "domain": "Poetry",
+      "wer": 0.2,
+      "wer_out": 1.0,
+      "bleu_out": 0.9853,
+      "e_sem_top": 0.3174,
+      "h_spectral": 0.587641,
+      "h_risk": 0.6396
+    },
+    {
+      "filename": "088",
+      "domain": "Poetry",
+      "wer": 0.875,
+      "wer_out": 1.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.4674,
+      "h_spectral": 0.619027,
+      "h_risk": 0.6827
+    },
+    {
+      "filename": "089",
+      "domain": "Poetry",
+      "wer": 0.8571,
+      "wer_out": 4.2,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.6715,
+      "h_spectral": 0.591689,
+      "h_risk": 0.6452
+    },
+    {
+      "filename": "090",
+      "domain": "Poetry",
+      "wer": 0.6667,
+      "wer_out": 0.9091,
+      "bleu_out": 0.9897,
+      "e_sem_top": 0.2043,
+      "h_spectral": 0.613868,
+      "h_risk": 0.6757
+    },
+    {
+      "filename": "091",
+      "domain": "Poetry",
+      "wer": 1.0,
+      "wer_out": 0.7368,
+      "bleu_out": 0.9813,
+      "e_sem_top": 0.3382,
+      "h_spectral": 0.694758,
+      "h_risk": 0.7868
+    },
+    {
+      "filename": "092",
+      "domain": "Poetry",
+      "wer": 0.7778,
+      "wer_out": 1.0,
+      "bleu_out": 0.9771,
+      "e_sem_top": 0.4295,
+      "h_spectral": 0.691573,
+      "h_risk": 0.7824
+    },
+    {
+      "filename": "093",
+      "domain": "Poetry",
+      "wer": 0.875,
+      "wer_out": 0.8621,
+      "bleu_out": 0.9813,
+      "e_sem_top": 0.5323,
+      "h_spectral": 0.611697,
+      "h_risk": 0.6727
+    },
+    {
+      "filename": "094",
+      "domain": "Poetry",
+      "wer": 0.8571,
+      "wer_out": 1.5714,
+      "bleu_out": 0.983,
+      "e_sem_top": 0.7254,
+      "h_spectral": 0.624267,
+      "h_risk": 0.6899
+    },
+    {
+      "filename": "095",
+      "domain": "Poetry",
+      "wer": 0.4,
+      "wer_out": 0.8571,
+      "bleu_out": 0.8725,
+      "e_sem_top": 0.2999,
+      "h_spectral": 0.480264,
+      "h_risk": 0.4921
+    },
+    {
+      "filename": "096",
+      "domain": "Blog",
+      "wer": 0.5909,
+      "wer_out": 0.5789,
+      "bleu_out": 0.691,
+      "e_sem_top": 0.1859,
+      "h_spectral": 0.585272,
+      "h_risk": 0.6364
+    },
+    {
+      "filename": "097",
+      "domain": "Blog",
+      "wer": 0.4286,
+      "wer_out": 0.6667,
+      "bleu_out": 0.894,
+      "e_sem_top": 0.4254,
+      "h_spectral": 0.654238,
+      "h_risk": 0.7311
+    },
+    {
+      "filename": "098",
+      "domain": "Blog",
+      "wer": 0.6316,
+      "wer_out": 0.76,
+      "bleu_out": 0.8901,
+      "e_sem_top": 0.3514,
+      "h_spectral": 0.654266,
+      "h_risk": 0.7312
+    },
+    {
+      "filename": "099",
+      "domain": "Blog",
+      "wer": 0.4468,
+      "wer_out": 1.125,
+      "bleu_out": 0.838,
+      "e_sem_top": 0.0624,
+      "h_spectral": 0.523533,
+      "h_risk": 0.5515
+    },
+    {
+      "filename": "100",
+      "domain": "Blog",
+      "wer": 0.5357,
+      "wer_out": 0.6538,
+      "bleu_out": 0.6612,
+      "e_sem_top": 0.0631,
+      "h_spectral": 0.466393,
+      "h_risk": 0.473
+    },
+    {
+      "filename": "101",
+      "domain": "Blog",
+      "wer": 0.625,
+      "wer_out": 0.9259,
+      "bleu_out": 0.9893,
+      "e_sem_top": 0.2887,
+      "h_spectral": 0.747394,
+      "h_risk": 0.8591
+    },
+    {
+      "filename": "102",
+      "domain": "Blog",
+      "wer": 0.5833,
+      "wer_out": 0.7857,
+      "bleu_out": 0.9234,
+      "e_sem_top": 0.4506,
+      "h_spectral": 0.84596,
+      "h_risk": 0.9945
+    },
+    {
+      "filename": "103",
+      "domain": "Blog",
+      "wer": 1.2105,
+      "wer_out": 1.8333,
+      "bleu_out": 0.9896,
+      "e_sem_top": 0.3117,
+      "h_spectral": 0.680462,
+      "h_risk": 0.7672
+    },
+    {
+      "filename": "104",
+      "domain": "Blog",
+      "wer": 0.3333,
+      "wer_out": 0.7273,
+      "bleu_out": 0.97,
+      "e_sem_top": 0.3427,
+      "h_spectral": 0.577723,
+      "h_risk": 0.626
+    },
+    {
+      "filename": "105",
+      "domain": "Blog",
+      "wer": 0.4222,
+      "wer_out": 0.3902,
+      "bleu_out": 0.5021,
+      "e_sem_top": 0.0323,
+      "h_spectral": 0.455436,
+      "h_risk": 0.458
+    },
+    {
+      "filename": "106",
+      "domain": "Blog",
+      "wer": 0.9231,
+      "wer_out": 2.0455,
+      "bleu_out": 0.9716,
+      "e_sem_top": 0.2832,
+      "h_spectral": 0.386747,
+      "h_risk": 0.3636
+    },
+    {
+      "filename": "107",
+      "domain": "Blog",
+      "wer": 0.875,
+      "wer_out": 0.8824,
+      "bleu_out": 0.9922,
+      "e_sem_top": 0.5855,
+      "h_spectral": 0.593794,
+      "h_risk": 0.6481
+    },
+    {
+      "filename": "108",
+      "domain": "Blog",
+      "wer": 0.8,
+      "wer_out": 1.0,
+      "bleu_out": 0.9888,
+      "e_sem_top": 0.4174,
+      "h_spectral": 0.453756,
+      "h_risk": 0.4557
+    },
+    {
+      "filename": "109",
+      "domain": "Blog",
+      "wer": 0.5455,
+      "wer_out": 0.6667,
+      "bleu_out": 0.9134,
+      "e_sem_top": 0.1518,
+      "h_spectral": 0.326022,
+      "h_risk": 0.2802
+    },
+    {
+      "filename": "110",
+      "domain": "Blog",
+      "wer": 0.5556,
+      "wer_out": 0.4286,
+      "bleu_out": 0.6592,
+      "e_sem_top": 0.3021,
+      "h_spectral": 0.525411,
+      "h_risk": 0.5541
+    },
+    {
+      "filename": "111",
+      "domain": "Blog",
+      "wer": 0.6071,
+      "wer_out": 0.8387,
+      "bleu_out": 0.8988,
+      "e_sem_top": 0.201,
+      "h_spectral": 0.59227,
+      "h_risk": 0.646
+    },
+    {
+      "filename": "112",
+      "domain": "Blog",
+      "wer": 0.5714,
+      "wer_out": 1.2,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.1607,
+      "h_spectral": 0.578652,
+      "h_risk": 0.6273
+    },
+    {
+      "filename": "113",
+      "domain": "Blog",
+      "wer": 0.6061,
+      "wer_out": 0.8462,
+      "bleu_out": 0.9762,
+      "e_sem_top": 0.2667,
+      "h_spectral": 0.391949,
+      "h_risk": 0.3708
+    },
+    {
+      "filename": "114",
+      "domain": "Blog",
+      "wer": 0.7143,
+      "wer_out": 1.4444,
+      "bleu_out": 0.983,
+      "e_sem_top": 0.1711,
+      "h_spectral": 0.547337,
+      "h_risk": 0.5843
+    },
+    {
+      "filename": "115",
+      "domain": "Blog",
+      "wer": 0.2857,
+      "wer_out": 0.6667,
+      "bleu_out": 0.8687,
+      "e_sem_top": 0.1778,
+      "h_spectral": 0.551257,
+      "h_risk": 0.5896
+    },
+    {
+      "filename": "116",
+      "domain": "Blog",
+      "wer": 1.0,
+      "wer_out": 12.0,
+      "bleu_out": 0.9963,
+      "e_sem_top": 1.0667,
+      "h_spectral": 0.734742,
+      "h_risk": 0.8417
+    },
+    {
+      "filename": "117",
+      "domain": "Blog",
+      "wer": 0.375,
+      "wer_out": 0.8,
+      "bleu_out": 0.94,
+      "e_sem_top": 0.5693,
+      "h_spectral": 0.590247,
+      "h_risk": 0.6432
+    },
+    {
+      "filename": "118",
+      "domain": "Blog",
+      "wer": 1.0,
+      "wer_out": 0.931,
+      "bleu_out": 0.9936,
+      "e_sem_top": 0.7594,
+      "h_spectral": 0.72512,
+      "h_risk": 0.8285
+    },
+    {
+      "filename": "119",
+      "domain": "Blog",
+      "wer": 0.8,
+      "wer_out": 2.2857,
+      "bleu_out": 0.9772,
+      "e_sem_top": 0.8622,
+      "h_spectral": 0.628502,
+      "h_risk": 0.6958
+    },
+    {
+      "filename": "120",
+      "domain": "Blog",
+      "wer": 0.5714,
+      "wer_out": 0.8571,
+      "bleu_out": 0.7984,
+      "e_sem_top": 0.3952,
+      "h_spectral": 0.590663,
+      "h_risk": 0.6438
+    },
+    {
+      "filename": "121",
+      "domain": "Blog",
+      "wer": 0.7273,
+      "wer_out": 0.9286,
+      "bleu_out": 0.9911,
+      "e_sem_top": 0.6941,
+      "h_spectral": 0.590367,
+      "h_risk": 0.6434
+    },
+    {
+      "filename": "122",
+      "domain": "Blog",
+      "wer": 1.0,
+      "wer_out": 1.6667,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.2234,
+      "h_spectral": 0.403823,
+      "h_risk": 0.3871
+    },
+    {
+      "filename": "123",
+      "domain": "Blog",
+      "wer": 0.8571,
+      "wer_out": 1.125,
+      "bleu_out": 0.9551,
+      "e_sem_top": 0.1308,
+      "h_spectral": 0.643732,
+      "h_risk": 0.7167
+    },
+    {
+      "filename": "124",
+      "domain": "Blog",
+      "wer": 0.3333,
+      "wer_out": 1.0714,
+      "bleu_out": 0.9843,
+      "e_sem_top": 0.2469,
+      "h_spectral": 0.566045,
+      "h_risk": 0.61
+    },
+    {
+      "filename": "125",
+      "domain": "Blog",
+      "wer": 0.6667,
+      "wer_out": 1.0,
+      "bleu_out": 0.9636,
+      "e_sem_top": 0.5494,
+      "h_spectral": 0.531309,
+      "h_risk": 0.5622
+    },
+    {
+      "filename": "126",
+      "domain": "Play",
+      "wer": 0.7778,
+      "wer_out": 1.0,
+      "bleu_out": 1.0,
+      "e_sem_top": 0.7241,
+      "h_spectral": 0.626406,
+      "h_risk": 0.6929
+    },
+    {
+      "filename": "127",
+      "domain": "Play",
+      "wer": 0.6667,
+      "wer_out": 0.7368,
+      "bleu_out": 0.9662,
+      "e_sem_top": 0.4467,
+      "h_spectral": 0.563723,
+      "h_risk": 0.6068
+    },
+    {
+      "filename": "128",
+      "domain": "Play",
+      "wer": 0.8,
+      "wer_out": 0.85,
+      "bleu_out": 0.9795,
+      "e_sem_top": 0.6276,
+      "h_spectral": 0.603688,
+      "h_risk": 0.6617
+    },
+    {
+      "filename": "129",
+      "domain": "Play",
+      "wer": 0.4286,
+      "wer_out": 1.4,
+      "bleu_out": 0.8124,
+      "e_sem_top": 0.2694,
+      "h_spectral": 0.506049,
+      "h_risk": 0.5275
+    },
+    {
+      "filename": "130",
+      "domain": "Play",
+      "wer": 0.0909,
+      "wer_out": 0.2667,
+      "bleu_out": 0.3264,
+      "e_sem_top": 0.0193,
+      "h_spectral": 0.478506,
+      "h_risk": 0.4897
+    },
+    {
+      "filename": "131",
+      "domain": "Play",
+      "wer": 0.8,
+      "wer_out": 0.8333,
+      "bleu_out": 0.9794,
+      "e_sem_top": 0.3047,
+      "h_spectral": 0.569621,
+      "h_risk": 0.6149
+    },
+    {
+      "filename": "132",
+      "domain": "Play",
+      "wer": 0.9091,
+      "wer_out": 1.2308,
+      "bleu_out": 0.9931,
+      "e_sem_top": 0.4003,
+      "h_spectral": 0.63894,
+      "h_risk": 0.7101
+    },
+    {
+      "filename": "133",
+      "domain": "Play",
+      "wer": 0.8571,
+      "wer_out": 1.8,
+      "bleu_out": 0.9898,
+      "e_sem_top": 0.7356,
+      "h_spectral": 0.849942,
+      "h_risk": 1.0
+    },
+    {
+      "filename": "134",
+      "domain": "Play",
+      "wer": 0.6,
+      "wer_out": 1.7143,
+      "bleu_out": 0.9691,
+      "e_sem_top": 0.5601,
+      "h_spectral": 0.653571,
+      "h_risk": 0.7302
+    },
+    {
+      "filename": "135",
+      "domain": "Play",
+      "wer": 0.3529,
+      "wer_out": 0.875,
+      "bleu_out": 0.9886,
+      "e_sem_top": 0.3933,
+      "h_spectral": 0.535355,
+      "h_risk": 0.5678
+    },
+    {
+      "filename": "136",
+      "domain": "Play",
+      "wer": 0.2778,
+      "wer_out": 0.8462,
+      "bleu_out": 0.9899,
+      "e_sem_top": 0.2735,
+      "h_spectral": 0.419832,
+      "h_risk": 0.4091
+    },
+    {
+      "filename": "137",
+      "domain": "Play",
+      "wer": 0.6,
+      "wer_out": 0.65,
+      "bleu_out": 0.8806,
+      "e_sem_top": 0.1392,
+      "h_spectral": 0.617511,
+      "h_risk": 0.6807
+    },
+    {
+      "filename": "138",
+      "domain": "Play",
+      "wer": 0.5,
+      "wer_out": 0.931,
+      "bleu_out": 0.9939,
+      "e_sem_top": 0.6776,
+      "h_spectral": 0.603396,
+      "h_risk": 0.6613
+    },
+    {
+      "filename": "139",
+      "domain": "Play",
+      "wer": 0.7647,
+      "wer_out": 0.9062,
+      "bleu_out": 0.8914,
+      "e_sem_top": 0.1015,
+      "h_spectral": 0.597892,
+      "h_risk": 0.6537
+    },
+    {
+      "filename": "140",
+      "domain": "Play",
+      "wer": 0.4444,
+      "wer_out": 1.0,
+      "bleu_out": 0.838,
+      "e_sem_top": 0.0896,
+      "h_spectral": 0.443332,
+      "h_risk": 0.4414
+    },
+    {
+      "filename": "141",
+      "domain": "Play",
+      "wer": 0.9231,
+      "wer_out": 0.8889,
+      "bleu_out": 0.9744,
+      "e_sem_top": 0.4752,
+      "h_spectral": 0.628089,
+      "h_risk": 0.6952
+    },
+    {
+      "filename": "142",
+      "domain": "Play",
+      "wer": 0.5,
+      "wer_out": 1.0,
+      "bleu_out": 0.9838,
+      "e_sem_top": 0.2323,
+      "h_spectral": 0.683992,
+      "h_risk": 0.772
+    }
+  ]
+}

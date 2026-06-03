@@ -1,0 +1,29 @@
+{
+  "filename": "076",
+  "neapolitan_text": "co chell’antica e semprece manera!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con quella antica e semplice maniera!",
+    "Con quel modo antico e semplice!",
+    "Con quella maniera antica e sempre semplice!"
+  ],
+  "inputs": [
+    "Con quella antica e semplice maniera!",
+    "Con quel modo antico e semplice!",
+    "Con quella maniera antica e sempre semplice!",
+    "che l'antica e semplice maniera.",
+    "che l'antica e semplice maniera.",
+    "che l'antica e semplice maniera."
+  ],
+  "responses": [
+    "Con quella vecchia e semplicissima modalità! (Traduzione letterale)",
+    "Con quell'antico e semplicissimo stile! (Traduzione letterale)",
+    "Con quell'antico stile semplicemente efficace!",
+    "La frase \"che l'antica e semplice maniera\" implica la descrizione di un stile antico ed elementare.",
+    "La frase \"che l'antica e semplice maniera\" implica la descrizione di un stile antico ed elementare.",
+    "La frase \"che l'antica e semplice maniera\" implica la descrizione di un stile antico ed elementare."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.3796,
+  "wer_gt1": 0.666667
+}

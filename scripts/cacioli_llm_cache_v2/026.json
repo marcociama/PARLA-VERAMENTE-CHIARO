@@ -1,0 +1,29 @@
+{
+  "filename": "026",
+  "neapolitan_text": "Tu buscie nun ne saie dicere, e chisto è 'o difetto tuio.",
+  "domain": "Play",
+  "gt_variants": [
+    "Tu bugie non ne sai dire, e questo è il difetto tuo",
+    "Tu menzogne non ne sai dire, e questo è il difetto tuo",
+    "Tu frottole non le sai dire, e questo è il difetto tuo."
+  ],
+  "inputs": [
+    "Tu bugie non ne sai dire, e questo è il difetto tuo",
+    "Tu menzogne non ne sai dire, e questo è il difetto tuo",
+    "Tu frottole non le sai dire, e questo è il difetto tuo.",
+    "Tu, Bucci, non ne sai riuscire. E questo è il tuo difetto.",
+    "Tu, Buccio, non ne sai riuscire. È questo il difetto tuo?",
+    "Tu Buccia non ne sai riuscire, è questo il difetto tuo?"
+  ],
+  "responses": [
+    "La frase implica che la persona non riesce a riconoscere quando sta mentendo, e ciò viene indicato come il suo difetto.",
+    "La tua menzogna non sai riconoscerla, e questo è il tuo difetto.",
+    "La frase implica che la capacità di esprimersi correttamente sulle frottole (una tipica canzone popolare italiana) è un difetto dell'interlocutore.",
+    "La dichiarazione implica che Bucci non riesce a fare qualcosa e ciò è considerato il suo difetto.",
+    "La frase implica che Buccio non riesce a fare qualcosa e chiede se questa incapacità sia un suo difetto.",
+    "La frase implica che l'individuo non riesce a compiere una determinata azione (bucciare), e ciò sembra essere il suo difetto."
+  ],
+  "wer": 0.416667,
+  "u_asr": 0.4825,
+  "wer_gt1": 0.416667
+}

@@ -1,0 +1,67 @@
+{
+  "transcription": "Non una, ma cento volte me l'avessi fatta uccidere.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 0.922,
+      "end": 1.103,
+      "confidence": 0.583
+    },
+    {
+      "word": "una,",
+      "start": 1.244,
+      "end": 1.425,
+      "confidence": 0.674
+    },
+    {
+      "word": "ma",
+      "start": 1.466,
+      "end": 1.647,
+      "confidence": 0.771
+    },
+    {
+      "word": "cento",
+      "start": 1.687,
+      "end": 1.989,
+      "confidence": 0.979
+    },
+    {
+      "word": "volte",
+      "start": 2.05,
+      "end": 2.412,
+      "confidence": 0.823
+    },
+    {
+      "word": "me",
+      "start": 2.473,
+      "end": 2.574,
+      "confidence": 0.618
+    },
+    {
+      "word": "l'avessi",
+      "start": 2.634,
+      "end": 3.138,
+      "confidence": 0.7
+    },
+    {
+      "word": "fatta",
+      "start": 3.198,
+      "end": 3.48,
+      "confidence": 0.989
+    },
+    {
+      "word": "uccidere.",
+      "start": 3.52,
+      "end": 4.004,
+      "confidence": 0.579
+    }
+  ],
+  "top3": [
+    "Non una, ma cento volte me l'avessi fatta uccidere.",
+    "No una, ma cento volte me l'avessi fatta uccidere.",
+    "No una, ma cento volte me l'avessi fatta uccidere."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7462222222222222,
+  "u_asr": 0.25377777777777777
+}

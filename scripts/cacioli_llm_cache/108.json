@@ -1,0 +1,29 @@
+{
+  "filename": "108",
+  "neapolitan_text": "Chi 'o pparla e addò?​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Chi lo parla e dove?",
+    "Chi è che lo parla e in quali luoghi?",
+    "Da chi viene parlato e dove?"
+  ],
+  "inputs": [
+    "Chi lo parla e dove?",
+    "Chi è che lo parla e in quali luoghi?",
+    "Da chi viene parlato e dove?",
+    "Io parlo e addo.",
+    "Chi lo parla è addome.",
+    "Chi lo parla è addome."
+  ],
+  "responses": [
+    "Lingua: Italiano",
+    "Il parlante non è specificato nel testo fornito. In riferimento ai luoghi, il testo non contiene informazioni su di essi.",
+    "Il testo non specifica chi viene parlato, ma il luogo è implicito nella parola \"da\". In questo caso, il luogo è quello in cui si trova la persona a cui si riferisce il testo.",
+    "Tu stai facendo il canto, ossia cantando le parole \"io parlo e addo\".",
+    "L'espressione \"Chi lo parla è addome\" non ha un significato chiaro in italiano standard. Potrebbe essere una frase creativa o umoristica, ma non è facile capire il suo senso preciso senza contesto aggiuntivo.",
+    "L'espressione \"Chi lo parla è addome\" non ha un significato chiaro in italiano standard. Potrebbe essere una frase creativa o umoristica, ma non è facile capire il suo senso preciso senza contesto aggiuntivo."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.90625,
+  "wer_gt1": 0.8
+}

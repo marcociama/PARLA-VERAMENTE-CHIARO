@@ -1,0 +1,29 @@
+{
+  "filename": "018",
+  "neapolitan_text": "Quanno se cunosce 'o bbene e nun se pò avé!",
+  "domain": "Play",
+  "gt_variants": [
+    "Quando si conosce il bene e non si può avere",
+    "Quando si conosce il bene e non si può ottenere",
+    "Quando si conosce il bene e non lo si può ottenere."
+  ],
+  "inputs": [
+    "Quando si conosce il bene e non si può avere",
+    "Quando si conosce il bene e non si può ottenere",
+    "Quando si conosce il bene e non lo si può ottenere.",
+    "Quando si conosce bene e non si può avere.",
+    "Quando si conosce bene e non si può avere.",
+    "Quando si conosce bene e non si può avere."
+  ],
+  "responses": [
+    "La frase indica che quando si è a conoscenza del bene, ma non si riesce ad acquisirlo, c'è una situazione di disagio o di dissapori.",
+    "Conoscere il bene ma non poterlo ottenere",
+    "La frase indica che quando si è a conoscenza del bene, ma non si riesce ad ottenerlo, significa che ci sono delle circostanze o limitazioni che ne impediscono l'ottenimento.",
+    "La frase indica che quando qualcosa è conosciuto bene, non può essere acquisito o ottenuto ulteriormente.",
+    "La frase indica che quando qualcosa è conosciuto bene, non può essere acquisito o ottenuto ulteriormente.",
+    "La frase indica che quando qualcosa è conosciuto bene, non può essere acquisito o ottenuto ulteriormente."
+  ],
+  "wer": 0.2,
+  "u_asr": 0.337556,
+  "wer_gt1": 0.2
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "121",
+  "neapolitan_text": "Chiù 'a capa è vacante, chiù 'a lengua è longa.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Più la testa è vuota, più la lingua è lunga.",
+    "Più la mente è vuota, più la lingua è lunga.",
+    "Più la testa è vacante, tanto più la lingua è lunga."
+  ],
+  "inputs": [
+    "Più la testa è vuota, più la lingua è lunga.",
+    "Più la mente è vuota, più la lingua è lunga.",
+    "Più la testa è vacante, tanto più la lingua è lunga.",
+    "Chi ha capo è vacante, chi ha lengue è lungo.",
+    "Chi ha capo è vacante, chi ha lengue è lungo.",
+    "Chi ha capo è vacante, chi ha lengue è lungo."
+  ],
+  "responses": [
+    "La frase implica che una persona più ignorante o meno informata è probabilmente più facile a parlare o avere opinioni su argomenti di cui non ha conoscenza profonda.",
+    "Quando la mente è priva di pensieri, la lingua diventa più eloquente o articolata.",
+    "La frase implica che quando una persona non ha idee o pensieri (testa vuota), parla molto (lingua lunga).",
+    "La posizione del capo è vuota e la lingua è lunga. (L'affermazione fa riferimento a un uccello, dove \"capo\" indica il becco e \"lingua\" indica il collo.)",
+    "La posizione del capo è vuota e la lingua è lunga. (L'affermazione fa riferimento a un uccello, dove \"capo\" indica il becco e \"lingua\" indica il collo.)",
+    "La posizione del capo è vuota e la lingua è lunga. (L'affermazione fa riferimento a un uccello, dove \"capo\" indica il becco e \"lingua\" indica il collo.)"
+  ],
+  "wer": 0.727273,
+  "u_asr": 0.4235,
+  "wer_gt1": 0.8
+}

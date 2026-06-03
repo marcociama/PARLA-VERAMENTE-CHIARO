@@ -1,0 +1,199 @@
+{
+  "transcription": "Tutto l'anno che sono stato a Napoli, ho cercato tutte le maniere, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?",
+  "words": [
+    {
+      "word": "Tutto",
+      "start": 1.273,
+      "end": 1.494,
+      "confidence": 0.8
+    },
+    {
+      "word": "l'anno",
+      "start": 1.634,
+      "end": 1.975,
+      "confidence": 0.814
+    },
+    {
+      "word": "che",
+      "start": 2.015,
+      "end": 2.095,
+      "confidence": 0.71
+    },
+    {
+      "word": "sono",
+      "start": 2.175,
+      "end": 2.375,
+      "confidence": 0.865
+    },
+    {
+      "word": "stato",
+      "start": 2.435,
+      "end": 2.656,
+      "confidence": 0.804
+    },
+    {
+      "word": "a",
+      "start": 2.696,
+      "end": 2.736,
+      "confidence": 0.869
+    },
+    {
+      "word": "Napoli,",
+      "start": 2.836,
+      "end": 3.297,
+      "confidence": 0.82
+    },
+    {
+      "word": "ho",
+      "start": 3.838,
+      "end": 4.038,
+      "confidence": 0.304
+    },
+    {
+      "word": "cercato",
+      "start": 4.098,
+      "end": 4.579,
+      "confidence": 0.86
+    },
+    {
+      "word": "tutte",
+      "start": 4.679,
+      "end": 4.94,
+      "confidence": 0.782
+    },
+    {
+      "word": "le",
+      "start": 4.96,
+      "end": 5.02,
+      "confidence": 0.188
+    },
+    {
+      "word": "maniere,",
+      "start": 5.1,
+      "end": 5.641,
+      "confidence": 0.779
+    },
+    {
+      "word": "ma",
+      "start": 6.102,
+      "end": 6.182,
+      "confidence": 0.876
+    },
+    {
+      "word": "questa",
+      "start": 6.222,
+      "end": 6.522,
+      "confidence": 0.51
+    },
+    {
+      "word": "è",
+      "start": 6.542,
+      "end": 6.563,
+      "confidence": 0.739
+    },
+    {
+      "word": "sempre",
+      "start": 6.723,
+      "end": 7.083,
+      "confidence": 0.844
+    },
+    {
+      "word": "vacante.",
+      "start": 7.143,
+      "end": 7.745,
+      "confidence": 0.671
+    },
+    {
+      "word": "Come",
+      "start": 8.606,
+      "end": 8.846,
+      "confidence": 0.748
+    },
+    {
+      "word": "aveva",
+      "start": 8.886,
+      "end": 9.167,
+      "confidence": 0.881
+    },
+    {
+      "word": "fatto",
+      "start": 9.267,
+      "end": 9.487,
+      "confidence": 0.489
+    },
+    {
+      "word": "per",
+      "start": 9.508,
+      "end": 9.608,
+      "confidence": 0.444
+    },
+    {
+      "word": "trarsi",
+      "start": 9.828,
+      "end": 10.329,
+      "confidence": 0.87
+    },
+    {
+      "word": "in",
+      "start": 10.79,
+      "end": 10.93,
+      "confidence": 0.816
+    },
+    {
+      "word": "una",
+      "start": 11.09,
+      "end": 11.25,
+      "confidence": 0.471
+    },
+    {
+      "word": "società",
+      "start": 11.311,
+      "end": 11.711,
+      "confidence": 0.824
+    },
+    {
+      "word": "segreta",
+      "start": 11.791,
+      "end": 12.412,
+      "confidence": 0.96
+    },
+    {
+      "word": "da",
+      "start": 12.553,
+      "end": 12.613,
+      "confidence": 0.856
+    },
+    {
+      "word": "gente",
+      "start": 12.813,
+      "end": 13.154,
+      "confidence": 0.851
+    },
+    {
+      "word": "che",
+      "start": 13.194,
+      "end": 13.294,
+      "confidence": 0.728
+    },
+    {
+      "word": "parla",
+      "start": 13.434,
+      "end": 13.795,
+      "confidence": 0.888
+    },
+    {
+      "word": "napolitano?",
+      "start": 13.875,
+      "end": 14.476,
+      "confidence": 0.454
+    }
+  ],
+  "top3": [
+    "Tutto l'anno che sono stato a Napoli, ho cercato tutte le maniere, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?",
+    "Per tutto l'anno che sono stato a Napoli, ho cercato di tutto in maniera, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?",
+    "Per tutto l'anno che sono stato a Napoli, ho cercato tutte le maniere, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.7262903225806454,
+  "u_asr": 0.2737096774193546
+}

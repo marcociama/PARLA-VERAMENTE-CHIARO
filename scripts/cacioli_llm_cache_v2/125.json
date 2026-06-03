@@ -1,0 +1,29 @@
+{
+  "filename": "125",
+  "neapolitan_text": "Chi bella vo' paré', pene e guaie adda' paté'.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Chi bella vuol apparire, pene e guai deve patire.",
+    "Chi vuol sembrare bella, deve soffrire pene e guai.",
+    "Chi desidera apparire bella, deve sopportare pene e guai."
+  ],
+  "inputs": [
+    "Chi bella vuol apparire, pene e guai deve patire.",
+    "Chi vuol sembrare bella, deve soffrire pene e guai.",
+    "Chi desidera apparire bella, deve sopportare pene e guai.",
+    "Chi bello bovarei, pene guai andabate.",
+    "Chi bello bovarei, pene guai andapate.",
+    "Chi bello bovarei, pene guai andabate."
+  ],
+  "responses": [
+    "Colui che desidera apparire bello dovrà subire dolori e problemi.",
+    "Quando si desidera apparire attraente, è necessario subire dolori e problemi.",
+    "Per apparire bella, è necessario sopportare sofferenze e difficoltà.",
+    "Colui che si diverte a fare scherzi maliziosi, sarà colpito da molti problemi.",
+    "Colui che si diverte a fare scherzi maliziosi, si procura problemi per sé stesso.",
+    "Colui che si diverte a fare scherzi maliziosi, sarà colpito da molti problemi."
+  ],
+  "wer": 0.666667,
+  "u_asr": 0.174833,
+  "wer_gt1": 0.666667
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "008",
+  "neapolitan_text": "Qualunque femmena, doppo vinticinc'anne che ha passato vicino a te, se mette in agonia.",
+  "domain": "Play",
+  "gt_variants": [
+    "Perché avevo speso tutta la giornata a studiare per l'esame, dopo ero troppo stanco per celebrare che avevo finito",
+    "Poiché avevo speso tutta la giornata a studiare per l'esame, dopo ero troppo stanco per festeggiare che avevo finito",
+    "Poiché avevo impiegato tutta la giornata a studiare per l'esame, dopo ero troppo stanco per festeggiare che avevo finito."
+  ],
+  "inputs": [
+    "Perché avevo speso tutta la giornata a studiare per l'esame, dopo ero troppo stanco per celebrare che avevo finito",
+    "Poiché avevo speso tutta la giornata a studiare per l'esame, dopo ero troppo stanco per festeggiare che avevo finito",
+    "Poiché avevo impiegato tutta la giornata a studiare per l'esame, dopo ero troppo stanco per festeggiare che avevo finito.",
+    "Perché aveva speso tutta la giornata a studiare per l'esame? Era troppo stanco per celebrare che era finito.",
+    "Perché aveva speso tutta la giornata a studiare per l'esame? Era troppo stanco per celebrare che era finito.",
+    "Perché aveva speso tutta la giornata a studiare per l'esame? Era troppo stanco per celebrare che era finito."
+  ],
+  "responses": [
+    "Ho trascorso tutto il giorno a studiare per l'esame, ma alla fine sono stato troppo stanco per festeggiare che avessi terminato.",
+    "Ho studiato tutto il giorno per l'esame e quindi ero troppo stanco per festeggiare la fine.",
+    "Ho studiato tutto il giorno per l'esame e sono stato troppo stanco per festeggiare la fine.",
+    "Lui ha trascorso tutto il giorno a studiare per l'esame, ma era troppo stanco per festeggiare che fosse terminato. (In italiano)",
+    "Lui ha trascorso tutto il giorno a studiare per l'esame, ma era troppo stanco per festeggiare che fosse terminato. (In italiano)",
+    "Lui ha trascorso tutto il giorno a studiare per l'esame, ma era troppo stanco per festeggiare che fosse terminato. (In italiano)"
+  ],
+  "wer": 0.315789,
+  "u_asr": 0.463167,
+  "wer_gt1": 0.315789
+}

@@ -1,0 +1,61 @@
+{
+  "transcription": "A che le chi? A che le chi?",
+  "words": [
+    {
+      "word": "A",
+      "start": 0.604,
+      "end": 0.644,
+      "confidence": 0.916
+    },
+    {
+      "word": "che",
+      "start": 0.745,
+      "end": 0.885,
+      "confidence": 0.847
+    },
+    {
+      "word": "le",
+      "start": 0.966,
+      "end": 1.026,
+      "confidence": 0.46
+    },
+    {
+      "word": "chi?",
+      "start": 1.147,
+      "end": 1.328,
+      "confidence": 0.505
+    },
+    {
+      "word": "A",
+      "start": 1.993,
+      "end": 2.013,
+      "confidence": 0.922
+    },
+    {
+      "word": "che",
+      "start": 2.113,
+      "end": 2.214,
+      "confidence": 0.888
+    },
+    {
+      "word": "le",
+      "start": 2.294,
+      "end": 2.335,
+      "confidence": 0.378
+    },
+    {
+      "word": "chi?",
+      "start": 2.455,
+      "end": 2.657,
+      "confidence": 0.365
+    }
+  ],
+  "top3": [
+    "A che le chi? A che le chi?",
+    "A che le chiedi? A che le chiedi?",
+    "A che l'acchi? A che l'acchi?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.660125,
+  "u_asr": 0.33987500000000004
+}

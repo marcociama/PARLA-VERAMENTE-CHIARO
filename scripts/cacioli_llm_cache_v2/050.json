@@ -1,0 +1,29 @@
+{
+  "filename": "050",
+  "neapolitan_text": "a ttiempo che sguigliaje lo Sciatamone.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Al tempo che scivolò via lo Sciatamone",
+    "Al tempo che sgusciò lo Sciatamone",
+    "Ai tempi che scappò lo Sciatamone"
+  ],
+  "inputs": [
+    "Al tempo che scivolò via lo Sciatamone",
+    "Al tempo che sgusciò lo Sciatamone",
+    "Ai tempi che scappò lo Sciatamone",
+    "a tempo che squagliai lo schiatto a mone.",
+    "a tempo che squagliai lo schiatto a mone.",
+    "a tempo che squagliai lo schiatto a mone."
+  ],
+  "responses": [
+    "Alla stessa volta, lo Sciatamone scorrevia via. (L'affermazione indica un evento in corso.)",
+    "Alla stessa volta che si verificò lo Sciatamone (evento storico italiano del 1848)",
+    "Quando Sciatamone fuggì (alludendo alla leggenda della sua fuga)",
+    "La frase \"a tempo che squagliai lo schiatto a mone\" implica che qualcosa deve accadere in modo da far uscire fuori qualcuno o qualcosa dalla sua posizione o situazione attuale, con riferimento al suono del gioco della moneta.",
+    "La frase \"a tempo che squagliai lo schiatto a mone\" implica che qualcosa deve accadere in modo da far uscire fuori qualcuno o qualcosa dalla sua posizione o situazione attuale, con riferimento al suono del gioco della moneta.",
+    "La frase \"a tempo che squagliai lo schiatto a mone\" implica che qualcosa deve accadere in modo da far uscire fuori qualcuno o qualcosa dalla sua posizione o situazione attuale, con riferimento al suono del gioco della moneta."
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.379375,
+  "wer_gt1": 0.857143
+}

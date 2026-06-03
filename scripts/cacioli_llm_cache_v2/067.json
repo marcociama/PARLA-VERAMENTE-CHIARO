@@ -1,0 +1,29 @@
+{
+  "filename": "067",
+  "neapolitan_text": "Le ffemmene, addorose de colata,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Le femmine, odorose di bucato",
+    "Le donne, profumate di bucato",
+    "Le donne, che sanno di bucato"
+  ],
+  "inputs": [
+    "Le femmine, odorose di bucato",
+    "Le donne, profumate di bucato",
+    "Le donne, che sanno di bucato",
+    "E femmine, addorso e collate.",
+    "E femmine, addorso e collate.",
+    "e femmina d'orso e collag."
+  ],
+  "responses": [
+    "La femmina ha un odore simile a quello del bucato.",
+    "La donna ha un odore di bucato, cioè è fresca e pulita.",
+    "La donna che sa fare il bucato (lavare i panni)",
+    "Le parole indicano che si tratta di uova di gallina.",
+    "Le parole indicano che si tratta di uova di gallina.",
+    "La frase \"e femmina d'orso e collag\" indica che l'oggetto o la persona descritta è sia una orsa femmina, sia di colore grigio (collag è un termine dialettale italiano per indicare il colore grigio)."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.5392,
+  "wer_gt1": 0.8
+}

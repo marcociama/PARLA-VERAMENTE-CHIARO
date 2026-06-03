@@ -1,0 +1,29 @@
+{
+  "filename": "005",
+  "neapolitan_text": "E ancora he 'a correre, ancora he 'a iettà 'o sango a capi comme se campa e se prucede 'a galantomo!",
+  "domain": "Play",
+  "gt_variants": [
+    "E ancora devi correre, devi ancora buttare il sangue e capire come si campa, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come si vive, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come vivere, e si procede a galantuomo."
+  ],
+  "inputs": [
+    "E ancora devi correre, devi ancora buttare il sangue e capire come si campa, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come si vive, e si procede a galantuomo",
+    "E devi ancora correre, devi ancora sacrificarti e capire come vivere, e si procede a galantuomo.",
+    "Ancora è a correre, ancora c'è il tuo sangue a capire come si campa e si procede a gallantovere.",
+    "Ancora a correre, ancora a dare il tuo sangue, a capire come si campa e si procede a galantuolo.",
+    "Ancora è a correre, ancora c'è il tuo sangue a capire come si campa e si procede a gallantovere."
+  ],
+  "responses": [
+    "La frase sembra essere un'affermazione che enfatizza l'importanza di continuare ad impegnarsi, sforzarsi e dimostrare coraggio e gentilezza. In altre parole, significa \"devi continuare a lavorare duramente, a dare il tuo meglio e a comportarti come un gentiluomo\".",
+    "La frase implica che ci si deve impegnare percorrendo la strada della vita con determinazione, sacrificando se necessario, e agendo sempre in modo gentiluomo.",
+    "La frase implica che per proseguire con dignità e onore, è necessario continuare ad affrontare i propri obiettivi con determinazione, sacrificio e saggezza.",
+    "Questa frase sembra essere un estratto di una poesia o di una letteratura che esprime la passione e l'ardore di qualcuno per qualcosa, come ad esempio per una competizione o per un amore. Non è possibile fornire una risposta precisa senza il contesto completo della frase.",
+    "Questa frase fa riferimento alla passione e all'impegno di un uomo verso la sua causa o verso qualcosa che crede profondamente. Può essere interpretata come una dedizione totale, senza riserve, a correre verso i propri obiettivi e a dare il proprio impegno fino in fondo.",
+    "Questa frase sembra essere un estratto di una poesia o di una letteratura che esprime la passione e l'ardore di qualcuno per qualcosa, come ad esempio per una competizione o per un amore. Non è possibile fornire una risposta precisa senza il contesto completo della frase."
+  ],
+  "wer": 0.473684,
+  "u_asr": 0.404105,
+  "wer_gt1": 0.473684
+}

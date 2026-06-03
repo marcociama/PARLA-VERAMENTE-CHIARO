@@ -1,0 +1,115 @@
+{
+  "transcription": "Merite Napola, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli.",
+  "words": [
+    {
+      "word": "Merite",
+      "start": 0.91,
+      "end": 1.211,
+      "confidence": 0.868
+    },
+    {
+      "word": "Napola,",
+      "start": 1.291,
+      "end": 1.732,
+      "confidence": 0.825
+    },
+    {
+      "word": "dite,",
+      "start": 1.772,
+      "end": 2.233,
+      "confidence": 0.771
+    },
+    {
+      "word": "merite",
+      "start": 2.253,
+      "end": 2.574,
+      "confidence": 0.741
+    },
+    {
+      "word": "la",
+      "start": 2.614,
+      "end": 2.674,
+      "confidence": 0.643
+    },
+    {
+      "word": "gente,",
+      "start": 2.874,
+      "end": 3.455,
+      "confidence": 0.894
+    },
+    {
+      "word": "è",
+      "start": 3.576,
+      "end": 3.636,
+      "confidence": 0.489
+    },
+    {
+      "word": "una",
+      "start": 3.696,
+      "end": 3.776,
+      "confidence": 0.596
+    },
+    {
+      "word": "comune",
+      "start": 3.816,
+      "end": 4.217,
+      "confidence": 0.865
+    },
+    {
+      "word": "di",
+      "start": 4.237,
+      "end": 5.98,
+      "confidence": 0.433
+    },
+    {
+      "word": "3.860",
+      "start": 6.121,
+      "end": 6.662,
+      "confidence": 0.874
+    },
+    {
+      "word": "re",
+      "start": 6.722,
+      "end": 6.822,
+      "confidence": 0.79
+    },
+    {
+      "word": "cristiane",
+      "start": 6.882,
+      "end": 7.543,
+      "confidence": 0.776
+    },
+    {
+      "word": "della",
+      "start": 7.584,
+      "end": 7.744,
+      "confidence": 0.573
+    },
+    {
+      "word": "provincia",
+      "start": 7.784,
+      "end": 8.185,
+      "confidence": 0.776
+    },
+    {
+      "word": "di",
+      "start": 8.205,
+      "end": 8.245,
+      "confidence": 0.278
+    },
+    {
+      "word": "Napoli.",
+      "start": 8.265,
+      "end": 8.686,
+      "confidence": 0.655
+    }
+  ],
+  "top3": [
+    "Merite Napola, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli.",
+    "Merite Napoli, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli.",
+    "Merite Napola, dite, merite la gente, è una comune di 3.860 re cristiane della provincia di Napoli."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6968823529411764,
+  "u_asr": 0.3031176470588236
+}

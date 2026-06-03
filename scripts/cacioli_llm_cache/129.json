@@ -1,0 +1,29 @@
+{
+  "filename": "129",
+  "neapolitan_text": "Nu mumento... Io nun me so' sbagliata.",
+  "domain": "Play",
+  "gt_variants": [
+    "Un momento... Io non mi sono sbagliata.",
+    "Un attimo... Non ho sbagliato io.",
+    "Un momento... Non sono io quella che ha sbagliato."
+  ],
+  "inputs": [
+    "Un momento... Io non mi sono sbagliata.",
+    "Un attimo... Non ho sbagliato io.",
+    "Un momento... Non sono io quella che ha sbagliato.",
+    "Nel momento io non mi sono sbagliato.",
+    "Nel momento io non mi sono sbagliato.",
+    "Nel momento io non mi sono sbagliato."
+  ],
+  "responses": [
+    "Non hai sbagliato, continua a parlarci!",
+    "Mi dispiace, ma non sono in grado di capire le emozioni o i sentimenti. Tuttavia, la tua frase significa \"Un momento... Non ho sbagliato io.\"",
+    "Non hai commesso alcun errore, è qualcuno altro a dover correggersi.",
+    "La tua affermazione è corretta. Non hai commesso errori nel momento attuale.",
+    "La tua affermazione è corretta. Non hai commesso errori nel momento attuale.",
+    "La tua affermazione è corretta. Non hai commesso errori nel momento attuale."
+  ],
+  "wer": 0.428571,
+  "u_asr": 0.302,
+  "wer_gt1": 0.428571
+}

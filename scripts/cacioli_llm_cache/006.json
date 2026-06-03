@@ -1,0 +1,29 @@
+{
+  "filename": "006",
+  "neapolitan_text": "O miédeco nun sapeva niente.",
+  "domain": "Play",
+  "gt_variants": [
+    "Il medico non sapeva niente",
+    "Il medico non sapeva nulla",
+    "Il medico non sapeva affatto."
+  ],
+  "inputs": [
+    "Il medico non sapeva niente",
+    "Il medico non sapeva nulla",
+    "Il medico non sapeva affatto.",
+    "ovviere che non sapeva niente.",
+    "ovviere che non sapeva niente.",
+    "ovviere che non sapeva niente."
+  ],
+  "responses": [
+    "Il medico non aveva conoscenze sufficienti su quel tema specifico. Potrebbe aver bisogno di ulteriori informazioni o studi per rispondere adeguatamente.",
+    "Il medico non ha conoscenze sufficienti su quel tema. Non è esperto di quello che si sta discutendo.",
+    "Il medico non aveva conoscenze sufficienti su quel tema. Non dovrebbe essere consultato per questioni di tale natura.",
+    "Sembra che la persona non conosceva nulla su quel determinato argomento.",
+    "Sembra che la persona non conosceva nulla su quel determinato argomento.",
+    "Sembra che la persona non conosceva nulla su quel determinato argomento."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.3082,
+  "wer_gt1": 0.6
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "118",
+  "neapolitan_text": "Vide Napule, e po' muore.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Vedi Napoli, e poi muori.",
+    "Guarda Napoli, e poi muori.",
+    "Vedi Napoli, e poi puoi morire."
+  ],
+  "inputs": [
+    "Vedi Napoli, e poi muori.",
+    "Guarda Napoli, e poi muori.",
+    "Vedi Napoli, e poi puoi morire.",
+    "Vi renavola il pomore.",
+    "Viranabla e Pomor.",
+    "Viranable Pomor."
+  ],
+  "responses": [
+    "Questa frase è una citazione famosa che significica che Napoli è una città così bella da essere visitata almeno una volta nella vita.",
+    "Questa frase è una citazione famosa da un'opera di Alessandro Manzoni, \"I promessi sposi\". L'autore la dice al personaggio Gerusalemme, che si commuove per la bellezza della città di Napoli. In italiano moderno, potrebbe essere tradotta come: \"Guarda Napoli e muori\" significa esprimere profonda ammirazione per la bellezza della città.",
+    "La frase \"Vedi Napoli, e poi puoi morire\" è una citazione di un'affermazione attribuita a Giuseppe Garibaldi, che sottolineava l'importanza culturale e scenica della città di Napoli. In altre parole, significa che visitare Napoli è una esperienza così straordinaria da essere considerata come un evento finale o culminante in qualcuno's vita.",
+    "Il \"pomore\" è una tradizionale decorazione natalizia svedese composta da arance e fiori. \"Vi renavola il pomore\" significica quindi che la decorazione del \"pomore\" viene ripristinata o rinnovata.",
+    "Viranabla e Pomor sono due importanti architetti medievali italiani, attivi rispettivamente nel XIII e XIV secolo.",
+    "Il termine \"Viranable Pomor\" sembra essere una combinazione di due parole, \"Virana\" e \"Pomor\". \"Virana\" è un termine slavo che indica una zona geografica o etnica, mentre \"Pomor\" è un'area storica della Russia nord-occidentale. Tuttavia, non sono presenti riferimenti chiari a un significato specifico per il termine \"Viranable Pomor\". Potrebbe trattarsi di un errore"
+  ],
+  "wer": 1.0,
+  "u_asr": 0.33075,
+  "wer_gt1": 1.0
+}

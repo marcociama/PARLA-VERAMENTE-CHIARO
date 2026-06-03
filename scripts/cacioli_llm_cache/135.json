@@ -1,0 +1,29 @@
+{
+  "filename": "135",
+  "neapolitan_text": "Allora io aggio spiso na vita pè furmà na famiglia, e 'a legge nun m' 'o permette?",
+  "domain": "Play",
+  "gt_variants": [
+    "Allora io ho speso una vita per formare una famiglia, e la legge non me lo permette?",
+    "Quindi io ho dedicato una vita a costruire una famiglia, e la legge non me lo consente?",
+    "Dunque io ho speso una vita intera per creare una famiglia, e la legge me lo impedisce?"
+  ],
+  "inputs": [
+    "Allora io ho speso una vita per formare una famiglia, e la legge non me lo permette?",
+    "Quindi io ho dedicato una vita a costruire una famiglia, e la legge non me lo consente?",
+    "Dunque io ho speso una vita intera per creare una famiglia, e la legge me lo impedisce?",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette.",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette.",
+    "Allora ho speso la vita per formare una famiglia e la legge non mi permette."
+  ],
+  "responses": [
+    "La legge non sempre consente di superare i limiti biologici nella formazione di una famiglia. Esistono tuttavia diverse forme di adozioni e famiglie unite che possono essere esplorate.",
+    "La legge non può garantire la realizzazione di ogni desiderio personale. Tuttavia, è importante rispettare le regole per preservare l'armonia sociale.",
+    "Non, la legge non ti impedisce di godere della tua famiglia. Tuttavia, è importante rispettare le regole del tuo paese riguardo alle unioni familiari.",
+    "Sembra che stia affermando di aver dedicato tutta la sua vita a costruire una famiglia, ma si trova in una situazione in cui la legge gli impedisce. Potrebbe essere necessario cercare un modo per superare questo ostacolo.",
+    "Sembra che stia affermando di aver dedicato tutta la sua vita a costruire una famiglia, ma si trova in una situazione in cui la legge gli impedisce. Potrebbe essere necessario cercare un modo per superare questo ostacolo.",
+    "Sembra che stia affermando di aver dedicato tutta la sua vita a costruire una famiglia, ma si trova in una situazione in cui la legge gli impedisce. Potrebbe essere necessario cercare un modo per superare questo ostacolo."
+  ],
+  "wer": 0.352941,
+  "u_asr": 0.3986,
+  "wer_gt1": 0.352941
+}

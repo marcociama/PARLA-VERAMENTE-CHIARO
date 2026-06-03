@@ -1,0 +1,29 @@
+{
+  "filename": "139",
+  "neapolitan_text": "Te putevo dicere ca tutt'e tre t'erano figlie, ce avarrisse creduto... T' 'o ffacevo credere!",
+  "domain": "Play",
+  "gt_variants": [
+    "Ti potevo dire che tutte e tre erano figlie tue, ci avresti creduto... Te lo facevo credere!",
+    "Potevo dirti che tutte e tre erano tue figlie e ci avresti creduto... Te l'avrei fatto credere!",
+    "Avrei potuto dirti che tutte e tre erano tue figlie, ci avresti creduto... Te lo avrei fatto credere!"
+  ],
+  "inputs": [
+    "Ti potevo dire che tutte e tre erano figlie tue, ci avresti creduto... Te lo facevo credere!",
+    "Potevo dirti che tutte e tre erano tue figlie e ci avresti creduto... Te l'avrei fatto credere!",
+    "Avrei potuto dirti che tutte e tre erano tue figlie, ci avresti creduto... Te lo avrei fatto credere!",
+    "Tu potevi dire che tutta e tre era una figlia. Ce l'aveste creduta. Tu facevi credere.",
+    "Tu potevi dire che tutta e tre era una figlia. Ce l'aveste creduta. Tu facevi credere.",
+    "Tu potevi dire che tutti e tre erano figli. Ce l'aveste creduto. Tu facevi credere."
+  ],
+  "responses": [
+    "La frase implica che l'interlocutore poteva aver detto alla persona a cui si rivolge che tutte e tre le donne erano sue figlie, e se ci fosse creduto, lo avrebbe fatto credere.",
+    "La frase implica che l'interlocutore poteva aver detto alla persona a cui si rivolge che tutte e tre le persone erano sue figlie, e se ci fosse stato presente, avrebbe creduto alla sua affermazione. Inoltre, la persona a cui si rivolge ha dichiarato di averlo fatto credere.",
+    "La frase implica che l'interlocutore avrebbe potuto essere convinto che le tre persone in questione sono state le figlie dell'oratore, sebbene non lo siano. L'oratore afferma di aver potuto farlo credere.",
+    "La frase indica che tu avresti potuto dire che tutte e tre erano figlie, e ci si è creduto così. In altre parole, si credeva che tutte e tre fossero delle figlie.",
+    "La frase indica che tu avresti potuto dire che tutte e tre erano figlie, e ci si è creduto così. In altre parole, si credeva che tutte e tre fossero delle figlie.",
+    "La frase indica che tu potresti aver detto che tutti e tre erano figli, e ci avresti creduto, facendo credere a qualcuno altro."
+  ],
+  "wer": 0.764706,
+  "u_asr": 0.282062,
+  "wer_gt1": 0.764706
+}

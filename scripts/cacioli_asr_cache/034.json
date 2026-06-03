@@ -1,0 +1,61 @@
+{
+  "transcription": "che il rosa è in mezzo alla tavola.",
+  "words": [
+    {
+      "word": "che",
+      "start": 0.581,
+      "end": 0.662,
+      "confidence": 0.667
+    },
+    {
+      "word": "il",
+      "start": 0.703,
+      "end": 0.743,
+      "confidence": 0.245
+    },
+    {
+      "word": "rosa",
+      "start": 0.824,
+      "end": 1.047,
+      "confidence": 0.933
+    },
+    {
+      "word": "è",
+      "start": 1.068,
+      "end": 1.088,
+      "confidence": 0.009
+    },
+    {
+      "word": "in",
+      "start": 1.21,
+      "end": 1.25,
+      "confidence": 0.466
+    },
+    {
+      "word": "mezzo",
+      "start": 1.271,
+      "end": 1.474,
+      "confidence": 0.473
+    },
+    {
+      "word": "alla",
+      "start": 1.494,
+      "end": 1.575,
+      "confidence": 0.021
+    },
+    {
+      "word": "tavola.",
+      "start": 1.595,
+      "end": 2.021,
+      "confidence": 0.727
+    }
+  ],
+  "top3": [
+    "che il rosa è in mezzo alla tavola.",
+    "Che il rosa mi è già tavola.",
+    "che il rosa è in mezzo alla tavola."
+  ],
+  "language": "it",
+  "mean_confidence": 0.44262500000000005,
+  "u_asr": 0.557375
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "030",
+  "neapolitan_text": "Madonna... quanto me faie schifo!",
+  "domain": "Play",
+  "gt_variants": [
+    "Madonna... quanto mi fai schifo",
+    "Mamma mia... quanto mi fai schifo",
+    "Madonna... come mi fai schifo."
+  ],
+  "inputs": [
+    "Madonna... quanto mi fai schifo",
+    "Mamma mia... quanto mi fai schifo",
+    "Madonna... come mi fai schifo.",
+    "Marona, quando mi fai schifo.",
+    "Marron, quando mi fai schifo.",
+    "Marron, quando mi fai schifo."
+  ],
+  "responses": [
+    "La parola \"Madonna\" può avere diversi significati, ma nel contesto della tua frase sembra che stia riferendosi alla cantante statunitense. Se hai problemi con la sua musica o il suo stile, puoi esprimerti dicendo: \"Non mi piace la musica di Madonna.\"",
+    "Sembra che stai avendo qualche problema. Spero che possa trovare una soluzione presto.",
+    "Mi dispiace se le sentimenti espressi ti hanno causato qualcosa di negativo. La Madonna è un'icona culturale importante e significativa per molti, rappresentando valori come l'amore, la libertà e la resistenza.",
+    "Mi dispiace che ti senta così, ma ho intenzione di aiutarti con le mie risposte. Se hai bisogno di consigli o informazioni, non esitare a chiedermelo.",
+    "Mi dispiace che ti senta così. Forse potrei spiegarmi meglio cosa ti sta veramente preoccupando?",
+    "Mi dispiace che ti senta così. Forse potrei spiegarmi meglio cosa ti sta veramente preoccupando?"
+  ],
+  "wer": 0.4,
+  "u_asr": 0.3126,
+  "wer_gt1": 0.6
+}

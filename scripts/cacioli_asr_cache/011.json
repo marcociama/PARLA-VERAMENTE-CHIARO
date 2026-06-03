@@ -1,0 +1,61 @@
+{
+  "transcription": "E mai che l'avessi visto sottomesso, che saccio.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.231,
+      "end": 1.272,
+      "confidence": 0.458
+    },
+    {
+      "word": "mai",
+      "start": 1.392,
+      "end": 1.613,
+      "confidence": 0.918
+    },
+    {
+      "word": "che",
+      "start": 1.653,
+      "end": 1.713,
+      "confidence": 0.646
+    },
+    {
+      "word": "l'avessi",
+      "start": 1.793,
+      "end": 2.235,
+      "confidence": 0.763
+    },
+    {
+      "word": "visto",
+      "start": 2.295,
+      "end": 2.536,
+      "confidence": 0.868
+    },
+    {
+      "word": "sottomesso,",
+      "start": 2.596,
+      "end": 3.359,
+      "confidence": 0.884
+    },
+    {
+      "word": "che",
+      "start": 3.419,
+      "end": 3.519,
+      "confidence": 0.83
+    },
+    {
+      "word": "saccio.",
+      "start": 3.68,
+      "end": 4.201,
+      "confidence": 0.831
+    }
+  ],
+  "top3": [
+    "E mai che l'avessi visto sottomesso, che saccio.",
+    "E mai che l'avessi visto sottomesso, che saccio.",
+    "E mai che l'avessi visto sottomesso, che saccio."
+  ],
+  "language": "it",
+  "mean_confidence": 0.77475,
+  "u_asr": 0.22524999999999995
+}

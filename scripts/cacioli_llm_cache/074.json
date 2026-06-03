@@ -1,0 +1,29 @@
+{
+  "filename": "074",
+  "neapolitan_text": "co chella ciaramella tant’allera!",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con quella ciaramella tanto allegra!",
+    "Con quella ciaramella così gioiosa!",
+    "Con quella zampogna così festante!"
+  ],
+  "inputs": [
+    "Con quella ciaramella tanto allegra!",
+    "Con quella ciaramella così gioiosa!",
+    "Con quella zampogna così festante!",
+    "con quella caramella d'antallera.",
+    "Cucca e la chiaramella da Antallena.",
+    "Cucchella Chiarabella d'Antalena."
+  ],
+  "responses": [
+    "Questa frase fa riferimento a una canzone tradizionale italiana, \"Tarantella\". La ciaramella allegra è un oggetto simbolico della danza tarantella.",
+    "La ciaramella è molto allegra e sembra piena di entusiasmo!",
+    "La zampogna è strumento musicale tradizionale italiana, caratterizzata da un suono vivace e allegro. Quella zampogna è molto animata!",
+    "Questa frase sembra essere una citazione dalla canzone \"Tu vuò fà l'americano\" di Renato Carosone, dove \"con quella caramella d'antallera\" è un invito a ballare in modo attraente.",
+    "\"Cucca\" e \"la chiaramella\" sono due espressioni dialettali tipiche della zona di Antallena, in Puglia. La prima si riferisce a un tipo di cibo o bevanda, mentre la seconda è una parola usata per indicare qualcosa che è molto buono o gustoso.",
+    "Chiarabella Cucchella è una scrittrice e poetessa italiana, originaria di Antalena (CS)."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.4975,
+  "wer_gt1": 0.6
+}

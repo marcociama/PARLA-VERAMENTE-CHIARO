@@ -1,0 +1,49 @@
+{
+  "transcription": "Perché non tuorno dolce di empantica?",
+  "words": [
+    {
+      "word": "Perché",
+      "start": 0.914,
+      "end": 1.094,
+      "confidence": 0.888
+    },
+    {
+      "word": "non",
+      "start": 1.134,
+      "end": 1.315,
+      "confidence": 0.581
+    },
+    {
+      "word": "tuorno",
+      "start": 1.355,
+      "end": 1.857,
+      "confidence": 0.715
+    },
+    {
+      "word": "dolce",
+      "start": 1.898,
+      "end": 2.179,
+      "confidence": 0.847
+    },
+    {
+      "word": "di",
+      "start": 2.239,
+      "end": 2.299,
+      "confidence": 0.736
+    },
+    {
+      "word": "empantica?",
+      "start": 2.339,
+      "end": 3.002,
+      "confidence": 0.742
+    }
+  ],
+  "top3": [
+    "Perché non tuorno dolce di empantica?",
+    "Perché non tuorno dolce di empantica?",
+    "Perché non tuorlo dolce di ampantica?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.7515,
+  "u_asr": 0.24850000000000005
+}

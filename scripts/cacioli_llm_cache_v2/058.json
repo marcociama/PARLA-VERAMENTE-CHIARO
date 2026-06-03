@@ -1,0 +1,29 @@
+{
+  "filename": "058",
+  "neapolitan_text": "Ogn’anno, il due novembre, c’è l’usanza per i defunti andare al Cimitero,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Ogni anno, il due novembre, c'è l'usanza per i defunti di andare al Cimitero",
+    "Ogni anno, il due novembre, vige l'usanza di recarsi al Cimitero per i defunti",
+    "Ogni anno, il giorno dei morti, è usanza andare al Cimitero per i propri defunti"
+  ],
+  "inputs": [
+    "Ogni anno, il due novembre, c'è l'usanza per i defunti di andare al Cimitero",
+    "Ogni anno, il due novembre, vige l'usanza di recarsi al Cimitero per i defunti",
+    "Ogni anno, il giorno dei morti, è usanza andare al Cimitero per i propri defunti",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero.",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero.",
+    "Ogni anno il 2 novembre c'è l'usanza per i defunti andare al cimitero."
+  ],
+  "responses": [
+    "Ogni anno, si pratica la tradizione di visitare il cimitero in memoria dei morti, il 2 novembre.",
+    "Ogni anno, si pratica la tradizione di andare al cimitero in onore dei morti il 2 novembre.",
+    "Ogni anno, si visita il cimitero in onore dei defunti della propria famiglia durante la giornata dei morti.",
+    "Ogni anno, si pratica la tradizione di visitare i cimiteri in onore dei defunti il 2 novembre.",
+    "Ogni anno, si pratica la tradizione di visitare i cimiteri in onore dei defunti il 2 novembre.",
+    "Ogni anno, si pratica la tradizione di visitare i cimiteri in onore dei defunti il 2 novembre."
+  ],
+  "wer": 0.357143,
+  "u_asr": 0.282385,
+  "wer_gt1": 0.357143
+}

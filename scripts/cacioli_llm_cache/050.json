@@ -1,0 +1,29 @@
+{
+  "filename": "050",
+  "neapolitan_text": "a ttiempo che sguigliaje lo Sciatamone.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Al tempo che scivolò via lo Sciatamone",
+    "Al tempo che sgusciò lo Sciatamone",
+    "Ai tempi che scappò lo Sciatamone"
+  ],
+  "inputs": [
+    "Al tempo che scivolò via lo Sciatamone",
+    "Al tempo che sgusciò lo Sciatamone",
+    "Ai tempi che scappò lo Sciatamone",
+    "a tempo che squagliai lo schiatto a mone.",
+    "a tempo che squagliai lo schiatto a mone.",
+    "a tempo che squagliai lo schiatto a mone."
+  ],
+  "responses": [
+    "La canzone \"Sciatamone\" è una celebre hit del cantautore Lucio Dalla, scritta nel 1975. L'espressione \"Al tempo che scivolò via lo Sciatamone\" è un verso della canzone e si riferisce alla fuga di un uomo dalla polizia.",
+    "La canzone \"Sciatamano\" fu pubblicata per la prima volta nel 1960 da Adriano Celentano. Il termine \"sgusciare lo Sciatamone\" è una metafora usata nella canzone che indica l'inizio di qualcosa di nuovo e divertente.",
+    "Questo riferimento sembra provenire dalla tradizione popolare e non è possibile fornire una risposta precisa senza ulteriori informazioni. Tuttavia, \"Sciatamone\" è un personaggio della fiaba napoletana che fugge per sfuggire alla fame durante il periodo della carestia del 1656.",
+    "Questa frase sembra essere una metafora, ma non è facile capire il suo significato preciso senza contesto aggiuntivo. Tuttavia, potrebbe riferirsi ad un evento che causa qualcosa di improvviso e violento, come ad esempio la rottura di una moneta o l'esplosione di qualcosa.",
+    "Questa frase sembra essere una metafora, ma non è facile capire il suo significato preciso senza contesto aggiuntivo. Tuttavia, potrebbe riferirsi ad un evento che causa qualcosa di improvviso e violento, come ad esempio la rottura di una moneta o l'esplosione di qualcosa.",
+    "Questa frase sembra essere una metafora, ma non è facile capire il suo significato preciso senza contesto aggiuntivo. Tuttavia, potrebbe riferirsi ad un evento che causa qualcosa di improvviso e violento, come ad esempio la rottura di una moneta o l'esplosione di qualcosa."
+  ],
+  "wer": 0.833333,
+  "u_asr": 0.379375,
+  "wer_gt1": 0.857143
+}

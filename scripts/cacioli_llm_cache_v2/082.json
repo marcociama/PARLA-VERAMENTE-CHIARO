@@ -1,0 +1,29 @@
+{
+  "filename": "082",
+  "neapolitan_text": "ca vernava ‘n cajola la cajazza.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "che invernava in gabbia la caccavella",
+    "che passava l'inverno in gabbia la caccavella",
+    "che faceva svernare in gabbia la caccavella"
+  ],
+  "inputs": [
+    "che invernava in gabbia la caccavella",
+    "che passava l'inverno in gabbia la caccavella",
+    "che faceva svernare in gabbia la caccavella",
+    "Chi è l'uomo? Chi è l'uomo?",
+    "Chi è l'uomo? Chi è l'uomo?",
+    "Chi è l'uomo? Chi è l'uomo?"
+  ],
+  "responses": [
+    "La caccavella veniva tenuta in gabbia durante l'inverno.",
+    "La caccavella trascorreva l'inverno rinchiusa in una gabbia.",
+    "L'affermazione indica che la caccavella veniva tenuta in gabbia durante l'inverno.",
+    "La frase \"Chi è l'uomo? Chi è l'uomo?\" richiede la risposta a una domanda filosofica sulla natura dell'essere umano.",
+    "La frase \"Chi è l'uomo? Chi è l'uomo?\" richiede la risposta a una domanda filosofica sulla natura dell'essere umano.",
+    "La frase \"Chi è l'uomo? Chi è l'uomo?\" richiede la risposta a una domanda filosofica sulla natura dell'essere umano."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.733667,
+  "wer_gt1": 1.0
+}

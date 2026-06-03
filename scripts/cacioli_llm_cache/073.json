@@ -1,0 +1,29 @@
+{
+  "filename": "073",
+  "neapolitan_text": "che a mano a mano ‘ntravano a na danza",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Che a mano a mano entravano in una danza",
+    "Che poco a poco prendevano parte a una danza",
+    "Che gradualmente si inserivano in una danza"
+  ],
+  "inputs": [
+    "Che a mano a mano entravano in una danza",
+    "Che poco a poco prendevano parte a una danza",
+    "Che gradualmente si inserivano in una danza",
+    "che a mano a mano trovano una lanza.",
+    "che a mano a mano trovano una lanza.",
+    "che a mano a mano trovando una lanza."
+  ],
+  "responses": [
+    "Entrano lentamente nella danza, passo dopo passo.",
+    "Gli individui stavano gradualmente entrando nella danza.",
+    "I movimenti gradualmente si fondono nella danza.",
+    "I personaggi stanno trovando una lancia mano a mano.",
+    "I personaggi stanno trovando una lancia mano a mano.",
+    "Trovare una lancia significa cercare e ottenere una lancia, quindi la frase \"che a mano a mano trovando una lanza\" può essere tradotta come \"trovandola gradualmente una lancia\"."
+  ],
+  "wer": 0.333333,
+  "u_asr": 0.3725,
+  "wer_gt1": 0.333333
+}

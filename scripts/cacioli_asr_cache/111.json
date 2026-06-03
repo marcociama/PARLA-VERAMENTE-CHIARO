@@ -1,0 +1,175 @@
+{
+  "transcription": "Il fatto è che la famiglia è molto cara. Per Napoli è una piazza vicina. Le piace chi parla napolitano, la lingua antica del regno di Sicilia.",
+  "words": [
+    {
+      "word": "Il",
+      "start": 0.895,
+      "end": 1.035,
+      "confidence": 0.526
+    },
+    {
+      "word": "fatto",
+      "start": 1.075,
+      "end": 1.316,
+      "confidence": 0.822
+    },
+    {
+      "word": "è",
+      "start": 1.336,
+      "end": 1.356,
+      "confidence": 0.187
+    },
+    {
+      "word": "che",
+      "start": 1.416,
+      "end": 1.536,
+      "confidence": 0.662
+    },
+    {
+      "word": "la",
+      "start": 1.556,
+      "end": 1.596,
+      "confidence": 0.006
+    },
+    {
+      "word": "famiglia",
+      "start": 1.717,
+      "end": 2.318,
+      "confidence": 0.802
+    },
+    {
+      "word": "è",
+      "start": 2.338,
+      "end": 2.358,
+      "confidence": 0.0
+    },
+    {
+      "word": "molto",
+      "start": 2.939,
+      "end": 3.159,
+      "confidence": 0.539
+    },
+    {
+      "word": "cara.",
+      "start": 3.219,
+      "end": 3.7,
+      "confidence": 0.926
+    },
+    {
+      "word": "Per",
+      "start": 4.782,
+      "end": 4.882,
+      "confidence": 0.647
+    },
+    {
+      "word": "Napoli",
+      "start": 5.003,
+      "end": 5.484,
+      "confidence": 0.819
+    },
+    {
+      "word": "è",
+      "start": 5.784,
+      "end": 5.804,
+      "confidence": 0.04
+    },
+    {
+      "word": "una",
+      "start": 5.824,
+      "end": 5.884,
+      "confidence": 0.001
+    },
+    {
+      "word": "piazza",
+      "start": 5.965,
+      "end": 6.385,
+      "confidence": 0.729
+    },
+    {
+      "word": "vicina.",
+      "start": 6.465,
+      "end": 7.047,
+      "confidence": 0.875
+    },
+    {
+      "word": "Le",
+      "start": 7.207,
+      "end": 7.267,
+      "confidence": 0.534
+    },
+    {
+      "word": "piace",
+      "start": 7.307,
+      "end": 7.748,
+      "confidence": 0.807
+    },
+    {
+      "word": "chi",
+      "start": 7.928,
+      "end": 8.048,
+      "confidence": 0.675
+    },
+    {
+      "word": "parla",
+      "start": 8.109,
+      "end": 8.349,
+      "confidence": 0.914
+    },
+    {
+      "word": "napolitano,",
+      "start": 8.409,
+      "end": 9.231,
+      "confidence": 0.769
+    },
+    {
+      "word": "la",
+      "start": 9.691,
+      "end": 9.792,
+      "confidence": 0.74
+    },
+    {
+      "word": "lingua",
+      "start": 9.852,
+      "end": 10.172,
+      "confidence": 0.648
+    },
+    {
+      "word": "antica",
+      "start": 10.192,
+      "end": 10.693,
+      "confidence": 0.821
+    },
+    {
+      "word": "del",
+      "start": 10.733,
+      "end": 10.814,
+      "confidence": 0.247
+    },
+    {
+      "word": "regno",
+      "start": 10.874,
+      "end": 11.375,
+      "confidence": 0.684
+    },
+    {
+      "word": "di",
+      "start": 11.535,
+      "end": 11.655,
+      "confidence": 0.778
+    },
+    {
+      "word": "Sicilia.",
+      "start": 11.956,
+      "end": 12.477,
+      "confidence": 0.788
+    }
+  ],
+  "top3": [
+    "Il fatto è che la famiglia è molto cara. Per Napoli è una piazza vicina. Le piace chi parla napolitano, la lingua antica del regno di Sicilia.",
+    "Il fatto è che la famiglia è molto cara. Per Napoli è una piazza vicina. Le piace più parlare napoletano alla lingua antica del regno di Sicilia.",
+    "Il fatto è che la famiglia è molto cara. Per Napoli è una piazza vicina. Le piace più parlare napoletano alla lingua antica del regno di Sicilia."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5920740740740741,
+  "u_asr": 0.4079259259259259
+}

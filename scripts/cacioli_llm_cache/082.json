@@ -1,0 +1,29 @@
+{
+  "filename": "082",
+  "neapolitan_text": "ca vernava ‘n cajola la cajazza.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "che invernava in gabbia la caccavella",
+    "che passava l'inverno in gabbia la caccavella",
+    "che faceva svernare in gabbia la caccavella"
+  ],
+  "inputs": [
+    "che invernava in gabbia la caccavella",
+    "che passava l'inverno in gabbia la caccavella",
+    "che faceva svernare in gabbia la caccavella",
+    "Chi è l'uomo? Chi è l'uomo?",
+    "Chi è l'uomo? Chi è l'uomo?",
+    "Chi è l'uomo? Chi è l'uomo?"
+  ],
+  "responses": [
+    "La caccavella non è un animale selvatico che si trova in natura, pertanto non può inverna in gabbia.",
+    "La caccavella trascorre l'inverno rinchiusa in una gabbia, a differenza degli animali selvatici che vivono allo stato brado.",
+    "La caccavella veniva tenuta in gabbia durante il svernato per proteggerla dall'inverno freddo e dalle intemperie.",
+    "L'uomo è un essere vivente appartenente all'ordine degli primati, in particolare al genere Humano.",
+    "L'uomo è un essere vivente appartenente all'ordine degli primati, in particolare al genere Humano.",
+    "L'uomo è un essere vivente appartenente all'ordine degli primati, in particolare al genere Humano."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.733667,
+  "wer_gt1": 1.0
+}

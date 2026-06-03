@@ -1,0 +1,29 @@
+{
+  "filename": "119",
+  "neapolitan_text": "A 'o core nun se cumanna.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Al cuore non si comanda.",
+    "Al cuore non si può comandare.",
+    "Non si può comandare al cuore."
+  ],
+  "inputs": [
+    "Al cuore non si comanda.",
+    "Al cuore non si può comandare.",
+    "Non si può comandare al cuore.",
+    "Ogora non su comanna.",
+    "Ogora non su comanna.",
+    "Ogora non su comanna."
+  ],
+  "responses": [
+    "La frase \"Al cuore non si comanda\" significa che il cuore non è controllabile a piacimento, ma è un'emozione o una reazione interiore che non può essere manipolata facilmente.",
+    "Il cuore non è controllabile a piacere, poiché le sue emozioni e sentimenti sono influenzati da fattori psicologici e biologici complessi.",
+    "Il cuore non è controllabile direttamente, poiché è un organo biologico e non ha coscienza. Le emozioni e i sentimenti sono prodotti dal cervello e influenzano il cuore.",
+    "Non capisco bene la tua frase, ma potrebbe significare che non sei più sulla strada giusta o non stai seguendo le istruzioni. Potresti chiedere aiuto per avere maggior chiarezza?",
+    "Non capisco bene la tua frase, ma potrebbe significare che non sei più sulla strada giusta o non stai seguendo le istruzioni. Potresti chiedere aiuto per avere maggior chiarezza?",
+    "Non capisco bene la tua frase, ma potrebbe significare che non sei più sulla strada giusta o non stai seguendo le istruzioni. Potresti chiedere aiuto per avere maggior chiarezza?"
+  ],
+  "wer": 0.8,
+  "u_asr": 0.27675,
+  "wer_gt1": 0.8
+}

@@ -1,0 +1,109 @@
+{
+  "transcription": "Ma Filomena Marturana ha fatto correre essa a te e corriva senza che te ne accorgiva.",
+  "words": [
+    {
+      "word": "Ma",
+      "start": 1.596,
+      "end": 1.817,
+      "confidence": 0.754
+    },
+    {
+      "word": "Filomena",
+      "start": 1.858,
+      "end": 2.26,
+      "confidence": 0.905
+    },
+    {
+      "word": "Marturana",
+      "start": 2.32,
+      "end": 2.903,
+      "confidence": 0.869
+    },
+    {
+      "word": "ha",
+      "start": 2.923,
+      "end": 2.963,
+      "confidence": 0.387
+    },
+    {
+      "word": "fatto",
+      "start": 3.003,
+      "end": 3.265,
+      "confidence": 0.849
+    },
+    {
+      "word": "correre",
+      "start": 3.325,
+      "end": 3.707,
+      "confidence": 0.864
+    },
+    {
+      "word": "essa",
+      "start": 3.787,
+      "end": 4.049,
+      "confidence": 0.825
+    },
+    {
+      "word": "a",
+      "start": 4.069,
+      "end": 4.089,
+      "confidence": 0.045
+    },
+    {
+      "word": "te",
+      "start": 4.229,
+      "end": 4.732,
+      "confidence": 0.901
+    },
+    {
+      "word": "e",
+      "start": 4.953,
+      "end": 4.993,
+      "confidence": 0.556
+    },
+    {
+      "word": "corriva",
+      "start": 5.094,
+      "end": 5.536,
+      "confidence": 0.811
+    },
+    {
+      "word": "senza",
+      "start": 5.596,
+      "end": 5.878,
+      "confidence": 0.933
+    },
+    {
+      "word": "che",
+      "start": 5.918,
+      "end": 5.998,
+      "confidence": 0.899
+    },
+    {
+      "word": "te",
+      "start": 6.058,
+      "end": 6.119,
+      "confidence": 0.501
+    },
+    {
+      "word": "ne",
+      "start": 6.179,
+      "end": 6.219,
+      "confidence": 0.458
+    },
+    {
+      "word": "accorgiva.",
+      "start": 6.28,
+      "end": 6.842,
+      "confidence": 0.662
+    }
+  ],
+  "top3": [
+    "Ma Filomena Marturana ha fatto correre essa a te e corriva senza che te ne accorgiva.",
+    "Ma Filomena Marturana ha fatto correre essa a te e corriva senza che te ne accorgiva.",
+    "Ma Filomena Marturana ha fatto correre essa a te e corrivo senza che te ne accorgiva."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7011875,
+  "u_asr": 0.29881250000000004
+}

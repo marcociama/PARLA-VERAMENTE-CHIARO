@@ -1,0 +1,29 @@
+{
+  "filename": "123",
+  "neapolitan_text": "Vulesse, potesse e facesse, ereno tre fesse.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Vorrei, potessi e facessi, erano tre fessi.",
+    "Vorrei, potessi e facessi, erano tre sciocchi.",
+    "Vorrei, potessi e facessi, erano tre ingenui."
+  ],
+  "inputs": [
+    "Vorrei, potessi e facessi, erano tre fessi.",
+    "Vorrei, potessi e facessi, erano tre sciocchi.",
+    "Vorrei, potessi e facessi, erano tre ingenui.",
+    "Voleisse, potesse, facesse. Erre tre fesse.",
+    "volesse, potesse, facesse, era trefessa.",
+    "Voleisse, potesse, facesse. Erre tre fesse."
+  ],
+  "responses": [
+    "La frase \"Vorrei, potessi e facessi, erano tre fessi\" implica che se si desidera qualcosa, se si potesse fare qualcosa e se si facesse qualcosa, ci sarebbero tre cose impossibili o incongruenti.",
+    "La frase \"Vorrei, potessi e facessi, erano tre sciocchi\" implica che chi dice queste parole è un individuo che desidera qualcosa ma non ha la capacità o l'opportunità di realizzarlo, e pertanto viene considerato come uno dei tre stolidi.",
+    "La frase \"Vorrei, potessi e facessi, erano tre ingenui\" implica che i tre individui desideravano qualcosa, avrebbero potuto fare qualcosa se fossero stati in grado di farlo, ma non lo fecero, pertanto rimasero ingenuamente inattivi.",
+    "La frase \"Voleisse, potesse, facesse. Erre tre fesse.\" implica che se qualcuno desiderasse, avesse la possibilità e volesse agire, ci sarebbero tre errori (tre fesse). Quindi, la frase suggerisce che ci sono tre errori o problemi nel processo di desiderio, capacità e azione.",
+    "Se avesse voluto, se fosse stato in grado, avrebbe fatto qualcosa che sarebbe stata una truffa.",
+    "La frase \"Voleisse, potesse, facesse. Erre tre fesse.\" implica che se qualcuno desiderasse, avesse la possibilità e volesse agire, ci sarebbero tre errori (tre fesse). Quindi, la frase suggerisce che ci sono tre errori o problemi nel processo di desiderio, capacità e azione."
+  ],
+  "wer": 0.857143,
+  "u_asr": 0.237833,
+  "wer_gt1": 0.857143
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "092",
+  "neapolitan_text": "E ghievano abbracciate a otto, a diece,",
+  "domain": "Poetry",
+  "gt_variants": [
+    "E andavano abbracciate a otto, a dieci",
+    "E camminavano abbracciate a gruppi di otto, di dieci",
+    "E se ne andavano abbracciate a otto, a dieci"
+  ],
+  "inputs": [
+    "E andavano abbracciate a otto, a dieci",
+    "E camminavano abbracciate a gruppi di otto, di dieci",
+    "E se ne andavano abbracciate a otto, a dieci",
+    "e gli aveva abbracciato a otto e dieci.",
+    "e gli aveva abbracciato a otto e dieci.",
+    "e gli avevano abbracciato a otto e dieci."
+  ],
+  "responses": [
+    "Le donne si abbracciano tra otto e dieci.",
+    "Gli individui camminavano organizzati in gruppi di otto o dieci persone.",
+    "Indicando l'affetto reciproco tra persone, si può dire che stanno abbracciandosi a otto o a dieci, significa che ci sono otto o dieci persone che si abbracciano insieme.",
+    "L'uomo ha abbracciato otto e dieci persone.",
+    "L'uomo ha abbracciato otto e dieci persone.",
+    "Gli hanno abbracciati in gruppo da otto o dieci persone."
+  ],
+  "wer": 0.777778,
+  "u_asr": 0.50575,
+  "wer_gt1": 0.857143
+}

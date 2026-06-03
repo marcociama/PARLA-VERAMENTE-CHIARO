@@ -1,0 +1,29 @@
+{
+  "filename": "016",
+  "neapolitan_text": "E mmeglie feste, 'e meglie Natale me ll'aggio passate sola comm' a na cana.",
+  "domain": "Play",
+  "gt_variants": [
+    "Le feste migliori, i Natali migliori, li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali me li ho passati da solo come un cane."
+  ],
+  "inputs": [
+    "Le feste migliori, i Natali migliori, li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali li ho passati solo come un cane",
+    "Le migliori feste, i migliori Natali me li ho passati da solo come un cane.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana."
+  ],
+  "responses": [
+    "Sembra che le migliori festività e natalizie siano state vissute come una esperienza triste. Il detto \"vivere come un cane\" indica infatti una vita priva di gioia o felicità.",
+    "Sembra che le migliori festività e Natale non abbiano avuto il medesimo impatto su di te, come invece avrebbe fatto una gioia come un cane.",
+    "Sembra che le feste e i Natale più belli siano stati trascorsi da solo, come se fosse un cane. Potrebbe essere utile cercare di socializzare con altre persone per rendere le festività ancora più piacevoli.",
+    "Questa frase significa che la persona ha passato Natale in solitudine, ma lo ha considerato comunque come una festa speciale, solo con un cane.",
+    "Questa frase significa che la persona ha passato Natale in solitudine, ma lo ha considerato comunque come una festa speciale, solo con un cane.",
+    "Questa frase significa che la persona ha passato Natale in solitudine, ma lo ha considerato comunque come una festa speciale, solo con un cane."
+  ],
+  "wer": 0.933333,
+  "u_asr": 0.318,
+  "wer_gt1": 1.0
+}

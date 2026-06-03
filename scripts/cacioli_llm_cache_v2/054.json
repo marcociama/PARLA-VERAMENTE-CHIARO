@@ -1,0 +1,29 @@
+{
+  "filename": "054",
+  "neapolitan_text": "co balestre, spigarde, e co ttrabucche.",
+  "domain": "Poetry",
+  "gt_variants": [
+    "Con balestre, spingarde e con trabucchi",
+    "Con balestre, spingarde e con catapulte",
+    "Con delle balestre, cannoni leggeri e con delle macchine d'assedio"
+  ],
+  "inputs": [
+    "Con balestre, spingarde e con trabucchi",
+    "Con balestre, spingarde e con catapulte",
+    "Con delle balestre, cannoni leggeri e con delle macchine d'assedio",
+    "con Balestre, Spiccarte e Cotrabuchè.",
+    "con balestre, spiccarte e cotrabbocche.",
+    "con Balestre, Spiccarte e Cotrabuché."
+  ],
+  "responses": [
+    "L'affermazione indica l'utilizzo di armi da fuoco tradizionali come le balestre, le spingarde e i trabucchi.",
+    "L'affermazione indica l'utilizzo di armi da fuoco tradizionali come le balestre, le spingarde e le catapulte.",
+    "Le armi utilizzate sono balestre, cannoni leggeri e macchine d'assedio.",
+    "Armi come fionde, spade e scudi.",
+    "Armi tradizionali medievali come archi, scudi e giubbotti a piastre.",
+    "Armi come fionde, spade e scudi."
+  ],
+  "wer": 0.5,
+  "u_asr": 0.2644,
+  "wer_gt1": 0.5
+}

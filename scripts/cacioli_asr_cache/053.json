@@ -1,0 +1,49 @@
+{
+  "transcription": "E poi va trova ma lupo.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.137,
+      "end": 1.177,
+      "confidence": 0.9
+    },
+    {
+      "word": "poi",
+      "start": 1.278,
+      "end": 1.498,
+      "confidence": 0.863
+    },
+    {
+      "word": "va",
+      "start": 1.559,
+      "end": 1.659,
+      "confidence": 0.946
+    },
+    {
+      "word": "trova",
+      "start": 1.779,
+      "end": 2.141,
+      "confidence": 0.788
+    },
+    {
+      "word": "ma",
+      "start": 2.261,
+      "end": 2.341,
+      "confidence": 0.718
+    },
+    {
+      "word": "lupo.",
+      "start": 2.381,
+      "end": 2.522,
+      "confidence": 0.344
+    }
+  ],
+  "top3": [
+    "E poi va trova ma lupo.",
+    "E poi va a trovare malutti.",
+    "E poi va a trovare malutti."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7598333333333334,
+  "u_asr": 0.24016666666666664
+}

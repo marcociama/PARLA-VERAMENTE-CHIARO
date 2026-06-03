@@ -1,0 +1,29 @@
+{
+  "filename": "102",
+  "neapolitan_text": "O nomme Gianturco vene d''a via prencepale d''o rione: via Emanuele Gianturco.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Il nome Gianturco deriva dalla via principale del rione: via Emanuele Gianturco.",
+    "Il nome Gianturco trae origine dalla strada principale del quartiere: via Emanuele Gianturco.",
+    "Il nome Gianturco proviene dalla via principale di questo rione: via Emanuele Gianturco."
+  ],
+  "inputs": [
+    "Il nome Gianturco deriva dalla via principale del rione: via Emanuele Gianturco.",
+    "Il nome Gianturco trae origine dalla strada principale del quartiere: via Emanuele Gianturco.",
+    "Il nome Gianturco proviene dalla via principale di questo rione: via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale d'Oriona, via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale d'Oriona, via Emanuele Gianturco.",
+    "Un om Gianturco, nella via principale di Oriona, via Emanuele Gianturco."
+  ],
+  "responses": [
+    "Il nome Gianturco deriva dal nome della strada principale del rione, via Emanuele Gianturco.",
+    "La parola \"Gianturco\" deriva dal nome della principale strada del quartiere, ovvero via Emanuele Gianturco.",
+    "La parola \"Gianturco\" deriva dal nome della strada principale del quartiere, via Emanuele Gianturco.",
+    "L'affermazione indica che un uomo è presente sulla strada principale di Orione, chiamata via Emanuele Gianturco.",
+    "L'affermazione indica che un uomo è presente sulla strada principale di Orione, chiamata via Emanuele Gianturco.",
+    "L'affermazione indica che un uomo di origine Gianturco è presente sulla strada principale di Oriona, chiamata via Emanuele Gianturco."
+  ],
+  "wer": 0.583333,
+  "u_asr": 0.2841,
+  "wer_gt1": 0.583333
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "042",
+  "neapolitan_text": "E denare! E nun te l'avarria date?",
+  "domain": "Play",
+  "gt_variants": [
+    "I soldi! E non te lo avrei detto?",
+    "Il denaro! E non te lo avrei detto?",
+    "I soldi! E non te l'avrei confidato?"
+  ],
+  "inputs": [
+    "I soldi! E non te lo avrei detto?",
+    "Il denaro! E non te lo avrei detto?",
+    "I soldi! E non te l'avrei confidato?",
+    "In denare, e non te la regalite.",
+    "E denare, e non te la regalite.",
+    "E denare, e non te la regalite."
+  ],
+  "responses": [
+    "La dichiarazione implica che l'argomento principale è del denaro, e che l'interlocutore sarebbe stato sorpreso se gli fosse stato detto ciò.",
+    "La frase implica che l'argomento discusso è il denaro, e che l'interlocutore sarebbe stato sorpreso se gli fosse stato detto questo.",
+    "La dichiarazione implica che l'interlocutore ha nascosto o tenuto nascosta una quantità di denaro, e che la persona che lo fa parola lo avrebbe voluto conoscere.",
+    "Nella frase \"In denare, e non te la regalite,\" l'autore suggerisce che non si deve offrire denaro come dono, ma piuttosto qualcosa di più personale o di valore emotivo.",
+    "La frase \"E denare, e non te la regalite\" significa \"Non mi darai denaro, ma non mi regalerai anche te.\" In altre parole, l'affermazione implica che l'offerta di denaro non è accettabile, e nemmeno l'offerta di un regalo insieme al denaro.",
+    "La frase \"E denare, e non te la regalite\" significa \"Non mi darai denaro, ma non mi regalerai anche te.\" In altre parole, l'affermazione implica che l'offerta di denaro non è accettabile, e nemmeno l'offerta di un regalo insieme al denaro."
+  ],
+  "wer": 0.571429,
+  "u_asr": 0.395714,
+  "wer_gt1": 0.625
+}

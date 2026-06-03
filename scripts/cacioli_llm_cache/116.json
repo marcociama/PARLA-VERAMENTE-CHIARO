@@ -1,0 +1,29 @@
+{
+  "filename": "116",
+  "neapolitan_text": "Ccà nisciuno è fesso.​",
+  "domain": "Blog",
+  "gt_variants": [
+    "Qui nessuno è fesso.",
+    "Qui nessuno è ingenuo.",
+    "Qui nessuno è sciocco."
+  ],
+  "inputs": [
+    "Qui nessuno è fesso.",
+    "Qui nessuno è ingenuo.",
+    "Qui nessuno è sciocco.",
+    "Cari shoot and face.",
+    "Cari studenti, grazie.",
+    "Cari shoot and face."
+  ],
+  "responses": [
+    "Nessuno ha una forma fisica deforme qui.",
+    "Nessuno è naif qui. Ogni persona ha esperienza e conoscenza.",
+    "Nessuno è considerato sciocco qui. Ogni persona ha la sua intelligenza unica.",
+    "Il testo sembra essere una frase inglese che potrebbe riferirsi a termini di moda o al mondo dello spettacolo, ma non è chiaro il significato esatto. \"Cari\" potrebbe essere un modo informale per dire \"caro\", ma \"shoot\" e \"face\" sono termini tecnici che possono avere diversi significati a seconda del contesto. Ad esempio, \"shoot\" può riferirsi alla fotografia o al cinema, mentre \"face",
+    "Grazie a voi cari studenti per la vostra attenzione e impegno.",
+    "Il testo sembra essere una frase inglese che potrebbe riferirsi a termini di moda o al mondo dello spettacolo, ma non è chiaro il significato esatto. \"Cari\" potrebbe essere un modo informale per dire \"caro\", ma \"shoot\" e \"face\" sono termini tecnici che possono avere diversi significati a seconda del contesto. Ad esempio, \"shoot\" può riferirsi alla fotografia o al cinema, mentre \"face"
+  ],
+  "wer": 1.0,
+  "u_asr": 0.58825,
+  "wer_gt1": 1.0
+}

@@ -1,0 +1,43 @@
+{
+  "transcription": "NUM MA VEVA SUSTA NEI",
+  "words": [
+    {
+      "word": "NUM",
+      "start": 1.037,
+      "end": 1.179,
+      "confidence": 0.531
+    },
+    {
+      "word": "MA",
+      "start": 1.22,
+      "end": 1.28,
+      "confidence": 0.746
+    },
+    {
+      "word": "VEVA",
+      "start": 1.382,
+      "end": 1.585,
+      "confidence": 0.734
+    },
+    {
+      "word": "SUSTA",
+      "start": 1.666,
+      "end": 2.011,
+      "confidence": 0.812
+    },
+    {
+      "word": "NEI",
+      "start": 2.052,
+      "end": 2.214,
+      "confidence": 0.665
+    }
+  ],
+  "top3": [
+    "NUM MA VEVA SUSTA NEI",
+    "NUM MA VEVA SUSTA NEI.",
+    "NUM MA VEVA SUSTA NEI."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6976000000000001,
+  "u_asr": 0.3023999999999999
+}

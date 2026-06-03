@@ -1,0 +1,29 @@
+{
+  "filename": "119",
+  "neapolitan_text": "A 'o core nun se cumanna.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Al cuore non si comanda.",
+    "Al cuore non si può comandare.",
+    "Non si può comandare al cuore."
+  ],
+  "inputs": [
+    "Al cuore non si comanda.",
+    "Al cuore non si può comandare.",
+    "Non si può comandare al cuore.",
+    "Ogora non su comanna.",
+    "Ogora non su comanna.",
+    "Ogora non su comanna."
+  ],
+  "responses": [
+    "Il cuore non è controllabile o governabile.",
+    "Il cuore non è controllabile o governabile.",
+    "Il cuore non può essere governato o controllato a volontà.",
+    "L'affermazione \"Ogora non su comanna\" significa che ora non è più obbligatorio (o non c'è più bisogno di).",
+    "L'affermazione \"Ogora non su comanna\" significa che ora non è più obbligatorio (o non c'è più bisogno di).",
+    "L'affermazione \"Ogora non su comanna\" significa che ora non è più obbligatorio (o non c'è più bisogno di)."
+  ],
+  "wer": 0.8,
+  "u_asr": 0.27675,
+  "wer_gt1": 0.8
+}

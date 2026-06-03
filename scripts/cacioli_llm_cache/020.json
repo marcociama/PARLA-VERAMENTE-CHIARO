@@ -1,0 +1,29 @@
+{
+  "filename": "020",
+  "neapolitan_text": "A suddisfazione 'e chiagnere, Filumena Marturano, nun l'ha pututa maie avé!",
+  "domain": "Play",
+  "gt_variants": [
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha mai potuta avere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai ottenere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai raggiungere."
+  ],
+  "inputs": [
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha mai potuta avere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai ottenere",
+    "La soddisfazione di piangere, Filumena Marturano, non l'ha potuta mai raggiungere.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto.",
+    "La soddisfazione che ha il Filumena Madurana non l'ha mai avuto."
+  ],
+  "responses": [
+    "Filumena Marturano non ha mai avuto la possibilità di provare il sentimento della soddisfazione per aver pianto.",
+    "Filumena Marturano non ha mai avuto la possibilità di piangere in modo soddisfacente. Questo è un tema ricorrente nel suo personaggio della commedia omonima di Eduardo De Filippo.",
+    "Filumena Marturano non ha mai trovato la consolazione nel piangere, come suggerisce il titolo della commedia di Eduardo De Filippo.",
+    "Il personaggio di Filumena Madurana non ha mai conosciuto la soddisfazione nella vita.",
+    "Il personaggio di Filumena Madurana non ha mai conosciuto la soddisfazione nella vita.",
+    "Il personaggio di Filumena Madurana non ha mai conosciuto la soddisfazione nella vita."
+  ],
+  "wer": 0.545455,
+  "u_asr": 0.466,
+  "wer_gt1": 0.545455
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "121",
+  "neapolitan_text": "Chiù 'a capa è vacante, chiù 'a lengua è longa.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Più la testa è vuota, più la lingua è lunga.",
+    "Più la mente è vuota, più la lingua è lunga.",
+    "Più la testa è vacante, tanto più la lingua è lunga."
+  ],
+  "inputs": [
+    "Più la testa è vuota, più la lingua è lunga.",
+    "Più la mente è vuota, più la lingua è lunga.",
+    "Più la testa è vacante, tanto più la lingua è lunga.",
+    "Chi ha capo è vacante, chi ha lengue è lungo.",
+    "Chi ha capo è vacante, chi ha lengue è lungo.",
+    "Chi ha capo è vacante, chi ha lengue è lungo."
+  ],
+  "responses": [
+    "La frase \"Più la testa è vuota, più la lingua è lunga\" implica che una persona che non ha idee o pensieri profondi parla a lungo.",
+    "La frase significa che quando la mente non ha idee o pensieri, la lingua tende a essere più prolissa, ovvero a usare parole inutili o superflue.",
+    "La frase implica che una persona meno intelligente parla di più. Tuttavia, questa affermazione non ha fondamento scientifico e rappresenta un'idea popolare piuttosto che una verità assoluta.",
+    "L'espressione \"Chi ha capo è vacante, chi ha lengue è lungo\" è una metafora in lingua italiana. Il significato è che la persona che non ha un ruolo di comando (capo) può essere considerata come vuota o senza importanza, mentre la persona che ha autorità o influenza (lengue, che deriva dal francese \"langue\" e significa lingua) può essere vista come potente o importante.",
+    "L'espressione \"Chi ha capo è vacante, chi ha lengue è lungo\" è una metafora in lingua italiana. Il significato è che la persona che non ha un ruolo di comando (capo) può essere considerata come vuota o senza importanza, mentre la persona che ha autorità o influenza (lengue, che deriva dal francese \"langue\" e significa lingua) può essere vista come potente o importante.",
+    "L'espressione \"Chi ha capo è vacante, chi ha lengue è lungo\" è una metafora in lingua italiana. Il significato è che la persona che non ha un ruolo di comando (capo) può essere considerata come vuota o senza importanza, mentre la persona che ha autorità o influenza (lengue, che deriva dal francese \"langue\" e significa lingua) può essere vista come potente o importante."
+  ],
+  "wer": 0.727273,
+  "u_asr": 0.4235,
+  "wer_gt1": 0.8
+}

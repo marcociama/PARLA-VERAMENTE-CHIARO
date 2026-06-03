@@ -1,0 +1,97 @@
+{
+  "transcription": "E meglio festa, e meglio Natale a me l'ho passato solo con una cana.",
+  "words": [
+    {
+      "word": "E",
+      "start": 1.039,
+      "end": 1.079,
+      "confidence": 0.503
+    },
+    {
+      "word": "meglio",
+      "start": 1.159,
+      "end": 1.44,
+      "confidence": 0.757
+    },
+    {
+      "word": "festa,",
+      "start": 1.48,
+      "end": 2.021,
+      "confidence": 0.847
+    },
+    {
+      "word": "e",
+      "start": 2.281,
+      "end": 2.341,
+      "confidence": 0.786
+    },
+    {
+      "word": "meglio",
+      "start": 2.421,
+      "end": 2.682,
+      "confidence": 0.649
+    },
+    {
+      "word": "Natale",
+      "start": 2.742,
+      "end": 3.082,
+      "confidence": 0.69
+    },
+    {
+      "word": "a",
+      "start": 3.102,
+      "end": 3.122,
+      "confidence": 0.229
+    },
+    {
+      "word": "me",
+      "start": 3.162,
+      "end": 3.202,
+      "confidence": 0.415
+    },
+    {
+      "word": "l'ho",
+      "start": 3.222,
+      "end": 3.543,
+      "confidence": 0.534
+    },
+    {
+      "word": "passato",
+      "start": 3.603,
+      "end": 4.104,
+      "confidence": 0.808
+    },
+    {
+      "word": "solo",
+      "start": 4.184,
+      "end": 4.444,
+      "confidence": 0.914
+    },
+    {
+      "word": "con",
+      "start": 4.484,
+      "end": 4.605,
+      "confidence": 0.954
+    },
+    {
+      "word": "una",
+      "start": 4.665,
+      "end": 4.805,
+      "confidence": 0.677
+    },
+    {
+      "word": "cana.",
+      "start": 4.865,
+      "end": 5.225,
+      "confidence": 0.785
+    }
+  ],
+  "top3": [
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana.",
+    "E meglio festa, e meglio Natale a me l'ho passato solo con una cana."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6819999999999998,
+  "u_asr": 0.31800000000000017
+}

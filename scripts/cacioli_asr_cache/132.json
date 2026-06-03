@@ -1,0 +1,73 @@
+{
+  "transcription": "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.",
+  "words": [
+    {
+      "word": "Non",
+      "start": 0.887,
+      "end": 0.988,
+      "confidence": 0.574
+    },
+    {
+      "word": "te",
+      "start": 1.048,
+      "end": 1.109,
+      "confidence": 0.836
+    },
+    {
+      "word": "ne",
+      "start": 1.149,
+      "end": 1.35,
+      "confidence": 0.725
+    },
+    {
+      "word": "auguraggi",
+      "start": 1.37,
+      "end": 1.833,
+      "confidence": 0.551
+    },
+    {
+      "word": "la",
+      "start": 1.893,
+      "end": 2.034,
+      "confidence": 0.508
+    },
+    {
+      "word": "scicca",
+      "start": 2.054,
+      "end": 2.396,
+      "confidence": 0.853
+    },
+    {
+      "word": "a",
+      "start": 2.416,
+      "end": 2.477,
+      "confidence": 0.384
+    },
+    {
+      "word": "fora.",
+      "start": 2.577,
+      "end": 3.0,
+      "confidence": 0.893
+    },
+    {
+      "word": "Ammannanza,",
+      "start": 3.462,
+      "end": 4.166,
+      "confidence": 0.873
+    },
+    {
+      "word": "avvocato.",
+      "start": 4.187,
+      "end": 4.649,
+      "confidence": 0.553
+    }
+  ],
+  "top3": [
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato.",
+    "Non te ne auguraggi la scicca a fora. Ammannanza, avvocato."
+  ],
+  "language": "it",
+  "mean_confidence": 0.675,
+  "u_asr": 0.32499999999999996
+}

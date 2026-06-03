@@ -1,0 +1,19 @@
+{
+  "transcription": "Castagena.",
+  "words": [
+    {
+      "word": "Castagena.",
+      "start": 0.313,
+      "end": 1.159,
+      "confidence": 0.831
+    }
+  ],
+  "top3": [
+    "Castagena.",
+    "Castagena.",
+    "Castagena."
+  ],
+  "language": "it",
+  "mean_confidence": 0.831,
+  "u_asr": 0.16900000000000004
+}

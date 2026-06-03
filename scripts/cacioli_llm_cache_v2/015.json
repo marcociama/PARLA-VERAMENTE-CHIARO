@@ -1,0 +1,29 @@
+{
+  "filename": "015",
+  "neapolitan_text": "A strada d' 'a casa t' 'a scurdave.",
+  "domain": "Play",
+  "gt_variants": [
+    "La strada di casa, l'hai scordata",
+    "La strada di casa, l'hai dimenticata",
+    "La strada di casa, l'hai persa di mente."
+  ],
+  "inputs": [
+    "La strada di casa, l'hai scordata",
+    "La strada di casa, l'hai dimenticata",
+    "La strada di casa, l'hai persa di mente.",
+    "La strada era a gas, lì è scordato.",
+    "La strada era a gas, lì è scordato.",
+    "A strada ragazzi, vi scordate?"
+  ],
+  "responses": [
+    "Hai dimenticato la strada per casa.",
+    "Hai dimenticato la strada che porta a casa",
+    "Hai dimenticato la strada per casa.",
+    "La strada era alimentata a gasolio, ma non si ricorda più se vi è stato qualcuno.",
+    "La strada era alimentata a gasolio, ma non si ricorda più se vi è stato qualcuno.",
+    "Ricordatevi dei ragazzi sulla strada? (Liberamente tradotto)"
+  ],
+  "wer": 0.75,
+  "u_asr": 0.489375,
+  "wer_gt1": 1.0
+}

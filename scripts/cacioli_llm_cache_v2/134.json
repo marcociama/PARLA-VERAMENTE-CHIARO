@@ -1,0 +1,29 @@
+{
+  "filename": "134",
+  "neapolitan_text": "Io nun saccio leggere e po' carte nun n'accetto!",
+  "domain": "Play",
+  "gt_variants": [
+    "Io non so leggere e poi carte non ne accetto!",
+    "Io non so leggere e in più non accetto carte!",
+    "Io non so leggere e per di più non accetto carte!"
+  ],
+  "inputs": [
+    "Io non so leggere e poi carte non ne accetto!",
+    "Io non so leggere e in più non accetto carte!",
+    "Io non so leggere e per di più non accetto carte!",
+    "Io non so leggere, poca arte non accetto.",
+    "Io non so leggere, poca arte non accetto.",
+    "Io non so leggere, poca arte non accetto."
+  ],
+  "responses": [
+    "Non accetto carta che non posso leggere.",
+    "La persona non sa leggere e rifiuta di accettare documenti cartacei.",
+    "La persona non sa leggere ed è riluttante a prendere documenti.",
+    "Non accetto la mancanza di abilità nel letto, poiché non ho capacità in questo campo.",
+    "Non accetto la mancanza di abilità nel letto, poiché non ho capacità in questo campo.",
+    "Non accetto la mancanza di abilità nel letto, poiché non ho capacità in questo campo."
+  ],
+  "wer": 0.6,
+  "u_asr": 0.346875,
+  "wer_gt1": 0.6
+}

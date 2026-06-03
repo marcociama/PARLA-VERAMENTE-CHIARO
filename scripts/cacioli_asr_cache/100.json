@@ -1,0 +1,181 @@
+{
+  "transcription": "Il Golfo di Napoli è la serratura del mare di rena meridionale. Comprende la peninsola flagrea a nord-ovest Capo Miseno e la peninsola sorrentina a sud-est. Punta Campanella.",
+  "words": [
+    {
+      "word": "Il",
+      "start": 0.735,
+      "end": 0.775,
+      "confidence": 0.0
+    },
+    {
+      "word": "Golfo",
+      "start": 0.815,
+      "end": 1.115,
+      "confidence": 0.68
+    },
+    {
+      "word": "di",
+      "start": 1.135,
+      "end": 1.176,
+      "confidence": 0.023
+    },
+    {
+      "word": "Napoli",
+      "start": 1.196,
+      "end": 1.596,
+      "confidence": 0.49
+    },
+    {
+      "word": "è",
+      "start": 1.776,
+      "end": 1.816,
+      "confidence": 0.727
+    },
+    {
+      "word": "la",
+      "start": 1.856,
+      "end": 1.936,
+      "confidence": 0.78
+    },
+    {
+      "word": "serratura",
+      "start": 2.076,
+      "end": 2.677,
+      "confidence": 0.757
+    },
+    {
+      "word": "del",
+      "start": 2.737,
+      "end": 2.897,
+      "confidence": 0.635
+    },
+    {
+      "word": "mare",
+      "start": 2.917,
+      "end": 3.117,
+      "confidence": 0.875
+    },
+    {
+      "word": "di",
+      "start": 3.157,
+      "end": 3.278,
+      "confidence": 0.75
+    },
+    {
+      "word": "rena",
+      "start": 3.358,
+      "end": 3.558,
+      "confidence": 0.778
+    },
+    {
+      "word": "meridionale.",
+      "start": 3.598,
+      "end": 4.319,
+      "confidence": 0.909
+    },
+    {
+      "word": "Comprende",
+      "start": 5.039,
+      "end": 5.8,
+      "confidence": 0.889
+    },
+    {
+      "word": "la",
+      "start": 6.701,
+      "end": 6.761,
+      "confidence": 0.744
+    },
+    {
+      "word": "peninsola",
+      "start": 6.841,
+      "end": 7.462,
+      "confidence": 0.766
+    },
+    {
+      "word": "flagrea",
+      "start": 7.522,
+      "end": 8.202,
+      "confidence": 0.861
+    },
+    {
+      "word": "a",
+      "start": 8.463,
+      "end": 8.523,
+      "confidence": 0.795
+    },
+    {
+      "word": "nord-ovest",
+      "start": 8.623,
+      "end": 9.504,
+      "confidence": 0.816
+    },
+    {
+      "word": "Capo",
+      "start": 9.584,
+      "end": 9.884,
+      "confidence": 0.802
+    },
+    {
+      "word": "Miseno",
+      "start": 9.944,
+      "end": 10.485,
+      "confidence": 0.94
+    },
+    {
+      "word": "e",
+      "start": 11.245,
+      "end": 11.366,
+      "confidence": 0.781
+    },
+    {
+      "word": "la",
+      "start": 11.406,
+      "end": 11.506,
+      "confidence": 0.581
+    },
+    {
+      "word": "peninsola",
+      "start": 11.586,
+      "end": 12.106,
+      "confidence": 0.734
+    },
+    {
+      "word": "sorrentina",
+      "start": 12.146,
+      "end": 12.827,
+      "confidence": 0.864
+    },
+    {
+      "word": "a",
+      "start": 12.847,
+      "end": 12.867,
+      "confidence": 0.103
+    },
+    {
+      "word": "sud-est.",
+      "start": 13.007,
+      "end": 13.688,
+      "confidence": 0.895
+    },
+    {
+      "word": "Punta",
+      "start": 14.469,
+      "end": 14.909,
+      "confidence": 0.896
+    },
+    {
+      "word": "Campanella.",
+      "start": 15.009,
+      "end": 15.75,
+      "confidence": 0.874
+    }
+  ],
+  "top3": [
+    "Il Golfo di Napoli è la serratura del mare di rena meridionale. Comprende la peninsola flagrea a nord-ovest Capo Miseno e la peninsola sorrentina a sud-est. Punta Campanella.",
+    "Il Golfo di Napoli è la serratura del mare di rena meridionale. Comprende la peninsola flagrea a nord-ovest Capo Miseno e la peninsola sorrentina a sud-est. Punta Campanella.",
+    "Il Golfo di Napoli è la serratura del mare di rena meridionale. Comprende la peninsola flagrea a nord-ovest Capo Miseno e la peninsola sorrentina a sud-est. Punta Campanella."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7051785714285714,
+  "u_asr": 0.29482142857142857
+}

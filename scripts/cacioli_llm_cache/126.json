@@ -1,0 +1,29 @@
+{
+  "filename": "126",
+  "neapolitan_text": "Se mangiaie duie chile d'uva 'e nascosto d' 'a mamma.",
+  "domain": "Play",
+  "gt_variants": [
+    "Si mangiò due chili d'uva di nascosto dalla mamma.",
+    "Si mangiò due chili d'uva all'insaputa della mamma.",
+    "Mangiò due chili d'uva nascondendosi dalla mamma."
+  ],
+  "inputs": [
+    "Si mangiò due chili d'uva di nascosto dalla mamma.",
+    "Si mangiò due chili d'uva all'insaputa della mamma.",
+    "Mangiò due chili d'uva nascondendosi dalla mamma.",
+    "Se mangiare due chili d'uovo e non scostare la mamma.",
+    "Se mangiare due chili d'uovo non ci costa la mamma.",
+    "Se mangiare due chili d'uovo non ci costa la mamma."
+  ],
+  "responses": [
+    "Il bambino ha mangiato segretamente due bocci di uva.",
+    "Il bambino ha mangiato due chili di uva senza che la madre lo sapesse. Questo potrebbe essere considerato un comportamento inappropriato.",
+    "Il bambino ha mangiato due chili di uva nascostamente dalla madre.",
+    "Il testo sembra essere una rima infantile. \"Se mangiare due chili d'uovo e non scostare la mamma\" potrebbe significare che, se si mangiano due uova e si tengono le mani sul ventre (come se fosse una mamma), allora non ci sarà niente da temere. Tuttavia, questa rima è un gioco di parole e non ha un significato preciso.",
+    "La frase \"Se mangiare due chili d'uovo non ci costa la mamma\" implica che non c'è bisogno di un'altra persona per preparare i due uova, quindi l'affermazione è falsa se si riferisce alla necessità di una madre per cucinare.",
+    "La frase \"Se mangiare due chili d'uovo non ci costa la mamma\" implica che non c'è bisogno di un'altra persona per preparare i due uova, quindi l'affermazione è falsa se si riferisce alla necessità di una madre per cucinare."
+  ],
+  "wer": 0.777778,
+  "u_asr": 0.432,
+  "wer_gt1": 0.777778
+}

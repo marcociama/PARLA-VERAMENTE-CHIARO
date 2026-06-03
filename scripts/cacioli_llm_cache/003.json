@@ -1,0 +1,29 @@
+{
+  "filename": "003",
+  "neapolitan_text": "E cu' 'e denare t'he accattato tutto chello ca he voluto!",
+  "domain": "Play",
+  "gt_variants": [
+    "E con i denari, hai comprato tutto quello che hai voluto",
+    "E con il denaro, hai comprato tutto quello che volevi",
+    "E con il denaro, hai comprato tutto ciò che volevi."
+  ],
+  "inputs": [
+    "E con i denari, hai comprato tutto quello che hai voluto",
+    "E con il denaro, hai comprato tutto quello che volevi",
+    "E con il denaro, hai comprato tutto ciò che volevi.",
+    "E che Donara ti accattate tutte quelle che hai voluto.",
+    "e che Danara ti ha cattato tutto quello che hai voluto.",
+    "E che Donara ti accattate tutte quelle che hai voluto."
+  ],
+  "responses": [
+    "Con i denari, ho acquistato tutti gli oggetti desiderati.",
+    "Con il denaro, puoi acquistare ciò che desideri, ma non sempre le cose materiali garantiscono la felicità.",
+    "Con il denaro puoi acquistare molte cose desiderate, ma non sempre le cose più importanti.",
+    "Sono felice di poter aiutarti! \"Donara\" è un termine dialettale che significa \"regalo\". La frase \"E che Donara ti accattate tutte quelle che hai voluto\" può essere tradotta come \"Ecco i regali che hai desiderato\".",
+    "Sì, Danara mi ha offerto tutto ciò che desideravo. Grazie a lei!",
+    "Sono felice di poter aiutarti! \"Donara\" è un termine dialettale che significa \"regalo\". La frase \"E che Donara ti accattate tutte quelle che hai voluto\" può essere tradotta come \"Ecco i regali che hai desiderato\"."
+  ],
+  "wer": 0.727273,
+  "u_asr": 0.3458,
+  "wer_gt1": 0.727273
+}

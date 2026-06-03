@@ -1,0 +1,49 @@
+{
+  "transcription": "portava i bracchi e nulla galleggiava.",
+  "words": [
+    {
+      "word": "portava",
+      "start": 2.237,
+      "end": 2.619,
+      "confidence": 0.768
+    },
+    {
+      "word": "i",
+      "start": 2.659,
+      "end": 2.699,
+      "confidence": 0.563
+    },
+    {
+      "word": "bracchi",
+      "start": 2.759,
+      "end": 3.081,
+      "confidence": 0.643
+    },
+    {
+      "word": "e",
+      "start": 3.101,
+      "end": 3.121,
+      "confidence": 0.059
+    },
+    {
+      "word": "nulla",
+      "start": 3.221,
+      "end": 3.442,
+      "confidence": 0.902
+    },
+    {
+      "word": "galleggiava.",
+      "start": 3.502,
+      "end": 4.105,
+      "confidence": 0.486
+    }
+  ],
+  "top3": [
+    "portava i bracchi e nulla galleggiava.",
+    "portava i bracchi e nulla galleggiava.",
+    "portava i bracchi e nulla galleggiava."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5701666666666667,
+  "u_asr": 0.4298333333333333
+}

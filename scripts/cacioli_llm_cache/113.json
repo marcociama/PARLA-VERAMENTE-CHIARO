@@ -1,0 +1,29 @@
+{
+  "filename": "113",
+  "neapolitan_text": "Pe tutte ll'anne ca io songo stata a Napule, aggio cercato 'e tutt' 'e mmanere, ma quase sempe a vvacante, comm'avevo 'a fa' pe trasì int' 'a suggità secreta d''a ggente che parlano 'o Nnapulitano.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Per tutti gli anni che sono stata a Napoli, ho cercato in ogni modo, ma quasi sempre a vuoto, come dovevo fare per entrare nella società segreta della gente che parla il napoletano.",
+    "In tutti gli anni che ho trascorso a Napoli, ho provato in tutti i modi, ma quasi sempre invano, a capire come fare per accedere alla società segreta di chi parla napoletano.",
+    "Durante tutti gli anni in cui sono rimasta a Napoli, ho tentato in ogni maniera, sebbene quasi sempre inutilmente, di scoprire come entrare nella società segreta di coloro che parlano il napoletano."
+  ],
+  "inputs": [
+    "Per tutti gli anni che sono stata a Napoli, ho cercato in ogni modo, ma quasi sempre a vuoto, come dovevo fare per entrare nella società segreta della gente che parla il napoletano.",
+    "In tutti gli anni che ho trascorso a Napoli, ho provato in tutti i modi, ma quasi sempre invano, a capire come fare per accedere alla società segreta di chi parla napoletano.",
+    "Durante tutti gli anni in cui sono rimasta a Napoli, ho tentato in ogni maniera, sebbene quasi sempre inutilmente, di scoprire come entrare nella società segreta di coloro che parlano il napoletano.",
+    "Tutto l'anno che sono stato a Napoli, ho cercato tutte le maniere, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?",
+    "Per tutto l'anno che sono stato a Napoli, ho cercato di tutto in maniera, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?",
+    "Per tutto l'anno che sono stato a Napoli, ho cercato tutte le maniere, ma questa è sempre vacante. Come aveva fatto per trarsi in una società segreta da gente che parla napolitano?"
+  ],
+  "responses": [
+    "Sembra che stia cercando di entrare in una società segreta parlante il dialetto napoletano. Potrebbe cercare di socializzare con persone locali, frequentare eventi culturali o apprendere meglio il dialetto per avvicinarsi a questa comunità.",
+    "Sembra che la persona abbia avuto difficoltà a entrare nella società segreta dei parlanti napoletano. La lingua napoletana è una cultura ricca e complessa, potrebbe essere utile cercare di impararla con un maestro o studiandone la storia e le regole.",
+    "La ricerca della società segreta di Napoli è stata infructuosa perché probabilmente non esiste o è molto segreta. Il napoletano è una lingua e cultura ricca che può essere scoperta attraverso la pratica, l'amore e la curiosità verso la città e i suoi abitanti.",
+    "Sembra che stia cercando di entrare in una società segreta parlante napoletano a Napoli. Potrebbe cercare di imparare la lingua napoletana per avvicinarsi meglio alla comunità e aumentare le sue possibilità di entrare nella società segreta. Altrettanto importante è cercare di conoscere persone che siano coinvolte nella società, forse attraverso eventi o incontri culturali.",
+    "Sembra che stia cercando di entrare in un gruppo o società segreta a Napoli. Per farlo, potrebbe cercare di conoscere meglio la cultura e la lingua locale, il dialetto napoletano. Potrebbe anche cercare di stringere amicizie con persone che appartengono al gruppo o alla comunità in cui si trova interessato.",
+    "Sembra che stia cercando di entrare in una società segreta parlante napoletano a Napoli. Per poter farlo, potrebbe cercare di imparare la lingua napoletana e frequentare ambienti dove si parla questa lingua."
+  ],
+  "wer": 0.606061,
+  "u_asr": 0.27371,
+  "wer_gt1": 0.606061
+}

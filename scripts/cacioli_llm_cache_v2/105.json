@@ -1,0 +1,29 @@
+{
+  "filename": "105",
+  "neapolitan_text": "Soletamente, però, so' cchiammate accussí tutt' 'e dialette ca se parlano ô Sud cuntinentale (Campania, Abruzzo, Lucania, nord d'a Calavrea, nord d'a Puglia, Molise, sudd d\"o Lazzio e na pparte d\"e Marche) e parlate ca se ntenneno ll'une cu ll'ate e teneno cierte rréole símmele.",
+  "domain": "Blog",
+  "gt_variants": [
+    "Solitamente, però, sono chiamati così tutti i dialetti che si parlano nel Sud continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e una parte delle Marche) e parlate che si comprendono l'una con l'altra e hanno certe regole simili.",
+    "Di norma, tuttavia, vengono definiti in questo modo tutti i dialetti parlati nel Sud continentale (Campania, Abruzzo, Lucania, settentrione calabrese, settentrione pugliese, Molise, meridione laziale e una parte delle Marche) e idiomi che risultano mutuamente intelligibili e possiedono alcune regole comuni.",
+    "Solitamente, comunque, vengono così denominati tutti i dialetti parlati nel Meridione continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e parte delle Marche) e le parlate che si intendono tra loro e presentano determinate regole simili."
+  ],
+  "inputs": [
+    "Solitamente, però, sono chiamati così tutti i dialetti che si parlano nel Sud continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e una parte delle Marche) e parlate che si comprendono l'una con l'altra e hanno certe regole simili.",
+    "Di norma, tuttavia, vengono definiti in questo modo tutti i dialetti parlati nel Sud continentale (Campania, Abruzzo, Lucania, settentrione calabrese, settentrione pugliese, Molise, meridione laziale e una parte delle Marche) e idiomi che risultano mutuamente intelligibili e possiedono alcune regole comuni.",
+    "Solitamente, comunque, vengono così denominati tutti i dialetti parlati nel Meridione continentale (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e parte delle Marche) e le parlate che si intendono tra loro e presentano determinate regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili.",
+    "Solitamente però sono chiamato così tutti i dialetti che si parlano sul sud continentale, Campania, Abruzzo, Lucania, nord di Cavrea, nord di Puglia, Molise, sud di Lazio e nella parte di Barca. E parlate e sentendo l'uno con l'altro e tenendo certe regole simili."
+  ],
+  "responses": [
+    "La definizione generale riferita a tutti i dialetti parlati nel Sud continentale italiano, compresi Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e una parte delle Marche, è che sono mutuamente intelligibili e presentano regole similari.",
+    "La definizione generale include tutti i dialetti parlati nel Sud continentale italiano (Campania, Abruzzo, Lucania, settentrione calabrese, settentrione pugliese, Molise, meridione laziale e una parte delle Marche), che sono mutuamente intelligibili e condividono alcune regole comuni.",
+    "La definizione generale comprende tutti i dialetti parlati nel Meridione continentale italiano (Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e parte delle Marche), che si comprenderanno tra di loro e presenteranno regole simili.",
+    "La definizione generale riferita a tutti i dialetti parlati nel sud continentale italiano, compresi quelli della Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e nella parte di Barca, è che sono dialetti simili tra loro, poiché si parlano a vicenda e hanno regole comuni.",
+    "La definizione generale riferita a tutti i dialetti parlati nel sud continentale italiano, compresi quelli della Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e nella parte di Barca, è che sono dialetti simili tra loro, poiché si parlano a vicenda e hanno regole comuni.",
+    "La definizione generale riferita a tutti i dialetti parlati nel sud continentale italiano, compresi quelli della Campania, Abruzzo, Lucania, nord della Calabria, nord della Puglia, Molise, sud del Lazio e nella parte di Barca, è che sono dialetti simili tra loro, poiché si parlano a vicenda e hanno regole comuni."
+  ],
+  "wer": 0.422222,
+  "u_asr": 0.274159,
+  "wer_gt1": 0.422222
+}

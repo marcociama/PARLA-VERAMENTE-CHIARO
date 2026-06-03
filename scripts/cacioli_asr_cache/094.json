@@ -1,0 +1,55 @@
+{
+  "transcription": "Chi è il collega Nedle di Scarletta?",
+  "words": [
+    {
+      "word": "Chi",
+      "start": 0.151,
+      "end": 0.232,
+      "confidence": 0.562
+    },
+    {
+      "word": "è",
+      "start": 0.252,
+      "end": 0.272,
+      "confidence": 0.004
+    },
+    {
+      "word": "il",
+      "start": 0.292,
+      "end": 0.433,
+      "confidence": 0.624
+    },
+    {
+      "word": "collega",
+      "start": 0.473,
+      "end": 0.834,
+      "confidence": 0.835
+    },
+    {
+      "word": "Nedle",
+      "start": 0.975,
+      "end": 1.296,
+      "confidence": 0.67
+    },
+    {
+      "word": "di",
+      "start": 1.356,
+      "end": 1.397,
+      "confidence": 0.574
+    },
+    {
+      "word": "Scarletta?",
+      "start": 1.497,
+      "end": 2.2,
+      "confidence": 0.841
+    }
+  ],
+  "top3": [
+    "Chi è il collega Nedle di Scarletta?",
+    "che le collago nel letto di scarletta.",
+    "Chi è il collega Nedle di Scarletta?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.5871428571428571,
+  "u_asr": 0.4128571428571429
+}

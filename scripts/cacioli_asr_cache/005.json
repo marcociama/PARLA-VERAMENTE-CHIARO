@@ -1,0 +1,127 @@
+{
+  "transcription": "Ancora è a correre, ancora c'è il tuo sangue a capire come si campa e si procede a gallantovere.",
+  "words": [
+    {
+      "word": "Ancora",
+      "start": 0.259,
+      "end": 0.521,
+      "confidence": 0.859
+    },
+    {
+      "word": "è",
+      "start": 0.542,
+      "end": 0.562,
+      "confidence": 0.114
+    },
+    {
+      "word": "a",
+      "start": 0.622,
+      "end": 0.642,
+      "confidence": 0.887
+    },
+    {
+      "word": "correre,",
+      "start": 0.743,
+      "end": 1.247,
+      "confidence": 0.872
+    },
+    {
+      "word": "ancora",
+      "start": 1.671,
+      "end": 1.892,
+      "confidence": 0.882
+    },
+    {
+      "word": "c'è",
+      "start": 1.933,
+      "end": 2.013,
+      "confidence": 0.461
+    },
+    {
+      "word": "il",
+      "start": 2.074,
+      "end": 2.114,
+      "confidence": 0.084
+    },
+    {
+      "word": "tuo",
+      "start": 2.437,
+      "end": 2.497,
+      "confidence": 0.333
+    },
+    {
+      "word": "sangue",
+      "start": 2.638,
+      "end": 3.183,
+      "confidence": 0.725
+    },
+    {
+      "word": "a",
+      "start": 3.223,
+      "end": 3.263,
+      "confidence": 0.477
+    },
+    {
+      "word": "capire",
+      "start": 3.364,
+      "end": 3.667,
+      "confidence": 0.688
+    },
+    {
+      "word": "come",
+      "start": 3.687,
+      "end": 3.848,
+      "confidence": 0.497
+    },
+    {
+      "word": "si",
+      "start": 3.868,
+      "end": 3.949,
+      "confidence": 0.734
+    },
+    {
+      "word": "campa",
+      "start": 3.989,
+      "end": 4.493,
+      "confidence": 0.898
+    },
+    {
+      "word": "e",
+      "start": 4.755,
+      "end": 4.836,
+      "confidence": 0.634
+    },
+    {
+      "word": "si",
+      "start": 4.916,
+      "end": 4.997,
+      "confidence": 0.705
+    },
+    {
+      "word": "procede",
+      "start": 5.037,
+      "end": 5.4,
+      "confidence": 0.57
+    },
+    {
+      "word": "a",
+      "start": 5.421,
+      "end": 5.461,
+      "confidence": 0.401
+    },
+    {
+      "word": "gallantovere.",
+      "start": 5.541,
+      "end": 6.106,
+      "confidence": 0.501
+    }
+  ],
+  "top3": [
+    "Ancora è a correre, ancora c'è il tuo sangue a capire come si campa e si procede a gallantovere.",
+    "Ancora a correre, ancora a dare il tuo sangue, a capire come si campa e si procede a galantuolo.",
+    "Ancora è a correre, ancora c'è il tuo sangue a capire come si campa e si procede a gallantovere."
+  ],
+  "language": "it",
+  "mean_confidence": 0.5958947368421053,
+  "u_asr": 0.40410526315789475
+}

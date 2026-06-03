@@ -1,0 +1,29 @@
+{
+  "filename": "023",
+  "neapolitan_text": "A chella chi? .,. A chella chi?",
+  "domain": "Play",
+  "gt_variants": [
+    "A quella chi...a quella chi?",
+    "A chi, a quella? ... A chi, a quella?",
+    "A chi, quella? ... A chi, quella?"
+  ],
+  "inputs": [
+    "A quella chi...a quella chi?",
+    "A chi, a quella? ... A chi, a quella?",
+    "A chi, quella? ... A chi, quella?",
+    "A che le chi? A che le chi?",
+    "A che le chiedi? A che le chiedi?",
+    "A che l'acchi? A che l'acchi?"
+  ],
+  "responses": [
+    "\"A quella chi cosa?\", ossia \"Chi è a quella di chi?\"",
+    "Questa frase sembra essere una ripetizione di domande che cercano di chiedere a chi appartiene qualcosa o a chi è legata qualcosa. Tuttavia, non è specificato il \"quello\" o la \"quella\" a cui si riferiscono le domande. Per fornire una risposta precisa, sarebbe necessario conoscere meglio il contesto in cui sono state pronunciate queste frasi.",
+    "Questa frase sembra essere una ripetizione di domande che cercano di chiedere a chi appartiene qualcosa o chi è la persona a cui si riferisce. La risposta potrebbe essere: \"A chi appartiene quella cosa?\", oppure \"A chi si riferisce quella frase?\"",
+    "Le chieste sono domande.",
+    "Ti sembra che stai ripetendo una domanda. Potrebbe essere \"Cosa ti chiede?\" o \"Che cosa vuoi sapere?\"",
+    "L'espressione \"A che l'acchi?\" non ha un significato chiaro nella lingua italiana standard. Potrebbe essere una variante dialettale o un gioco di parole, ma senza contesto è difficile fornire una risposta precisa."
+  ],
+  "wer": 0.777778,
+  "u_asr": 0.339875,
+  "wer_gt1": 1.2
+}

@@ -1,0 +1,49 @@
+{
+  "transcription": "Voleisse, potesse, facesse. Erre tre fesse.",
+  "words": [
+    {
+      "word": "Voleisse,",
+      "start": 1.077,
+      "end": 1.7,
+      "confidence": 0.701
+    },
+    {
+      "word": "potesse,",
+      "start": 1.78,
+      "end": 2.323,
+      "confidence": 0.776
+    },
+    {
+      "word": "facesse.",
+      "start": 2.444,
+      "end": 3.128,
+      "confidence": 0.869
+    },
+    {
+      "word": "Erre",
+      "start": 3.349,
+      "end": 3.57,
+      "confidence": 0.637
+    },
+    {
+      "word": "tre",
+      "start": 3.631,
+      "end": 3.731,
+      "confidence": 0.819
+    },
+    {
+      "word": "fesse.",
+      "start": 3.812,
+      "end": 4.355,
+      "confidence": 0.771
+    }
+  ],
+  "top3": [
+    "Voleisse, potesse, facesse. Erre tre fesse.",
+    "volesse, potesse, facesse, era trefessa.",
+    "Voleisse, potesse, facesse. Erre tre fesse."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7621666666666668,
+  "u_asr": 0.23783333333333323
+}

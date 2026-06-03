@@ -1,0 +1,43 @@
+{
+  "transcription": "portava perne grosse come antica.",
+  "words": [
+    {
+      "word": "portava",
+      "start": 0.962,
+      "end": 1.225,
+      "confidence": 0.339
+    },
+    {
+      "word": "perne",
+      "start": 1.326,
+      "end": 1.588,
+      "confidence": 0.651
+    },
+    {
+      "word": "grosse",
+      "start": 1.628,
+      "end": 2.093,
+      "confidence": 0.786
+    },
+    {
+      "word": "come",
+      "start": 2.133,
+      "end": 2.375,
+      "confidence": 0.732
+    },
+    {
+      "word": "antica.",
+      "start": 2.416,
+      "end": 2.84,
+      "confidence": 0.826
+    }
+  ],
+  "top3": [
+    "portava perne grosse come antica.",
+    "portava perne grosse come antica.",
+    "portava perne grosse come antica."
+  ],
+  "language": "it",
+  "mean_confidence": 0.6668000000000001,
+  "u_asr": 0.33319999999999994
+}

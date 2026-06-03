@@ -1,0 +1,307 @@
+{
+  "transcription": "Questa idea non è la stessa per tutti i linguisti. Certo dicono che c'è tutta la differenza che c'è tra questi dialetti e poi il fatto che non c'è nessuna standardizzazione. Non si può parlare la lingua napolitana e parlano perché non continuano i dialetti italiani meridionali in terra.",
+  "words": [
+    {
+      "word": "Questa",
+      "start": 0.351,
+      "end": 0.611,
+      "confidence": 0.779
+    },
+    {
+      "word": "idea",
+      "start": 0.671,
+      "end": 1.051,
+      "confidence": 0.89
+    },
+    {
+      "word": "non",
+      "start": 1.131,
+      "end": 1.251,
+      "confidence": 0.808
+    },
+    {
+      "word": "è",
+      "start": 1.311,
+      "end": 1.371,
+      "confidence": 0.772
+    },
+    {
+      "word": "la",
+      "start": 1.391,
+      "end": 1.431,
+      "confidence": 0.18
+    },
+    {
+      "word": "stessa",
+      "start": 1.531,
+      "end": 2.032,
+      "confidence": 0.965
+    },
+    {
+      "word": "per",
+      "start": 2.112,
+      "end": 2.232,
+      "confidence": 0.795
+    },
+    {
+      "word": "tutti",
+      "start": 2.332,
+      "end": 2.632,
+      "confidence": 0.742
+    },
+    {
+      "word": "i",
+      "start": 2.672,
+      "end": 2.712,
+      "confidence": 0.704
+    },
+    {
+      "word": "linguisti.",
+      "start": 2.792,
+      "end": 3.512,
+      "confidence": 0.815
+    },
+    {
+      "word": "Certo",
+      "start": 4.112,
+      "end": 4.432,
+      "confidence": 0.962
+    },
+    {
+      "word": "dicono",
+      "start": 4.512,
+      "end": 5.073,
+      "confidence": 0.86
+    },
+    {
+      "word": "che",
+      "start": 5.673,
+      "end": 5.853,
+      "confidence": 0.517
+    },
+    {
+      "word": "c'è",
+      "start": 5.913,
+      "end": 6.033,
+      "confidence": 0.465
+    },
+    {
+      "word": "tutta",
+      "start": 6.193,
+      "end": 6.513,
+      "confidence": 0.854
+    },
+    {
+      "word": "la",
+      "start": 6.553,
+      "end": 6.593,
+      "confidence": 0.503
+    },
+    {
+      "word": "differenza",
+      "start": 6.633,
+      "end": 7.513,
+      "confidence": 0.932
+    },
+    {
+      "word": "che",
+      "start": 8.113,
+      "end": 8.213,
+      "confidence": 0.821
+    },
+    {
+      "word": "c'è",
+      "start": 8.273,
+      "end": 8.373,
+      "confidence": 0.653
+    },
+    {
+      "word": "tra",
+      "start": 8.534,
+      "end": 8.954,
+      "confidence": 0.847
+    },
+    {
+      "word": "questi",
+      "start": 9.034,
+      "end": 9.554,
+      "confidence": 0.684
+    },
+    {
+      "word": "dialetti",
+      "start": 9.614,
+      "end": 10.234,
+      "confidence": 0.892
+    },
+    {
+      "word": "e",
+      "start": 10.454,
+      "end": 10.514,
+      "confidence": 0.614
+    },
+    {
+      "word": "poi",
+      "start": 10.714,
+      "end": 10.914,
+      "confidence": 0.659
+    },
+    {
+      "word": "il",
+      "start": 10.934,
+      "end": 10.974,
+      "confidence": 0.012
+    },
+    {
+      "word": "fatto",
+      "start": 11.774,
+      "end": 12.155,
+      "confidence": 0.755
+    },
+    {
+      "word": "che",
+      "start": 12.215,
+      "end": 12.315,
+      "confidence": 0.665
+    },
+    {
+      "word": "non",
+      "start": 12.395,
+      "end": 12.515,
+      "confidence": 0.925
+    },
+    {
+      "word": "c'è",
+      "start": 12.555,
+      "end": 12.695,
+      "confidence": 0.484
+    },
+    {
+      "word": "nessuna",
+      "start": 13.275,
+      "end": 13.835,
+      "confidence": 0.746
+    },
+    {
+      "word": "standardizzazione.",
+      "start": 13.915,
+      "end": 15.156,
+      "confidence": 0.857
+    },
+    {
+      "word": "Non",
+      "start": 16.076,
+      "end": 16.176,
+      "confidence": 0.976
+    },
+    {
+      "word": "si",
+      "start": 16.256,
+      "end": 16.316,
+      "confidence": 0.826
+    },
+    {
+      "word": "può",
+      "start": 16.356,
+      "end": 16.476,
+      "confidence": 0.794
+    },
+    {
+      "word": "parlare",
+      "start": 16.596,
+      "end": 17.016,
+      "confidence": 0.86
+    },
+    {
+      "word": "la",
+      "start": 17.056,
+      "end": 17.116,
+      "confidence": 0.928
+    },
+    {
+      "word": "lingua",
+      "start": 17.176,
+      "end": 17.496,
+      "confidence": 0.785
+    },
+    {
+      "word": "napolitana",
+      "start": 17.576,
+      "end": 18.316,
+      "confidence": 0.886
+    },
+    {
+      "word": "e",
+      "start": 18.957,
+      "end": 19.017,
+      "confidence": 0.614
+    },
+    {
+      "word": "parlano",
+      "start": 19.177,
+      "end": 19.637,
+      "confidence": 0.928
+    },
+    {
+      "word": "perché",
+      "start": 19.677,
+      "end": 20.577,
+      "confidence": 0.89
+    },
+    {
+      "word": "non",
+      "start": 20.757,
+      "end": 20.877,
+      "confidence": 0.755
+    },
+    {
+      "word": "continuano",
+      "start": 20.937,
+      "end": 21.657,
+      "confidence": 0.808
+    },
+    {
+      "word": "i",
+      "start": 22.438,
+      "end": 22.498,
+      "confidence": 0.556
+    },
+    {
+      "word": "dialetti",
+      "start": 22.558,
+      "end": 23.078,
+      "confidence": 0.856
+    },
+    {
+      "word": "italiani",
+      "start": 23.118,
+      "end": 24.078,
+      "confidence": 0.899
+    },
+    {
+      "word": "meridionali",
+      "start": 24.878,
+      "end": 25.699,
+      "confidence": 0.782
+    },
+    {
+      "word": "in",
+      "start": 26.359,
+      "end": 26.459,
+      "confidence": 0.723
+    },
+    {
+      "word": "terra.",
+      "start": 26.519,
+      "end": 26.779,
+      "confidence": 0.511
+    }
+  ],
+  "top3": [
+    "Questa idea non è la stessa per tutti i linguisti. Certo dicono che c'è tutta la differenza che c'è tra questi dialetti e poi il fatto che non c'è nessuna standardizzazione. Non si può parlare la lingua napolitana e parlano perché non continuano i dialetti italiani meridionali in terra.",
+    "Questa idea non è la stessa per tutti i linguisti. Certo dicono che c'è tutta la differenza che c'è tra questi dialetti e poi il fatto che non c'è nessuna standardizzazione. Non si può parlare la lingua napolitana e parlano perché non continuano i dialetti italiani meridionali in terra.",
+    "Questa idea non è la stessa per tutti i linguisti. Certo dicono che c'è tutta la differenza che c'è tra questi dialetti e poi il fatto che non c'è nessuna standardizzazione. Non si può parlare la lingua napolitana e parlano perché non continuano i dialetti italiani meridionali in terra."
+  ],
+  "language": "it",
+  "mean_confidence": 0.7455918367346939,
+  "u_asr": 0.25440816326530613
+}

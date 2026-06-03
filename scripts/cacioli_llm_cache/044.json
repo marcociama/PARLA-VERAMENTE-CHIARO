@@ -1,0 +1,29 @@
+{
+  "filename": "044",
+  "neapolitan_text": "Ma pecché nun avev' 'a mangià, secondo voi?",
+  "domain": "Play",
+  "gt_variants": [
+    "Ma perché non dovevo mangiare, secondo voi?",
+    "E perché non dovevo mangiare, secondo voi?",
+    "Ma perché non dovevo nutrirmi, secondo voi?"
+  ],
+  "inputs": [
+    "Ma perché non dovevo mangiare, secondo voi?",
+    "E perché non dovevo mangiare, secondo voi?",
+    "Ma perché non dovevo nutrirmi, secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?",
+    "Ma perché non aveva mangiato secondo voi?"
+  ],
+  "responses": [
+    "Non sono io a decidere cosa mangiare o meno, è una scelta personale. Tuttavia, se hai domande su di dieti o alimentazione, potrei aiutarti a trovare informazioni sulla materia.",
+    "Non sono io a decidere cosa mangiare o meno, ma se hai domande su di dieti o alimentazione, potrei aiutarti a trovare informazioni sulla tua richiesta.",
+    "Non sono un essere umano e non posso nutrirmi, ma posso aiutarti a trovare informazioni su cibo e nutrizione.",
+    "Non ho fornito informazioni su una dieta specifica, quindi non posso dire se qualcuno ha mangiato secondo me o meno.",
+    "Non ho fornito informazioni su una dieta specifica, quindi non posso dire se qualcuno ha mangiato secondo me o meno.",
+    "Non ho fornito informazioni su una dieta specifica, quindi non posso dire se qualcuno ha mangiato secondo me o meno."
+  ],
+  "wer": 0.285714,
+  "u_asr": 0.260571,
+  "wer_gt1": 0.285714
+}

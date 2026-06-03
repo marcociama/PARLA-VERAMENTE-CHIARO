@@ -1,0 +1,29 @@
+{
+  "filename": "030",
+  "neapolitan_text": "Madonna... quanto me faie schifo!",
+  "domain": "Play",
+  "gt_variants": [
+    "Madonna... quanto mi fai schifo",
+    "Mamma mia... quanto mi fai schifo",
+    "Madonna... come mi fai schifo."
+  ],
+  "inputs": [
+    "Madonna... quanto mi fai schifo",
+    "Mamma mia... quanto mi fai schifo",
+    "Madonna... come mi fai schifo.",
+    "Marona, quando mi fai schifo.",
+    "Marron, quando mi fai schifo.",
+    "Marron, quando mi fai schifo."
+  ],
+  "responses": [
+    "La frase \"Madonna... quanto mi fai schifo\" significa \"Madonna, come ti faccio vergognare\".",
+    "La frase \"Mamma mia... quanto mi fai schifo\" esprime un sentimento di vergogna o imbarazzo molto forte.",
+    "L'affermazione \"Madonna... come mi fai schifo\" significa \"Madonna, ti odio\".",
+    "\"Marona, when you make me feel disgusted.\" (The phrase expresses a negative emotion towards someone named Marona.)",
+    "\"Marron\" significa \"brown\" in italiano. L'affermazione composta \"Marron, quando mi fai schifo\" potrebbe essere tradotta come \"Brown (qualcosa o qualcuno) mi fa imbarazzare.\"",
+    "\"Marron\" significa \"brown\" in italiano. L'affermazione composta \"Marron, quando mi fai schifo\" potrebbe essere tradotta come \"Brown (qualcosa o qualcuno) mi fa imbarazzare.\""
+  ],
+  "wer": 0.4,
+  "u_asr": 0.3126,
+  "wer_gt1": 0.6
+}

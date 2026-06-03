@@ -1,0 +1,29 @@
+{
+  "filename": "009",
+  "neapolitan_text": "T'aggio fatto 'a serva!",
+  "domain": "Play",
+  "gt_variants": [
+    "Ti ho fatto da serva",
+    "Ti ho fatto da schiava",
+    "Ti ho fatto da cameriera."
+  ],
+  "inputs": [
+    "Ti ho fatto da serva",
+    "Ti ho fatto da schiava",
+    "Ti ho fatto da cameriera.",
+    "Taggia fatta a servo.",
+    "Taggia fatta serva.",
+    "Taggia fatta serva."
+  ],
+  "responses": [
+    "Hai trattato me come un servo o come qualcuno inferiore.",
+    "Hai trattato o costretto a fare qualcosa come se fossi una schiava.",
+    "Hai assunto un ruolo di cameriera per me.",
+    "La taglia fatta a servo indica che la misura è stata adattata o personalizzata per un determinato individuo.",
+    "\"Taggia mantenuta sotto controllo\" o \"Taggia tenuta imprigionata\".",
+    "\"Taggia mantenuta sotto controllo\" o \"Taggia tenuta imprigionata\"."
+  ],
+  "wer": 1.0,
+  "u_asr": 0.4635,
+  "wer_gt1": 1.0
+}

@@ -1,0 +1,49 @@
+{
+  "transcription": "Oh bello Sanze, dove sei squagliata?",
+  "words": [
+    {
+      "word": "Oh",
+      "start": 0.54,
+      "end": 0.661,
+      "confidence": 0.483
+    },
+    {
+      "word": "bello",
+      "start": 0.721,
+      "end": 0.943,
+      "confidence": 0.727
+    },
+    {
+      "word": "Sanze,",
+      "start": 1.003,
+      "end": 1.506,
+      "confidence": 0.679
+    },
+    {
+      "word": "dove",
+      "start": 1.586,
+      "end": 1.767,
+      "confidence": 0.966
+    },
+    {
+      "word": "sei",
+      "start": 1.828,
+      "end": 1.928,
+      "confidence": 0.482
+    },
+    {
+      "word": "squagliata?",
+      "start": 1.989,
+      "end": 2.673,
+      "confidence": 0.795
+    }
+  ],
+  "top3": [
+    "Oh bello Sanze, dove sei squagliata?",
+    "Ho belle usanze dove si è squagliata.",
+    "Oh bello Sanze, dove sei squagliata?"
+  ],
+  "language": "it",
+  "mean_confidence": 0.6886666666666666,
+  "u_asr": 0.31133333333333335
+}
