@@ -10,7 +10,7 @@ The architecture implements the **1D Spectral Markov** method, capable of operat
 
 ---
 
-## System Architecture
+## 🛠️ System Architecture
 
 The framework is organised into four sequential macro-modules:
 
@@ -21,7 +21,7 @@ The framework is organised into four sequential macro-modules:
 
 ---
 
-## Quick Start
+## 🚀 Quick Start
 
 The project is configured to run entirely on local hardware — Apple Silicon (MPS acceleration) or NVIDIA GPU.
 
@@ -64,19 +64,19 @@ streamlit run daws/ui/app.py
 
 ---
 
-## Benchmark Results
+## 📊 Benchmark Results
 
 Validation on the PARLA CHIARO corpus ($N=50$, 29 balanced speakers, age 18–80+):
 
-| Method | GT at Runtime | WER$_{in}$ | WER$_{out}$ | BLEU$_{in}$ | BLEU$_{out}$ |
+| Method | GT at Runtime | WER<sub>in</sub> | WER<sub>out</sub> | BLEU<sub>in</sub> | BLEU<sub>out</sub> |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Inv-Entropy 768D** | Yes (Oracle) | $+0.521$ | $+0.379$ | $+0.516$ | $+0.403$ |
-| **1D Markov ORACLE** | Yes | $+0.459$ | $+0.428$ | $+0.600$ | $+0.561$ |
-| **1D Markov ONLINE** | No (TTA) | $+0.501$ | $+0.457$ | $+0.593$ | $+0.568$ |
+| **Inv-Entropy 768D** | Yes (Oracle) | **$+0.521$** | $+0.379$ | $+0.516$ | $+0.403$ |
+| **1D Markov ORACLE** | Yes | $+0.459$ | $+0.428$ | **$+0.600$** | $+0.561$ |
+| **1D Markov ONLINE** | No (TTA) | $+0.501$ | **$+0.457$** | $+0.593$ | **$+0.568$** |
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```plaintext
 parla_chiaro/
@@ -93,6 +93,6 @@ parla_chiaro/
 
 ---
 
-## Credits
+## 🎓 Credits
 
 Developed as an exam project for the Big Data 2026 course at the University of Naples Federico II — PICUS Lab / Microsoft LINGUA Open Call.
